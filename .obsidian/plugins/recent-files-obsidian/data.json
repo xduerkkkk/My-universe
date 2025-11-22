@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "pytorch环境",
+      "path": "2.知识库/24.工程实践/pytorch环境.md"
+    },
+    {
       "basename": "PEFT三部曲之（一）-1758334789440",
       "path": "image/PEFT三部曲之（一）-1758334789440.jpeg"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "漫步思考灵感",
       "path": "1.工作流/11.事件收集箱/漫步思考灵感.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/大纲.md"
-    },
-    {
-      "basename": "凸函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/凸函数.md"
     }
   ],
   "omittedPaths": [],

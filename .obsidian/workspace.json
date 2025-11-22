@@ -123,12 +123,14 @@
             "id": "e7a09baa01d25057",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/PEFT三部曲之（一）-1758334789440.jpeg"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "PEFT三部曲之（一）-1758334789440"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ],
@@ -215,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/PEFT三部曲之（一）-1758334789440.jpeg",
+                "file": "Readme.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PEFT三部曲之（一）-1758334789440 的大纲"
+              "title": "Readme 的大纲"
             }
           },
           {
@@ -328,8 +330,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "e7a09baa01d25057",
   "lastOpenFiles": [
+    "2.知识库/24.工程实践/pytorch环境.md",
+    "Readme.md",
+    "image/PEFT三部曲之（一）-1758334789440.jpeg",
     "新建 文本文档.txt",
     "image/ai知识体系-1759053653461.jpeg",
     "image/个人介绍-1757683747870.jpeg",
@@ -351,7 +356,6 @@
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
     "image/作业1线性模型-1759929670485.jpeg",
     "image/用固定分隔符切分字符串，并对切分出的片段进行统计-1757133882593.jpeg",
-    "image/显存占用-1757471703716.jpeg",
     "assets/image",
     "assets",
     "2.知识库/21.AI世界/01机器学习/非线性模型/K近邻.md",
@@ -368,14 +372,12 @@
     "2.知识库/21.AI世界/01机器学习/01大纲.md",
     "2.知识库/22.算法/代码随想录-算法题/图论/图论基础.md",
     "2.知识库/24.工程实践/Prompt大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/层次聚类",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/assets",
     "1.工作流/11.事件收集箱/assets",
-    "3.创造物/30.输出文章/AI/assets",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
