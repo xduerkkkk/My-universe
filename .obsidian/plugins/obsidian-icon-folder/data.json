@@ -1,0 +1,84 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiActivitySquare",
+      "LiAlbum",
+      "LiAlarmSmoke",
+      "LiAlarmClockPlus",
+      "LiAArrowUp"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "英语积累/2-24.md": "LiAArrowUp",
+  "英语积累/2-25.md": "LiAlarmClockCheck",
+  "英语积累/第一周/2-7.md": "LiAlarmClock",
+  "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md": "LiAArrowUp",
+  "1.工作流/10.日记文件": {
+    "iconName": "LiAlbum",
+    "iconColor": "#611a1a"
+  },
+  "1.工作流/10.日记文件/BedRock 0-50天总结.md": "LiAArrowUp",
+  "1.工作流/10.日记文件/01_25年下半年/25年8月/2025-8月第一周（含8.2,8.3共9天）-周报.md": "LiAward",
+  "1.工作流/10.日记文件/01_25年下半年/25年8月/2025-8月第三周周报.md": "LiAward",
+  "1.工作流/10.日记文件/01_25年下半年/25年8月/2025-8月第二周（8.11-8.17）-周报.md": "LiAward",
+  "1.工作流/10.日记文件/01_25年下半年/25年8月/2025-8月第四周周报.md": "LiAward",
+  "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第一周/1-26.md": "LiAlarmClock",
+  "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第三周/2-12.md": "LiAArrowUp",
+  "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第三周/2-14.md": "LiAlarmClockCheck",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md": "LiAlarmClockCheck",
+  "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md": "LiAlarmClockCheck",
+  "2.知识库/21.AI世界/02深度学习/激活函数.md": "LiAlarmClock",
+  "2.知识库/21.AI世界/04大模型/LLM学习记录": "LiAsterisk",
+  "2.知识库/21.AI世界/04大模型/LLM学习记录/学习阶段": "LiAlarmClockCheck",
+  "2.知识库/22.算法/MOOC.md": "LiActivity",
+  "2.知识库/22.算法/代码随想录-算法题/综合算法题": "LiActivity",
+  "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md": {
+    "iconName": "LiAlarmClockPlus",
+    "iconColor": "#04ecdd"
+  },
+  "0.核心/00.规划(Plan)/2.当前项目/408.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#cf3030"
+  },
+  "0.核心/00.规划(Plan)/3.未来探索/简历.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#a32424"
+  },
+  "0.核心/00.规划(Plan)/3.未来探索/求职规划.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#26b2c5"
+  },
+  "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md": "LiAlbum",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md": "LiAlbum",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md": "LiAArrowUp",
+  "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/对称矩阵.md": "LiAlertOctagon",
+  "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md": "LiAlertOctagon",
+  "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md": "LiAlertOctagon",
+  "2.知识库/21.AI世界/01机器学习/01大纲.md": "LiActivitySquare",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md": "LiAlarmClockPlus"
+}

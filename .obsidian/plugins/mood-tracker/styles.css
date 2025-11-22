@@ -1,0 +1,13 @@
+.mood-tracker-modal {
+    min-height: 400px;
+}
+
+.confirmation-modal {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.mood-tracker-notice-header {
+	font-weight: 900;
+}
