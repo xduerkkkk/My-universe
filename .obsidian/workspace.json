@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "730422aff27cacfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.不常用/唱歌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "唱歌"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
+                "file": "4.不常用/唱歌.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Readme 的大纲"
+              "title": "唱歌 的大纲"
             }
           },
           {
@@ -303,8 +317,19 @@
               "icon": "reading-glasses",
               "title": "学习新单词"
             }
+          },
+          {
+            "id": "8f15a4e20432a53c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -330,10 +355,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a09baa01d25057",
+  "active": "730422aff27cacfe",
   "lastOpenFiles": [
-    "2.知识库/24.工程实践/pytorch环境.md",
     "Readme.md",
+    "1.工作流/10.日记文件/2025-11-22 周六.md",
+    "2.知识库/24.工程实践/pytorch环境.md",
     "image/PEFT三部曲之（一）-1758334789440.jpeg",
     "新建 文本文档.txt",
     "image/ai知识体系-1759053653461.jpeg",
@@ -350,7 +376,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
-    "1.工作流/10.日记文件/2025-11-22 周六.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
