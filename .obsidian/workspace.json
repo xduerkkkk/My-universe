@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "ee7a154c95f140e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-11-24 周一"
-            }
-          },
-          {
             "id": "417d50a1288a1fa8",
             "type": "leaf",
             "pinned": true,
@@ -104,31 +88,33 @@
             }
           },
           {
-            "id": "612307026736d9e1",
+            "id": "ee7a154c95f140e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
+                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "翻译练习5-6周"
+              "title": "2025-11-24 周一"
             }
           },
           {
-            "id": "08fec64a31b4c500",
+            "id": "2a842a31fe0c0c40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "翻译练习3-4周"
+              "title": "贝叶斯的详细讲解"
             }
           }
         ],
@@ -215,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻译练习5-6周 的大纲"
+              "title": "贝叶斯的详细讲解 的大纲"
             }
           },
           {
@@ -255,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -265,7 +251,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "翻译练习5-6周 的反向链接列表"
+              "title": "贝叶斯的详细讲解 的反向链接列表"
             }
           },
           {
@@ -338,20 +324,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "612307026736d9e1",
+  "active": "2a842a31fe0c0c40",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+    "assets/image/贝叶斯的详细讲解-1763950777332.jpeg",
+    "assets/image/贝叶斯的详细讲解-1763950511368.jpeg",
+    "1.工作流/10.日记文件/2025-11-24 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
+    "1.工作流/10.日记文件/25年11月第三周周报.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/未命名.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/11.事件收集箱/看不懂分析箱.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "1.工作流/10.日记文件/2025-11-24 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "1.工作流/10.日记文件/2025-11-22 周六.md",
-    "1.工作流/10.日记文件/25年11月第三周周报.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
     "1.工作流/10.日记文件/2025-11-17 周一.md",
     "4.不常用/读书笔记/脑与意识/脑与意识.md",
@@ -374,12 +363,9 @@
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
     "image/作业1线性模型-1759929670485.jpeg",
-    "image/用固定分隔符切分字符串，并对切分出的片段进行统计-1757133882593.jpeg",
     "assets/image",
     "assets",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/K近邻.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/层次聚类",
