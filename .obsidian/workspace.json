@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
+                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "贝叶斯的详细讲解 的大纲"
+              "title": "2025-11-24 周一 的大纲"
             }
           },
           {
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
+                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "贝叶斯的详细讲解 的反向链接列表"
+              "title": "2025-11-24 周一 的反向链接列表"
             }
           },
           {
@@ -324,17 +324,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a842a31fe0c0c40",
+  "active": "ee7a154c95f140e2",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
+    "assets/image/贝叶斯的详细讲解-1763952581713.jpeg",
     "assets/image/贝叶斯的详细讲解-1763950777332.jpeg",
     "assets/image/贝叶斯的详细讲解-1763950511368.jpeg",
     "1.工作流/10.日记文件/2025-11-24 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-    "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
     "1.工作流/10.日记文件/25年11月第三周周报.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
@@ -356,13 +357,11 @@
     "image/代码训练收集箱-1757645069102.jpeg",
     "assets/image/AI对齐-1763782990327.jpeg",
     "assets/image/定义-1763783060986.jpeg",
-    "assets1/image/0000随便丢收集箱-1763467620050.jpeg",
     "assets1/transformer生成 (1.md",
     "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
-    "image/作业1线性模型-1759929670485.jpeg",
     "assets/image",
     "assets",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/assets",
