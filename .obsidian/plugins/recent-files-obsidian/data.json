@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "翻译练习5-6周",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md"
+    },
+    {
+      "basename": "翻译枢纽-主题分类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md"
+    },
+    {
+      "basename": "翻译练习3-4周",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md"
+    },
+    {
+      "basename": "翻译练习 1-2周",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/未命名.md"
+    },
+    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "看不懂分析箱",
+      "path": "1.工作流/11.事件收集箱/看不懂分析箱.md"
     },
     {
       "basename": "英语六级冲刺",
@@ -11,10 +35,6 @@
     {
       "basename": "2025-11-24 周一",
       "path": "1.工作流/10.日记文件/2025-11-24 周一.md"
-    },
-    {
-      "basename": "翻译练习3-4周",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md"
     },
     {
       "basename": "期末应试",
@@ -101,10 +121,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md"
     },
     {
-      "basename": "翻译练习 1-2周",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md"
-    },
-    {
       "basename": "AI对齐",
       "path": "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "图论基础",
       "path": "2.知识库/22.算法/代码随想录-算法题/图论/图论基础.md"
-    },
-    {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
-    },
-    {
-      "basename": "DSF题解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md"
-    },
-    {
-      "basename": "BFS题解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/BFS题解.md"
-    },
-    {
-      "basename": "DFS模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DFS模板.md"
     }
   ],
   "omittedPaths": [],
