@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "7fe4fb0289731fc6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-11-22 周六.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-11-22 周六"
-            }
-          },
-          {
-            "id": "a060c96318bce9c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "翻译练习3-4周"
-            }
-          },
-          {
             "id": "4caae3b41f82dd52",
             "type": "leaf",
             "pinned": true,
@@ -85,22 +53,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "期末应试"
-            }
-          },
-          {
-            "id": "d3d6c4d621292e77",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "阅读25年"
             }
           },
           {
@@ -120,37 +72,21 @@
             }
           },
           {
-            "id": "0bdf18c31b9ee920",
+            "id": "ee7a154c95f140e2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/25年11月第三周周报.md",
+                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "25年11月第三周周报"
-            }
-          },
-          {
-            "id": "1708fcf9da1f6503",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-                "bFile": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 0000随便丢收集箱"
+              "title": "2025-11-24 周一"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,8 +266,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -357,19 +292,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1708fcf9da1f6503",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
-    "1.工作流/10.日记文件/25年11月第三周周报.md",
+    "1.工作流/10.日记文件/2025-11-24 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "1.工作流/10.日记文件/2025-11-22 周六.md",
+    "1.工作流/10.日记文件/25年11月第三周周报.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-11-17 周一.md",
     "4.不常用/读书笔记/脑与意识/脑与意识.md",
     "4.不常用/11.随想文件/对计算机或ai技术的思考/背八股文为什么这么奇怪.md",
     "Readme.md",
     "4.不常用/唱歌.md",
-    "1.工作流/10.日记文件/2025-11-22 周六.md",
     "2.知识库/24.工程实践/pytorch环境.md",
     "image/PEFT三部曲之（一）-1758334789440.jpeg",
     "新建 文本文档.txt",
@@ -383,7 +320,6 @@
     "assets1/transformer生成 (1.md",
     "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
@@ -398,7 +334,6 @@
     "4.不常用/读书笔记/刻意练习/刻意练习.md",
     "1.工作流/11.事件收集箱/待办收集箱.md",
     "4.不常用/002个人信息/信息记录.md",
-    "4.不常用/002个人信息/康凯.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/层次聚类",
