@@ -102,9 +102,23 @@
               "icon": "lucide-file",
               "title": "2025-11-24 周一"
             }
+          },
+          {
+            "id": "d5316f0b565657f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "贝叶斯的详细讲解"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0000随便丢收集箱 的大纲"
+              "title": "贝叶斯的详细讲解 的大纲"
             }
           },
           {
@@ -227,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "file": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +251,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "0000随便丢收集箱 的反向链接列表"
+              "title": "贝叶斯的详细讲解 的反向链接列表"
             }
           },
           {
@@ -310,27 +324,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa1f673e7d82b242",
+  "active": "d5316f0b565657f8",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-11-24 周一.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/OS规划.md",
     "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/未命名看板.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/例子解读.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "assets/image/例子解读-1763974804897.jpeg",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "assets/image/定义-1763973644169.jpeg",
     "assets/image/定义-1763973555803.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "assets/image/贝叶斯的详细讲解-1763952581713.jpeg",
     "assets/image/贝叶斯的详细讲解-1763950777332.jpeg",
     "assets/image/贝叶斯的详细讲解-1763950511368.jpeg",
     "1.工作流/10.日记文件/25年11月第三周周报.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/未命名.md",
