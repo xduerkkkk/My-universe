@@ -134,9 +134,23 @@
               "icon": "lucide-file",
               "title": "25年11月第三周周报"
             }
+          },
+          {
+            "id": "1708fcf9da1f6503",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "bFile": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 0000随便丢收集箱"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -343,8 +357,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa1f673e7d82b242",
+  "active": "1708fcf9da1f6503",
   "lastOpenFiles": [
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年.md",
     "1.工作流/10.日记文件/25年11月第三周周报.md",
@@ -370,7 +385,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
     "image/作业1线性模型-1759929670485.jpeg",
