@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompt大全",
+      "path": "2.知识库/24.工程实践/Prompt大全.md"
+    },
+    {
       "basename": "2025-11-25 周二",
       "path": "1.工作流/10.日记文件/2025-11-25 周二.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "显存占用-1757471703716",
       "path": "image/显存占用-1757471703716.jpeg"
-    },
-    {
-      "basename": "为什么需要Transformer：从“词”的编码到“序列”的革命-1758249507390",
-      "path": "image/为什么需要Transformer：从“词”的编码到“序列”的革命-1758249507390.jpeg"
     }
   ],
   "omittedPaths": [],
