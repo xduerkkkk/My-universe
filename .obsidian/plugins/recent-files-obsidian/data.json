@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "写作真题训练",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
     },
     {
-      "basename": "写作模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md"
+      "basename": "阅读25年2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md"
     },
     {
-      "basename": "DSF题解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md"
-    },
-    {
-      "basename": "写作优化",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md"
+      "basename": "OS规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/OS规划.md"
     },
     {
       "basename": "2025-11-25 周二",
       "path": "1.工作流/10.日记文件/2025-11-25 周二.md"
     },
     {
-      "basename": "阅读25年2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md"
+      "basename": "DSF题解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md"
+    },
+    {
+      "basename": "写作模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md"
+    },
+    {
+      "basename": "写作真题训练",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md"
+    },
+    {
+      "basename": "写作优化",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md"
     },
     {
       "basename": "定义",
@@ -137,10 +145,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/随机变量及其分布/随机变量的分布函数.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
-    },
-    {
       "basename": "自我镜像投射",
       "path": "4.不常用/11.随想文件/人际关系认知/亲密关系/自我镜像投射.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "内求于外求的平衡",
       "path": "4.不常用/11.随想文件/人际关系认知/内求于外求的平衡.md"
-    },
-    {
-      "basename": "人际关系的体系",
-      "path": "4.不常用/11.随想文件/人际关系认知/人际关系的体系.md"
     }
   ],
   "omittedPaths": [],
