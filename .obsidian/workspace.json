@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+                "file": "1.工作流/10.日记文件/2025-11-25 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末应试 的大纲"
+              "title": "2025-11-25 周二 的大纲"
             }
           },
           {
@@ -340,11 +340,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b82f49961ad312be",
+  "active": "ad507d1bd8b87f28",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/OS规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "1.工作流/10.日记文件/2025-11-25 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
