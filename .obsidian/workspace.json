@@ -131,8 +131,7 @@
               "title": "泛化误差的分解"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-24 周一.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-24 周一 的大纲"
+              "title": "英语六级冲刺 的大纲"
             }
           },
           {
@@ -338,8 +337,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee7a154c95f140e2",
+  "active": "aec651c6f8445099",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-11-24 周一.md",
     "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/机器学习世界观/偏差-方差权衡/泛化误差的分解.md",
     "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
     "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型评估/参数调优.md",
@@ -349,7 +349,6 @@
     "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型评估/P-R曲线.md",
     "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型评估/其他/数据集划分.md",
     "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型评估/其他/评估指标.md",
-    "1.工作流/10.日记文件/2025-11-24 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
