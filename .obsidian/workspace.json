@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md",
+                "file": "1.工作流/10.日记文件/2025-11-25 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DSF题解 的大纲"
+              "title": "2025-11-25 周二 的大纲"
             }
           },
           {
@@ -340,10 +340,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbf1a207d0b39bc2",
+  "active": "ad507d1bd8b87f28",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-11-25 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/图论/DSF题解.md",
+    "1.工作流/10.日记文件/2025-11-25 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/随机变量及其分布/连续性随机变量及其概率.md",
