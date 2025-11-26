@@ -150,35 +150,21 @@
             }
           },
           {
-            "id": "908b49939ce70ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bedrock后半程"
-            }
-          },
-          {
             "id": "48a13b0135d21772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/01大纲.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01大纲"
+              "title": "视频勘察"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
+                "file": "1.工作流/10.日记文件/2025-11-26 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我的规划 的大纲"
+              "title": "2025-11-26 周三 的大纲"
             }
           },
           {
@@ -384,16 +370,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d1372673fe1eace",
+  "active": "8082cb7342f89a99",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
-    "2.知识库/21.AI世界/01机器学习/01大纲.md",
-    "1.工作流/10.日记文件/2025-11-26 周三.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md",
+    "2.知识库/21.AI世界/01机器学习/01大纲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "2.知识库/24.工程实践/Prompt大全.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "1.工作流/10.日记文件/2025-11-26 周三.md",
+    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
@@ -401,8 +390,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/视频初步勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/TCP协议/流量控制.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/书籍3.1&3.2定义、子空间.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
@@ -411,7 +398,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
     "assets/image/期末应试-1764078782929.jpeg",
