@@ -136,20 +136,6 @@
             }
           },
           {
-            "id": "6488842c3817f027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "我的bedrock"
-            }
-          },
-          {
             "id": "5d1372673fe1eace",
             "type": "leaf",
             "state": {
@@ -175,6 +161,20 @@
               },
               "icon": "lucide-file",
               "title": "bedrock后半程"
+            }
+          },
+          {
+            "id": "48a13b0135d21772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/01大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01大纲"
             }
           }
         ],
@@ -261,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我的bedrock 的大纲"
+              "title": "我的规划 的大纲"
             }
           },
           {
@@ -384,15 +384,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6488842c3817f027",
+  "active": "5d1372673fe1eace",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
+    "2.知识库/21.AI世界/01机器学习/01大纲.md",
+    "1.工作流/10.日记文件/2025-11-26 周三.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
     "2.知识库/24.工程实践/Prompt大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-    "1.工作流/10.日记文件/2025-11-26 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
@@ -410,8 +412,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
-    "1.工作流/10.日记文件/25年11月第二周周报（bedrock57 11.10 - 11.16).md",
-    "1.工作流/10.日记文件/25年11月第一周周报（bedrock50 11.3 - 11.9).md",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
     "assets/image/期末应试-1764078782929.jpeg",
