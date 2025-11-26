@@ -120,35 +120,21 @@
             }
           },
           {
-            "id": "3886dcccd43529a7",
+            "id": "31277510f303df50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+                "file": "1.工作流/11.事件收集箱/技术收集箱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的bedrock"
-            }
-          },
-          {
-            "id": "da950fa75c8610d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "英语方法"
+              "title": "技术收集箱"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,16 +178,6 @@
             }
           },
           {
-            "id": "c3cf8f1f2bc245a3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
             "id": "16a26b16d669b966",
             "type": "leaf",
             "state": {
@@ -209,6 +185,16 @@
               "state": {},
               "icon": "book",
               "title": "查词面板"
+            }
+          },
+          {
+            "id": "c3cf8f1f2bc245a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -231,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+                "file": "1.工作流/11.事件收集箱/技术收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "阅读25年2 的大纲"
+              "title": "技术收集箱 的大纲"
             }
           },
           {
@@ -354,9 +340,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c5734ac248d371a",
+  "active": "31277510f303df50",
   "lastOpenFiles": [
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2025-11-26 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
@@ -364,18 +355,13 @@
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
-    "1.工作流/10.日记文件/2025-11-26 周三.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的序言.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "1.工作流/10.日记文件/2025-11-25 周二.md",
     "1.工作流/10.日记文件/2025-11-24 周一.md",
     "1.工作流/10.日记文件/25年11月/2025-11-17 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/同步与互斥.md",
     "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
     "assets/image/期末应试-1764079138060.jpeg",
