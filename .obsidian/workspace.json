@@ -120,65 +120,51 @@
             }
           },
           {
-            "id": "4c5fa631e06dd7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "视频勘察"
-            }
-          },
-          {
-            "id": "3d720ccedea3cc2c",
+            "id": "bb3d9c160b89c2f8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+                "file": "2.知识库/24.工程实践/Prompt大全.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "我的bedrock"
+              "title": "Prompt大全"
             }
           },
           {
-            "id": "5e2473688956cf00",
+            "id": "6488842c3817f027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
+                "file": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的规划"
+              "title": "25年11月第三周周报（bedrock64 11.17-23）"
             }
           },
           {
-            "id": "bb3d9c160b89c2f8",
+            "id": "ca2e8375adc5ce97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/25年11月第一周周报（11.3 - 11.9).md",
+                "file": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25年11月第一周周报（11.3 - 11.9)"
+              "title": "对Attention机制的深度可视化解剖"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -261,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/25年11月第一周周报（11.3 - 11.9).md",
+                "file": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25年11月第一周周报（11.3 - 11.9) 的大纲"
+              "title": "对Attention机制的深度可视化解剖 的大纲"
             }
           },
           {
@@ -384,34 +370,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb3d9c160b89c2f8",
+  "active": "ca2e8375adc5ce97",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/25年11月第三周周报.md",
-    "1.工作流/10.日记文件/25年11月第二周周报（11.10 - 11.16).md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/视频初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/TCP协议/流量控制.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/书籍3.1&3.2定义、子空间.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/等价无穷小.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
+    "2.知识库/24.工程实践/Prompt大全.md",
+    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
+    "1.工作流/10.日记文件/25年11月第二周周报（bedrock57 11.10 - 11.16).md",
+    "1.工作流/10.日记文件/25年11月第一周周报（bedrock50 11.3 - 11.9).md",
+    "1.工作流/10.日记文件/25年10月/25年10月第五周周总（bedrock 42 10.27-11.1）.md",
+    "1.工作流/10.日记文件/25年10月/25年10月第四周周报（10.20-10.26).md",
     "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "0.核心/00.规划(Plan)/2.当前项目/408.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md",
-    "0.核心/01.学习操作系统My_OS/0.学习理念/弹性原则.md",
-    "0.核心/01.学习操作系统My_OS/0.学习理念/框架先行，细节填充.md",
-    "0.核心/01.学习操作系统My_OS/1.心智模型/知行和一.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/吃饭.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/衣服.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/身体OS.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/掌握的标准.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "1.工作流/10.日记文件/25年11月/2025-11-17 周一.md",
+    "1.工作流/10.日记文件/25年11月/2025-11-10 周一.md",
+    "1.工作流/10.日记文件/25年11月/2025-11-03 周一.md",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
     "assets/image/期末应试-1764078782929.jpeg",
