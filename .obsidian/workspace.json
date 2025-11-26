@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频勘察"
+              "title": "00.视频勘察"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO接口.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO接口"
+              "title": "IO控制方式"
             }
           }
         ],
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO接口.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IO接口 的大纲"
+              "title": "IO控制方式 的大纲"
             }
           },
           {
@@ -372,12 +372,13 @@
   },
   "active": "cb2d4180ddd3e67e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
     "1.工作流/10.日记文件/2025-11-26 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO接口.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md",
     "2.知识库/21.AI世界/01机器学习/01大纲.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
@@ -397,7 +398,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/等价无穷小.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
     "assets/image/期末应试-1764078782929.jpeg",

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "IO接口",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO接口.md"
+      "basename": "IO控制方式",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
     },
     {
       "basename": "2025-11-26 周三",
       "path": "1.工作流/10.日记文件/2025-11-26 周三.md"
-    },
-    {
-      "basename": "视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md"
     },
     {
       "basename": "我的规划",
@@ -19,10 +27,6 @@
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "对齐书籍",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md"
     },
     {
       "basename": "题目",
@@ -195,10 +199,6 @@
     {
       "basename": "能量匹配策略",
       "path": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md"
-    },
-    {
-      "basename": "精力管理",
-      "path": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md"
     }
   ],
   "omittedPaths": [],
