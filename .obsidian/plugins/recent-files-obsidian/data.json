@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "我的bedrock",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
+    },
+    {
+      "basename": "Prompt大全",
+      "path": "2.知识库/24.工程实践/Prompt大全.md"
+    },
+    {
+      "basename": "我的规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md"
+    },
+    {
+      "basename": "翻译枢纽-主题分类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md"
+    },
+    {
+      "basename": "2025-11-26 周三",
+      "path": "1.工作流/10.日记文件/2025-11-26 周三.md"
+    },
+    {
+      "basename": "阅读25年2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md"
+    },
+    {
+      "basename": "25年11月第三周周报（bedrock64 11.17-23）",
+      "path": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md"
+    },
+    {
       "basename": "对Attention机制的深度可视化解剖",
       "path": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md"
     },
@@ -65,14 +93,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
     },
     {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
-    },
-    {
-      "basename": "25年11月第三周周报（bedrock64 11.17-23）",
-      "path": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md"
-    },
-    {
       "basename": "25年11月第二周周报（bedrock57 11.10 - 11.16)",
       "path": "1.工作流/10.日记文件/25年11月第二周周报（bedrock57 11.10 - 11.16).md"
     },
@@ -87,14 +107,6 @@
     {
       "basename": "25年10月第四周周报（10.20-10.26)",
       "path": "1.工作流/10.日记文件/25年10月/25年10月第四周周报（10.20-10.26).md"
-    },
-    {
-      "basename": "我的规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md"
-    },
-    {
-      "basename": "我的bedrock",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
     },
     {
       "basename": "2025-11-17 周一",
@@ -187,18 +199,6 @@
     {
       "basename": "碰到困难",
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md"
-    },
-    {
-      "basename": "搜集资料、文献，以及阅读方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md"
-    },
-    {
-      "basename": "学习方法（bedrock期间）",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md"
-    },
-    {
-      "basename": "理解知识",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md"
     }
   ],
   "omittedPaths": [],
