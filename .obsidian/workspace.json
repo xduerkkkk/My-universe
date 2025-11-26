@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25年11月第三周周报（bedrock64 11.17-23）"
+              "title": "我的bedrock"
             }
           },
           {
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -261,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "bedrock后半程 的大纲"
+              "title": "我的bedrock 的大纲"
             }
           },
           {
@@ -384,16 +384,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "908b49939ce70ad6",
+  "active": "6488842c3817f027",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
-    "2.知识库/24.工程实践/Prompt大全.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md",
+    "2.知识库/24.工程实践/Prompt大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "1.工作流/10.日记文件/2025-11-26 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
-    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
     "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md",

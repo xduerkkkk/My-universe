@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "bedrock后半程",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
-    },
-    {
       "basename": "我的bedrock",
       "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
     },
     {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
+    },
+    {
+      "basename": "25年11月第三周周报（bedrock64 11.17-23）",
+      "path": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md"
     },
     {
       "basename": "我的规划",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/我的规划.md"
+    },
+    {
+      "basename": "Prompt大全",
+      "path": "2.知识库/24.工程实践/Prompt大全.md"
     },
     {
       "basename": "翻译枢纽-主题分类",
@@ -27,10 +31,6 @@
     {
       "basename": "阅读25年2",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md"
-    },
-    {
-      "basename": "25年11月第三周周报（bedrock64 11.17-23）",
-      "path": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md"
     },
     {
       "basename": "对Attention机制的深度可视化解剖",
