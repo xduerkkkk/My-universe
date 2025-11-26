@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-26 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-26 周三 的大纲"
+              "title": "视频勘察 的大纲"
             }
           },
           {
@@ -340,11 +340,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8082cb7342f89a99",
+  "active": "4c5fa631e06dd7a2",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-11-26 周三.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/视频勘察.md",
-    "1.工作流/10.日记文件/2025-11-26 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/对齐书籍.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md",
