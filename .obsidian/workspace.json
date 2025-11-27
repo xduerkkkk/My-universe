@@ -74,7 +74,6 @@
           {
             "id": "a243690a9ce79ada",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +81,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-11-27 周四"
             }
@@ -148,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性回归基础 的大纲"
+              "title": "期末应试 的大纲"
             }
           },
           {
@@ -354,8 +352,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0a97e58943b826a",
+  "active": "b82f49961ad312be",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-11-27 周四.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/广义线性判别分析/核心.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
@@ -371,7 +371,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
-    "1.工作流/10.日记文件/2025-11-27 周四.md",
     "2.知识库/24.工程实践/Prompt大全.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "1.工作流/10.日记文件/2025-11-26 周三.md",
@@ -383,7 +382,6 @@
     "assets/image/markov-1764161825935.jpeg",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/贝叶斯网络.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
     "assets/image/期末应试-1764078782929.jpeg",
