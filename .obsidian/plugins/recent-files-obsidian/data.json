@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "tran-归一化",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/tran-归一化.md"
+    },
+    {
+      "basename": "attention",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/attention.md"
+    },
+    {
+      "basename": "RoPE",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md"
+    },
+    {
+      "basename": "transf架构",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/transf架构.md"
+    },
+    {
+      "basename": "transf的背景",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/transf的背景.md"
+    },
+    {
       "basename": "贝叶斯的详细讲解",
       "path": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "单调性",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md"
-    },
-    {
-      "basename": "微分的定义",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
-    },
-    {
-      "basename": "25年11月第二周周报（bedrock57 11.10 - 11.16)",
-      "path": "1.工作流/10.日记文件/25年11月第二周周报（bedrock57 11.10 - 11.16).md"
-    },
-    {
-      "basename": "25年11月第一周周报（bedrock50 11.3 - 11.9)",
-      "path": "1.工作流/10.日记文件/25年11月第一周周报（bedrock50 11.3 - 11.9).md"
-    },
-    {
-      "basename": "25年10月第五周周总（bedrock 42 10.27-11.1）",
-      "path": "1.工作流/10.日记文件/25年10月/25年10月第五周周总（bedrock 42 10.27-11.1）.md"
-    },
-    {
-      "basename": "25年10月第四周周报（10.20-10.26)",
-      "path": "1.工作流/10.日记文件/25年10月/25年10月第四周周报（10.20-10.26).md"
     }
   ],
   "omittedPaths": [],
