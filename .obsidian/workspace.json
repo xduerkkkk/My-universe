@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
                 "mode": "source",
                 "source": false
               },
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -342,6 +342,8 @@
   },
   "active": "fdb59b0eb8135279",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
@@ -367,8 +369,6 @@
     "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
     "2.知识库/21.AI世界/04大模型/Transformer专项/tran-归一化.md",
-    "2.知识库/21.AI世界/04大模型/Transformer专项/attention.md",
-    "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md",
     "assets/image/markov例子解读-1764163147834.jpeg",
     "assets/image/markov-1764161825935.jpeg",
     "assets/image/期末应试-1764079138060.jpeg",
