@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-28 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-28 周五 的大纲"
+              "title": "张宇基础30讲 的大纲"
             }
           },
           {
@@ -354,11 +354,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf98974dccc1e747",
+  "active": "56750ae2e292bb0c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲.md",
+    "assets/image/张宇基础30讲-1764333176136.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "1.工作流/10.日记文件/2025-11-28 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 1-2周.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
@@ -391,7 +392,6 @@
     "1.工作流/10.日记文件/2025-11-27 周四.md",
     "assets/image/期末应试-1764255802649.jpeg",
     "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/广义线性判别分析/核心.md",
     "assets/image/markov例子解读-1764163147834.jpeg",
     "assets/image/markov-1764161825935.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/未命名",
