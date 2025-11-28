@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+                "file": "1.工作流/10.日记文件/2025-11-28 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍对齐 的大纲"
+              "title": "2025-11-28 周五 的大纲"
             }
           },
           {
@@ -340,10 +340,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb59b0eb8135279",
+  "active": "cf98974dccc1e747",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+    "assets/image/书籍对齐-1764302317496.jpeg",
+    "assets/image/书籍对齐-1764301714399.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
@@ -368,7 +371,6 @@
     "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
     "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
-    "2.知识库/21.AI世界/04大模型/Transformer专项/tran-归一化.md",
     "assets/image/markov例子解读-1764163147834.jpeg",
     "assets/image/markov-1764161825935.jpeg",
     "assets/image/期末应试-1764079138060.jpeg",
@@ -376,8 +378,6 @@
     "assets/image/期末应试-1764078782929.jpeg",
     "assets/image/期末应试-1764078769586.jpeg",
     "assets/image/期末应试-1764078000606.jpeg",
-    "assets/image/阅读25年2-1764033421341.jpeg",
-    "assets/image/阅读25年2-1764033405726.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/未命名",
     "新建 文本文档.txt",
     "assets/image",
@@ -387,7 +387,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/层次聚类",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/assets",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
