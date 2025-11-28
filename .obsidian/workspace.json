@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "对Attention机制的深度可视化解剖 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -366,10 +366,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a243690a9ce79ada",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/transformer/Transformer架构：组装我们的零件.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md",
+    "3.创造物/30.输出文章/transformer/Transformer架构：组装我们的零件.md",
     "1.工作流/10.日记文件/2025-11-27 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "assets/image/期末应试-1764255802649.jpeg",
@@ -391,11 +393,9 @@
     "2.知识库/24.工程实践/Prompt大全.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "1.工作流/10.日记文件/2025-11-26 周三.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/markov例子解读.md",
     "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/markov.md",
     "assets/image/markov例子解读-1764163147834.jpeg",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/贝叶斯例子解读.md",
     "assets/image/markov-1764161825935.jpeg",
     "assets/image/期末应试-1764079138060.jpeg",
     "assets/image/期末应试-1764078861124.jpeg",
