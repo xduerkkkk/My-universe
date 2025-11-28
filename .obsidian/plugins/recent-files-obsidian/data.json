@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/transformer/Transformer架构：组装我们的零件.md"
+    },
+    {
       "basename": "2025-11-27 周四",
       "path": "1.工作流/10.日记文件/2025-11-27 周四.md"
     },
@@ -169,10 +177,6 @@
       "path": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md"
     },
     {
-      "basename": "对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/transformer/对Attention机制的深度可视化解剖.md"
-    },
-    {
       "basename": "关于“极限”的直觉重塑",
       "path": "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "视频勘察",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md"
-    },
-    {
-      "basename": "函数的连续性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
     }
   ],
   "omittedPaths": [],
