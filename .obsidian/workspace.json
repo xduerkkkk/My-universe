@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-29 周六.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-29 周六 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -326,10 +326,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a996fa1658d93461",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
     "1.工作流/10.日记文件/2025-11-29 周六.md",
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
     "1.工作流/10.日记文件/2025-11-28 周五.md",
     "1.工作流/10.日记文件/2025-11-27 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计组/计算机系统概述/ch1计算机硬件构成.md",
