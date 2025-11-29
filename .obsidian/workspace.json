@@ -104,19 +104,19 @@
             }
           },
           {
-            "id": "cf98974dccc1e747",
+            "id": "a996fa1658d93461",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-28 周五.md",
+                "file": "1.工作流/10.日记文件/2025-11-29 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-11-28 周五"
+              "title": "2025-11-29 周六"
             }
           }
         ],
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-11-28 周五.md",
+                "file": "1.工作流/10.日记文件/2025-11-29 周六.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-28 周五 的大纲"
+              "title": "2025-11-29 周六 的大纲"
             }
           },
           {
@@ -326,8 +326,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf98974dccc1e747",
+  "active": "a996fa1658d93461",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
+    "1.工作流/10.日记文件/2025-11-29 周六.md",
+    "1.工作流/10.日记文件/2025-11-28 周五.md",
+    "1.工作流/10.日记文件/2025-11-27 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计组/计算机系统概述/ch1计算机硬件构成.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "assets/image/期末应试-1764335646700.jpeg",
@@ -338,7 +342,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md",
-    "1.工作流/10.日记文件/2025-11-28 周五.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/函数--张宇基础30讲.md",
     "assets/image/张宇基础30讲-1764334102618.jpeg",
@@ -364,8 +367,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/等价无穷小.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
-    "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/未命名",
     "新建 文本文档.txt",
     "assets/image",
