@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/王道题.md"
+    },
+    {
       "basename": "书籍初步勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md"
     },
     {
-      "basename": "1数据链路层功能",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/1数据链路层功能.md"
+      "basename": "主体",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/主体.md"
     },
     {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/王道题.md"
+      "basename": "CSMA协议",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/CSMA协议.md"
     },
     {
       "basename": "2025-11-29 周六",
       "path": "1.工作流/10.日记文件/2025-11-29 周六.md"
     },
     {
-      "basename": "视频初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/视频初步勘察.md"
+      "basename": "1数据链路层功能",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/1数据链路层功能.md"
     },
     {
-      "basename": "主体",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/主体.md"
+      "basename": "视频初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/视频初步勘察.md"
     },
     {
       "basename": "期末应试",
@@ -195,10 +199,6 @@
     {
       "basename": "transf的背景",
       "path": "2.知识库/21.AI世界/04大模型/Transformer专项/transf的背景.md"
-    },
-    {
-      "basename": "贝叶斯的详细讲解",
-      "path": "3.创造物/30.输出文章/AI/贝叶斯的详细讲解.md"
     }
   ],
   "omittedPaths": [],
