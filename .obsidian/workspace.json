@@ -134,35 +134,37 @@
             }
           },
           {
-            "id": "c6990f6c2e02be3b",
+            "id": "45b2f0c4a6e34349",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+                "file": "1.工作流/10.日记文件/25年11月第四周周报（bedrock71 11.24-11.30）.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "期末应试"
+              "title": "25年11月第四周周报（bedrock71 11.24-11.30）"
             }
           },
           {
-            "id": "c2554ec9141a2cc6",
+            "id": "98331646c3e73fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+                "file": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末应试"
+              "title": "25年11月第三周周报（bedrock64 11.17-23）"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -245,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+                "file": "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末应试 的大纲"
+              "title": "25年11月第三周周报（bedrock64 11.17-23） 的大纲"
             }
           },
           {
@@ -368,10 +370,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdeda0afc3025041",
+  "active": "98331646c3e73fad",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+    "1.工作流/10.日记文件/25年11月第四周周报（bedrock71 11.24-11.30）.md",
+    "1.工作流/10.日记文件/25年11月第三周周报（bedrock64 11.17-23）.md",
+    "1.工作流/10.日记文件/25年11月第二周周报（bedrock57 11.10 - 11.16).md",
+    "1.工作流/10.日记文件/2025-11-24 周一.md",
+    "1.工作流/10.日记文件/2025-11-29 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "assets/image/期末应试-1764507385167.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md",
     "assets/image/期末应试-1764507093469.jpeg",
@@ -386,7 +393,6 @@
     "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
     "4.不常用/杂文/中党培训1.md",
-    "1.工作流/10.日记文件/2025-11-29 周六.md",
     "1.工作流/10.日记文件/2025-11-28 周五.md",
     "assets/image/00-整个考研-1764490125049.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md",
@@ -402,11 +408,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/等价无穷小.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets",
