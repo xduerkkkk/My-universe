@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "学术、逻辑与数据",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md"
+    },
+    {
+      "basename": "社会、工作、经济类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md"
+    },
+    {
+      "basename": "个人品质、情感与行为",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md"
+    },
+    {
+      "basename": "核心思维与高级表达",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维与高级表达.md"
+    },
+    {
+      "basename": "商业、管理与创新",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md"
+    },
+    {
+      "basename": "文化与旅游类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md"
+    },
+    {
+      "basename": "问题解决与行为措施",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md"
+    },
+    {
+      "basename": "职场与教育类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/职场与教育类.md"
+    },
+    {
+      "basename": "自然与动物",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md"
+    },
+    {
+      "basename": "政策法律类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/政策法律类.md"
+    },
+    {
+      "basename": "日常生活",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md"
+    },
+    {
+      "basename": "科技与认知类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md"
+    },
+    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "微分的定义",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
-    },
-    {
-      "basename": "bedrock后半程",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
-    },
-    {
-      "basename": "01-BedRock Log 150天计划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md"
-    },
-    {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "03-AI",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "简历",
-      "path": "0.核心/00.规划(Plan)/3.未来探索/简历.md"
-    },
-    {
-      "basename": "408",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/408.md"
-    },
-    {
-      "basename": "我的bedrock",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
-    },
-    {
-      "basename": "github",
-      "path": "4.不常用/杂文/github.md"
-    },
-    {
-      "basename": "1数据链路层功能",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/1数据链路层功能.md"
-    },
-    {
-      "basename": "CSMA协议",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/CSMA协议.md"
-    },
-    {
-      "basename": "ch1计算机硬件构成",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计组/计算机系统概述/ch1计算机硬件构成.md"
     }
   ],
   "omittedPaths": [],
