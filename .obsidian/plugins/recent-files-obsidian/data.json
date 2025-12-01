@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "极限--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
     },
     {
       "basename": "期末应试",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
     },
     {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
+    },
+    {
+      "basename": "IO控制方式",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
+    },
+    {
       "basename": "极限的运算法则",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md"
+    },
+    {
+      "basename": "极限--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
     },
     {
       "basename": "函数--张宇基础30讲",
@@ -51,10 +71,6 @@
     {
       "basename": "期末应试",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
     },
     {
       "basename": "未命名",
@@ -183,22 +199,6 @@
     {
       "basename": "虚拟内存管理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md"
-    },
-    {
-      "basename": "文章01大纲",
-      "path": "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md"
-    },
-    {
-      "basename": "书籍初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/书籍初步勘察.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/王道题.md"
-    },
-    {
-      "basename": "408学习框架",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md"
     }
   ],
   "omittedPaths": [],
