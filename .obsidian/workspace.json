@@ -116,23 +116,9 @@
               "icon": "lucide-file",
               "title": "00.视频勘察"
             }
-          },
-          {
-            "id": "7283c200d6d30d6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mindset First-Aid Kit"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Mindset First-Aid Kit 的大纲"
+              "title": "00.视频勘察 的大纲"
             }
           },
           {
@@ -338,8 +324,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7283c200d6d30d6a",
+  "active": "891609fa170cc0b0",
   "lastOpenFiles": [
+    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
+    "0.核心/02.心智急救包/学习时的情绪检测与应对.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
     "assets/image/期末应试-1764580189193.jpeg",
     "assets/image/期末应试-1764580185665.jpeg",
@@ -370,7 +358,6 @@
     "1.工作流/10.日记文件/25年11月/25年11月第二周周报（bedrock57 11.10 - 11.16).md",
     "1.工作流/10.日记文件/25年11月/25年11月第一周周报（bedrock50 11.3 - 11.9).md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "assets/image/期末应试-1764507385167.jpeg",
     "assets/image/期末应试-1764507093469.jpeg",
     "assets/image/期末应试-1764504870819.jpeg",

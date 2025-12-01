@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
       "basename": "Mindset First-Aid Kit",
       "path": "0.核心/02.心智急救包/Mindset First-Aid Kit.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+      "basename": "学习时的情绪检测与应对",
+      "path": "0.核心/02.心智急救包/学习时的情绪检测与应对.md"
     },
     {
-      "basename": "00.视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
     },
     {
       "basename": "01.对齐书籍",
@@ -195,10 +199,6 @@
     {
       "basename": "详细管理方法",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md"
-    },
-    {
-      "basename": "内存映射文件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
     }
   ],
   "omittedPaths": [],
