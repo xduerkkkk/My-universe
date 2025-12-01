@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mindset First-Aid Kit",
+      "path": "0.核心/02.心智急救包/Mindset First-Aid Kit.md"
+    },
+    {
       "basename": "期末应试",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "内存映射文件",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
-    },
-    {
-      "basename": "虚拟内存管理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md"
     }
   ],
   "omittedPaths": [],
