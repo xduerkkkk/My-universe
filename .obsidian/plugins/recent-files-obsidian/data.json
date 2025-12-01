@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
+    },
+    {
       "basename": "00.视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
     },
@@ -9,20 +13,36 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
     },
     {
-      "basename": "大纲",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/大纲.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
+    },
+    {
+      "basename": "进程的通信",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程的通信.md"
+    },
+    {
+      "basename": "进程，进程的调度",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
     },
     {
       "basename": "期末试卷",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷.md"
     },
     {
-      "basename": "2025-12-01 周一",
-      "path": "1.工作流/10.日记文件/2025-12-01 周一.md"
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/大纲.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+      "basename": "2025-12-01 周一",
+      "path": "1.工作流/10.日记文件/2025-12-01 周一.md"
     },
     {
       "basename": "Mindset First-Aid Kit",
@@ -69,10 +89,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md"
     },
     {
-      "basename": "1.IO设备",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
-    },
-    {
       "basename": "极限的运算法则",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md"
     },
@@ -113,10 +129,6 @@
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
-    },
-    {
       "basename": "未命名",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/未命名.md"
     },
@@ -135,10 +147,6 @@
     {
       "basename": "25年11月第一周周报（bedrock50 11.3 - 11.9)",
       "path": "1.工作流/10.日记文件/25年11月/25年11月第一周周报（bedrock50 11.3 - 11.9).md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
     },
     {
       "basename": "00-整个考研",
@@ -191,14 +199,6 @@
     {
       "basename": "自然与动物",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md"
-    },
-    {
-      "basename": "政策法律类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/政策法律类.md"
-    },
-    {
-      "basename": "2025-11-29 周六",
-      "path": "1.工作流/10.日记文件/25年11月/2025-11-29 周六.md"
     }
   ],
   "omittedPaths": [],
