@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+      "basename": "04Transformer的缺陷及改进",
+      "path": "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md"
+    },
+    {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
     },
     {
       "basename": "2025-12-02 周二",
       "path": "1.工作流/10.日记文件/2025-12-02 周二.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "01为什么需要Transformer：从“词”的编码到“序列”的革命",
+      "path": "3.创造物/30.输出文章/transformer/01为什么需要Transformer：从“词”的编码到“序列”的革命.md"
+    },
+    {
+      "basename": "attention",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/attention.md"
+    },
+    {
+      "basename": "英语六级冲刺",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "2025-12-01 周一",
@@ -87,10 +111,6 @@
     {
       "basename": "学习时的情绪检测与应对",
       "path": "0.核心/02.心智急救包/学习时的情绪检测与应对.md"
-    },
-    {
-      "basename": "英语六级冲刺",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
     },
     {
       "basename": "期末应试",
@@ -179,26 +199,6 @@
     {
       "basename": "日常生活",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md"
-    },
-    {
-      "basename": "科技与认知类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md"
-    },
-    {
-      "basename": "社会、工作、经济类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md"
-    },
-    {
-      "basename": "核心思维与高级表达",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维与高级表达.md"
-    },
-    {
-      "basename": "文化与旅游类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md"
-    },
-    {
-      "basename": "问题解决与行为措施",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md"
     }
   ],
   "omittedPaths": [],
