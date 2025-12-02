@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "04Transformer的缺陷及改进",
-      "path": "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md"
+      "basename": "期末试卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷.md"
     },
     {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
     },
     {
       "basename": "RoPE",
       "path": "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md"
     },
     {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md"
     },
     {
       "basename": "2025-12-02 周二",
       "path": "1.工作流/10.日记文件/2025-12-02 周二.md"
+    },
+    {
+      "basename": "04Transformer的缺陷及改进",
+      "path": "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md"
+    },
+    {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
     },
     {
       "basename": "01为什么需要Transformer：从“词”的编码到“序列”的革命",
@@ -39,14 +55,6 @@
     {
       "basename": "2025-12-01 周一",
       "path": "1.工作流/10.日记文件/2025-12-01 周一.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md"
     },
     {
       "basename": "Mindset First-Aid Kit",
@@ -85,10 +93,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
     },
     {
-      "basename": "期末试卷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷.md"
-    },
-    {
       "basename": "大纲",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/大纲.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "学习时的情绪检测与应对",
       "path": "0.核心/02.心智急救包/学习时的情绪检测与应对.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
     },
     {
       "basename": "IO控制方式",
