@@ -72,81 +72,37 @@
             }
           },
           {
-            "id": "2039cc7d5b7369b6",
+            "id": "c861982582de30f0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-01 周一.md",
+                "file": "1.工作流/10.日记文件/2025-12-02 周二.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-01 周一"
+              "title": "2025-12-02 周二"
             }
           },
           {
-            "id": "06c37214e9519e87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "期末应试"
-            }
-          },
-          {
-            "id": "e49ddc8e5ca66949",
+            "id": "bb937604f565011f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
+                "file": "1.工作流/10.日记文件/2025-12-02 周二.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mindset First-Aid Kit"
-            }
-          },
-          {
-            "id": "aa6f794a18256716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "期末应试"
-            }
-          },
-          {
-            "id": "ef7d4058a15b30ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "期末应试"
+              "title": "2025-12-02 周二"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-01 周一.md",
+                "file": "1.工作流/10.日记文件/2025-12-02 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-01 周一 的大纲"
+              "title": "2025-12-02 周二 的大纲"
             }
           },
           {
@@ -352,21 +308,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2039cc7d5b7369b6",
+  "active": "bb937604f565011f",
   "lastOpenFiles": [
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-12-01 周一.md",
+    "1.工作流/10.日记文件/2025-12-02 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
+    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
+    "1.工作流/11.事件收集箱/待办收集箱.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程的通信.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/大纲.md",
-    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md",
     "4.不常用/11.随想文件/世界观建立/世界/网络存在的问题.md",
@@ -379,9 +338,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
-    "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "assets/image/函数--张宇基础30讲-1764572193872.jpeg",
     "assets/image/期末应试-1764559206072.jpeg",
     "assets/image/期末应试-1764558547372.jpeg",
