@@ -9,6 +9,10 @@
       "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
     },
     {
+      "basename": "RoPE",
+      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md"
+    },
+    {
       "basename": "03Transformer架构：组装我们的零件",
       "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "个人品质、情感与行为",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md"
-    },
-    {
-      "basename": "日常生活",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md"
     }
   ],
   "omittedPaths": [],
