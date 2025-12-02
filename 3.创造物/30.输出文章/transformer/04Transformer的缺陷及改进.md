@@ -16,17 +16,19 @@
 - Yann LeCun认为当下LLM很不聪明，我们未来一定会找到”新范式“，
 -  Transformer之父 Jones 也是语出惊人：”我受够了transformer，现在就像Transformer 出现前的那段时期，研究人员们无休止地调整循环神经网络（RNN）以获取微小的增量收益,是时候突破了"
 
-我们不禁疑惑，
-是什么，让Transformer没有在当今”继续发力“，没有继续像23年发布chatgpt一样引爆AI界。他的缺陷是什么，被榨干了吗？
-我曾经写过正宗transformer架构，  
-而这几年来，各大模型，llama，gpt，deepseek，他们用的，虽然也是transformer架构，虽然也是decoder-only，但是否和传统的有很大区别？
+我们不禁疑惑"
+是什么，让Transformer没有在当今”继续发力“，没有继续像23年发布chatgpt一样引爆AI界。继续以指数级速度引爆世界？它的缺陷到底是什么？它的潜力被榨干了吗？
 
 
-接下来的文章，我们一起去探索transformer的缺陷，以及目前业界的改进。
-仍然，我会保持文章风格，通俗易懂，不陷入任何高深的数学计算（数学计算、严谨过程等会另开文章）
-我会给大家，建立起”Sparse attention, MQA/GQA/MLA,RoPE..... “，这些大模型圈子里高频名词的直觉理解。
+而这几年来，各大模型，llama，gpt，deepseek，他们用的，虽然也是transformer架构，虽然也是decoder-only，但在细节之下，早已不是2017年那个原始的模样了。
 
 
-# Transformer的计算复杂度
+接下来的文章，我们一起去探究Transformer架构中那些**最本质的缺陷**，以及目前业界最硬核的**架构级改进**。
+我依旧会保持文章风格，通俗易懂，不陷入复杂的数学推导（严谨的数学证明留给专门的篇章）。
+
+我会给大家，建立起”RoPE，Sparse attention, MoE，MQA/GQA/MLA,..... “，这些大模型圈子里高频名词的直觉理解。
+
+
+# 
 
 我们已经清楚Transformer的架构了，下面可以讨论讨论，
