@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末试卷1 的大纲"
+              "title": "期末应试 的大纲"
             }
           },
           {
@@ -368,17 +368,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01031c8657025247",
+  "active": "24b1cc13616b7bcf",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
+    "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
     "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md",
     "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
     "1.工作流/10.日记文件/2025-12-02 周二.md",
-    "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
     "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md",
     "3.创造物/30.输出文章/transformer/01为什么需要Transformer：从“词”的编码到“序列”的革命.md",
     "2.知识库/21.AI世界/04大模型/Transformer专项/attention.md",
