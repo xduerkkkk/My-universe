@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-02 周二.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-02 周二 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -308,10 +308,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb937604f565011f",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-01 周一.md",
     "1.工作流/10.日记文件/2025-12-02 周二.md",
+    "1.工作流/10.日记文件/2025-12-01 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
     "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
