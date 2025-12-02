@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末试卷2"
+              "title": "期末试卷1"
             }
           }
         ],
@@ -259,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末试卷2 的大纲"
+              "title": "期末试卷1 的大纲"
             }
           },
           {
@@ -384,10 +384,10 @@
   },
   "active": "24aeaa2d893d6cf1",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-02 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
-    "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
+    "1.工作流/10.日记文件/2025-12-02 周二.md",
+    "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
