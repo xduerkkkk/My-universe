@@ -102,6 +102,7 @@
           {
             "id": "5302d51b249b2df5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -109,6 +110,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "认知计算"
             }
@@ -322,10 +324,10 @@
   },
   "active": "5302d51b249b2df5",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/认知计算.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
+    "2.知识库/21.AI世界/认知计算.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
