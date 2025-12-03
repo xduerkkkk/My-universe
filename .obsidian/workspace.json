@@ -56,6 +56,22 @@
             }
           },
           {
+            "id": "918fe2c242e3c5b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "期末应试"
+            }
+          },
+          {
             "id": "c1e0a52f2cff744a",
             "type": "leaf",
             "pinned": true,
@@ -116,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -322,16 +338,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90bf80e78d3e9e79",
+  "active": "918fe2c242e3c5b2",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
     "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
     "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
