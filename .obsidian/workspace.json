@@ -92,9 +92,23 @@
               "icon": "lucide-file",
               "title": "复习"
             }
+          },
+          {
+            "id": "fbbb61a132198331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "理解知识"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
+                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复习 的大纲"
+              "title": "理解知识 的大纲"
             }
           },
           {
@@ -300,9 +314,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5167e8ef9ab9f441",
+  "active": "fbbb61a132198331",
   "lastOpenFiles": [
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "1.工作流/10.日记文件/2025-12-03 周三.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/几何直观.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
@@ -325,11 +344,6 @@
     "2.知识库/21.AI世界/01机器学习/非线性模型/核函数",
     "2.知识库/21.AI世界/01机器学习/线性模型/感知机/核心概念.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "assets/image/阅读25年2-1764683183895.jpeg",
     "assets/image/阅读25年2-1764683177488.jpeg",
     "assets/image/期末应试-1764580189193.jpeg",
