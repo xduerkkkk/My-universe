@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "SVM报告",
+      "path": "2.知识库/21.AI世界/01机器学习/非线性模型/核函数/SVM报告.md"
+    },
+    {
       "basename": "技术收集箱",
       "path": "1.工作流/11.事件收集箱/技术收集箱.md"
+    },
+    {
+      "basename": "K-means，FCM报告",
+      "path": "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/K均值/K-means，FCM报告.md"
+    },
+    {
+      "basename": "01大纲",
+      "path": "2.知识库/21.AI世界/01机器学习/01大纲.md"
+    },
+    {
+      "basename": "核心概念",
+      "path": "2.知识库/21.AI世界/01机器学习/线性模型/感知机/核心概念.md"
     },
     {
       "basename": "0000随便丢收集箱",
@@ -183,22 +199,6 @@
     {
       "basename": "从概率视角统一“线性”机器学习",
       "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md"
-    },
-    {
-      "basename": "github",
-      "path": "4.不常用/杂文/github.md"
-    },
-    {
-      "basename": "中党培训1",
-      "path": "4.不常用/杂文/中党培训1.md"
-    },
-    {
-      "basename": "推优发言",
-      "path": "4.不常用/杂文/推优发言.md"
-    },
-    {
-      "basename": "入党申请书",
-      "path": "4.不常用/杂文/入党申请书.md"
     }
   ],
   "omittedPaths": [],
