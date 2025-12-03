@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "矩阵运算",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
+      "basename": "认知计算",
+      "path": "2.知识库/21.AI世界/认知计算.md"
+    },
+    {
+      "basename": "看见矩阵（一）",
+      "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
     },
     {
       "basename": "矩阵直觉大纲",
       "path": "3.创造物/30.输出文章/数学/矩阵直觉大纲.md"
     },
     {
-      "basename": "特征向量",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
+      "basename": "矩阵运算",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
     },
     {
-      "basename": "看见矩阵（一）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
+      "basename": "特征向量",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
     },
     {
       "basename": "复习",
@@ -195,10 +199,6 @@
     {
       "basename": "03Transformer架构：组装我们的零件",
       "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
-    },
-    {
-      "basename": "01为什么需要Transformer：从“词”的编码到“序列”的革命",
-      "path": "3.创造物/30.输出文章/transformer/01为什么需要Transformer：从“词”的编码到“序列”的革命.md"
     }
   ],
   "omittedPaths": [],
