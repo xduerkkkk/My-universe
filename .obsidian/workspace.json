@@ -132,6 +132,20 @@
             }
           },
           {
+            "id": "39d3df8871a081ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "期末试卷2"
+            }
+          },
+          {
             "id": "24aeaa2d893d6cf1",
             "type": "leaf",
             "state": {
@@ -144,23 +158,9 @@
               "icon": "lucide-file",
               "title": "期末试卷3"
             }
-          },
-          {
-            "id": "63e2ac11b4c3c03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "期末应试"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末应试 的大纲"
+              "title": "期末试卷1 的大纲"
             }
           },
           {
@@ -366,10 +366,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9a940d576e001e",
+  "active": "d03a3c2e611d3188",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md",
@@ -388,7 +389,6 @@
     "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md",
     "3.创造物/31. 我的项目/项目0，memory项目/记忆的思考.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
     "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md",
     "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md",
