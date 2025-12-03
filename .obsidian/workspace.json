@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末试卷1 的大纲"
+              "title": "期末应试 的大纲"
             }
           },
           {
@@ -366,15 +366,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d03a3c2e611d3188",
+  "active": "ed9a940d576e001e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md",
