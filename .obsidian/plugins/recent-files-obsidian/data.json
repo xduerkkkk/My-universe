@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "特征向量",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
-    },
-    {
-      "basename": "矩阵运算",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
+      "basename": "二次型",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md"
     },
     {
       "basename": "几何直观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/几何直观.md"
     },
     {
+      "basename": "特征向量",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
+    },
+    {
+      "basename": "协方差矩阵",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
+    },
+    {
       "basename": "矩阵的秩",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵的秩.md"
+    },
+    {
+      "basename": "矩阵运算",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
+    },
+    {
+      "basename": "SVD分解",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md"
+    },
+    {
+      "basename": "正交矩阵",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/正交矩阵.md"
+    },
+    {
+      "basename": "线性方程组与向量",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md"
     },
     {
       "basename": "大纲",
@@ -179,26 +199,6 @@
     {
       "basename": "进程，进程的调度",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/大纲.md"
-    },
-    {
-      "basename": "翻译枢纽-主题分类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md"
-    },
-    {
-      "basename": "翻译练习5-6周",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习5-6周.md"
-    },
-    {
-      "basename": "网络存在的问题",
-      "path": "4.不常用/11.随想文件/世界观建立/世界/网络存在的问题.md"
-    },
-    {
-      "basename": "翻译练习3-4周",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习3-4周.md"
     }
   ],
   "omittedPaths": [],

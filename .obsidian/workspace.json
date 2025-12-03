@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特征向量"
+              "title": "二次型"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "特征向量 的大纲"
+              "title": "二次型 的大纲"
             }
           },
           {
@@ -288,9 +288,15 @@
   },
   "active": "8c2ed8a36879d3d0",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/几何直观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵的秩.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/正交矩阵.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/书籍3.1&3.2定义、子空间.md",
@@ -310,12 +316,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
-    "3.创造物/30.输出文章/transformer/04Transformer的缺陷及改进.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
     "assets/image/阅读25年2-1764683183895.jpeg",
     "assets/image/阅读25年2-1764683177488.jpeg",
     "assets/image/期末应试-1764580189193.jpeg",
