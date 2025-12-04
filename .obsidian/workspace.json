@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "363d06866b350f30",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "英语六级冲刺"
+            }
+          },
+          {
             "id": "c1e0a52f2cff744a",
             "type": "leaf",
             "pinned": true,
@@ -56,8 +72,25 @@
             }
           },
           {
+            "id": "33c420415db06a50",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-04 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-12-04 周四"
+            }
+          },
+          {
             "id": "f7a6f9f4699f426e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,6 +98,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "矩阵直觉大纲"
             }
@@ -81,36 +115,6 @@
               },
               "icon": "lucide-file",
               "title": "矩阵运算"
-            }
-          },
-          {
-            "id": "5302d51b249b2df5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/认知计算.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "认知计算"
-            }
-          },
-          {
-            "id": "33c420415db06a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-04 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-04 周四"
             }
           }
         ],
@@ -197,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-04 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-04 周四 的大纲"
+              "title": "矩阵运算 的大纲"
             }
           },
           {
@@ -320,20 +324,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33c420415db06a50",
+  "active": "c37d1bcf06e2237d",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "1.工作流/10.日记文件/2025-12-04 周四.md",
-    "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/21.AI世界/认知计算.md",
-    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
+    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
+    "1.工作流/10.日记文件/2025-12-04 周四.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
@@ -345,9 +352,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/正交矩阵.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/大纲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/书籍3.1&3.2定义、子空间.md",
-    "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器/AdaBoost实验报告.md",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器",
     "2.知识库/21.AI世界/01机器学习/非线性模型/核函数",
     "assets/image/阅读25年2-1764683183895.jpeg",
