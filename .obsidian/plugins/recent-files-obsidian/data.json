@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "梯度",
+      "path": "3.创造物/30.输出文章/AI/MLDL/梯度.md"
+    },
+    {
+      "basename": "贝叶斯的详细讲解",
+      "path": "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md"
+    },
+    {
+      "basename": "从概率视角统一“线性”机器学习",
+      "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md"
+    },
+    {
+      "basename": "文章01大纲",
+      "path": "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md"
+    },
+    {
       "basename": "矩阵运算",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "00-整个考研",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md"
-    },
-    {
-      "basename": "告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型",
-      "path": "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md"
-    },
-    {
-      "basename": "记忆的思考",
-      "path": "3.创造物/31. 我的项目/项目0，memory项目/记忆的思考.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/未命名.md"
-    },
-    {
-      "basename": "RoPE",
-      "path": "2.知识库/21.AI世界/04大模型/Transformer专项/RoPE.md"
     }
   ],
   "omittedPaths": [],
