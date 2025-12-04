@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "认识梯度 的大纲"
+              "title": "看见矩阵（一） 的大纲"
             }
           },
           {
@@ -326,8 +326,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5593f0ac387014b4",
+  "active": "2996372d28254d34",
   "lastOpenFiles": [
+    "assets/image/看见矩阵（一）-1764854254469.jpeg",
+    "assets/image/看见矩阵（一）-1764853657714.jpeg",
+    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/看见矩阵（一）-1764853133323.jpeg",
@@ -349,12 +352,10 @@
     "3.创造物/30.输出文章/数学/assets",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
     "3.创造物/30.输出文章/AI/未命名.md",
-    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "assets/image/梯度-1764833017350.jpeg",
     "assets/image/梯度-1764832912187.jpeg",
     "assets/image/梯度-1764832822316.jpeg",
     "assets/image/梯度-1764832619894.jpeg",
-    "assets/image/梯度-1764820362712.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
