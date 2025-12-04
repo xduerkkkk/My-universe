@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "e76c64f484117c95",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-03 周三.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-12-03 周三"
-            }
-          },
-          {
             "id": "2996372d28254d34",
             "type": "leaf",
             "pinned": true,
@@ -114,9 +98,23 @@
               "icon": "lucide-file",
               "title": "认知计算"
             }
+          },
+          {
+            "id": "33c420415db06a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-04 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-04 周四"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-03 周三.md",
+                "file": "1.工作流/10.日记文件/2025-12-04 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-03 周三 的大纲"
+              "title": "2025-12-04 周四 的大纲"
             }
           },
           {
@@ -322,16 +320,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e76c64f484117c95",
+  "active": "33c420415db06a50",
   "lastOpenFiles": [
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "1.工作流/10.日记文件/2025-12-04 周四.md",
+    "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/21.AI世界/认知计算.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-    "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
@@ -349,7 +348,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/视频勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/向量空间/书籍3.1&3.2定义、子空间.md",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器/AdaBoost实验报告.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/核函数/SVM报告.md",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器",
     "2.知识库/21.AI世界/01机器学习/非线性模型/核函数",
     "assets/image/阅读25年2-1764683183895.jpeg",

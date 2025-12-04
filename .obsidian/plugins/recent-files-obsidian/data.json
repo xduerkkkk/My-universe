@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-12-03 周三",
-      "path": "1.工作流/10.日记文件/2025-12-03 周三.md"
+      "basename": "2025-12-04 周四",
+      "path": "1.工作流/10.日记文件/2025-12-04 周四.md"
     },
     {
       "basename": "看见矩阵（一）",
       "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
+    },
+    {
+      "basename": "2025-12-03 周三",
+      "path": "1.工作流/10.日记文件/2025-12-03 周三.md"
     },
     {
       "basename": "认知计算",
@@ -195,10 +199,6 @@
     {
       "basename": "02对Attention机制的深度可视化解剖",
       "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
     }
   ],
   "omittedPaths": [],
