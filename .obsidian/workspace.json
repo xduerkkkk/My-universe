@@ -98,9 +98,23 @@
               "icon": "lucide-file",
               "title": "2025-12-05 周五"
             }
+          },
+          {
+            "id": "19f86de58fd57cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "书籍对齐"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "极限--张宇基础30讲 的大纲"
+              "title": "书籍对齐 的大纲"
             }
           },
           {
@@ -306,14 +320,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50dd2c1467a27a15",
+  "active": "19f86de58fd57cb8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "assets/image/极限--张宇基础30讲-1764916320766.jpeg",
     "1.工作流/10.日记文件/2025-12-05 周五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
@@ -341,7 +356,6 @@
     "3.创造物/30.输出文章/数学/assets",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
     "3.创造物/30.输出文章/AI/未命名.md",
-    "assets/image/梯度-1764833017350.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
