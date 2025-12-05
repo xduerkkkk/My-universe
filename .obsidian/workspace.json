@@ -10,6 +10,7 @@
           {
             "id": "aa1f673e7d82b242",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "0000随便丢收集箱"
             }
@@ -54,69 +56,37 @@
             }
           },
           {
-            "id": "2996372d28254d34",
+            "id": "50dd2c1467a27a15",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "看见矩阵（一）"
+              "title": "极限--张宇基础30讲"
             }
           },
           {
-            "id": "f7a6f9f4699f426e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "矩阵直觉大纲"
-            }
-          },
-          {
-            "id": "5593f0ac387014b4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "认识梯度"
-            }
-          },
-          {
-            "id": "216d7c35af89bf5b",
+            "id": "19e8327b921157c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵运算"
+              "title": "书籍对齐"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "阅读25年2 的大纲"
+              "title": "书籍对齐 的大纲"
             }
           },
           {
@@ -322,19 +292,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1e0a52f2cff744a",
+  "active": "19e8327b921157c6",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
+    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
     "assets/image/阅读25年2-1764902805625.jpeg",
     "assets/image/阅读25年2-1764902795849.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "1.工作流/10.日记文件/2025-12-04 周四.md",
-    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md",
     "assets/image/看见矩阵（一）-1764854254469.jpeg",
     "assets/image/看见矩阵（一）-1764853657714.jpeg",
     "assets/image/看见矩阵（一）-1764853133323.jpeg",
@@ -352,7 +323,6 @@
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
     "3.创造物/30.输出文章/AI/未命名.md",
     "assets/image/梯度-1764833017350.jpeg",
-    "assets/image/梯度-1764832912187.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
