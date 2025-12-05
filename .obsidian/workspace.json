@@ -10,7 +10,6 @@
           {
             "id": "aa1f673e7d82b242",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "0000随便丢收集箱"
             }
@@ -118,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻译枢纽-主题分类 的大纲"
+              "title": "阅读25年2 的大纲"
             }
           },
           {
@@ -324,9 +322,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6afabb7a710c80da",
+  "active": "c1e0a52f2cff744a",
   "lastOpenFiles": [
+    "assets/image/阅读25年2-1764902805625.jpeg",
+    "assets/image/阅读25年2-1764902795849.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "1.工作流/10.日记文件/2025-12-04 周四.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
@@ -338,13 +341,11 @@
     "assets/image/看见矩阵（一）-1764852937643.jpeg",
     "assets/image/看见矩阵（一）-1764852828496.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
     "1.工作流/11.事件收集箱/技术收集箱.md",
     "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
     "0.核心/01.学习操作系统My_OS/1.心智模型/知行和一.md",
     "0.核心/01.学习操作系统My_OS/0.学习理念/慢就是快.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "assets/image/看见矩阵（一）-1764838028818.jpeg",
     "assets/image/看见矩阵（一）-1764838005896.jpeg",
     "3.创造物/30.输出文章/数学/assets",
@@ -352,14 +353,12 @@
     "3.创造物/30.输出文章/AI/未命名.md",
     "assets/image/梯度-1764833017350.jpeg",
     "assets/image/梯度-1764832912187.jpeg",
-    "assets/image/梯度-1764832822316.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
     "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
     "2.知识库/21.AI世界/认知计算.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "1.工作流/10.日记文件/2025-12-03 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
