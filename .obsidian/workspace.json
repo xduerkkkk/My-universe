@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-05 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-05 周五 的大纲"
+              "title": "极限--张宇基础30讲 的大纲"
             }
           },
           {
@@ -306,10 +306,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d6e6b0e7edae6b2",
+  "active": "50dd2c1467a27a15",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
+    "assets/image/极限--张宇基础30讲-1764916320766.jpeg",
     "1.工作流/10.日记文件/2025-12-05 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
@@ -345,7 +346,6 @@
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
     "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
-    "2.知识库/21.AI世界/认知计算.md",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器",
     "2.知识库/21.AI世界/01机器学习/非线性模型/核函数",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/assets",
