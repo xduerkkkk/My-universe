@@ -13,6 +13,10 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md"
     },
     {
+      "basename": "极限的本质",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md"
+    },
+    {
       "basename": "极限存在准则",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "期末试卷3",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷3.md"
-    },
-    {
-      "basename": "K-means，FCM报告",
-      "path": "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/K均值/K-means，FCM报告.md"
     }
   ],
   "omittedPaths": [],
