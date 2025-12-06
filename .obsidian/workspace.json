@@ -88,35 +88,35 @@
             }
           },
           {
-            "id": "f36a818211179462",
+            "id": "0a8d6f41b702c068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "理解知识"
+              "title": "写作真题训练"
             }
           },
           {
-            "id": "750f1bb35afa479f",
+            "id": "96e23fe6901389eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频勘察"
+              "title": "写作模板"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍勘察 的大纲"
+              "title": "写作模板 的大纲"
             }
           },
           {
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "书籍勘察 的反向链接列表"
+              "title": "写作模板 的反向链接列表"
             }
           },
           {
@@ -322,12 +322,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efc88a03a25b5db8",
+  "active": "96e23fe6901389eb",
   "lastOpenFiles": [
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/现象解释.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
     "1.工作流/10.日记文件/2025-12-06 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md",
@@ -340,17 +344,13 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作素材.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "1.工作流/10.日记文件/2025-12-05 周五.md",
     "1.工作流/10.日记文件/2025-12-04 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "assets/image/极限--张宇基础30讲-1764919607105.jpeg",
     "assets/image/极限--张宇基础30讲-1764919287264.jpeg",
     "assets/image/极限--张宇基础30讲-1764918888767.jpeg",
