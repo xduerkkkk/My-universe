@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "1.工作流/10.日记文件/2025-12-06 周六.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍勘察 的大纲"
+              "title": "2025-12-06 周六 的大纲"
             }
           },
           {
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "1.工作流/10.日记文件/2025-12-06 周六.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "书籍勘察 的反向链接列表"
+              "title": "2025-12-06 周六 的反向链接列表"
             }
           },
           {
@@ -351,10 +351,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3cf8f1f2bc245a3",
+  "active": "19f86de58fd57cb8",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+    "assets/image/书籍勘察-1765027396018.jpeg",
+    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "assets/image/书籍勘察-1765025304419.jpeg",
     "assets/image/书籍勘察-1765025291676.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
@@ -389,7 +390,6 @@
     "assets/image/阅读25年2-1764902805625.jpeg",
     "assets/image/阅读25年2-1764902795849.jpeg",
     "assets/image/看见矩阵（一）-1764854254469.jpeg",
-    "assets/image/看见矩阵（一）-1764853657714.jpeg",
     "3.创造物/30.输出文章/数学/assets",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器",
