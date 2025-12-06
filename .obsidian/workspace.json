@@ -207,7 +207,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -350,14 +351,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efc88a03a25b5db8",
+  "active": "c3cf8f1f2bc245a3",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-06 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "assets/image/书籍勘察-1765025304419.jpeg",
     "assets/image/书籍勘察-1765025291676.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
-    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译真题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
@@ -389,7 +390,6 @@
     "assets/image/阅读25年2-1764902795849.jpeg",
     "assets/image/看见矩阵（一）-1764854254469.jpeg",
     "assets/image/看见矩阵（一）-1764853657714.jpeg",
-    "assets/image/看见矩阵（一）-1764853133323.jpeg",
     "3.创造物/30.输出文章/数学/assets",
     "3.创造物/30.输出文章/AI/MLDL/assets",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/分类器",
