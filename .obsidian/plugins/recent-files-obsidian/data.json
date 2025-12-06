@@ -1,36 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md"
+      "basename": "‘我想看谷歌的首页’",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md"
     },
     {
-      "basename": "01-BedRock Log 150天计划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md"
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/大纲.md"
     },
     {
-      "basename": "英语六级冲刺",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
+      "basename": "从服务器返程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/从服务器返程.md"
     },
     {
-      "basename": "翻译枢纽-主题分类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md"
+      "basename": "视频初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/数据链路层/视频初步勘察.md"
+    },
+    {
+      "basename": "2025-12-06 周六",
+      "path": "1.工作流/10.日记文件/2025-12-06 周六.md"
+    },
+    {
+      "basename": "极限的本质",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md"
     },
     {
       "basename": "写作素材",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作素材.md"
     },
     {
+      "basename": "翻译枢纽-主题分类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md"
+    },
+    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
-      "basename": "翻译练习 最后5篇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md"
+      "basename": "英语六级冲刺",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
     },
     {
-      "basename": "2025-12-06 周六",
-      "path": "1.工作流/10.日记文件/2025-12-06 周六.md"
+      "basename": "01-BedRock Log 150天计划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md"
+    },
+    {
+      "basename": "翻译练习 最后5篇",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md"
     },
     {
       "basename": "书籍对齐",
@@ -47,10 +67,6 @@
     {
       "basename": "极限--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
-    },
-    {
-      "basename": "极限的本质",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md"
     },
     {
       "basename": "写作模板",
@@ -183,22 +199,6 @@
     {
       "basename": "协方差矩阵",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
-    },
-    {
-      "basename": "矩阵的秩",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵的秩.md"
-    },
-    {
-      "basename": "SVD分解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md"
-    },
-    {
-      "basename": "正交矩阵",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/正交矩阵.md"
-    },
-    {
-      "basename": "线性方程组与向量",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md"
     }
   ],
   "omittedPaths": [],
