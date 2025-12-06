@@ -115,8 +115,7 @@
               "title": "写作模板"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "写作真题训练 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -239,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "写作真题训练 的反向链接列表"
+              "title": "0000随便丢收集箱 的反向链接列表"
             }
           },
           {
@@ -322,10 +321,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a8d6f41b702c068",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/现象解释.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
