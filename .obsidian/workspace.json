@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻译枢纽-主题分类 的大纲"
+              "title": "商业、管理与创新 的大纲"
             }
           },
           {
@@ -336,15 +336,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45964a0a94b4550",
+  "active": "614fae8375961914",
   "lastOpenFiles": [
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/10.日记文件/2025-12-06 周六.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "assets/image/书籍勘察-1765027396018.jpeg",
     "assets/image/书籍勘察-1765025304419.jpeg",
     "assets/image/书籍勘察-1765025291676.jpeg",
@@ -368,7 +369,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/00-整个考研.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
-    "1.工作流/10.日记文件/2025-12-05 周五.md",
     "assets/image/极限--张宇基础30讲-1764919607105.jpeg",
     "assets/image/极限--张宇基础30讲-1764919287264.jpeg",
     "assets/image/极限--张宇基础30讲-1764918888767.jpeg",
