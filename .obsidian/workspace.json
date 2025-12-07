@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-06 周六.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-06 周六 的大纲"
+              "title": "英语六级冲刺 的大纲"
             }
           },
           {
@@ -350,12 +350,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19f86de58fd57cb8",
+  "active": "363d06866b350f30",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "assets/image/书籍勘察-1765027396018.jpeg",
     "assets/image/书籍勘察-1765025304419.jpeg",
     "assets/image/书籍勘察-1765025291676.jpeg",
