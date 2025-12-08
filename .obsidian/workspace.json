@@ -99,8 +99,7 @@
               "title": "微机原理规划"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-08 周一.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-08 周一 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -306,11 +305,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3457e71b81fa6fab",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-08 周一.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "1.工作流/10.日记文件/2025-12-08 周一.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
