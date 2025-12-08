@@ -99,8 +99,7 @@
               "title": "微机原理规划"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微机原理规划 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -306,16 +305,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c2d9c10eee4d41",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "1.工作流/10.日记文件/2025-12-08 周一.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "assets/image/极限--张宇基础30讲-1765184263647.jpeg",
     "assets/image/极限--张宇基础30讲-1765183883158.jpeg",
     "assets/image/极限--张宇基础30讲-1765183676371.jpeg",
@@ -323,7 +323,6 @@
     "assets/image/极限--张宇基础30讲-1765182619433.jpeg",
     "assets/image/极限--张宇基础30讲-1765182590920.jpeg",
     "assets/image/极限--张宇基础30讲-1765181848847.jpeg",
-    "1.工作流/10.日记文件/2025-12-08 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/10.日记文件/2025-12-06 周六.md",
     "assets/image/极限--张宇基础30讲-1765165906454.jpeg",
