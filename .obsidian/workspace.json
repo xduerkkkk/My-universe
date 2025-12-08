@@ -112,9 +112,47 @@
               "icon": "lucide-file",
               "title": "写作真题训练"
             }
+          },
+          {
+            "id": "f624fb5fc4c52393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "写作优化"
+            }
+          },
+          {
+            "id": "237ee75c6e24c3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-08 周一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-08 周一"
+            }
+          },
+          {
+            "id": "f5501f7c5c485d2c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -197,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+                "file": "1.工作流/10.日记文件/2025-12-08 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英语六级冲刺 的大纲"
+              "title": "2025-12-08 周一 的大纲"
             }
           },
           {
@@ -320,15 +358,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "363d06866b350f30",
+  "active": "237ee75c6e24c3f4",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "1.工作流/10.日记文件/2025-12-08 周一.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
@@ -342,7 +382,6 @@
     "assets/image/极限--张宇基础30讲-1765182619433.jpeg",
     "assets/image/极限--张宇基础30讲-1765182590920.jpeg",
     "assets/image/极限--张宇基础30讲-1765181848847.jpeg",
-    "1.工作流/10.日记文件/2025-12-06 周六.md",
     "assets/image/极限--张宇基础30讲-1765165906454.jpeg",
     "assets/image/极限--张宇基础30讲-1765165760250.jpeg",
     "assets/image/极限--张宇基础30讲-1765165622006.jpeg",
@@ -357,7 +396,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层",
     "3.创造物/30.输出文章/数学/assets",
