@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "理解知识 的大纲"
+              "title": "极限--张宇基础30讲 的大纲"
             }
           },
           {
@@ -320,8 +320,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3457e71b81fa6fab",
+  "active": "045d609b4e14feb5",
   "lastOpenFiles": [
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "1.工作流/10.日记文件/2025-12-08 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作真题训练.md",
@@ -357,7 +358,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层",
     "3.创造物/30.输出文章/数学/assets",
