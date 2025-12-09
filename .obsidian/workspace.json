@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "f9c0ba9023287194",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "练习"
-            }
-          },
-          {
             "id": "045d609b4e14feb5",
             "type": "leaf",
             "pinned": true,
@@ -70,51 +54,9 @@
               "icon": "lucide-file",
               "title": "极限--张宇基础30讲"
             }
-          },
-          {
-            "id": "d4b6a5973b734c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "翻译枢纽-主题分类"
-            }
-          },
-          {
-            "id": "b9b66341a42bb11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "社会、工作、经济类"
-            }
-          },
-          {
-            "id": "377f3b0b971c1e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "练习"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "社会、工作、经济类 的大纲"
+              "title": "练习 的大纲"
             }
           },
           {
@@ -320,20 +262,99 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9b66341a42bb11a",
+  "floating": {
+    "id": "4867975197fe2ceb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e599d8b983d9176c",
+        "type": "window",
+        "children": [
+          {
+            "id": "d55b724827f69238",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "377f3b0b971c1e89",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "练习"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 586,
+        "y": 60,
+        "width": 603,
+        "height": 927,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "ed74ade65aadb3c4",
+        "type": "window",
+        "children": [
+          {
+            "id": "4d090c26ec46930f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9c0ba9023287194",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "练习"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 997,
+        "y": 109,
+        "width": 604,
+        "height": 604,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f9c0ba9023287194",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/职场与教育类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/政策法律类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
@@ -341,13 +362,8 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
     "1.工作流/10.日记文件/2025-12-08 周一.md",
     "1.工作流/10.日记文件/2025-12-06 周六.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "assets/image/极限--张宇基础30讲-1765184263647.jpeg",
     "assets/image/极限--张宇基础30讲-1765183883158.jpeg",
     "assets/image/极限--张宇基础30讲-1765183676371.jpeg",
