@@ -86,17 +86,13 @@
             }
           },
           {
-            "id": "b70eafd60c49fd0e",
+            "id": "ea2747d029246201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "看见矩阵（一）"
+              "title": "新标签页"
             }
           }
         ],
@@ -183,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（一） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -306,15 +301,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b70eafd60c49fd0e",
+  "active": "ea2747d029246201",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-09 周二.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译练习 最后5篇.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "2.知识库/21.AI世界/01机器学习/01大纲.md",
-    "1.工作流/10.日记文件/2025-12-09 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md",
