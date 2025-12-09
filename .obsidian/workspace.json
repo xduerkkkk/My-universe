@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
+                "file": "2.知识库/21.AI世界/认知计算.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "护肤、护发 的大纲"
+              "title": "认知计算 的大纲"
             }
           },
           {
@@ -320,7 +320,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69240d94afc6609f",
+  "active": "ea2747d029246201",
   "lastOpenFiles": [
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
     "2.知识库/21.AI世界/认知计算.md",
