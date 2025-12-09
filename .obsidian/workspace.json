@@ -89,10 +89,14 @@
             "id": "ea2747d029246201",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/认知计算.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "认知计算"
             }
           }
         ],
@@ -179,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2.知识库/21.AI世界/认知计算.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "认知计算 的大纲"
             }
           },
           {
@@ -303,6 +308,8 @@
   },
   "active": "ea2747d029246201",
   "lastOpenFiles": [
+    "assets/image/认知计算-1765287969216.jpeg",
+    "2.知识库/21.AI世界/assets",
     "1.工作流/10.日记文件/2025-12-09 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
@@ -328,7 +335,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
     "assets/image/极限--张宇基础30讲-1765184263647.jpeg",
     "assets/image/极限--张宇基础30讲-1765183883158.jpeg",
     "assets/image/极限--张宇基础30讲-1765183676371.jpeg",
@@ -348,7 +354,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/assets",
     "0.核心/00.规划(Plan)/1.阶段性规划/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
