@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "练习",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md"
+      "basename": "认知计算",
+      "path": "2.知识库/21.AI世界/认知计算.md"
     },
     {
       "basename": "极限--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
+    },
+    {
+      "basename": "练习",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md"
     },
     {
       "basename": "翻译枢纽-主题分类",
@@ -195,10 +199,6 @@
     {
       "basename": "书籍对齐",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md"
-    },
-    {
-      "basename": "2025-12-05 周五",
-      "path": "1.工作流/10.日记文件/2025-12-05 周五.md"
     }
   ],
   "omittedPaths": [],
