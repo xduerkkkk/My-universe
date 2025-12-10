@@ -5,6 +5,14 @@
       "path": "2.知识库/21.AI世界/认知计算.md"
     },
     {
+      "basename": "告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型",
+      "path": "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md"
+    },
+    {
+      "basename": "记忆的思考",
+      "path": "3.创造物/31. 我的项目/项目0，memory项目/记忆的思考.md"
+    },
+    {
       "basename": "02对Attention机制的深度可视化解剖",
       "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "12月第一周周报(Log 78-83)",
       "path": "1.工作流/10.日记文件/12月第一周周报(Log 78-83).md"
-    },
-    {
-      "basename": "翻译真题",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译真题.md"
-    },
-    {
-      "basename": "写作模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md"
     }
   ],
   "omittedPaths": [],
