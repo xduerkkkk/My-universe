@@ -5,6 +5,26 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
     {
+      "basename": "ch7与ch8 主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md"
+    },
+    {
+      "basename": "ch6 dma传输与存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md"
+    },
+    {
+      "basename": "指令问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md"
+    },
+    {
+      "basename": "指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md"
+    },
+    {
+      "basename": "加减乘除",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md"
+    },
+    {
       "basename": "微机原理规划",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "bedrock后半程",
       "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
-    },
-    {
-      "basename": "01-BedRock Log 150天计划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-BedRock Log 150天计划.md"
-    },
-    {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "寒假前健身",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md"
-    },
-    {
-      "basename": "书籍勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md"
-    },
-    {
-      "basename": "阅读25年2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/阅读/阅读25年2.md"
     }
   ],
   "omittedPaths": [],
