@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
+                "file": "2.知识库/21.AI世界/认知计算.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "科技与认知类 的大纲"
+              "title": "认知计算 的大纲"
             }
           },
           {
@@ -320,8 +320,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fb0fa6cb699d08a",
+  "active": "ea2747d029246201",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md",
@@ -356,7 +357,6 @@
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
     "assets/image/认知计算-1765287969216.jpeg",
     "2.知识库/21.AI世界/assets",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/极限--张宇基础30讲-1765184263647.jpeg",
     "assets/image/极限--张宇基础30讲-1765183883158.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
