@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+                "file": "1.工作流/10.日记文件/2025-12-10 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch2、ch3、ch4 的大纲"
+              "title": "2025-12-10 周三 的大纲"
             }
           },
           {
@@ -308,10 +308,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0822a50ee1e4716f",
+  "active": "f30ab39386569fe5",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
