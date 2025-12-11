@@ -101,8 +101,7 @@
               "title": "ch7与ch8 主存"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-10 周三.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-10 周三 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -308,8 +307,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30ab39386569fe5",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "1.工作流/10.日记文件/2025-12-10 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md",
@@ -335,8 +336,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/职场与教育类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "1.工作流/10.日记文件/2025-12-10 周三.md",
     "assets/image/认知计算-1765335334442.jpeg",
     "assets/image/认知计算-1765335307153.jpeg",
     "assets/image/认知计算-1765335285845.jpeg",
