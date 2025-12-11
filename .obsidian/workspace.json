@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "认识梯度"
+              "title": "看见矩阵（一）"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "认识梯度 的大纲"
+              "title": "看见矩阵（一） 的大纲"
             }
           },
           {
@@ -308,6 +308,10 @@
   },
   "active": "b8e89ea5b9a2dc32",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
+    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+    "1.工作流/10.日记文件/2025-12-11 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "assets/image/认识梯度-1765439921584.jpeg",
     "assets/image/认识梯度-1765439917438.jpeg",
     "assets/image/认识梯度-1765424381168.jpeg",
@@ -316,11 +320,9 @@
     "assets/image/认识梯度-1765424254820.jpeg",
     "assets/image/认识梯度-1765423892209.jpeg",
     "assets/image/认识梯度-1765423803861.jpeg",
-    "1.工作流/10.日记文件/2025-12-11 周四.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/10.日记文件/2025-12-10 周三.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md",
@@ -341,10 +343,8 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/政策法律类.md",
     "assets/image/认知计算-1765335334442.jpeg",
     "assets/image/认知计算-1765335307153.jpeg",
-    "assets/image/认知计算-1765335285845.jpeg",
     "2.知识库/21.AI世界/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层",
