@@ -56,24 +56,9 @@
             }
           },
           {
-            "id": "0822a50ee1e4716f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ch2、ch3、ch4"
-            }
-          },
-          {
             "id": "cbf7f1cac440d1ac",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,6 +66,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-12-11 周四"
             }
@@ -128,9 +114,19 @@
               "icon": "lucide-file",
               "title": "作业"
             }
+          },
+          {
+            "id": "1ec981d02f9fb37a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "作业 的大纲"
+              "title": "看见矩阵（一） 的大纲"
             }
           },
           {
@@ -336,13 +332,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a8bf03448764a2f",
+  "active": "b8e89ea5b9a2dc32",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/2025-12-11 周四.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
