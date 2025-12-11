@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+                "file": "1.工作流/10.日记文件/2025-12-11 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（一） 的大纲"
+              "title": "2025-12-11 周四 的大纲"
             }
           },
           {
@@ -322,10 +322,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8e89ea5b9a2dc32",
+  "active": "cbf7f1cac440d1ac",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "1.工作流/10.日记文件/2025-12-11 周四.md",
