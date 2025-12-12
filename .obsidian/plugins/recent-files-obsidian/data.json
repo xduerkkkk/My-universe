@@ -2,11 +2,27 @@
   "recentFiles": [
     {
       "basename": "困惑",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
+    },
+    {
+      "basename": "作业",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
+    },
+    {
+      "basename": "书籍对齐",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md"
     },
     {
       "basename": "极限--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
+    },
+    {
+      "basename": "函数的连续性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
+    },
+    {
+      "basename": "困惑",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md"
     },
     {
       "basename": "练习",
@@ -15,10 +31,6 @@
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "作业",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
     },
     {
       "basename": "2025-12-12 周五",
@@ -79,10 +91,6 @@
     {
       "basename": "2025-12-11 周四",
       "path": "1.工作流/10.日记文件/2025-12-11 周四.md"
-    },
-    {
-      "basename": "困惑",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
     },
     {
       "basename": "ch2、ch3、ch4",
@@ -191,14 +199,6 @@
     {
       "basename": "记忆的思考",
       "path": "3.创造物/31. 我的项目/项目0，memory项目/记忆的思考.md"
-    },
-    {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
-    },
-    {
-      "basename": "2025-12-09 周二",
-      "path": "1.工作流/10.日记文件/2025-12-09 周二.md"
     }
   ],
   "omittedPaths": [],
