@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "LiAnchor",
       "LiBadgeAlert",
       "LiActivitySquare",
-      "LiAlbum",
-      "LiAlarmSmoke"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,9 @@
   "2.知识库/21.AI世界/01机器学习/01大纲.md": "LiActivitySquare",
   "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md": "LiAlarmClockPlus",
   "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md": "LiAlbum",
-  "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程": "LiAnchor"
+  "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程": "LiAnchor",
+  "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md": {
+    "iconName": "LiAccessibility",
+    "iconColor": "#ee11b3"
+  }
 }
