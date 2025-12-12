@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "两个重要极限 的大纲"
+              "title": "极限--张宇基础30讲 的大纲"
             }
           },
           {
@@ -368,8 +368,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69032005ce48716",
+  "active": "11c1a61b8c5c0ab0",
   "lastOpenFiles": [
+    "assets/image/极限--张宇基础30讲-1765531176340.jpeg",
+    "assets/image/极限--张宇基础30讲-1765531150132.jpeg",
+    "assets/image/极限--张宇基础30讲-1765531138179.jpeg",
+    "assets/image/极限--张宇基础30讲-1765531115816.jpeg",
+    "assets/image/极限--张宇基础30讲-1765530886940.jpeg",
+    "assets/image/极限--张宇基础30讲-1765530810217.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/重要公式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
@@ -399,14 +406,7 @@
     "assets/image/认识梯度-1765439921584.jpeg",
     "assets/image/认识梯度-1765439917438.jpeg",
     "assets/image/认识梯度-1765424381168.jpeg",
-    "assets/image/认识梯度-1765424375986.jpeg",
-    "assets/image/认识梯度-1765424365798.jpeg",
-    "assets/image/认识梯度-1765424254820.jpeg",
-    "assets/image/认识梯度-1765423892209.jpeg",
-    "assets/image/认识梯度-1765423803861.jpeg",
     "1.工作流/10.日记文件/2025-12-10 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/21.AI世界/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
