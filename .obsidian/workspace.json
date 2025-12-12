@@ -56,53 +56,71 @@
             }
           },
           {
-            "id": "cbf7f1cac440d1ac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-11 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-12-11 周四"
-            }
-          },
-          {
-            "id": "b8e89ea5b9a2dc32",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "看见矩阵（一）"
-            }
-          },
-          {
             "id": "10a7f97571e92425",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "翻译枢纽-主题分类"
+              "title": "极限--张宇基础30讲"
+            }
+          },
+          {
+            "id": "2d1d92a84e276303",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-12 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-12-12 周五"
+            }
+          },
+          {
+            "id": "d5df2a3a8e161cfb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "作业"
+            }
+          },
+          {
+            "id": "af5a6a01269ce39b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "练习"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-11 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-11 周四 的大纲"
+              "title": "练习 的大纲"
             }
           },
           {
@@ -308,17 +326,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbf7f1cac440d1ac",
+  "active": "af5a6a01269ce39b",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/六级/翻译/翻译枢纽-主题分类.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "1.工作流/10.日记文件/2025-12-12 周五.md",
+    "1.工作流/10.日记文件/2025-12-11 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "assets/image/看见矩阵（一）-1765461051147.jpeg",
-    "1.工作流/10.日记文件/2025-12-11 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
@@ -343,9 +364,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
     "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md",
-    "2.知识库/21.AI世界/认知计算.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
     "assets/image/认知计算-1765335334442.jpeg",
     "2.知识库/21.AI世界/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
