@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "输出枢纽",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md"
+    },
+    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "练习",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md"
+    },
+    {
+      "basename": "地道表达与核心概念枢纽",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
     },
     {
       "basename": "2025-12-12 周五",
@@ -11,10 +23,6 @@
     {
       "basename": "作业",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
-    },
-    {
-      "basename": "练习",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md"
     },
     {
       "basename": "极限--张宇基础30讲",
@@ -39,10 +47,6 @@
     {
       "basename": "困惑",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md"
-    },
-    {
-      "basename": "地道表达与核心概念枢纽",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
     },
     {
       "basename": "两个重要极限",
@@ -195,10 +199,6 @@
     {
       "basename": "贝叶斯的详细讲解",
       "path": "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md"
-    },
-    {
-      "basename": "记忆的思考",
-      "path": "3.创造物/31. 我的项目/项目0，memory项目/记忆的思考.md"
     }
   ],
   "omittedPaths": [],
