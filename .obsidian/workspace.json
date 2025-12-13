@@ -103,8 +103,7 @@
               "title": "作业"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-12 周五.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-12 周五 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -310,12 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d1d92a84e276303",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-12 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "1.工作流/10.日记文件/2025-12-12 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
