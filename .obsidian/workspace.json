@@ -102,37 +102,9 @@
               "icon": "lucide-file",
               "title": "作业"
             }
-          },
-          {
-            "id": "e2eb569f28122117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "书籍对齐"
-            }
-          },
-          {
-            "id": "1b34cbe683faad4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "作业"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+                "file": "1.工作流/10.日记文件/2025-12-12 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "作业 的大纲"
+              "title": "2025-12-12 周五 的大纲"
             }
           },
           {
@@ -338,20 +310,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b34cbe683faad4e",
+  "active": "2d1d92a84e276303",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/练习.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2025-12-12 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "assets/image/极限--张宇基础30讲-1765544087402.jpeg",
     "assets/image/极限--张宇基础30讲-1765543420074.jpeg",
-    "1.工作流/10.日记文件/2025-12-12 周五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "assets/image/极限--张宇基础30讲-1765531567512.jpeg",
     "assets/image/极限--张宇基础30讲-1765531485724.jpeg",
