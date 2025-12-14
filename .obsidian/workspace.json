@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/12月第二周周报.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12月第二周周报 的大纲"
+              "title": "作业 的大纲"
             }
           },
           {
@@ -260,10 +260,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fe6dc288df9e71f",
+  "active": "d5df2a3a8e161cfb",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/12月第一周周报(Log 78-83).md",
     "1.工作流/10.日记文件/12月第二周周报.md",
+    "1.工作流/10.日记文件/12月第一周周报(Log 78-83).md",
     "1.工作流/10.日记文件/2025-12-13 周六.md",
     "1.工作流/10.日记文件/2025-12-14 周日.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
