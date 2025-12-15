@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+                "file": "1.工作流/10.日记文件/2025-12-15 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍对齐 的大纲"
+              "title": "2025-12-15 周一 的大纲"
             }
           },
           {
@@ -292,8 +292,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7093f6daf796430a",
+  "active": "5b8b4bc8ef15cabe",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "assets/image/书籍对齐-1765769453466.jpeg",
     "assets/image/书籍对齐-1765769228959.jpeg",
     "assets/image/书籍对齐-1765769198871.jpeg",
@@ -307,7 +308,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "1.工作流/10.日记文件/2025-12-15 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/24.工程实践/Prompt大全.md",
@@ -329,7 +329,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "assets/image/极限--张宇基础30讲-1765544087402.jpeg",
-    "assets/image/极限--张宇基础30讲-1765543420074.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/21.AI世界/assets",
