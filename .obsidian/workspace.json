@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "1.工作流/10.日记文件/2025-12-15 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "极限--张宇基础30讲 的大纲"
+              "title": "2025-12-15 周一 的大纲"
             }
           },
           {
@@ -292,34 +292,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "629f3a4cd670bc32",
+  "active": "5b8b4bc8ef15cabe",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-15 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "assets/image/极限--张宇基础30讲-1765811682012.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811681858.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811672600.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811664704.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811552932.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811501159.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811501029.jpeg",
+    "assets/image/极限--张宇基础30讲-1765811491632.jpeg",
+    "1.工作流/10.日记文件/2025-12-15 周一.md",
     "assets/image/极限--张宇基础30讲-1765807136787.jpeg",
     "assets/image/极限--张宇基础30讲-1765807052154.jpeg",
-    "assets/image/极限--张宇基础30讲-1765806521608.jpeg",
-    "assets/image/极限--张宇基础30讲-1765806343694.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/上机.md",
-    "assets/image/上机-1765804571802.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "assets/image/ch2、ch3、ch4-1765802735570.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/assets",
     "1.工作流/10.日记文件/12月第二周周报.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
-    "assets/image/极限--张宇基础30讲-1765784539548.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
-    "assets/image/书籍对齐-1765769453466.jpeg",
-    "assets/image/书籍对齐-1765769228959.jpeg",
-    "assets/image/书籍对齐-1765769198871.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
