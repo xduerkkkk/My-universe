@@ -40,21 +40,17 @@
             }
           },
           {
-            "id": "5fe6dc288df9e71f",
+            "id": "2424287110876d3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/12月第二周周报.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12月第二周周报"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,13 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "作业 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -260,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5df2a3a8e161cfb",
+  "active": "2424287110876d3d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/12月第二周周报.md",
     "1.工作流/10.日记文件/12月第一周周报(Log 78-83).md",
     "1.工作流/10.日记文件/2025-12-13 周六.md",
@@ -269,7 +265,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
     "assets/image/书籍勘察-1765628326904.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/2025-12-12 周五.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作模板.md",
