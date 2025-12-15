@@ -42,6 +42,7 @@
           {
             "id": "5b8b4bc8ef15cabe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,12 +50,43 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-12-15 周一"
             }
+          },
+          {
+            "id": "7093f6daf796430a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "书籍对齐"
+            }
+          },
+          {
+            "id": "1cce95ad171227f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数的连续性"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-15 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-15 周一 的大纲"
+              "title": "书籍对齐 的大纲"
             }
           },
           {
@@ -260,8 +292,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b8b4bc8ef15cabe",
+  "active": "7093f6daf796430a",
   "lastOpenFiles": [
+    "assets/image/书籍对齐-1765767218922.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "1.工作流/10.日记文件/2025-12-15 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/24.工程实践/Prompt大全.md",
@@ -282,12 +321,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作素材.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "assets/image/极限--张宇基础30讲-1765544087402.jpeg",
     "assets/image/极限--张宇基础30讲-1765543420074.jpeg",
     "assets/image/极限--张宇基础30讲-1765531567512.jpeg",
@@ -297,7 +330,6 @@
     "assets/image/极限--张宇基础30讲-1765531138179.jpeg",
     "assets/image/极限--张宇基础30讲-1765531115816.jpeg",
     "assets/image/极限--张宇基础30讲-1765530886940.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/21.AI世界/assets",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignCenter",
       "LiAccessibility",
       "LiAnchor",
       "LiBadgeAlert",
-      "LiActivitySquare",
-      "LiAlbum"
+      "LiActivitySquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,5 +86,6 @@
   "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md": {
     "iconName": "LiAccessibility",
     "iconColor": "#ee11b3"
-  }
+  },
+  "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md": "LiAlignCenter"
 }

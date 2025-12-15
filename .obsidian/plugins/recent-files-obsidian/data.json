@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "书籍对齐",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md"
+    },
+    {
+      "basename": "函数的连续性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
+    },
+    {
+      "basename": "导数的定义",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md"
+    },
+    {
+      "basename": "洛必达法则",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md"
+    },
+    {
+      "basename": "求导法则",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md"
+    },
+    {
+      "basename": "微分的定义",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
+    },
+    {
       "basename": "2025-12-15 周一",
       "path": "1.工作流/10.日记文件/2025-12-15 周一.md"
     },
@@ -81,20 +105,12 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md"
     },
     {
-      "basename": "书籍对齐",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md"
-    },
-    {
       "basename": "ch2、ch3、ch4",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
     {
       "basename": "困惑",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
-    },
-    {
-      "basename": "函数的连续性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
     },
     {
       "basename": "困惑",
@@ -183,22 +199,6 @@
     {
       "basename": "指令",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md"
-    },
-    {
-      "basename": "加减乘除",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md"
-    },
-    {
-      "basename": "微机原理规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md"
-    },
-    {
-      "basename": "科技与认知类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md"
-    },
-    {
-      "basename": "告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型",
-      "path": "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md"
     }
   ],
   "omittedPaths": [],
