@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍对齐 的大纲"
+              "title": "极限--张宇基础30讲 的大纲"
             }
           },
           {
@@ -320,12 +320,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6c3a82b0472adf1",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
     "assets/image/极限--张宇基础30讲-1765784539548.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
