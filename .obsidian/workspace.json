@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
+                "file": "1.工作流/10.日记文件/2025-12-16 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "外刊记录 的大纲"
+              "title": "2025-12-16 周二 的大纲"
             }
           },
           {
@@ -280,10 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f32534b1650a7d5",
+  "active": "a355a246143e3869",
   "lastOpenFiles": [
-    "2.知识库/24.工程实践/Prompt大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
+    "2.知识库/24.工程实践/Prompt大全.md",
     "assets/image/外刊记录-1765848630031.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md",
