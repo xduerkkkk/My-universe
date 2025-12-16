@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,6 +151,16 @@
               "state": {},
               "icon": "book",
               "title": "查词面板"
+            }
+          },
+          {
+            "id": "01887981ed4857e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -212,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-06 周六.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-12-06 周六 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -295,11 +304,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a355a246143e3869",
+  "active": "bc557e40e6065b21",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
+    "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md",
     "2.知识库/21.AI世界/01机器学习/PRML",
     "assets/image/PRML-1765875215498.jpeg",
     "assets/image/PRML-1765873935157.jpeg",
@@ -310,12 +325,10 @@
     "assets/image/PRML-1765871404000.jpeg",
     "2.知识库/21.AI世界/01机器学习/assets",
     "2.知识库/24.工程实践/Prompt大全.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "assets/image/外刊记录-1765848630031.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/上机.md",
     "1.工作流/10.日记文件/2025-12-15 周一.md",
@@ -333,10 +346,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/21.AI世界/assets",
