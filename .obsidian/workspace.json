@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+                "file": "1.工作流/10.日记文件/2025-12-16 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（一） 的大纲"
+              "title": "2025-12-16 周二 的大纲"
             }
           },
           {
@@ -305,16 +305,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc557e40e6065b21",
+  "active": "a355a246143e3869",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
     "assets/image/看见矩阵（一）-1765891066325.jpeg",
     "assets/image/看见矩阵（一）-1765891058170.jpeg",
     "assets/image/看见矩阵（一）-1765890994402.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
