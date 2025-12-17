@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/上机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch2、ch3、ch4"
+              "title": "上机"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/上机.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch2、ch3、ch4 的大纲"
+              "title": "上机 的大纲"
             }
           },
           {
@@ -293,10 +293,14 @@
   },
   "active": "9cb609dc1f8e20d0",
   "lastOpenFiles": [
+    "assets/image/上机-1765965843996.jpeg",
+    "assets/image/上机-1765965300464.jpeg",
+    "assets/image/上机-1765965064613.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/上机.md",
     "1.工作流/10.日记文件/2025-12-17 周三.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "assets/image/绪论-1765959881961.jpeg",
     "assets/image/绪论-1765953645557.jpeg",
     "assets/image/绪论-1765953639499.jpeg",
@@ -305,12 +309,10 @@
     "assets/image/绪论-1765953627899.jpeg",
     "assets/image/绪论-1765953624495.jpeg",
     "assets/image/绪论-1765953621105.jpeg",
-    "assets/image/绪论-1765938062768.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "assets/image/看见矩阵（一）-1765891066325.jpeg",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
@@ -325,7 +327,6 @@
     "1.工作流/10.日记文件/2025-12-15 周一.md",
     "1.工作流/10.日记文件/2025-12-13 周六.md",
     "1.工作流/10.日记文件/2025-12-14 周日.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/assets",
     "1.工作流/10.日记文件/12月第二周周报.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
