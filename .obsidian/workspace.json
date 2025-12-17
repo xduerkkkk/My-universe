@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+                "file": "1.工作流/10.日记文件/2025-12-17 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "绪论 的大纲"
+              "title": "2025-12-17 周三 的大纲"
             }
           },
           {
@@ -277,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e70d9b7fcd216305",
+  "active": "0f32534b1650a7d5",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "assets/image/绪论-1765953645557.jpeg",
     "assets/image/绪论-1765953639499.jpeg",
     "assets/image/绪论-1765953635226.jpeg",
@@ -292,11 +293,9 @@
     "1.工作流/10.日记文件/2025-12-17 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/看见矩阵（一）-1765891066325.jpeg",
     "assets/image/看见矩阵（一）-1765891058170.jpeg",
-    "assets/image/看见矩阵（一）-1765890994402.jpeg",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
