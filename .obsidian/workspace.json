@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+                "file": "1.工作流/10.日记文件/2025-12-18 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "绪论 的大纲"
+              "title": "2025-12-18 周四 的大纲"
             }
           },
           {
@@ -275,11 +275,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e70d9b7fcd216305",
+  "active": "26292c2227dfdc3c",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "1.工作流/10.日记文件/2025-12-18 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "1.工作流/10.日记文件/2025-12-17 周三.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
