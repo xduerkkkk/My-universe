@@ -58,6 +58,7 @@
           {
             "id": "26292c2227dfdc3c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +66,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-12-18 周四"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-18 周四.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-18 周四 的大纲"
+              "title": "绪论 的大纲"
             }
           },
           {
@@ -275,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26292c2227dfdc3c",
+  "active": "e70d9b7fcd216305",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "1.工作流/10.日记文件/2025-12-18 周四.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/2025-12-17 周三.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
