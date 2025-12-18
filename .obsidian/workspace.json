@@ -86,49 +86,21 @@
             }
           },
           {
-            "id": "8e71a485cd764402",
+            "id": "8bc8bdb5b40faf1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
+                "file": "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总OS"
-            }
-          },
-          {
-            "id": "496c4352ded8eaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BedRock实验"
-            }
-          },
-          {
-            "id": "e5e6bd30ce7dc515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "总OS"
+              "title": "矩阵直觉大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（二） 的大纲"
+              "title": "作业 的大纲"
             }
           },
           {
@@ -333,16 +305,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58602dc155f18c89",
+  "active": "d5df2a3a8e161cfb",
   "lastOpenFiles": [
+    "assets/image/作业-1766065808018.jpeg",
     "1.工作流/10.日记文件/2025-12-18 周四.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+    "assets/image/看见矩阵（二）-1766062236522.jpeg",
+    "assets/image/看见矩阵（二）-1766062222360.jpeg",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "assets/image/绪论-1766046184471.jpeg",
     "assets/image/绪论-1766044831698.jpeg",
     "assets/image/绪论-1766042872410.jpeg",
@@ -355,8 +330,6 @@
     "assets/image/上机-1766019337407.jpeg",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
     "assets/image/上机-1765966169266.jpeg",
-    "assets/image/上机-1765966101755.jpeg",
-    "assets/image/上机-1765966027823.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
@@ -375,7 +348,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/assets",
     "1.工作流/10.日记文件/12月第二周周报.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
     "2.知识库/21.AI世界/assets",
