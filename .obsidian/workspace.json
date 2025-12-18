@@ -71,8 +71,7 @@
               "title": "绪论"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 285.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-17 周三.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-17 周三 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -277,13 +276,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f32534b1650a7d5",
+  "active": "aa1f673e7d82b242",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-17 周三.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
     "assets/image/上机-1766019575669.jpeg",
     "assets/image/上机-1766019337407.jpeg",
-    "1.工作流/10.日记文件/2025-12-17 周三.md",
     "1.工作流/10.日记文件/2025-12-16 周二.md",
     "assets/image/上机-1765966169266.jpeg",
     "assets/image/上机-1765966101755.jpeg",
