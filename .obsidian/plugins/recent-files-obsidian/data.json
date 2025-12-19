@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-12-18 周四",
-      "path": "1.工作流/10.日记文件/2025-12-18 周四.md"
+      "basename": "绪论",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md"
     },
     {
-      "basename": "矩阵直觉大纲",
-      "path": "3.创造物/30.输出文章/数学/矩阵直觉大纲.md"
+      "basename": "2025-12-19 周五",
+      "path": "1.工作流/10.日记文件/2025-12-19 周五.md"
     },
     {
-      "basename": "看见矩阵（二）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
+      "basename": "绪论草稿",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md"
     },
     {
-      "basename": "待办收集箱",
-      "path": "1.工作流/11.事件收集箱/待办收集箱.md"
+      "basename": "01大纲",
+      "path": "2.知识库/21.AI世界/01机器学习/01大纲.md"
+    },
+    {
+      "basename": "李飞飞--空间智能",
+      "path": "2.知识库/21.AI世界/视频，文章/李飞飞--空间智能.md"
+    },
+    {
+      "basename": "Andrej Karpathy访谈",
+      "path": "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md"
     },
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
-      "basename": "2025-12-17 周三",
-      "path": "1.工作流/10.日记文件/2025-12-17 周三.md"
-    },
-    {
       "basename": "作业",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
+    },
+    {
+      "basename": "Prompt大全",
+      "path": "2.知识库/24.工程实践/Prompt大全.md"
+    },
+    {
+      "basename": "2025-12-18 周四",
+      "path": "1.工作流/10.日记文件/2025-12-18 周四.md"
+    },
+    {
+      "basename": "看见矩阵（二）",
+      "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
+    },
+    {
+      "basename": "矩阵直觉大纲",
+      "path": "3.创造物/30.输出文章/数学/矩阵直觉大纲.md"
+    },
+    {
+      "basename": "待办收集箱",
+      "path": "1.工作流/11.事件收集箱/待办收集箱.md"
+    },
+    {
+      "basename": "2025-12-17 周三",
+      "path": "1.工作流/10.日记文件/2025-12-17 周三.md"
     },
     {
       "basename": "看见矩阵（一）",
@@ -39,10 +67,6 @@
     {
       "basename": "BedRock实验",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md"
-    },
-    {
-      "basename": "绪论",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md"
     },
     {
       "basename": "康凯23009200942",
@@ -71,10 +95,6 @@
     {
       "basename": "学习方法（bedrock期间）",
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md"
-    },
-    {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
     },
     {
       "basename": "读文献初期SOP方法论",
@@ -179,26 +199,6 @@
     {
       "basename": "写作预测",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作预测.md"
-    },
-    {
-      "basename": "练习",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/练习.md"
-    },
-    {
-      "basename": "写作素材",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作素材.md"
-    },
-    {
-      "basename": "写作优化",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/英语写作/写作优化.md"
-    },
-    {
-      "basename": "地道表达与核心概念枢纽",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
-    },
-    {
-      "basename": "输出枢纽",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md"
     }
   ],
   "omittedPaths": [],

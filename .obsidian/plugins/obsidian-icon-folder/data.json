@@ -88,10 +88,10 @@
     "iconColor": "#ee11b3"
   },
   "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md": "LiAlignCenter",
-  "2.知识库/21.AI世界/01机器学习/PRML/绪论.md": "LiAlbum",
   "2.知识库/21.AI世界/01机器学习/PRML": {
     "iconName": "LiAlbum",
     "iconColor": "#a21010"
   },
-  "3.创造物/30.输出文章/数学/看见矩阵（一）.md": "LiAlbum"
+  "3.创造物/30.输出文章/数学/看见矩阵（一）.md": "LiAlbum",
+  "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md": "LiAlbum"
 }
