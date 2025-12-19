@@ -102,23 +102,9 @@
               "icon": "lucide-file",
               "title": "张宇基础30讲-导数"
             }
-          },
-          {
-            "id": "b5bfef78c2256e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "书籍对齐"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲-导数.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "张宇基础30讲-导数 的大纲"
+              "title": "作业 的大纲"
             }
           },
           {
@@ -323,11 +309,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc2dad9ff30bace1",
+  "active": "d5df2a3a8e161cfb",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-19 周五.md",
+    "assets/image/2025-12-19 周五-1766142523046.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲-导数.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/张宇基础30讲-导数.md",
     "assets/image/张宇基础30讲-导数-1766129885934.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
@@ -338,7 +326,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/中值定理.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
-    "1.工作流/10.日记文件/2025-12-19 周五.md",
     "assets/image/极限--张宇基础30讲-1766127695011.jpeg",
     "assets/image/极限--张宇基础30讲-1766127621856.jpeg",
     "assets/image/极限--张宇基础30讲-1766127200569.jpeg",
@@ -360,7 +347,6 @@
     "assets/image/绪论-1766108682038.jpeg",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-12-18 周四.md",
-    "assets/image/作业-1766065808018.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/21.AI世界/01机器学习/PRML",
     "2.知识库/21.AI世界/01机器学习/assets",
