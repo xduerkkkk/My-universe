@@ -9,6 +9,10 @@
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md"
     },
     {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
       "basename": "书籍勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md"
     },
@@ -17,20 +21,24 @@
       "path": "2.知识库/21.AI世界/01机器学习/PRML/导读.md"
     },
     {
-      "basename": "绪论草稿",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md"
+      "basename": "技术收集箱",
+      "path": "1.工作流/11.事件收集箱/技术收集箱.md"
+    },
+    {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "作业",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
     },
     {
       "basename": "绪论",
       "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md"
     },
     {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "作业",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
+      "basename": "绪论草稿",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md"
     },
     {
       "basename": "视频勘察",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-12-16 周二",
       "path": "1.工作流/10.日记文件/2025-12-16 周二.md"
-    },
-    {
-      "basename": "ch2、ch3、ch4",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
-    },
-    {
-      "basename": "外刊记录",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md"
     }
   ],
   "omittedPaths": [],
