@@ -109,16 +109,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+                "file": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "书籍对齐"
+              "title": "护肤、护发"
+            }
+          },
+          {
+            "id": "81e6c24d47e87299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-19 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-19 周五"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数--张宇基础30讲.md",
+                "file": "1.工作流/10.日记文件/2025-12-19 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "导数--张宇基础30讲 的大纲"
+              "title": "2025-12-19 周五 的大纲"
             }
           },
           {
@@ -323,8 +337,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc2dad9ff30bace1",
+  "active": "81e6c24d47e87299",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-18 周四.md",
+    "1.工作流/10.日记文件/2025-12-19 周五.md",
+    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数--张宇基础30讲.md",
     "assets/image/导数--张宇基础30讲-1766149992503.jpeg",
@@ -333,7 +350,6 @@
     "assets/image/导数--张宇基础30讲-1766147688092.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-    "1.工作流/10.日记文件/2025-12-19 周五.md",
     "assets/image/2025-12-19 周五-1766142523046.jpeg",
     "assets/image/张宇基础30讲-导数-1766129885934.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
@@ -360,7 +376,6 @@
     "2.知识库/21.AI世界/视频，文章/李飞飞--空间智能.md",
     "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "1.工作流/10.日记文件/2025-12-18 周四.md",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/21.AI世界/01机器学习/PRML",
     "2.知识库/21.AI世界/01机器学习/assets",
