@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa1f673e7d82b242",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0000随便丢收集箱"
-            }
-          },
-          {
             "id": "d5df2a3a8e161cfb",
             "type": "leaf",
             "pinned": true,
@@ -56,83 +40,53 @@
             }
           },
           {
-            "id": "6f5237d4b82e6c65",
+            "id": "d267b89ad3c342c8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-19 周五.md",
+                "file": "1.工作流/10.日记文件/2025-12-20 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-19 周五"
+              "title": "2025-12-20 周六"
             }
           },
           {
-            "id": "7771c9d4d140bc7a",
+            "id": "01a1676075bdcdcc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "极限--张宇基础30讲"
+              "title": "BedRock实验"
             }
           },
           {
-            "id": "cc2dad9ff30bace1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数--张宇基础30讲.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "导数--张宇基础30讲"
-            }
-          },
-          {
-            "id": "cdc5f87e0765c11f",
+            "id": "210e3a3790e4d860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "护肤、护发"
-            }
-          },
-          {
-            "id": "81e6c24d47e87299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-19 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-19 周五"
+              "title": "书籍勘察"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-19 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-19 周五 的大纲"
+              "title": "书籍勘察 的大纲"
             }
           },
           {
@@ -337,19 +291,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e6c24d47e87299",
+  "active": "210e3a3790e4d860",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-18 周四.md",
+    "assets/image/书籍勘察-1766200427914.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+    "1.工作流/10.日记文件/2025-12-20 周六.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "0.核心/00.规划(Plan)/2.当前项目/408.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "assets/image/书籍勘察-1766199608906.jpeg",
+    "assets/image/书籍勘察-1766198936491.jpeg",
+    "assets/image/书籍勘察-1766198065332.jpeg",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
+    "1.工作流/10.日记文件/BedRock 0-50天总结.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "1.工作流/11.事件收集箱/未命名.base",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-12-19 周五.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+    "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数--张宇基础30讲.md",
+    "1.工作流/10.日记文件/2025-12-18 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "assets/image/导数--张宇基础30讲-1766149992503.jpeg",
     "assets/image/导数--张宇基础30讲-1766148362140.jpeg",
     "assets/image/导数--张宇基础30讲-1766148137217.jpeg",
     "assets/image/导数--张宇基础30讲-1766147688092.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "assets/image/2025-12-19 周五-1766142523046.jpeg",
     "assets/image/张宇基础30讲-导数-1766129885934.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
@@ -360,22 +331,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/中值定理.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
     "assets/image/极限--张宇基础30讲-1766127695011.jpeg",
-    "assets/image/极限--张宇基础30讲-1766127621856.jpeg",
-    "assets/image/极限--张宇基础30讲-1766127200569.jpeg",
-    "assets/image/极限--张宇基础30讲-1766127021629.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-    "2.知识库/24.工程实践/Prompt大全.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
-    "2.知识库/21.AI世界/01机器学习/01大纲.md",
-    "2.知识库/21.AI世界/视频，文章/李飞飞--空间智能.md",
-    "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/21.AI世界/01机器学习/PRML",
     "2.知识库/21.AI世界/01机器学习/assets",
@@ -383,8 +339,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理",
-    "2.知识库/21.AI世界/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/assets",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
