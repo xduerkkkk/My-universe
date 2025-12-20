@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f2f11ab526d56a87",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0000随便丢收集箱"
+            }
+          },
+          {
             "id": "d5df2a3a8e161cfb",
             "type": "leaf",
             "pinned": true,
@@ -88,21 +104,21 @@
             }
           },
           {
-            "id": "f2615494fea0b955",
+            "id": "c6c045dd93e4a0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "王道题"
+              "title": "导读"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -309,19 +325,24 @@
   },
   "active": "210e3a3790e4d860",
   "lastOpenFiles": [
+    "assets/image/书籍勘察-1766220671194.jpeg",
+    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
+    "1.工作流/10.日记文件/2025-12-20 周六.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "assets/image/书籍勘察-1766203877603.jpeg",
     "assets/image/书籍勘察-1766202792611.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "assets/image/书籍勘察-1766202535971.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/任务.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名.md",
     "assets/image/书籍勘察-1766200427914.jpeg",
-    "1.工作流/10.日记文件/2025-12-20 周六.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
     "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
@@ -329,10 +350,8 @@
     "assets/image/书籍勘察-1766199608906.jpeg",
     "assets/image/书籍勘察-1766198936491.jpeg",
     "assets/image/书籍勘察-1766198065332.jpeg",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
     "1.工作流/11.事件收集箱/未命名.base",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2025-12-19 周五.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
     "1.工作流/10.日记文件/25年12月",
@@ -342,11 +361,8 @@
     "assets/image/导数--张宇基础30讲-1766149992503.jpeg",
     "assets/image/导数--张宇基础30讲-1766148362140.jpeg",
     "assets/image/导数--张宇基础30讲-1766148137217.jpeg",
-    "assets/image/导数--张宇基础30讲-1766147688092.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/曲率.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/21.AI世界/01机器学习/PRML",
