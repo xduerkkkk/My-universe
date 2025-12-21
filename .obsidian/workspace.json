@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-20 周六.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-20 周六 的大纲"
+              "title": "BedRock实验 的大纲"
             }
           },
           {
@@ -309,12 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d267b89ad3c342c8",
+  "active": "01a1676075bdcdcc",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "1.工作流/10.日记文件/2025-12-20 周六.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "1.工作流/11.事件收集箱/技术收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
