@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "e70d9b7fcd216305",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "绪论草稿"
-            }
-          },
-          {
-            "id": "d267b89ad3c342c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-20 周六.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-12-20 周六"
-            }
-          },
-          {
             "id": "01a1676075bdcdcc",
             "type": "leaf",
             "pinned": true,
@@ -88,53 +56,39 @@
             }
           },
           {
-            "id": "210e3a3790e4d860",
+            "id": "66d06e8ba491bdb0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "1.工作流/10.日记文件/2025-12-22 周一.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "书籍勘察"
+              "title": "2025-12-22 周一"
             }
           },
           {
-            "id": "cf5a89ddcd976fb9",
+            "id": "fb866e8a1758844a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "总OS"
-            }
-          },
-          {
-            "id": "fa8a0868454e32a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BedRock实验"
+              "title": "微分概念与计算--张宇基础30讲"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 270.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -217,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BedRock实验 的大纲"
+              "title": "微分概念与计算--张宇基础30讲 的大纲"
             }
           },
           {
@@ -339,12 +293,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8a0868454e32a3",
+  "active": "fb866e8a1758844a",
   "lastOpenFiles": [
+    "assets/image/微分概念与计算--张宇基础30讲-1766375378588.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
+    "1.工作流/10.日记文件/2025-12-22 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+    "1.工作流/10.日记文件/2025-12-20 周六.md",
+    "1.工作流/10.日记文件/12月第三周周报.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
@@ -359,14 +321,6 @@
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/身体OS.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/吃饭.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
     "assets/image/书籍勘察-1766221376971.jpeg",
     "assets/image/书籍勘察-1766221369583.jpeg",
     "assets/image/书籍勘察-1766220671194.jpeg",
