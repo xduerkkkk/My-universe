@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "2762cb6fb8e40207",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "总OS"
-            }
-          },
-          {
-            "id": "01a1676075bdcdcc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "BedRock实验"
-            }
-          },
-          {
             "id": "66d06e8ba491bdb0",
             "type": "leaf",
             "pinned": true,
@@ -118,9 +86,39 @@
               "icon": "lucide-file",
               "title": "极限--张宇基础30讲"
             }
+          },
+          {
+            "id": "2762cb6fb8e40207",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "总OS"
+            }
+          },
+          {
+            "id": "3ab66a53a4d58caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "理解知识"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "1.工作流/10.日记文件/2025-12-22 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "极限--张宇基础30讲 的大纲"
+              "title": "2025-12-22 周一 的大纲"
             }
           },
           {
@@ -325,32 +323,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc869c3084f6c5c",
+  "active": "66d06e8ba491bdb0",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
+    "1.工作流/10.日记文件/2025-12-22 周一.md",
+    "0.核心/00.规划(Plan)/0.North_Star/未命名.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "assets/image/极限--张宇基础30讲-1766406610248.jpeg",
+    "assets/image/极限--张宇基础30讲-1766406602136.jpeg",
+    "assets/image/极限--张宇基础30讲-1766404244605.jpeg",
     "assets/image/极限--张宇基础30讲-1766395313550.jpeg",
     "assets/image/极限--张宇基础30讲-1766393270858.jpeg",
     "assets/image/极限--张宇基础30讲-1766393112932.jpeg",
     "assets/image/极限--张宇基础30讲-1766392677437.jpeg",
     "assets/image/极限--张宇基础30讲-1766392315002.jpeg",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "assets/image/微分概念与计算--张宇基础30讲-1766390400285.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766389924811.jpeg",
-    "1.工作流/10.日记文件/2025-12-22 周一.md",
-    "assets/image/微分概念与计算--张宇基础30讲-1766375378588.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "1.工作流/10.日记文件/2025-12-20 周六.md",
     "1.工作流/10.日记文件/12月第三周周报.md",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
@@ -358,11 +361,6 @@
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
-    "assets/image/书籍勘察-1766221376971.jpeg",
-    "assets/image/书籍勘察-1766221369583.jpeg",
-    "assets/image/书籍勘察-1766220671194.jpeg",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
