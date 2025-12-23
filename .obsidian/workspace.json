@@ -106,6 +106,7 @@
           {
             "id": "abcdfaf2b92f4a2d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -113,8 +114,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "看见矩阵（二）"
+            }
+          },
+          {
+            "id": "432de0e1824647bb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "看见矩阵（一）"
             }
           }
         ],
@@ -325,8 +343,14 @@
   },
   "active": "abcdfaf2b92f4a2d",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "1.工作流/10.日记文件/2025-12-23 周二.md",
+    "assets/image/看见矩阵（二）-1766475329346.jpeg",
+    "assets/image/看见矩阵（二）-1766475178558.jpeg",
+    "assets/image/看见矩阵（二）-1766475089380.jpeg",
+    "assets/image/看见矩阵（二）-1766475031557.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "assets/image/概率分布-1766461113002.jpeg",
     "assets/image/概率分布-1766461103754.jpeg",
@@ -346,10 +370,6 @@
     "assets/image/极限--张宇基础30讲-1766406602136.jpeg",
     "assets/image/极限--张宇基础30讲-1766404244605.jpeg",
     "assets/image/极限--张宇基础30讲-1766395313550.jpeg",
-    "assets/image/极限--张宇基础30讲-1766393270858.jpeg",
-    "assets/image/极限--张宇基础30讲-1766393112932.jpeg",
-    "assets/image/极限--张宇基础30讲-1766392677437.jpeg",
-    "assets/image/极限--张宇基础30讲-1766392315002.jpeg",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
@@ -359,7 +379,6 @@
     "1.工作流/10.日记文件/12月第三周周报.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
