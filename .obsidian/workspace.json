@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（二） 的大纲"
+              "title": "概率分布 的大纲"
             }
           },
           {
@@ -341,19 +341,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abcdfaf2b92f4a2d",
+  "active": "b7ef3dd96aefd5f6",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+    "assets/image/概率分布-1766494400347.jpeg",
+    "assets/image/概率分布-1766494366825.jpeg",
+    "assets/image/概率分布-1766494357888.jpeg",
+    "assets/image/概率分布-1766494168558.jpeg",
+    "assets/image/概率分布-1766493125073.jpeg",
+    "assets/image/概率分布-1766491492353.jpeg",
+    "assets/image/概率分布-1766491241736.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "1.工作流/10.日记文件/2025-12-23 周二.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/看见矩阵（二）-1766475329346.jpeg",
     "assets/image/看见矩阵（二）-1766475178558.jpeg",
     "assets/image/看见矩阵（二）-1766475089380.jpeg",
     "assets/image/看见矩阵（二）-1766475031557.jpeg",
-    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
-    "assets/image/概率分布-1766461113002.jpeg",
-    "assets/image/概率分布-1766461103754.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
@@ -366,10 +371,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
     "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "assets/image/极限--张宇基础30讲-1766406610248.jpeg",
-    "assets/image/极限--张宇基础30讲-1766406602136.jpeg",
-    "assets/image/极限--张宇基础30讲-1766404244605.jpeg",
-    "assets/image/极限--张宇基础30讲-1766395313550.jpeg",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
@@ -378,7 +379,6 @@
     "1.工作流/10.日记文件/2025-12-20 周六.md",
     "1.工作流/10.日记文件/12月第三周周报.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
-    "0.核心/00.规划(Plan)/2.当前项目/408.md",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
