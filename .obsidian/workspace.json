@@ -120,15 +120,17 @@
           {
             "id": "acbecf08249bef92",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "作业"
+              "title": "ch5 ch6"
             }
           }
         ],
@@ -215,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "作业 的大纲"
+              "title": "ch5 ch6 的大纲"
             }
           },
           {
@@ -339,29 +341,29 @@
   },
   "active": "acbecf08249bef92",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
+    "assets/image/ch5 ch6-1766545475234.jpeg",
+    "assets/image/ch5 ch6-1766545437020.jpeg",
+    "assets/image/ch5 ch6-1766545417750.jpeg",
+    "assets/image/ch5 ch6-1766545372381.jpeg",
     "assets/image/ch5 ch6-1766541546304.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "1.工作流/10.日记文件/2025-12-24 周三.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/饮食.md",
     "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "1.工作流/10.日记文件/2025-12-23 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "assets/image/看见矩阵（二）-1766496764211.jpeg",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "assets/image/概率分布-1766494400347.jpeg",
     "assets/image/概率分布-1766494366825.jpeg",
     "assets/image/概率分布-1766494357888.jpeg",
     "assets/image/概率分布-1766494168558.jpeg",
-    "assets/image/概率分布-1766493125073.jpeg",
-    "assets/image/概率分布-1766491492353.jpeg",
-    "assets/image/概率分布-1766491241736.jpeg",
-    "assets/image/看见矩阵（二）-1766475329346.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
