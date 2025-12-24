@@ -88,38 +88,6 @@
             }
           },
           {
-            "id": "391560aacf2eaf79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "绪论"
-            }
-          },
-          {
-            "id": "abcdfaf2b92f4a2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "看见矩阵（二）"
-            }
-          },
-          {
             "id": "432de0e1824647bb",
             "type": "leaf",
             "pinned": true,
@@ -134,9 +102,23 @@
               "icon": "lucide-file",
               "title": "看见矩阵（一）"
             }
+          },
+          {
+            "id": "4394d6c2e61a005d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "看见矩阵（二）"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
+                "file": "1.工作流/10.日记文件/2025-12-23 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "概率分布 的大纲"
+              "title": "2025-12-23 周二 的大纲"
             }
           },
           {
@@ -341,8 +323,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ef3dd96aefd5f6",
+  "active": "26510654950c5fea",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+    "assets/image/看见矩阵（二）-1766496764211.jpeg",
+    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "assets/image/概率分布-1766494400347.jpeg",
     "assets/image/概率分布-1766494366825.jpeg",
     "assets/image/概率分布-1766494357888.jpeg",
@@ -350,15 +337,9 @@
     "assets/image/概率分布-1766493125073.jpeg",
     "assets/image/概率分布-1766491492353.jpeg",
     "assets/image/概率分布-1766491241736.jpeg",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "1.工作流/10.日记文件/2025-12-23 周二.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/看见矩阵（二）-1766475329346.jpeg",
     "assets/image/看见矩阵（二）-1766475178558.jpeg",
-    "assets/image/看见矩阵（二）-1766475089380.jpeg",
-    "assets/image/看见矩阵（二）-1766475031557.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
