@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+      "basename": "2025-12-24 周三",
+      "path": "1.工作流/10.日记文件/2025-12-24 周三.md"
+    },
+    {
+      "basename": "ch7与ch8 主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md"
+    },
+    {
+      "basename": "数据通路",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
     },
     {
       "basename": "ch5 ch6",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
     },
     {
+      "basename": "ch6 dma传输与存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch6 dma传输与存储系统概述.md"
+    },
+    {
       "basename": "作业",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md"
     },
     {
-      "basename": "支持向量机",
-      "path": "2.知识库/21.AI世界/模式识别/支持向量机.md"
+      "basename": "微指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
     },
     {
-      "basename": "2025-12-24 周三",
-      "path": "1.工作流/10.日记文件/2025-12-24 周三.md"
+      "basename": "cpu问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
+    },
+    {
+      "basename": "加减乘除",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
+    },
+    {
+      "basename": "chache",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/chache.md"
+    },
+    {
+      "basename": "问题记录2",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/问题记录2.md"
+    },
+    {
+      "basename": "未命名看板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/未命名看板.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/问题记录.md"
+    },
+    {
+      "basename": "ch2软件系统与计算机性能指标和评价",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "支持向量机",
+      "path": "2.知识库/21.AI世界/模式识别/支持向量机.md"
     },
     {
       "basename": "特征选择",
@@ -151,54 +199,6 @@
     {
       "basename": "12月第三周周报",
       "path": "1.工作流/10.日记文件/12月第三周周报.md"
-    },
-    {
-      "basename": "408",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/408.md"
-    },
-    {
-      "basename": "英语方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md"
-    },
-    {
-      "basename": "掌握的标准",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/掌握的标准.md"
-    },
-    {
-      "basename": "学习方法（bedrock期间）",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md"
-    },
-    {
-      "basename": "搜集资料、文献，以及阅读方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md"
-    },
-    {
-      "basename": "碰到困难",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md"
-    },
-    {
-      "basename": "开启新任务的时机",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md"
-    },
-    {
-      "basename": "复习",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/复习.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "01-BedRock Log 150天计划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md"
-    },
-    {
-      "basename": "03-AI",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
-    },
-    {
-      "basename": "身体OS",
-      "path": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/身体OS.md"
     }
   ],
   "omittedPaths": [],
