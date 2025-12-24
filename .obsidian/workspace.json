@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "b7ef3dd96aefd5f6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "概率分布"
-            }
-          },
-          {
             "id": "811336d1d3b61872",
             "type": "leaf",
             "pinned": true,
@@ -85,36 +69,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "2025-12-24 周三"
-            }
-          },
-          {
-            "id": "432de0e1824647bb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "看见矩阵（一）"
-            }
-          },
-          {
-            "id": "73a1df0a46cddb7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "寒假前健身"
             }
           },
           {
@@ -132,9 +86,19 @@
               "icon": "lucide-file",
               "title": "ch5 ch6"
             }
+          },
+          {
+            "id": "93fc6e5778aa7327",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,13 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch5 ch6 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -339,23 +302,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acbecf08249bef92",
+  "active": "93fc6e5778aa7327",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
+    "2.知识库/21.AI世界/模式识别/支持向量机.md",
+    "1.工作流/10.日记文件/2025-12-24 周三.md",
+    "2.知识库/21.AI世界/模式识别/特征选择.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/子集评估.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/寻找最佳特征.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/维度灾难.md",
+    "2.知识库/21.AI世界/模式识别/第三章/fisher.md",
+    "2.知识库/21.AI世界/01机器学习/基础概念/感知机.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
     "assets/image/ch5 ch6-1766545475234.jpeg",
     "assets/image/ch5 ch6-1766545437020.jpeg",
     "assets/image/ch5 ch6-1766545417750.jpeg",
     "assets/image/ch5 ch6-1766545372381.jpeg",
     "assets/image/ch5 ch6-1766541546304.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "1.工作流/10.日记文件/2025-12-24 周三.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/饮食.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "1.工作流/10.日记文件/2025-12-23 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "assets/image/看见矩阵（二）-1766496764211.jpeg",
@@ -365,17 +337,9 @@
     "assets/image/概率分布-1766494357888.jpeg",
     "assets/image/概率分布-1766494168558.jpeg",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
     "1.工作流/10.日记文件/2025-12-22 周一.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
-    "0.核心/00.规划(Plan)/0.North_Star/未命名.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-    "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
