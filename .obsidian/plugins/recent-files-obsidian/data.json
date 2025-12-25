@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "总OS",
+      "path": "0.核心/01.学习操作系统My_OS/总OS.md"
+    },
+    {
       "basename": "微分概念与计算--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "2025-12-25 周四",
       "path": "1.工作流/10.日记文件/2025-12-25 周四.md"
-    },
-    {
-      "basename": "ch5 ch6",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
     },
     {
       "basename": "困惑",
@@ -187,18 +199,6 @@
     {
       "basename": "维度灾难",
       "path": "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/维度灾难.md"
-    },
-    {
-      "basename": "fisher",
-      "path": "2.知识库/21.AI世界/模式识别/第三章/fisher.md"
-    },
-    {
-      "basename": "感知机",
-      "path": "2.知识库/21.AI世界/01机器学习/基础概念/感知机.md"
-    },
-    {
-      "basename": "408学习框架",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md"
     }
   ],
   "omittedPaths": [],
