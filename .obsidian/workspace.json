@@ -72,35 +72,67 @@
             }
           },
           {
-            "id": "c4b3a00fd5b114d1",
+            "id": "c139774f0ac85578",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
+                "file": "1.工作流/10.日记文件/2025-12-25 周四.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "ch7与ch8 主存"
+              "title": "2025-12-25 周四"
             }
           },
           {
-            "id": "fdd4093713ebd1fb",
+            "id": "52c85351b32e8eef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "极限--张宇基础30讲"
+            }
+          },
+          {
+            "id": "3df88e95b377d5e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/12月第二周周报.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12月第二周周报"
+              "title": "书籍对齐"
+            }
+          },
+          {
+            "id": "8088bc917914d3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "两个重要极限"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -183,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch7与ch8 主存 的大纲"
+              "title": "极限--张宇基础30讲 的大纲"
             }
           },
           {
@@ -305,13 +337,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b3a00fd5b114d1",
+  "active": "52c85351b32e8eef",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/两个重要极限.md",
+    "assets/image/两个重要极限-1766630048385.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
+    "assets/image/极限--张宇基础30讲-1766629417970.jpeg",
+    "1.工作流/10.日记文件/2025-12-25 周四.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "1.工作流/10.日记文件/2025-12-24 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
     "1.工作流/10.日记文件/12月第二周周报.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/ch7与ch8 主存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
+    "1.工作流/10.日记文件/25年12月/2025-12-24 周三.md",
     "1.工作流/10.日记文件/12月第三周周报.md",
     "1.工作流/10.日记文件/12月第一周周报(Log 78-83).md",
     "1.工作流/10.日记文件/25年11月/25年11月第四周周报（bedrock71 11.24-11.30）.md",
@@ -324,16 +368,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业.md",
     "assets/image/ch5 ch6-1766567452377.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/chache.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/问题记录2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/未命名看板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/主存/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/21.AI世界/模式识别/支持向量机.md",
     "assets/image/ch5 ch6-1766545475234.jpeg",
     "assets/image/ch5 ch6-1766545437020.jpeg",
     "assets/image/ch5 ch6-1766545417750.jpeg",
@@ -341,8 +375,6 @@
     "assets/image/ch5 ch6-1766541546304.jpeg",
     "assets/image/看见矩阵（二）-1766496764211.jpeg",
     "assets/image/概率分布-1766494400347.jpeg",
-    "assets/image/概率分布-1766494366825.jpeg",
-    "assets/image/概率分布-1766494357888.jpeg",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
