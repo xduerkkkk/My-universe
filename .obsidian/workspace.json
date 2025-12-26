@@ -40,55 +40,53 @@
             }
           },
           {
-            "id": "c139774f0ac85578",
+            "id": "0cbb1bb034e56c96",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-25 周四.md",
+                "file": "1.工作流/10.日记文件/2025-12-26 周五.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-25 周四"
+              "title": "2025-12-26 周五"
             }
           },
           {
-            "id": "52c85351b32e8eef",
+            "id": "2ced7241dc8e30b8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "极限--张宇基础30讲"
+              "title": "概率分布"
             }
           },
           {
-            "id": "f4ab1763acd87d88",
+            "id": "9fd0919607d40760",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "微分概念与计算--张宇基础30讲"
+              "title": "导读"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-25 周四.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-25 周四 的大纲"
+              "title": "概率分布 的大纲"
             }
           },
           {
@@ -293,12 +291,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c139774f0ac85578",
+  "active": "2ced7241dc8e30b8",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2025-12-26 周五.md",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分概念与计算--张宇基础30讲.md",
-    "assets/image/微分概念与计算--张宇基础30讲-1766670549575.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "1.工作流/10.日记文件/2025-12-25 周四.md",
+    "assets/image/微分概念与计算--张宇基础30讲-1766670549575.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766670197061.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766669219529.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766669151502.jpeg",
@@ -309,10 +313,8 @@
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
     "0.核心/00.规划(Plan)/2.当前项目/数学.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
     "assets/image/微分概念与计算--张宇基础30讲-1766647790989.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766647672307.jpeg",
     "assets/image/微分概念与计算--张宇基础30讲-1766647136875.jpeg",
@@ -327,9 +329,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的运算法则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限存在准则.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
