@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "8fb15ef10d40ed43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "冲刺"
+            }
+          },
+          {
             "id": "2762cb6fb8e40207",
             "type": "leaf",
             "pinned": true,
@@ -56,54 +72,6 @@
             }
           },
           {
-            "id": "34f858600c178950",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "书籍勘察"
-            }
-          },
-          {
-            "id": "039fdad32fc26977",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "视频勘察"
-            }
-          },
-          {
-            "id": "685cc98a2acea06f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "c869aeaa1064c30a",
             "type": "leaf",
             "pinned": true,
@@ -120,31 +88,27 @@
             }
           },
           {
-            "id": "051acf50198cf0f5",
+            "id": "3e508f6260fbaf8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/高斯混合模型/高斯混合定义.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "高斯混合定义"
+              "title": "新标签页"
             }
           },
           {
-            "id": "d80e6b82c24387f9",
+            "id": "1a8b915d8fbcc54b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/模糊聚类/模糊聚类定义.md",
+                "file": "2.知识库/21.AI世界/算法设计/第六章第五章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模糊聚类定义"
+              "title": "第六章第五章"
             }
           }
         ],
@@ -231,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
+                "file": "2.知识库/21.AI世界/算法设计/第六章第五章.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "无监督模式识别 的大纲"
+              "title": "第六章第五章 的大纲"
             }
           },
           {
@@ -331,7 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,47 +317,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c869aeaa1064c30a",
+  "active": "1a8b915d8fbcc54b",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/高斯混合模型/高斯混合定义.md",
+    "assets/image/第六章第五章-1766840406630.jpeg",
+    "assets/image/第六章第五章-1766839795926.jpeg",
+    "assets/image/第六章第五章-1766839771417.jpeg",
+    "assets/image/第六章第五章-1766839758201.jpeg",
     "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
-    "2.知识库/21.AI世界/模式识别/半监督学习.md",
-    "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/模糊聚类/模糊聚类定义.md",
+    "assets/image/无监督模式识别-1766839389383.jpeg",
+    "assets/image/无监督模式识别-1766838843834.jpeg",
+    "1.工作流/10.日记文件/2025-12-27 周六.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/AI辅助学习.md",
+    "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/模糊聚类/模糊聚类定义.md",
+    "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/高斯混合模型/高斯混合定义.md",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
+    "2.知识库/24.工程实践/Prompt大全.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
+    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
+    "2.知识库/21.AI世界/ai知识体系.md",
+    "4.不常用/模板文件/日记模板.md",
+    "2.知识库/21.AI世界/模式识别/半监督学习.md",
     "2.知识库/21.AI世界/01机器学习/3章：数据天然结构/高斯混合模型/高斯聚类定义.md",
     "assets/image/无监督模式识别-1766825149707.jpeg",
     "2.知识库/21.AI世界/模式识别/assets",
     "2.知识库/21.AI世界/模式识别/组合分类器.md",
     "2.知识库/21.AI世界/模式识别/支持向量机.md",
     "2.知识库/21.AI世界/模式识别/特征选择.md",
-    "2.知识库/24.工程实践/Prompt大全.md",
-    "1.工作流/10.日记文件/2025-12-27 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
     "assets/image/书籍勘察-1766807216882.jpeg",
     "assets/image/王道题-1766806704410.jpeg",
     "assets/image/王道题-1766806696858.jpeg",
-    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/AI辅助学习.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "0.核心/02.心智急救包/学习时的情绪检测与应对.md",
-    "1.工作流/10.日记文件/2025-12-26 周五.md",
-    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "assets/image/第六章第五章-1766757384115.jpeg",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/算法设计",
-    "3.创造物/30.输出文章/数学/矩阵直觉大纲.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-    "assets/image/看见矩阵（二）-1766748213673.jpeg",
-    "assets/image/看见矩阵（二）-1766748162379.jpeg",
-    "assets/image/看见矩阵（二）-1766748158940.jpeg",
-    "assets/image/看见矩阵（二）-1766747917168.jpeg",
-    "assets/image/看见矩阵（二）-1766747900845.jpeg",
-    "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
     "1.工作流/11.事件收集箱/未命名.base",
     "1.工作流/10.日记文件/25年12月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/未命名.base",
