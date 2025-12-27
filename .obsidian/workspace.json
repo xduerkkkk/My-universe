@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "0cbb1bb034e56c96",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2025-12-26 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-12-26 周五"
-            }
-          },
-          {
-            "id": "2ced7241dc8e30b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "概率分布"
-            }
-          },
-          {
             "id": "d8d1c0155581655c",
             "type": "leaf",
             "state": {
@@ -86,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/算法设计/第六章第五章.md",
+                "file": "1.工作流/10.日记文件/2025-12-26 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第六章第五章 的大纲"
+              "title": "2025-12-26 周五 的大纲"
             }
           },
           {
@@ -291,12 +259,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8d1c0155581655c",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "assets/image/第六章第五章-1766757384115.jpeg",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/模式识别/半监督学习.md",
-    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "2.知识库/21.AI世界/算法设计",
     "2.知识库/21.AI世界/模式识别/组合分类器.md",
     "2.知识库/21.AI世界/模式识别/支持向量机.md",
@@ -322,7 +290,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "1.工作流/10.日记文件/2025-12-25 周四.md",
     "assets/image/微分概念与计算--张宇基础30讲-1766670549575.jpeg",
-    "assets/image/微分概念与计算--张宇基础30讲-1766670197061.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
