@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "第一章第二章",
+      "path": "2.知识库/21.AI世界/算法设计/第一章第二章.md"
+    },
+    {
+      "basename": "第六章第五章",
+      "path": "2.知识库/21.AI世界/算法设计/第六章第五章.md"
+    },
+    {
+      "basename": "作业（ch7-ch10）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
+    },
+    {
+      "basename": "冲刺",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md"
+    },
+    {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "作业（ch2-ch6）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
+    },
+    {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
       "basename": "无监督模式识别",
       "path": "2.知识库/21.AI世界/模式识别/无监督模式识别.md"
     },
@@ -9,16 +41,8 @@
       "path": "1.工作流/10.日记文件/2025-12-27 周六.md"
     },
     {
-      "basename": "冲刺",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md"
-    },
-    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "第六章第五章",
-      "path": "2.知识库/21.AI世界/算法设计/第六章第五章.md"
     },
     {
       "basename": "王道题",
@@ -157,14 +181,6 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/数学.md"
     },
     {
-      "basename": "ch5 ch6",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
-    },
-    {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
-    },
-    {
       "basename": "ch2、ch3、ch4",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "导数的定义",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md"
-    },
-    {
-      "basename": "求导法则",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/求导法则.md"
-    },
-    {
-      "basename": "洛必达法则",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/洛必达法则.md"
-    },
-    {
-      "basename": "极限的本质",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md"
-    },
-    {
-      "basename": "函数的连续性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
     }
   ],
   "omittedPaths": [],
