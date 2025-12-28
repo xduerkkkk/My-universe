@@ -111,8 +111,7 @@
               "title": "第六章第五章"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/算法设计/第六章第五章.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第六章第五章 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -317,8 +316,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a8b915d8fbcc54b",
+  "active": "f2f11ab526d56a87",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-27 周六.md",
+    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "assets/image/第六章第五章-1766840406630.jpeg",
     "assets/image/第六章第五章-1766839795926.jpeg",
     "assets/image/第六章第五章-1766839771417.jpeg",
@@ -326,7 +327,6 @@
     "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
     "assets/image/无监督模式识别-1766839389383.jpeg",
     "assets/image/无监督模式识别-1766838843834.jpeg",
-    "1.工作流/10.日记文件/2025-12-27 周六.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/AI辅助学习.md",
@@ -340,7 +340,6 @@
     "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
     "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "2.知识库/21.AI世界/01机器学习/PRML/导读.md",
-    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "2.知识库/21.AI世界/ai知识体系.md",
     "4.不常用/模板文件/日记模板.md",
     "2.知识库/21.AI世界/模式识别/半监督学习.md",
@@ -355,7 +354,6 @@
     "assets/image/书籍勘察-1766807216882.jpeg",
     "assets/image/王道题-1766806704410.jpeg",
     "assets/image/王道题-1766806696858.jpeg",
-    "assets/image/第六章第五章-1766757384115.jpeg",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/算法设计",
     "1.工作流/11.事件收集箱/未命名.base",
