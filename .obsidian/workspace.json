@@ -90,6 +90,7 @@
           {
             "id": "39e231b4e1b71749",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,12 +98,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "第一章第二章"
             }
+          },
+          {
+            "id": "6bca08ea89853af4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/算法设计/第一章第二章.md",
+                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一章第二章 的大纲"
+              "title": "总OS 的大纲"
             }
           },
           {
@@ -307,10 +319,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39e231b4e1b71749",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "2.知识库/21.AI世界/算法设计/第一章第二章.md",
+    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "assets/image/第六章第五章-1766911371100.jpeg",
     "assets/image/第六章第五章-1766910855254.jpeg",
     "assets/image/第六章第五章-1766910847797.jpeg",
