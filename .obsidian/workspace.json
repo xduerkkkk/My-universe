@@ -90,19 +90,21 @@
           {
             "id": "130ffee74051978f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
+                "file": "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "线性与非线性判别函数"
+              "title": "贝叶斯决策"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性与非线性判别函数 的大纲"
+              "title": "冲刺 的大纲"
             }
           },
           {
@@ -307,10 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "130ffee74051978f",
+  "active": "8fb15ef10d40ed43",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
+    "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
     "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
+    "assets/image/线性与非线性判别函数-1766927780391.jpeg",
+    "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
     "2.知识库/21.AI世界/算法设计/第一章第二章.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
@@ -340,11 +344,9 @@
     "assets/image/第六章第五章-1766910824838.jpeg",
     "assets/image/第六章第五章-1766910686349.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
     "assets/image/ch9 ch10-1766905498482.jpeg",
     "assets/image/第六章第五章-1766840406630.jpeg",
     "assets/image/第六章第五章-1766839795926.jpeg",
-    "assets/image/第六章第五章-1766839771417.jpeg",
     "2.知识库/21.AI世界/模式识别/assets",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/算法设计",
