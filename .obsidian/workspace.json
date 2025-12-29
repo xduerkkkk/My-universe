@@ -56,38 +56,6 @@
             }
           },
           {
-            "id": "c869aeaa1064c30a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "无监督模式识别"
-            }
-          },
-          {
-            "id": "39e231b4e1b71749",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/算法设计/第一章第二章.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "第一章第二章"
-            }
-          },
-          {
             "id": "130ffee74051978f",
             "type": "leaf",
             "pinned": true,
@@ -102,9 +70,25 @@
               "icon": "lucide-file",
               "title": "贝叶斯决策"
             }
+          },
+          {
+            "id": "423dd72878dd0f47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2025-12-29 周一.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-12-29 周一"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
+                "file": "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "冲刺 的大纲"
+              "title": "贝叶斯决策 的大纲"
             }
           },
           {
@@ -287,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,17 +293,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fb15ef10d40ed43",
+  "active": "130ffee74051978f",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2025-12-29 周一.md",
     "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
+    "assets/image/贝叶斯决策-1766976171029.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
+    "1.工作流/10.日记文件/2025-12-27 周六.md",
+    "2.知识库/21.AI世界/算法设计/第一章第二章.md",
+    "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
     "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
     "assets/image/线性与非线性判别函数-1766927780391.jpeg",
-    "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
-    "2.知识库/21.AI世界/算法设计/第一章第二章.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
     "1.工作流/10.日记文件/12月第四周周报.md",
-    "1.工作流/10.日记文件/2025-12-27 周六.md",
     "1.工作流/10.日记文件/2025-12-26 周五.md",
     "1.工作流/10.日记文件/2025-12-25 周四.md",
     "1.工作流/10.日记文件/25年12月/2025-12-24 周三.md",
@@ -332,21 +322,14 @@
     "1.工作流/10.日记文件/25年11月/25年11月第四周周报（bedrock71 11.24-11.30）.md",
     "1.工作流/10.日记文件/25年11月/25年11月第三周周报（bedrock64 11.17-23）.md",
     "1.工作流/10.日记文件/25年11月/25年11月第二周周报（bedrock57 11.10 - 11.16).md",
-    "1.工作流/10.日记文件/25年11月/25年11月第一周周报（bedrock50 11.3 - 11.9).md",
-    "1.工作流/10.日记文件/12月第二周周报.md",
-    "1.工作流/10.日记文件/12月第三周周报.md",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
-    "2.知识库/21.AI世界/算法设计/第六章第五章.md",
     "assets/image/第六章第五章-1766911371100.jpeg",
     "assets/image/第六章第五章-1766910855254.jpeg",
     "assets/image/第六章第五章-1766910847797.jpeg",
     "assets/image/第六章第五章-1766910836182.jpeg",
     "assets/image/第六章第五章-1766910824838.jpeg",
     "assets/image/第六章第五章-1766910686349.jpeg",
-    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
     "assets/image/ch9 ch10-1766905498482.jpeg",
     "assets/image/第六章第五章-1766840406630.jpeg",
-    "assets/image/第六章第五章-1766839795926.jpeg",
     "2.知识库/21.AI世界/模式识别/assets",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/算法设计",
