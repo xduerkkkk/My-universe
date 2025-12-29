@@ -56,19 +56,19 @@
             }
           },
           {
-            "id": "130ffee74051978f",
+            "id": "ff229a06abeea100",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
+                "file": "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "贝叶斯决策"
+              "title": "线性与非线性判别函数"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
+                "file": "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "贝叶斯决策 的大纲"
+              "title": "线性与非线性判别函数 的大纲"
             }
           },
           {
@@ -293,10 +293,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "130ffee74051978f",
+  "active": "ff229a06abeea100",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2025-12-29 周一.md",
     "2.知识库/21.AI世界/模式识别/贝叶斯决策.md",
+    "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
+    "1.工作流/10.日记文件/2025-12-29 周一.md",
     "assets/image/贝叶斯决策-1766976171029.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
@@ -305,7 +306,6 @@
     "2.知识库/21.AI世界/算法设计/第一章第二章.md",
     "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
-    "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
     "assets/image/线性与非线性判别函数-1766927780391.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
