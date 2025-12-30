@@ -104,21 +104,23 @@
             }
           },
           {
-            "id": "bdefa08126caac13",
+            "id": "e790a4aab22f88e7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
+                "file": "2.知识库/21.AI世界/模式识别/组合分类器.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "线性与非线性判别函数"
+              "title": "组合分类器"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/模式识别/支持向量机.md",
+                "file": "2.知识库/21.AI世界/模式识别/组合分类器.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "支持向量机 的大纲"
+              "title": "组合分类器 的大纲"
             }
           },
           {
@@ -323,13 +325,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7283cd930c6aaa4",
+  "active": "e790a4aab22f88e7",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/模式识别/支持向量机.md",
+    "2.知识库/21.AI世界/模式识别/组合分类器.md",
     "2.知识库/21.AI世界/模式识别/线性与非线性判别函数.md",
     "2.知识库/21.AI世界/模式识别/无监督模式识别.md",
-    "2.知识库/21.AI世界/模式识别/支持向量机.md",
     "2.知识库/21.AI世界/模式识别/特征选择.md",
-    "2.知识库/21.AI世界/模式识别/组合分类器.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
