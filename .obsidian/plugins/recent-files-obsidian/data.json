@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-31 周三",
+      "path": "1.工作流/10.日记文件/2025-12-31 周三.md"
+    },
+    {
       "basename": "00视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
     },
     {
-      "basename": "2025-12-31 周三",
-      "path": "1.工作流/10.日记文件/2025-12-31 周三.md"
+      "basename": "总OS",
+      "path": "0.核心/01.学习操作系统My_OS/总OS.md"
+    },
+    {
+      "basename": "bedrock寒假阶段",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md"
+    },
+    {
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "我的bedrock",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
+    },
+    {
+      "basename": "寒假前健身",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md"
+    },
+    {
+      "basename": "寒假规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
+    },
+    {
+      "basename": "规划概览",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
+    },
+    {
+      "basename": "3月后",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md"
+    },
+    {
+      "basename": "我的序言",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
     },
     {
       "basename": "矩阵问题",
@@ -17,10 +61,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md"
     },
     {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
       "basename": "BedRock实验",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md"
     },
@@ -29,32 +69,12 @@
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
     },
     {
-      "basename": "寒假前健身",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md"
-    },
-    {
       "basename": "未命名",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md"
     },
     {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "寒假规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
-    },
-    {
       "basename": "大纲",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/大纲.md"
-    },
-    {
-      "basename": "总OS",
-      "path": "0.核心/01.学习操作系统My_OS/总OS.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "进程，进程的调度",
@@ -179,26 +199,6 @@
     {
       "basename": "感知机",
       "path": "2.知识库/21.AI世界/01机器学习/基础概念/感知机.md"
-    },
-    {
-      "basename": "K近邻",
-      "path": "2.知识库/21.AI世界/01机器学习/非线性模型/K近邻.md"
-    },
-    {
-      "basename": "决策树",
-      "path": "2.知识库/21.AI世界/01机器学习/非线性模型/树模型/决策树.md"
-    },
-    {
-      "basename": "3月后",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md"
-    },
-    {
-      "basename": "康凯23009200942",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md"
-    },
-    {
-      "basename": "ch9 ch10",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
     }
   ],
   "omittedPaths": [],
