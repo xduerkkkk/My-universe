@@ -275,8 +275,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,7 +301,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "031e785e18119c23",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "1.工作流/10.日记文件/2025-12-31 周三.md",
