@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "2762cb6fb8e40207",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "总OS"
-            }
-          },
-          {
             "id": "27e1d130211df68f",
             "type": "leaf",
             "pinned": true,
@@ -101,6 +85,36 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "交叉熵损失函数推导"
+            }
+          },
+          {
+            "id": "1864df9fde2758a8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "机器学习理论+线性模型"
+            }
+          },
+          {
+            "id": "e72d1776eeaff18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/机器学习世界观/偏差-方差权衡/如何权衡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何权衡"
             }
           }
         ],
@@ -187,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "交叉熵损失函数推导 的大纲"
+              "title": "机器学习理论+线性模型 的大纲"
             }
           },
           {
@@ -287,7 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,35 +323,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d0a9925e0a8ff7",
+  "active": "1864df9fde2758a8",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
-    "1.工作流/10.日记文件/2025-12-31 周三.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/广义线性判别分析/核心.md",
-    "2.知识库/21.AI世界/01机器学习/线性模型/感知机/核心概念.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/机器学习世界观/偏差-方差权衡/如何权衡.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/机器学习世界观/偏差-方差权衡/泛化误差的分解.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
     "0.核心/01.学习操作系统My_OS/总OS.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/维度灾难.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/子集评估.md",
+    "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/模型规范/特征工程/寻找最佳特征.md",
+    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的序言.md",
-    "3.创造物/30.输出文章/数学/矩阵问题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md",
+    "2.知识库/21.AI世界/01机器学习/期末",
     "assets/image/问题-1767150066370.jpeg",
     "assets/image/第四章-1767092631633.jpeg",
     "assets/image/无监督模式识别-1767012603389.jpeg",
