@@ -40,49 +40,71 @@
             }
           },
           {
-            "id": "1c83b172298666af",
+            "id": "27e1d130211df68f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-31 周三.md",
+                "file": "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-31 周三"
+              "title": "线性回归基础"
             }
           },
           {
-            "id": "031e785e18119c23",
+            "id": "aa65777933888b71",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "00视频勘察"
+              "title": "作业1线性模型"
             }
           },
           {
-            "id": "f9cefdcaf20860fb",
+            "id": "b7e480ce43b9d9d1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "绪论"
+            }
+          },
+          {
+            "id": "b7d0a9925e0a8ff7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "交叉熵损失函数推导"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2025-12-31 周三.md",
+                "file": "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-31 周三 的大纲"
+              "title": "交叉熵损失函数推导 的大纲"
             }
           },
           {
@@ -287,11 +309,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c83b172298666af",
+  "active": "b7d0a9925e0a8ff7",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/交叉熵损失函数推导.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/绪论.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md",
     "1.工作流/10.日记文件/2025-12-31 周三.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/广义线性判别分析/核心.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/感知机/核心概念.md",
+    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末",
     "0.核心/01.学习操作系统My_OS/总OS.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
@@ -307,14 +338,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/大纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/读者优先.md",
-    "1.工作流/10.日记文件/2025-12-30 周二.md",
-    "1.工作流/10.日记文件/2025-12-29 周一.md",
-    "1.工作流/10.日记文件/2025-12-27 周六.md",
-    "2.知识库/21.AI世界/算法设计/问题.md",
-    "2.知识库/21.AI世界/算法设计/第一章.md",
     "assets/image/问题-1767150066370.jpeg",
     "assets/image/第四章-1767092631633.jpeg",
     "assets/image/无监督模式识别-1767012603389.jpeg",
@@ -334,7 +357,6 @@
     "2.知识库/21.AI世界/01机器学习/PRML/assets",
     "2.知识库/21.AI世界/01机器学习/PRML",
     "2.知识库/21.AI世界/01机器学习/assets",
-    "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/assets",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
