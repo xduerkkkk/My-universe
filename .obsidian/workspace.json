@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "极限--张宇基础30讲 的大纲"
+              "title": "微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -277,11 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5252428df276d772",
+  "active": "f958a41a575af956",
   "lastOpenFiles": [
+    "assets/image/微概计--张宇基础30讲-1767325982270.jpeg",
+    "assets/image/微概计--张宇基础30讲-1767325881277.jpeg",
+    "assets/image/微概计--张宇基础30讲-1767325395559.jpeg",
     "1.工作流/10.日记文件/2026-01-02 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "assets/image/极限--张宇基础30讲-1765182590920.jpeg",
     "assets/image/极限--张宇基础30讲-1767318150724.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md",
@@ -314,8 +317,6 @@
     "2.知识库/21.AI世界/01机器学习/期末/assets",
     "2.知识库/21.AI世界/01机器学习/期末",
     "assets/image/问题-1767150066370.jpeg",
-    "assets/image/第四章-1767092631633.jpeg",
-    "assets/image/无监督模式识别-1767012603389.jpeg",
     "2.知识库/21.AI世界/模式识别/assets",
     "2.知识库/21.AI世界/算法设计/assets",
     "2.知识库/21.AI世界/算法设计",
