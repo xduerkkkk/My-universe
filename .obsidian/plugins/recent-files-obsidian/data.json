@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-01 周四",
+      "path": "1.工作流/10.日记文件/2026-01-01 周四.md"
+    },
+    {
+      "basename": "微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "书籍对齐",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md"
+    },
+    {
+      "basename": "微分的定义",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
+    },
+    {
+      "basename": "曲率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/曲率.md"
+    },
+    {
+      "basename": "总OS",
+      "path": "0.核心/01.学习操作系统My_OS/总OS.md"
+    },
+    {
       "basename": "看见矩阵（二）",
       "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
     },
     {
-      "basename": "机器学习理论+线性模型",
-      "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
+      "basename": "看见矩阵（一）",
+      "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
     },
     {
-      "basename": "2026-01-01 周四",
-      "path": "1.工作流/10.日记文件/2026-01-01 周四.md"
+      "basename": "线性方程组与向量",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md"
+    },
+    {
+      "basename": "矩阵运算",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵运算.md"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵的秩.md"
+    },
+    {
+      "basename": "几何直观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/几何直观.md"
+    },
+    {
+      "basename": "特征向量",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
+    },
+    {
+      "basename": "协方差矩阵",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
+    },
+    {
+      "basename": "二次型",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md"
+    },
+    {
+      "basename": "机器学习理论+线性模型",
+      "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
     },
     {
       "basename": "线性回归基础",
@@ -113,10 +165,6 @@
       "path": "2.知识库/21.AI世界/01机器学习/0章：AI基石与通用方法论 (Foundation)/机器学习世界观/偏差-方差权衡/泛化误差的分解.md"
     },
     {
-      "basename": "总OS",
-      "path": "0.核心/01.学习操作系统My_OS/总OS.md"
-    },
-    {
       "basename": "英语方法",
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "我的bedrock",
       "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
-    },
-    {
-      "basename": "03-AI",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "学术、逻辑与数据",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md"
-    },
-    {
-      "basename": "个人品质、情感与行为",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md"
-    },
-    {
-      "basename": "社会、工作、经济类",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md"
-    },
-    {
-      "basename": "自然与动物",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md"
-    },
-    {
-      "basename": "核心",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/广义线性判别分析/核心.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
-    },
-    {
-      "basename": "bedrock寒假阶段",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "寒假前健身",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假前健身.md"
-    },
-    {
-      "basename": "我的序言",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
     }
   ],
   "omittedPaths": [],
