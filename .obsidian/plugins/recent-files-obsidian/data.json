@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "降维+计算学习理论+生成式模型",
+      "path": "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md"
+    },
+    {
       "basename": "神经网络+深度学习模型",
       "path": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md"
+    },
+    {
+      "basename": "作业",
+      "path": "2.知识库/21.AI世界/02深度学习/神经网络/作业.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
     },
     {
       "basename": "03Transformer架构：组装我们的零件",
@@ -11,10 +23,6 @@
     {
       "basename": "机器学习理论+线性模型",
       "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
-    },
-    {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
     },
     {
       "basename": "Transformer的核心引擎：深入理解attention机制-1761188799238",
@@ -43,10 +51,6 @@
     {
       "basename": "认识梯度大纲",
       "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md"
-    },
-    {
-      "basename": "作业",
-      "path": "2.知识库/21.AI世界/02深度学习/神经网络/作业.md"
     },
     {
       "basename": "正则化",
@@ -195,10 +199,6 @@
     {
       "basename": "特征向量",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
-    },
-    {
-      "basename": "协方差矩阵",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
     }
   ],
   "omittedPaths": [],

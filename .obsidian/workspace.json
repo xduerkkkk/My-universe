@@ -72,19 +72,17 @@
             }
           },
           {
-            "id": "60b9efcdc84436ff",
+            "id": "c6e7cd15bdfbe4ad",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "神经网络+深度学习模型"
+              "title": "降维+计算学习理论+生成式模型"
             }
           }
         ],
@@ -155,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "神经网络+深度学习模型 的大纲"
+              "title": "降维+计算学习理论+生成式模型 的大纲"
             }
           },
           {
@@ -293,12 +291,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60b9efcdc84436ff",
+  "active": "c6e7cd15bdfbe4ad",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
+    "assets/image/降维+计算学习理论+生成式模型-1767412453925.jpeg",
+    "assets/image/降维+计算学习理论+生成式模型-1767412319905.jpeg",
+    "2.知识库/21.AI世界/02深度学习/神经网络/作业.md",
+    "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
-    "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md",
     "assets1/image/Transformer的核心引擎：深入理解attention机制-1761188799238.jpeg",
     "assets1/image/Transformer的核心引擎：深入理解attention机制-1760000642376.jpeg",
     "2.知识库/21.AI世界/01机器学习/期末/押题.md",
@@ -308,13 +310,10 @@
     "assets/image/神经网络+深度学习模型-1767406347063.jpeg",
     "assets/image/神经网络+深度学习模型-1767406137267.jpeg",
     "assets/image/神经网络+深度学习模型-1767406128116.jpeg",
-    "assets/image/神经网络+深度学习模型-1767405788997.jpeg",
     "1.工作流/10.日记文件/2026-01-02 周五.md",
     "1.工作流/10.日记文件/2026-01-01 周四.md",
-    "assets/image/神经网络+深度学习模型-1767365883146.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
-    "2.知识库/21.AI世界/02深度学习/神经网络/作业.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/正则化.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/训练.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/神经网络设计哲学.md",
@@ -329,8 +328,6 @@
     "2.知识库/21.AI世界/02深度学习/cv基础/目标检测和边界框.md",
     "2.知识库/21.AI世界/02深度学习/cv基础/锚框.md",
     "2.知识库/21.AI世界/02深度学习/cv基础/卷积神经网络.md",
-    "2.知识库/21.AI世界/02深度学习/神经网络/链式法则举例.md",
-    "2.知识库/21.AI世界/02深度学习/神经网络/基础概念.md",
     "2.知识库/21.AI世界/01机器学习/期末/assets",
     "2.知识库/21.AI世界/01机器学习/期末",
     "2.知识库/21.AI世界/模式识别/assets",
