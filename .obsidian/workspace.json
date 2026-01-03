@@ -90,6 +90,7 @@
           {
             "id": "8ebfa2a2688ab3bd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,6 +98,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "视频勘察"
             }
@@ -116,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "视频勘察 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -321,14 +323,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ebfa2a2688ab3bd",
+  "active": "d0f23b2735ffd2ce",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+    "assets/image/视频勘察-1767430862283.jpeg",
+    "assets/image/视频勘察-1767430334128.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "1.工作流/10.日记文件/2026-01-03 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
@@ -348,8 +352,6 @@
     "assets/image/神经网络+深度学习模型-1767407432587.jpeg",
     "assets/image/神经网络+深度学习模型-1767406727769.jpeg",
     "assets/image/神经网络+深度学习模型-1767406347063.jpeg",
-    "assets/image/神经网络+深度学习模型-1767406137267.jpeg",
-    "assets/image/神经网络+深度学习模型-1767406128116.jpeg",
     "1.工作流/10.日记文件/2026-01-01 周四.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
@@ -359,7 +361,6 @@
     "2.知识库/21.AI世界/02深度学习/神经网络/文章.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/参数初始化.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "2.知识库/21.AI世界/02深度学习/神经网络/反向传播代码.md",
     "2.知识库/21.AI世界/01机器学习/期末/assets",
     "2.知识库/21.AI世界/01机器学习/期末",
     "2.知识库/21.AI世界/模式识别/assets",
