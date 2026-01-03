@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "神经网络+深度学习模型",
+      "path": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md"
+    },
+    {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
+    },
+    {
+      "basename": "机器学习理论+线性模型",
+      "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "Transformer的核心引擎：深入理解attention机制-1761188799238",
+      "path": "assets1/image/Transformer的核心引擎：深入理解attention机制-1761188799238.jpeg"
+    },
+    {
+      "basename": "Transformer的核心引擎：深入理解attention机制-1760000642376",
+      "path": "assets1/image/Transformer的核心引擎：深入理解attention机制-1760000642376.jpeg"
+    },
+    {
+      "basename": "押题",
+      "path": "2.知识库/21.AI世界/01机器学习/期末/押题.md"
+    },
+    {
       "basename": "2026-01-02 周五",
       "path": "1.工作流/10.日记文件/2026-01-02 周五.md"
     },
     {
       "basename": "2026-01-01 周四",
       "path": "1.工作流/10.日记文件/2026-01-01 周四.md"
-    },
-    {
-      "basename": "神经网络+深度学习模型",
-      "path": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md"
     },
     {
       "basename": "认识梯度",
@@ -59,10 +83,6 @@
     {
       "basename": "微概计--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md"
-    },
-    {
-      "basename": "机器学习理论+线性模型",
-      "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
     },
     {
       "basename": "看见矩阵（二）",
@@ -179,26 +199,6 @@
     {
       "basename": "协方差矩阵",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
-    },
-    {
-      "basename": "二次型",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md"
-    },
-    {
-      "basename": "线性回归基础",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md"
-    },
-    {
-      "basename": "支持向量机",
-      "path": "2.知识库/21.AI世界/模式识别/支持向量机.md"
-    },
-    {
-      "basename": "逻辑回归基础",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/逻辑回归/逻辑回归基础.md"
-    },
-    {
-      "basename": "核心概念",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/感知机/核心概念.md"
     }
   ],
   "omittedPaths": [],

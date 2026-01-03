@@ -86,37 +86,9 @@
               "icon": "lucide-file",
               "title": "神经网络+深度学习模型"
             }
-          },
-          {
-            "id": "a02714c0f3bb59ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "认识梯度"
-            }
-          },
-          {
-            "id": "e0e468935ba3f79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-01-02 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-02 周五"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-02 周五.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-02 周五 的大纲"
+              "title": "神经网络+深度学习模型 的大纲"
             }
           },
           {
@@ -321,16 +293,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0e468935ba3f79e",
+  "active": "60b9efcdc84436ff",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-01-01 周四.md",
-    "1.工作流/10.日记文件/2026-01-02 周五.md",
+    "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md",
+    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md",
+    "assets1/image/Transformer的核心引擎：深入理解attention机制-1761188799238.jpeg",
+    "assets1/image/Transformer的核心引擎：深入理解attention机制-1760000642376.jpeg",
+    "2.知识库/21.AI世界/01机器学习/期末/押题.md",
+    "assets/image/神经网络+深度学习模型-1767407445583.jpeg",
+    "assets/image/神经网络+深度学习模型-1767407432587.jpeg",
+    "assets/image/神经网络+深度学习模型-1767406727769.jpeg",
+    "assets/image/神经网络+深度学习模型-1767406347063.jpeg",
+    "assets/image/神经网络+深度学习模型-1767406137267.jpeg",
+    "assets/image/神经网络+深度学习模型-1767406128116.jpeg",
+    "assets/image/神经网络+深度学习模型-1767405788997.jpeg",
+    "1.工作流/10.日记文件/2026-01-02 周五.md",
+    "1.工作流/10.日记文件/2026-01-01 周四.md",
     "assets/image/神经网络+深度学习模型-1767365883146.jpeg",
-    "assets/image/神经网络+深度学习模型-1767365680351.jpeg",
-    "assets/image/神经网络+深度学习模型-1767365246798.jpeg",
-    "assets/image/神经网络+深度学习模型-1767364863449.jpeg",
-    "2.知识库/21.AI世界/01机器学习/期末/assets/v2-5efbada1d4bb599e6195ce819aa7ebd9_b.webp",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/作业.md",
@@ -339,26 +320,17 @@
     "2.知识库/21.AI世界/02深度学习/神经网络/神经网络设计哲学.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/文章.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/参数初始化.md",
-    "assets/image/神经网络+深度学习模型-1767356220724.jpeg",
-    "assets/image/神经网络+深度学习模型-1767355734410.jpeg",
-    "assets/image/神经网络+深度学习模型-1767355719103.jpeg",
-    "assets/image/神经网络+深度学习模型-1767354956417.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/反向传播代码.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md",
-    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "2.知识库/21.AI世界/认知计算.md",
-    "assets/image/认知计算-1765335307153.jpeg",
     "2.知识库/21.AI世界/02深度学习/cv基础/目标检测和边界框.md",
     "2.知识库/21.AI世界/02深度学习/cv基础/锚框.md",
     "2.知识库/21.AI世界/02深度学习/cv基础/卷积神经网络.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/链式法则举例.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/基础概念.md",
-    "2.知识库/21.AI世界/02深度学习/softmax回归.md",
-    "2.知识库/21.AI世界/02深度学习/损失函数.md",
-    "2.知识库/21.AI世界/02深度学习/激活函数.md",
     "2.知识库/21.AI世界/01机器学习/期末/assets",
     "2.知识库/21.AI世界/01机器学习/期末",
     "2.知识库/21.AI世界/模式识别/assets",
