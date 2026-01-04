@@ -2,6 +2,9 @@
 share_link: https://share.note.sx/jqtn6jev#0R1XHK7SQJt1StkgkVQomaoDXp41iOLKX/3l3TZsy0k
 share_updated: 2025-10-08T11:16:24+08:00
 ---
+23009200942康凯 代码 报告
+23009200683罗良钰   收集资料  报告
+23009200867 孙嘉卫    PPT 报告
 # **为什么LLM需要记忆**
 LLM需要记忆吗？ 
 在我们日常体验大模型中，豆包、元宝、gpt、gemini... 似乎模型是有记忆的呀 他们完全能记得我们之前说了什么。
