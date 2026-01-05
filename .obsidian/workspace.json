@@ -88,7 +88,21 @@
             }
           },
           {
-            "id": "0466676785d2d012",
+            "id": "05e9a0194b754359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "降维+计算学习理论+生成式模型"
+            }
+          },
+          {
+            "id": "1646da1ca69c6eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,23 +114,9 @@
               "icon": "lucide-file",
               "title": "概念+押题"
             }
-          },
-          {
-            "id": "dca0b39321f9ff1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神经网络+深度学习模型"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -321,14 +321,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0466676785d2d012",
+  "active": "1646da1ca69c6eb6",
   "lastOpenFiles": [
     "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末/自测+翻译.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md",
+    "2.知识库/21.AI世界/01机器学习/期末/自测+翻译.md",
+    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "1.工作流/10.日记文件/2026-01-05 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "assets/image/03微几何-1767584564773.jpeg",
