@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微概计--张宇基础30讲"
+              "title": "03微几何"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微概计--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微概计--张宇基础30讲 的大纲"
+              "title": "03微几何 的大纲"
             }
           },
           {
@@ -293,6 +293,15 @@
   },
   "active": "8d966e8c0f91e2ff",
   "lastOpenFiles": [
+    "assets/image/03微几何-1767584564773.jpeg",
+    "assets/image/03微几何-1767584248751.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/中值定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "assets/image/微概计--张宇基础30讲-1767578093312.jpeg",
     "assets/image/微概计--张宇基础30讲-1767577587195.jpeg",
     "assets/image/微概计--张宇基础30讲-1767576990212.jpeg",
@@ -321,16 +330,7 @@
     "assets/image/报告-1767510245460.jpeg",
     "assets/image/报告-1767509705436.jpeg",
     "assets/image/报告-1767509536253.jpeg",
-    "assets/image/报告-1767508724241.jpeg",
-    "assets/image/报告-1767508706411.jpeg",
     "3.创造物/31. 我的项目/项目四，docker/assets",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/贝叶斯网络.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/贝叶斯例子解读.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/markov.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/markov例子解读.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/K近邻.md",
-    "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md",
-    "3.创造物/31. 我的项目/项目四，docker/大纲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",

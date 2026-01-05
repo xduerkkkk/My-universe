@@ -82,7 +82,6 @@
     "iconName": "LiAccessibility",
     "iconColor": "#ee11b3"
   },
-  "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/书籍对齐.md": "LiAlignCenter",
   "2.知识库/21.AI世界/01机器学习/PRML": {
     "iconName": "LiAlbum",
     "iconColor": "#a21010"
@@ -92,5 +91,6 @@
   "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md": {
     "iconName": "LiAlarmClockPlus",
     "iconColor": "#04ecdd"
-  }
+  },
+  "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md": "LiAlignCenter"
 }
