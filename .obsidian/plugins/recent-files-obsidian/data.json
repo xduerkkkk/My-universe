@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "ch2、ch3、ch4",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+      "basename": "模考",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
+    },
+    {
+      "basename": "困惑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
     },
     {
       "basename": "ch5 ch6",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
     },
     {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
-    },
-    {
       "basename": "作业（ch7-ch10）",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
     },
     {
-      "basename": "2026-01-07 周三",
-      "path": "1.工作流/10.日记文件/2026-01-07 周三.md"
-    },
-    {
       "basename": "作业（ch2-ch6）",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
+    },
+    {
+      "basename": "康凯23009200942",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md"
+    },
+    {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "2026-01-07 周三",
+      "path": "1.工作流/10.日记文件/2026-01-07 周三.md"
     },
     {
       "basename": "ch9 ch10",
@@ -35,10 +47,6 @@
     {
       "basename": "1998",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
-    },
-    {
-      "basename": "模考",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
     },
     {
       "basename": "01王道题",
@@ -191,14 +199,6 @@
     {
       "basename": "K近邻",
       "path": "2.知识库/21.AI世界/01机器学习/非线性模型/K近邻.md"
-    },
-    {
-      "basename": "AI对齐",
-      "path": "2.知识库/21.AI世界/01机器学习/非线性模型/图模型/AI对齐.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "3.创造物/31. 我的项目/项目四，docker/大纲.md"
     }
   ],
   "omittedPaths": [],

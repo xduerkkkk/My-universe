@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch2、ch3、ch4"
+              "title": "模考"
             }
           }
         ],
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch2、ch3、ch4 的大纲"
+              "title": "模考 的大纲"
             }
           },
           {
@@ -339,12 +339,14 @@
   },
   "active": "9114c51aac88d3c0",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
-    "1.工作流/10.日记文件/2026-01-07 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
+    "1.工作流/10.日记文件/2026-01-07 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
     "1.工作流/10.日记文件/2026-01-06 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
@@ -369,8 +371,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
     "2.知识库/20.North_star_ZJU/203.政治",
-    "2.知识库/21.AI世界/01机器学习/期末/自测+翻译.md",
-    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "assets/image/03微几何-1767584564773.jpeg",
     "assets/image/03微几何-1767584248751.jpeg",
     "assets/image/微概计--张宇基础30讲-1767578093312.jpeg",
