@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "2026-01-07 周三",
+      "path": "1.工作流/10.日记文件/2026-01-07 周三.md"
+    },
+    {
+      "basename": "1998",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
+    },
+    {
       "basename": "01王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md"
-    },
-    {
-      "basename": "1998",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
     },
     {
       "basename": "考研英语时间线",
@@ -191,14 +199,6 @@
     {
       "basename": "Transformer的核心引擎：深入理解attention机制-1761188799238",
       "path": "assets1/image/Transformer的核心引擎：深入理解attention机制-1761188799238.jpeg"
-    },
-    {
-      "basename": "Transformer的核心引擎：深入理解attention机制-1760000642376",
-      "path": "assets1/image/Transformer的核心引擎：深入理解attention机制-1760000642376.jpeg"
-    },
-    {
-      "basename": "认识梯度",
-      "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md"
     }
   ],
   "omittedPaths": [],
