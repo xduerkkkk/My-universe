@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "模考",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
-    },
-    {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
     {
       "basename": "ch5 ch6",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
     },
     {
-      "basename": "ch2、ch3、ch4",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
     },
     {
-      "basename": "ch9 ch10",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+      "basename": "作业（ch7-ch10）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
     },
     {
       "basename": "2026-01-07 周三",
       "path": "1.工作流/10.日记文件/2026-01-07 周三.md"
     },
     {
+      "basename": "作业（ch2-ch6）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
+    },
+    {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "2026-01-06 周二",
+      "path": "1.工作流/10.日记文件/2026-01-06 周二.md"
+    },
+    {
       "basename": "1998",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
+    },
+    {
+      "basename": "模考",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
     },
     {
       "basename": "01王道题",
@@ -63,10 +75,6 @@
     {
       "basename": "考研英语时间线",
       "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "2026-01-06 周二",
-      "path": "1.工作流/10.日记文件/2026-01-06 周二.md"
     },
     {
       "basename": "2026-01-05 周一",
@@ -191,14 +199,6 @@
     {
       "basename": "大纲",
       "path": "3.创造物/31. 我的项目/项目四，docker/大纲.md"
-    },
-    {
-      "basename": "2026-01-03 周六",
-      "path": "1.工作流/10.日记文件/2026-01-03 周六.md"
-    },
-    {
-      "basename": "BedRock 0-50天总结",
-      "path": "1.工作流/10.日记文件/BedRock 0-50天总结.md"
     }
   ],
   "omittedPaths": [],
