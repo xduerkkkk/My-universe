@@ -72,21 +72,51 @@
             }
           },
           {
-            "id": "81c1e0947afb6267",
+            "id": "d0b9867b125d472c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1998"
+            }
+          },
+          {
+            "id": "5c7b5e20bc928683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "习概期末"
+              "title": "考研英语时间线"
+            }
+          },
+          {
+            "id": "1d0056a3ed4ecc15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-01-06 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-06 周二"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -169,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
+                "file": "1.工作流/10.日记文件/2026-01-06 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "习概期末 的大纲"
+              "title": "2026-01-06 周二 的大纲"
             }
           },
           {
@@ -291,19 +321,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81c1e0947afb6267",
+  "active": "1d0056a3ed4ecc15",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-01-05 周一.md",
+    "1.工作流/10.日记文件/2026-01-06 周二.md",
+    "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "1.工作流/10.日记文件/2026-01-01 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
     "2.知识库/20.North_star_ZJU/203.政治",
     "2.知识库/21.AI世界/01机器学习/期末/自测+翻译.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md",
-    "1.工作流/10.日记文件/2026-01-05 周一.md",
     "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/框架.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "assets/image/03微几何-1767584564773.jpeg",
     "assets/image/03微几何-1767584248751.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md",
@@ -319,16 +355,10 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "2.知识库/21.AI世界/02深度学习/神经网络/作业.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
-    "1.工作流/10.日记文件/2025-12月第五周周报.md",
-    "2.知识库/20.North_star_ZJU/习概复习.md",
     "assets/image/1998-1767514863124.jpeg",
     "assets/image/1998-1767514852785.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/assets",
-    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "3.创造物/31. 我的项目/项目四，docker/test.md",
     "assets/image/test-1767512605711.jpeg",
-    "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md",
-    "3.创造物/31. 我的项目/项目四，docker/报告.md",
     "assets/image/报告-1767510245460.jpeg",
     "assets/image/报告-1767509705436.jpeg",
     "3.创造物/31. 我的项目/项目四，docker/assets",
