@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
       "basename": "ch9 ch10",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03Transformer架构：组装我们的零件",
       "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
-    },
-    {
-      "basename": "Transformer的核心引擎：深入理解attention机制-1761188799238",
-      "path": "assets1/image/Transformer的核心引擎：深入理解attention机制-1761188799238.jpeg"
     }
   ],
   "omittedPaths": [],
