@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "模考",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
       "basename": "ch2、ch3、ch4",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "BedRock 0-50天总结",
       "path": "1.工作流/10.日记文件/BedRock 0-50天总结.md"
-    },
-    {
-      "basename": "2026-01-02 周五",
-      "path": "1.工作流/10.日记文件/2026-01-02 周五.md"
-    },
-    {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/transformer/03Transformer架构：组装我们的零件.md"
     }
   ],
   "omittedPaths": [],
