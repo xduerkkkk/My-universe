@@ -24,38 +24,6 @@
             }
           },
           {
-            "id": "b08f3ba0fca101f6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "概念+押题"
-            }
-          },
-          {
-            "id": "8d966e8c0f91e2ff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03微几何"
-            }
-          },
-          {
             "id": "d0b9867b125d472c",
             "type": "leaf",
             "pinned": true,
@@ -72,22 +40,6 @@
             }
           },
           {
-            "id": "5487c998db939494",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-01-07 周三.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-07 周三"
-            }
-          },
-          {
             "id": "1f54ec712a08840c",
             "type": "leaf",
             "pinned": true,
@@ -101,6 +53,38 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "ch9 ch10"
+            }
+          },
+          {
+            "id": "156586408b922d57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-01-08 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-08 周四"
+            }
+          },
+          {
+            "id": "de40599e331cbd1e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "线性模型"
             }
           }
         ],
@@ -187,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-07 周三.md",
+                "file": "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-07 周三 的大纲"
+              "title": "线性模型 的大纲"
             }
           },
           {
@@ -287,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,9 +293,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5487c998db939494",
+  "active": "de40599e331cbd1e",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
+    "1.工作流/10.日记文件/2026-01-08 周四.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "assets/image/1998-1767834329302.jpeg",
+    "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "1.工作流/10.日记文件/2026-01-07 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
@@ -320,9 +312,7 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
-    "1.工作流/10.日记文件/2026-01-07 周三.md",
     "1.工作流/10.日记文件/2026-01-06 周二.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "assets/image/01王道题-1767752624397.jpeg",
     "assets/image/01王道题-1767752602585.jpeg",
@@ -331,23 +321,17 @@
     "assets/image/01王道题-1767752264390.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
     "1.工作流/10.日记文件/2026-01-05 周一.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "1.工作流/10.日记文件/2026-01-01 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
     "2.知识库/20.North_star_ZJU/203.政治",
     "assets/image/03微几何-1767584564773.jpeg",
     "assets/image/03微几何-1767584248751.jpeg",
     "assets/image/微概计--张宇基础30讲-1767578093312.jpeg",
     "assets/image/微概计--张宇基础30讲-1767577587195.jpeg",
-    "assets/image/微概计--张宇基础30讲-1767576990212.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/assets",
     "3.创造物/31. 我的项目/项目四，docker/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读",
