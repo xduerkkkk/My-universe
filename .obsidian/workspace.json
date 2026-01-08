@@ -88,17 +88,17 @@
             }
           },
           {
-            "id": "8d8f01b09973faae",
+            "id": "92ce9b28a02ded72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/02深度学习/激活函数.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "激活函数"
+              "title": "看见矩阵（二）"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/02深度学习/激活函数.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "激活函数 的大纲"
+              "title": "看见矩阵（二） 的大纲"
             }
           },
           {
@@ -307,16 +307,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "92ce9b28a02ded72",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
+    "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
+    "2.知识库/21.AI世界/02深度学习/激活函数.md",
     "2.知识库/21.AI世界/02深度学习/DLFC",
     "2.知识库/21.AI世界/02深度学习/多层感知机.md",
-    "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
     "assets/image/线性模型-1767843378882.jpeg",
     "assets/image/线性模型-1767842107910.jpeg",
     "1.工作流/10.日记文件/2026-01-08 周四.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "assets/image/1998-1767834329302.jpeg",
     "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md",
@@ -355,7 +356,6 @@
     "2.知识库/21.AI世界/01机器学习/期末/assets",
     "2.知识库/21.AI世界/01机器学习/期末",
     "2.知识库/21.AI世界/模式识别/assets",
-    "2.知识库/21.AI世界/算法设计/assets",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
