@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "极限--张宇基础30讲 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -337,13 +337,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5074e25ea6376c1a",
+  "active": "5ae1624521bd7534",
   "lastOpenFiles": [
+    "assets/image/02微概计--张宇基础30讲-1767949283201.jpeg",
+    "assets/image/02微概计--张宇基础30讲-1767948999358.jpeg",
+    "assets/image/02微概计--张宇基础30讲-1767947864947.jpeg",
+    "assets/image/02微概计--张宇基础30讲-1767947694333.jpeg",
+    "assets/image/02微概计--张宇基础30讲-1767947506914.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "1.工作流/10.日记文件/2026-01-09 周五.md",
     "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
@@ -371,14 +376,9 @@
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
     "3.创造物/32.思想地图/认知",
     "3.创造物/32.思想地图",
-    "assets/image/看见矩阵（二）-1767857830397.jpeg",
-    "assets/image/看见矩阵（二）-1767856018672.jpeg",
-    "assets/image/看见矩阵（二）-1767855630452.jpeg",
     "2.知识库/21.AI世界/02深度学习/DLFC",
-    "assets/image/线性模型-1767843378882.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/assets",
     "3.创造物/31. 我的项目/项目四，docker/assets",
