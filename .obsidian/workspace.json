@@ -90,6 +90,7 @@
           {
             "id": "5799d952f4d5f0db",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,12 +98,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "03微几何"
             }
+          },
+          {
+            "id": "664bbf0f3868d15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02微概计--张宇基础30讲"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-09 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-09 周五 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -307,9 +323,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e167e6775f2e66b9",
+  "active": "664bbf0f3868d15d",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "assets/image/03微几何-1767930388509.jpeg",
+    "assets/image/03微几何-1767930151300.jpeg",
+    "assets/image/03微几何-1767930134022.jpeg",
+    "assets/image/03微几何-1767929921307.jpeg",
+    "assets/image/03微几何-1767927853321.jpeg",
+    "assets/image/03微几何-1767927421797.jpeg",
     "1.工作流/10.日记文件/2026-01-09 周五.md",
     "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md",
     "1.工作流/10.日记文件/2026-01-08 周四.md",
@@ -340,15 +362,8 @@
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/看见矩阵（二）-1767856018672.jpeg",
     "assets/image/看见矩阵（二）-1767855630452.jpeg",
-    "2.知识库/21.AI世界/02深度学习/激活函数.md",
     "2.知识库/21.AI世界/02深度学习/DLFC",
     "assets/image/线性模型-1767843378882.jpeg",
-    "assets/image/线性模型-1767842107910.jpeg",
-    "assets/image/1998-1767834329302.jpeg",
-    "assets/image/01王道题-1767752624397.jpeg",
-    "assets/image/01王道题-1767752602585.jpeg",
-    "assets/image/01王道题-1767752583673.jpeg",
-    "assets/image/01王道题-1767752571624.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/assets",
     "3.创造物/31. 我的项目/项目四，docker/assets",
