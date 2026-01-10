@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
+    },
+    {
+      "basename": "2026-01-10 周六",
+      "path": "1.工作流/10.日记文件/2026-01-10 周六.md"
+    },
+    {
+      "basename": "困惑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
+    },
+    {
+      "basename": "模考",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "阅读--态度词",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md"
+    },
+    {
+      "basename": "问题解决与行为措施",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md"
+    },
+    {
+      "basename": "学术、逻辑与数据",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md"
+    },
+    {
+      "basename": "地道表达与核心概念枢纽",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
+    },
+    {
+      "basename": "核心思维，高级表达，易混词",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md"
+    },
+    {
+      "basename": "科技与认知类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md"
+    },
+    {
+      "basename": "社会、工作、经济类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md"
+    },
+    {
+      "basename": "文化与旅游类",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md"
+    },
+    {
+      "basename": "设计、时尚",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md"
+    },
+    {
+      "basename": "日常生活",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md"
+    },
+    {
       "basename": "日记模板",
       "path": "4.不常用/模板文件/日记模板.md"
     },
@@ -13,16 +97,8 @@
       "path": "1.工作流/10.日记文件/2026-01-08 周四.md"
     },
     {
-      "basename": "ch9 ch10",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
-    },
-    {
       "basename": "03微几何",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
     },
     {
       "basename": "极限--张宇基础30讲",
@@ -55,10 +131,6 @@
     {
       "basename": "看见矩阵（二）",
       "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "信息降噪与多巴胺饮食",
@@ -97,16 +169,8 @@
       "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
     },
     {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
-    },
-    {
       "basename": "ch5 ch6",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
-    },
-    {
-      "basename": "模考",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
     },
     {
       "basename": "作业（ch7-ch10）",
@@ -135,70 +199,6 @@
     {
       "basename": "多层感知机",
       "path": "2.知识库/21.AI世界/02深度学习/多层感知机.md"
-    },
-    {
-      "basename": "概念+押题",
-      "path": "2.知识库/21.AI世界/01机器学习/期末/概念+押题.md"
-    },
-    {
-      "basename": "2026-01-07 周三",
-      "path": "1.工作流/10.日记文件/2026-01-07 周三.md"
-    },
-    {
-      "basename": "困惑",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
-    },
-    {
-      "basename": "作业（ch2-ch6）",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
-    },
-    {
-      "basename": "康凯23009200942",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md"
-    },
-    {
-      "basename": "ch2、ch3、ch4",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
-    },
-    {
-      "basename": "2026-01-06 周二",
-      "path": "1.工作流/10.日记文件/2026-01-06 周二.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
-    },
-    {
-      "basename": "视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
-    },
-    {
-      "basename": "地道表达与核心概念枢纽",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
-    },
-    {
-      "basename": "书籍勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md"
-    },
-    {
-      "basename": "考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "2026-01-05 周一",
-      "path": "1.工作流/10.日记文件/2026-01-05 周一.md"
     }
   ],
   "omittedPaths": [],
