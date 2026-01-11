@@ -72,21 +72,51 @@
             }
           },
           {
-            "id": "2c03d1c343610edb",
+            "id": "46a64053937646c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch5 ch6"
+              "title": "地道表达与核心概念枢纽"
+            }
+          },
+          {
+            "id": "24f72e14e2765bdb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/25年1月第一周周报（1.5-1.11）.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "25年1月第一周周报（1.5-1.11）"
+            }
+          },
+          {
+            "id": "3e791dad48474c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/01_25年下半年/25年12月/12月第四周周报.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12月第四周周报"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+                "file": "1.工作流/10.日记文件/25年1月第一周周报（1.5-1.11）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch5 ch6 的大纲"
+              "title": "25年1月第一周周报（1.5-1.11） 的大纲"
             }
           },
           {
@@ -291,36 +321,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c03d1c343610edb",
+  "active": "24f72e14e2765bdb",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "1.工作流/10.日记文件/01_25年下半年/25年12月/12月第四周周报.md",
+    "1.工作流/10.日记文件/25年1月第一周周报（1.5-1.11）.md",
     "1.工作流/10.日记文件/2026-01-10 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/test.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "assets/image/ch5 ch6-1768049747403.jpeg",
+    "1.工作流/10.日记文件/2026-01-09 周五.md",
+    "1.工作流/10.日记文件/2026-01-08 周四.md",
+    "1.工作流/10.日记文件/2026-01-07 周三.md",
+    "1.工作流/10.日记文件/2026-01-06 周二.md",
+    "1.工作流/10.日记文件/2026-01-05 周一.md",
+    "1.工作流/10.日记文件/2026-01-04 周日.md",
+    "1.工作流/10.日记文件/2026-01-02 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
+    "assets/image/ch5 ch6-1768049747403.jpeg",
     "assets/image/test-1768041950198.jpeg",
     "assets/image/ch7 ch8-1768032391984.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/问题解决与行为措施.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/学术、逻辑与数据.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/文化与旅游类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/设计、时尚.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
     "assets/image/03微几何-1767963380262.jpeg",
     "assets/image/03微几何-1767962312782.jpeg",
     "assets/image/03微几何-1767958952285.jpeg",
