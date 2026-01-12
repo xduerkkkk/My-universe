@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "考前"
+              "title": "第一套卷"
             }
           },
           {
@@ -119,16 +119,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二套卷"
+              "title": "第三套"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "考前 的大纲"
+              "title": "第三套 的大纲"
             }
           },
           {
@@ -333,20 +333,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f8bb2d3e91700d3",
+  "active": "e14309ebc61a6119",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md",
     "1.工作流/10.日记文件/2026-01-12 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
@@ -368,7 +369,6 @@
     "1.工作流/10.日记文件/25年1月第一周周报（1.5-1.11）.md",
     "1.工作流/10.日记文件/01_25年下半年/25年12月/2025-12月第五周周报.md",
     "1.工作流/10.日记文件/26年上半年/26年1月",
-    "1.工作流/10.日记文件/2026-01-10 周六.md",
     "assets/image/ch5 ch6-1768049747403.jpeg",
     "assets/image/test-1768041950198.jpeg",
     "assets/image/ch7 ch8-1768032391984.jpeg",

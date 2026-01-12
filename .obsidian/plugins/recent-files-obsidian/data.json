@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "考前",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md"
+      "basename": "第三套",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md"
+    },
+    {
+      "basename": "第二套卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md"
+    },
+    {
+      "basename": "第一套卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md"
+    },
+    {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
     },
     {
       "basename": "模考",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md"
+    },
+    {
+      "basename": "考前",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md"
     },
     {
       "basename": "ch5 ch6",
@@ -17,14 +37,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
     },
     {
-      "basename": "第一套卷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md"
-    },
-    {
-      "basename": "第二套卷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md"
-    },
-    {
       "basename": "康凯23009200942",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md"
     },
@@ -33,20 +45,12 @@
       "path": "1.工作流/10.日记文件/2026-01-12 周一.md"
     },
     {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
-    },
-    {
       "basename": "作业（ch7-ch10）",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
     },
     {
       "basename": "困惑",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
-    },
-    {
-      "basename": "ch9 ch10",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
     },
     {
       "basename": "作业（ch2-ch6）",
@@ -195,10 +199,6 @@
     {
       "basename": "1.IO设备",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
-    },
-    {
-      "basename": "阅读--态度词",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/阅读--态度词.md"
     }
   ],
   "omittedPaths": [],
