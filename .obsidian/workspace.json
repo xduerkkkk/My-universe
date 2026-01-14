@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/看见矩阵（三）.md",
+                "file": "1.工作流/10.日记文件/2026-01-13 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（三） 的大纲"
+              "title": "2026-01-13 周二 的大纲"
             }
           },
           {
@@ -307,15 +307,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714c8471730a11a7",
+  "active": "85a2e2043131e2bc",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/看见矩阵（三）.md",
     "assets/image/看见矩阵（三）-1768310416942.jpeg",
     "assets/image/看见矩阵（三）-1768310412320.jpeg",
     "assets/image/看见矩阵（三）-1768309653851.jpeg",
     "assets/image/看见矩阵（三）-1768309562127.jpeg",
     "3.创造物/30.输出文章/assets",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-    "3.创造物/30.输出文章/看见矩阵（三）.md",
     "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
     "2.知识库/21.AI世界/模式识别/特征选择.md",
     "1.工作流/10.日记文件/2026-01-13 周二.md",
@@ -334,7 +334,6 @@
     "assets/image/第三套-1768233494744.jpeg",
     "assets/image/第三套-1768233494631.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
-    "assets/image/第二套卷-1768233357544.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
