@@ -289,10 +289,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:导出为HTML": false,
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -309,6 +309,8 @@
   },
   "active": "714c8471730a11a7",
   "lastOpenFiles": [
+    "assets/image/看见矩阵（三）-1768310416942.jpeg",
+    "assets/image/看见矩阵（三）-1768310412320.jpeg",
     "assets/image/看见矩阵（三）-1768309653851.jpeg",
     "assets/image/看见矩阵（三）-1768309562127.jpeg",
     "3.创造物/30.输出文章/assets",
@@ -333,7 +335,6 @@
     "assets/image/第三套-1768233494631.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
     "assets/image/第二套卷-1768233357544.jpeg",
-    "assets/image/第二套卷-1768233347095.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/模考.md",
@@ -345,7 +346,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
-    "assets/image/02微概计--张宇基础30讲-1768189846972.jpeg",
     "1.工作流/10.日记文件/26年上半年/26年1月",
     "3.创造物/32.思想地图/方法论与系统",
     "3.创造物/32.思想地图/认知",
