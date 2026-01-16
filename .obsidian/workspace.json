@@ -38,40 +38,9 @@
               "icon": "lucide-file",
               "title": "1998"
             }
-          },
-          {
-            "id": "45969c6dccc00a6b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "机器学习理论+线性模型"
-            }
-          },
-          {
-            "id": "78e22652c97df77f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "机器学习基石--如何诞生一个“机器”"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0000随便丢收集箱 的大纲"
+              "title": "1998 的大纲"
             }
           },
           {
@@ -276,8 +245,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2f11ab526d56a87",
+  "active": "d0b9867b125d472c",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-01-16 周五.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "1.工作流/10.日记文件/2026-01-13 周二.md",
     "3.创造物/30.输出文章/看见矩阵（三）.md",
@@ -313,7 +284,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
     "1.工作流/10.日记文件/26年上半年/26年1月",
     "3.创造物/32.思想地图/方法论与系统",
     "3.创造物/32.思想地图/认知",
