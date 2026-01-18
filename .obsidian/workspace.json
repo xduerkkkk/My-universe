@@ -58,15 +58,53 @@
           {
             "id": "5a5bcbed8dd7cd9e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "书籍勘察"
+            }
+          },
+          {
+            "id": "06e342c9940a649b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "视频勘察"
+            }
+          },
+          {
+            "id": "b3afa0fc8bb630b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -270,8 +309,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a5bcbed8dd7cd9e",
+  "active": "b3afa0fc8bb630b3",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "4.不常用/模板文件/日记模板.md",
     "1.工作流/10.日记文件/25年1月第二周+寒假规划.md",
     "1.工作流/10.日记文件/2026-01-13 周二.md",
@@ -296,9 +338,6 @@
     "4.不常用/联系人文件/朋友/张雅婕.md",
     "4.不常用/联系人文件/朋友/张佳美.md",
     "4.不常用/联系人文件/朋友/杨晨.md",
-    "4.不常用/联系人文件/朋友/王佳辉.md",
-    "4.不常用/联系人文件/朋友/梁熠晨.md",
-    "4.不常用/联系人文件/朋友/6景晗.md",
     "assets/image/看见矩阵（三）-1768310416942.jpeg",
     "assets/image/看见矩阵（三）-1768310412320.jpeg",
     "assets/image/看见矩阵（三）-1768309653851.jpeg",
