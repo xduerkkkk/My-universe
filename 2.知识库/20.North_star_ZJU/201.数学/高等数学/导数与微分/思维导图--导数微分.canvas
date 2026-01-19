@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"5153a087850bcb71","x":-300,"y":-437,"width":850,"height":388,"type":"group","label":"导数"},
+		{"id":"b28948f2b758c53b","type":"text","text":"导数的定义","x":-280,"y":-189,"width":250,"height":60},
+		{"id":"765b0ef4ffc2cae7","type":"text","text":"$\\Delta y = f'(x) \\Delta x + o(\\Delta x)$","x":75,"y":40,"width":250,"height":60,"color":"5"},
+		{"id":"81950b930b5f3337","type":"text","text":"$lim_{h->0} \\frac{f(x0+h)-f(x0)}{h}$  ","x":30,"y":-339,"width":170,"height":60,"color":"5"},
+		{"id":"07a0e456cc243474","type":"text","text":"几何直觉：**函数值**接近的速度比横轴点接近速度更快或相等","x":244,"y":-417,"width":242,"height":78},
+		{"id":"7d165f376483c596","type":"text","text":"可导必连续，连续不一定可导","x":280,"y":-249,"width":250,"height":60},
+		{"id":"788449dcc8c21346","type":"text","text":"微分的定义","x":-280,"y":-20,"width":250,"height":60},
+		{"id":"d0d5d3307e9c85de","x":-35,"y":-403,"width":130,"height":50,"type":"text","text":"*想要表示一种趋近*"},
+		{"id":"a7528d2e167d4c6c","x":119,"y":-129,"width":250,"height":60,"type":"text","text":"变化率、切线"},
+		{"id":"9769dd17e7ad3c2c","x":-95,"y":220,"width":250,"height":60,"color":"4","type":"text","text":"面积的增量：线性增量+边角料"},
+		{"id":"afaa6757a9b5f42c","x":197,"y":220,"width":353,"height":300,"color":"4","type":"text","text":"以直代曲：线性增量+误差\n\n![](../../../../../assets/image/书籍对齐-1765769453466.jpeg)"}
+	],
+	"edges":[
+		{"id":"b9e96132118e8c41","fromNode":"b28948f2b758c53b","fromSide":"right","toNode":"81950b930b5f3337","toSide":"left","label":"极限定义"},
+		{"id":"7611749811ca1c3d","fromNode":"81950b930b5f3337","fromSide":"right","toNode":"07a0e456cc243474","toSide":"left"},
+		{"id":"b178d65ac8c49a32","fromNode":"07a0e456cc243474","fromSide":"bottom","toNode":"7d165f376483c596","toSide":"top","fromEnd":"arrow"},
+		{"id":"660279615cbe565d","fromNode":"788449dcc8c21346","fromSide":"right","toNode":"765b0ef4ffc2cae7","toSide":"left"},
+		{"id":"89f8940b58e79d48","fromNode":"b28948f2b758c53b","fromSide":"right","toNode":"a7528d2e167d4c6c","toSide":"left","label":"几何定义"},
+		{"id":"d124d0a1bf0db3a7","fromNode":"a7528d2e167d4c6c","fromSide":"bottom","toNode":"afaa6757a9b5f42c","toSide":"right","color":"5"},
+		{"id":"83176d42fafca57f","fromNode":"765b0ef4ffc2cae7","fromSide":"bottom","toNode":"9769dd17e7ad3c2c","toSide":"top","label":"两种"},
+		{"id":"961efe61be528c56","fromNode":"765b0ef4ffc2cae7","fromSide":"bottom","toNode":"afaa6757a9b5f42c","toSide":"top","label":"理解"}
+	]
+}
