@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
+    },
+    {
       "basename": "思维导图--导数微分",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas"
     },
     {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
     },
     {
       "basename": "2026-01-19 周一",
       "path": "1.工作流/10.日记文件/2026-01-19 周一.md"
     },
     {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
+      "basename": "曲率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/曲率.md"
+    },
+    {
+      "basename": "导数的定义",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md"
+    },
+    {
+      "basename": "单调性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md"
+    },
+    {
+      "basename": "Pasted image 20260119203106",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119203106.png"
+    },
+    {
+      "basename": "Pasted image 20260119201743",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119201743.png"
+    },
+    {
+      "basename": "Pasted image 20260119192425",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119192425.png"
+    },
+    {
+      "basename": "Pasted image 20260119192401",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119192401.png"
     },
     {
       "basename": "01书籍对齐",
@@ -23,10 +51,6 @@
     {
       "basename": "微分的定义",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
-    },
-    {
-      "basename": "导数的定义",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md"
     },
     {
       "basename": "25年1月第二周+寒假规划",
@@ -175,30 +199,6 @@
     {
       "basename": "李清晟",
       "path": "4.不常用/联系人文件/朋友/李清晟.md"
-    },
-    {
-      "basename": "如何训练出词向量？",
-      "path": "2.知识库/21.AI世界/04大模型/语义表达/如何训练出词向量？.md"
-    },
-    {
-      "basename": "未命名看板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/未命名看板.md"
-    },
-    {
-      "basename": "机器学习理论+线性模型",
-      "path": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md"
-    },
-    {
-      "basename": "看见矩阵（三）",
-      "path": "3.创造物/30.输出文章/看见矩阵（三）.md"
-    },
-    {
-      "basename": "看见矩阵（二）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
-    },
-    {
-      "basename": "机器学习基石--如何诞生一个“机器”",
-      "path": "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md"
     }
   ],
   "omittedPaths": [],
