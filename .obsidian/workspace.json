@@ -56,55 +56,35 @@
             }
           },
           {
-            "id": "5a5bcbed8dd7cd9e",
+            "id": "77a65f447c6ef67b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "书籍勘察"
+              "title": "02微概计--张宇基础30讲"
             }
           },
           {
-            "id": "06e342c9940a649b",
+            "id": "8c5b0d33586e6901",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "视频勘察"
-            }
-          },
-          {
-            "id": "b3afa0fc8bb630b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
+              "title": "极限--张宇基础30讲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -309,11 +289,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3afa0fc8bb630b3",
+  "active": "77a65f447c6ef67b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "1.工作流/10.日记文件/25年1月第二周+寒假规划.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2026-01-19 周一.md",
+    "1.工作流/10.日记文件/2026-01-13 周二.md",
+    "1.工作流/10.日记文件/2026-01-12 周一.md",
+    "1.工作流/10.日记文件/2026-01-16 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/王道题.md",
     "assets/image/王道题-1768745136186.jpeg",
     "assets/image/王道题-1768744694407.jpeg",
     "assets/image/王道题-1768744596075.jpeg",
@@ -321,14 +314,9 @@
     "assets/image/王道题-1768744462882.jpeg",
     "assets/image/王道题-1768744439375.jpeg",
     "4.不常用/模板文件/日记模板.md",
-    "1.工作流/10.日记文件/25年1月第二周+寒假规划.md",
-    "1.工作流/10.日记文件/2026-01-13 周二.md",
-    "1.工作流/10.日记文件/2026-01-16 周五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
-    "1.工作流/10.日记文件/2026-01-12 周一.md",
     "1.工作流/10.日记文件/2026-01-10 周六.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md",
@@ -336,13 +324,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假健身.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
-    "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假前健身.md",
-    "1.工作流/10.日记文件/25年1月第一周周报（1.5-1.11）.md",
-    "1.工作流/10.日记文件/BedRock 0-50天总结.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/考前.md",
-    "4.不常用/联系人文件/朋友/李振阳.md",
-    "4.不常用/联系人文件/朋友/张雅婕.md",
-    "4.不常用/联系人文件/朋友/张佳美.md",
     "assets/image/看见矩阵（三）-1768310416942.jpeg",
     "assets/image/看见矩阵（三）-1768310412320.jpeg",
     "assets/image/看见矩阵（三）-1768309653851.jpeg",
