@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+                "file": "1.工作流/10.日记文件/2026-01-22 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04微不等式 的大纲"
+              "title": "2026-01-22 周四 的大纲"
             }
           },
           {
@@ -275,13 +275,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e74590661ef7e19f",
+  "active": "8a27e98e39782773",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "assets/image/04微不等式-1769058466505.jpeg",
     "assets/image/04微不等式-1769057442441.jpeg",
     "assets/image/04微不等式-1769055856501.jpeg",
     "1.工作流/10.日记文件/2026-01-22 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
@@ -312,7 +312,6 @@
     "assets/image/看见矩阵（三）-1768913471073.jpeg",
     "assets/image/看见矩阵（三）-1768912457267.jpeg",
     "assets/image/看见矩阵（三）-1768912442959.jpeg",
-    "assets/image/看见矩阵（三）-1768911986242.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
     "3.创造物/30.输出文章/assets",
