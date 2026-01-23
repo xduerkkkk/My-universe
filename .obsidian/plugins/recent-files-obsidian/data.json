@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习概率论",
+      "path": "3.创造物/30.输出文章/AI/MLDL/机器学习概率论.md"
+    },
+    {
+      "basename": "2026-01-23 周五",
+      "path": "1.工作流/10.日记文件/2026-01-23 周五.md"
+    },
+    {
+      "basename": "从概率视角统一“线性”机器学习",
+      "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性”机器学习.md"
+    },
+    {
+      "basename": "1999",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md"
+    },
+    {
       "basename": "1998",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md"
     },
     {
       "basename": "2026-01-22 周四",
       "path": "1.工作流/10.日记文件/2026-01-22 周四.md"
     },
     {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md"
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "2026-01-21 周三",
@@ -27,10 +47,6 @@
     {
       "basename": "00视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "英语方法",
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20260119192425",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119192425.png"
-    },
-    {
-      "basename": "Pasted image 20260119192401",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119192401.png"
-    },
-    {
-      "basename": "01书籍对齐",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md"
-    },
-    {
-      "basename": "微分的定义",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/微分的定义.md"
-    },
-    {
-      "basename": "极限--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
     }
   ],
   "omittedPaths": [],
