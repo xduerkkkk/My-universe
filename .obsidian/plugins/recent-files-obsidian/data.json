@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "机器学习概率论",
-      "path": "3.创造物/30.输出文章/AI/MLDL/机器学习概率论.md"
+      "basename": "概率论基础",
+      "path": "3.创造物/30.输出文章/AI/MLDL/概率论基础.md"
+    },
+    {
+      "basename": "概率分布",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md"
+    },
+    {
+      "basename": "线性模型",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md"
+    },
+    {
+      "basename": "绪论",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md"
+    },
+    {
+      "basename": "导读",
+      "path": "2.知识库/21.AI世界/01机器学习/PRML/导读.md"
     },
     {
       "basename": "2026-01-23 周五",
@@ -183,22 +199,6 @@
     {
       "basename": "导数的定义",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md"
-    },
-    {
-      "basename": "单调性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md"
-    },
-    {
-      "basename": "Pasted image 20260119203106",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119203106.png"
-    },
-    {
-      "basename": "Pasted image 20260119201743",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119201743.png"
-    },
-    {
-      "basename": "Pasted image 20260119192425",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260119192425.png"
     }
   ],
   "omittedPaths": [],
