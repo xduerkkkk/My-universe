@@ -72,95 +72,39 @@
             }
           },
           {
-            "id": "985696bfa8d70ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ch2软件系统与计算机性能指标和评价"
-            }
-          },
-          {
-            "id": "dc20a8e52b3d397d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "寒假规划"
-            }
-          },
-          {
             "id": "76366e04e885d645",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数据通路"
-            }
-          },
-          {
-            "id": "588ca30d5a76e90e",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "寒假规划"
+              "title": "ch7与ch8 主存"
             }
           },
           {
-            "id": "9b27df31b924548d",
+            "id": "d251c067449575cd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "03-AI"
-            }
-          },
-          {
-            "id": "79e2a56d253925bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假健身.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "寒假健身"
+              "title": "王道题"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "寒假规划 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -365,12 +309,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "588ca30d5a76e90e",
+  "active": "d251c067449575cd",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-01-24 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假健身.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假前健身.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
     "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
@@ -379,20 +331,12 @@
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/问题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/chache.md",
-    "1.工作流/10.日记文件/2026-01-24 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "assets/image/ch1计算机硬件构成-1769219937753.jpeg",
     "assets/image/ch1计算机硬件构成-1769219832506.jpeg",
     "assets/image/ch1计算机硬件构成-1769219820489.jpeg",
