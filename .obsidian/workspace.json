@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "81e15b9252fa3524",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-01-23 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-23 周五"
-            }
-          },
-          {
             "id": "05a0eb21f568a1f4",
             "type": "leaf",
             "pinned": true,
@@ -72,21 +56,51 @@
             }
           },
           {
-            "id": "974ee51d54f04c03",
+            "id": "349bbe8888165027",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-01-24 周六.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-24 周六"
+            }
+          },
+          {
+            "id": "985696bfa8d70ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "看见矩阵（三）"
+              "title": "ch2软件系统与计算机性能指标和评价"
+            }
+          },
+          {
+            "id": "dc20a8e52b3d397d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王道题"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-23 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-23 周五 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -291,12 +305,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e15b9252fa3524",
+  "active": "dc20a8e52b3d397d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "1.工作流/10.日记文件/2026-01-24 周六.md",
+    "assets/image/ch1计算机硬件构成-1769219937753.jpeg",
+    "assets/image/ch1计算机硬件构成-1769219832506.jpeg",
+    "assets/image/ch1计算机硬件构成-1769219820489.jpeg",
+    "assets/image/ch1计算机硬件构成-1769219798536.jpeg",
+    "assets/image/ch1计算机硬件构成-1769219359129.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "1.工作流/10.日记文件/2026-01-23 周五.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
+    "1.工作流/10.日记文件/2026-01-23 周五.md",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769173663209.jpeg",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md",
@@ -313,22 +338,12 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "1.工作流/10.日记文件/2026-01-22 周四.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2026-01-21 周三.md",
     "assets/image/04微不等式-1769089948583.jpeg",
     "assets/image/04微不等式-1769089869243.jpeg",
     "assets/image/04微不等式-1769089405021.jpeg",
-    "assets/image/04微不等式-1769088883870.jpeg",
-    "assets/image/04微不等式-1769088808662.jpeg",
-    "assets/image/04微不等式-1769087209375.jpeg",
-    "assets/image/04微不等式-1769085270671.jpeg",
-    "assets/image/04微不等式-1769085023798.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
     "3.创造物/30.输出文章/assets",
@@ -339,7 +354,6 @@
     "2.知识库/21.AI世界/02深度学习/DLFC",
     "2.知识库/20.North_star_ZJU/203.政治",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/assets",
-    "3.创造物/31. 我的项目/项目四，docker/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
