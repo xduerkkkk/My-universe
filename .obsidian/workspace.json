@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+                "file": "1.工作流/10.日记文件/2026-01-23 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（三） 的大纲"
+              "title": "2026-01-23 周五 的大纲"
             }
           },
           {
@@ -291,11 +291,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "81e15b9252fa3524",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "1.工作流/10.日记文件/2026-01-23 周五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769173663209.jpeg",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
