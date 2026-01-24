@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "寒假规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
+    },
+    {
+      "basename": "03-AI",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
+    },
+    {
+      "basename": "寒假健身",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假健身.md"
+    },
+    {
+      "basename": "寒假前健身",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假前健身.md"
+    },
+    {
+      "basename": "bedrock寒假阶段",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md"
+    },
+    {
+      "basename": "考研英语时间线",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/未命名.md"
+    },
+    {
+      "basename": "我的序言",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
+    },
+    {
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
+    },
+    {
+      "basename": "我的bedrock",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
+    },
+    {
+      "basename": "规划概览",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
+    },
+    {
       "basename": "ch7与ch8 主存",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md"
     },
     {
+      "basename": "ch6 dma传输与存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md"
+    },
+    {
+      "basename": "ch5 io接口",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/问题记录.md"
+    },
+    {
+      "basename": "指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md"
+    },
+    {
+      "basename": "指令问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md"
+    },
+    {
+      "basename": "加减乘除",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md"
+    },
+    {
       "basename": "ch2软件系统与计算机性能指标和评价",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
+    },
+    {
+      "basename": "数据通路",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
+    },
+    {
+      "basename": "chache",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/chache.md"
     },
     {
       "basename": "2026-01-24 周六",
@@ -17,24 +105,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
     },
     {
-      "basename": "ch6 dma传输与存储系统概述",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md"
-    },
-    {
       "basename": "问题记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md"
     },
     {
       "basename": "未命名看板",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/未命名看板.md"
-    },
-    {
-      "basename": "ch1计算机硬件构成",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
     },
     {
       "basename": "看见矩阵（三）",
@@ -123,82 +199,6 @@
     {
       "basename": "02微概计--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
-    },
-    {
-      "basename": "英语方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md"
-    },
-    {
-      "basename": "搜集资料、文献，以及阅读方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/搜集资料、文献，以及阅读方法.md"
-    },
-    {
-      "basename": "碰到困难",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/碰到困难.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "2026-01-20 周二",
-      "path": "1.工作流/10.日记文件/2026-01-20 周二.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
-    },
-    {
-      "basename": "同步与互斥",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/同步与互斥.md"
-    },
-    {
-      "basename": "几何直观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/几何直观.md"
-    },
-    {
-      "basename": "特征向量",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/特征向量.md"
-    },
-    {
-      "basename": "对称矩阵",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/对称矩阵.md"
-    },
-    {
-      "basename": "二次型",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/二次型.md"
-    },
-    {
-      "basename": "线性方程组与向量",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/线性方程组与向量.md"
-    },
-    {
-      "basename": "协方差矩阵",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md"
-    },
-    {
-      "basename": "正交矩阵",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/正交矩阵.md"
-    },
-    {
-      "basename": "SVD分解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md"
-    },
-    {
-      "basename": "矩阵的秩",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/矩阵的秩.md"
-    },
-    {
-      "basename": "看见矩阵（一）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
-    },
-    {
-      "basename": "看见矩阵（二）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
     }
   ],
   "omittedPaths": [],
