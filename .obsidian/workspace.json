@@ -98,9 +98,23 @@
               "icon": "lucide-file",
               "title": "王道题"
             }
+          },
+          {
+            "id": "76366e04e885d645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ch7与ch8 主存"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "ch7与ch8 主存 的大纲"
             }
           },
           {
@@ -305,12 +319,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc20a8e52b3d397d",
+  "active": "76366e04e885d645",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
     "1.工作流/10.日记文件/2026-01-24 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/未命名看板.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
     "assets/image/ch1计算机硬件构成-1769219937753.jpeg",
     "assets/image/ch1计算机硬件构成-1769219832506.jpeg",
     "assets/image/ch1计算机硬件构成-1769219820489.jpeg",
@@ -336,14 +355,9 @@
     "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
     "assets/image/从概率视角统一“线性模型“-1769157065562.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
-    "1.工作流/10.日记文件/2026-01-22 周四.md",
-    "1.工作流/10.日记文件/2026-01-21 周三.md",
     "assets/image/04微不等式-1769089948583.jpeg",
     "assets/image/04微不等式-1769089869243.jpeg",
     "assets/image/04微不等式-1769089405021.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
     "3.创造物/30.输出文章/assets",
