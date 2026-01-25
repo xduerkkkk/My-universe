@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
+      "basename": "2026-01-24 周六",
+      "path": "1.工作流/10.日记文件/2026-01-24 周六.md"
     },
     {
       "basename": "ch7与ch8 主存",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md"
     },
     {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
       "basename": "ch6 dma传输与存储系统概述",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md"
     },
     {
-      "basename": "2026-01-24 周六",
-      "path": "1.工作流/10.日记文件/2026-01-24 周六.md"
+      "basename": "chache",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/chache.md"
+    },
+    {
+      "basename": "问题记录2",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录2.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
+    },
+    {
+      "basename": "外存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
     },
     {
       "basename": "从概率视角统一“线性模型“（线性回归）",
@@ -23,10 +43,6 @@
     {
       "basename": "ch2软件系统与计算机性能指标和评价",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
-    },
-    {
-      "basename": "ch1计算机硬件构成",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
     },
     {
       "basename": "数据通路",
@@ -99,14 +115,6 @@
     {
       "basename": "加减乘除",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
-    },
-    {
-      "basename": "chache",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/chache.md"
     },
     {
       "basename": "问题记录",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-01-21 周三",
       "path": "1.工作流/10.日记文件/2026-01-21 周三.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
     }
   ],
   "omittedPaths": [],
