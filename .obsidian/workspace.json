@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "ch7与ch8 主存"
             }
+          },
+          {
+            "id": "02157127b194a86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "看见矩阵（三）"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-24 周六.md",
+                "file": "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-24 周六 的大纲"
+              "title": "看见矩阵（三） 的大纲"
             }
           },
           {
@@ -293,8 +307,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "349bbe8888165027",
+  "active": "02157127b194a86d",
   "lastOpenFiles": [
+    "assets/image/看见矩阵（三）-1769328281578.jpeg",
+    "assets/image/看见矩阵（三）-1769328269858.jpeg",
+    "assets/image/看见矩阵（三）-1769328118683.jpeg",
+    "assets/image/看见矩阵（三）-1769328110932.jpeg",
+    "assets/image/看见矩阵（三）-1769327823392.jpeg",
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
+    "1.工作流/10.日记文件/2026-01-24 周六.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "assets/image/王道题-1769265378281.jpeg",
@@ -303,19 +325,13 @@
     "assets/image/王道题-1769265299841.jpeg",
     "assets/image/王道题-1769265272182.jpeg",
     "assets/image/王道题-1769265194066.jpeg",
-    "assets/image/王道题-1769265184649.jpeg",
-    "assets/image/王道题-1769264990137.jpeg",
-    "assets/image/王道题-1769264975219.jpeg",
-    "assets/image/王道题-1769264947648.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
-    "1.工作流/10.日记文件/2026-01-24 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch6 dma传输与存储系统概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/chache.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
@@ -330,7 +346,6 @@
     "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
