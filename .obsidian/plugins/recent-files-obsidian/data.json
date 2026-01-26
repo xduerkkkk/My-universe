@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "05微分物理，经济应用",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "2026-01-26 周一",
+      "path": "1.工作流/10.日记文件/2026-01-26 周一.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
+    },
+    {
       "basename": "1999",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md"
+    },
+    {
+      "basename": "2026-01-24 周六",
+      "path": "1.工作流/10.日记文件/2026-01-24 周六.md"
     },
     {
       "basename": "25年1月第三周周报",
@@ -109,10 +129,6 @@
       "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md"
     },
     {
-      "basename": "2026-01-24 周六",
-      "path": "1.工作流/10.日记文件/2026-01-24 周六.md"
-    },
-    {
       "basename": "ch1计算机硬件构成",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "我的bedrock",
       "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
-    },
-    {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "ch5 io接口",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md"
-    },
-    {
-      "basename": "问题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/问题记录.md"
-    },
-    {
-      "basename": "指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md"
     }
   ],
   "omittedPaths": [],
