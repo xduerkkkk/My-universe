@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "05微分物理，经济应用",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md"
-    },
-    {
       "basename": "04微不等式",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "极限--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
+    },
+    {
+      "basename": "函数--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md"
     },
     {
       "basename": "2026-01-26 周一",
       "path": "1.工作流/10.日记文件/2026-01-26 周一.md"
     },
     {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
-    },
-    {
       "basename": "1999",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md"
+    },
+    {
+      "basename": "05微分物理，经济应用",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
     },
     {
       "basename": "2026-01-24 周六",
@@ -191,14 +199,6 @@
     {
       "basename": "我的序言",
       "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
-    },
-    {
-      "basename": "bedrock后半程",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
-    },
-    {
-      "basename": "我的bedrock",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
     }
   ],
   "omittedPaths": [],
