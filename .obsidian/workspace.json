@@ -80,8 +80,8 @@
               "state": {
                 "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
                 "viewState": {
-                  "x": 2.7753429488826384,
-                  "y": 1339.1071480097883,
+                  "x": -32.29641714076311,
+                  "y": 1353.3956235912603,
                   "zoom": -0.6992760762458337
                 }
               },
@@ -93,6 +93,7 @@
           {
             "id": "6d9b97fee97a4a56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,12 +101,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "03微几何"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+                "file": "1.工作流/10.日记文件/2026-01-26 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03微几何 的大纲"
+              "title": "2026-01-26 周一 的大纲"
             }
           },
           {
@@ -310,29 +312,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d9b97fee97a4a56",
+  "active": "1692abf50c285962",
   "lastOpenFiles": [
-    "assets/image/03微几何-1769432851878.jpeg",
-    "assets/image/03微几何-1769432659253.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "assets/image/03微几何-1769438416669.jpeg",
+    "assets/image/03微几何-1769438021629.jpeg",
+    "assets/image/03微几何-1769437833916.jpeg",
     "1.工作流/10.日记文件/2026-01-26 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+    "assets/image/03微几何-1769437490251.jpeg",
+    "assets/image/03微几何-1769437112796.jpeg",
+    "assets/image/03微几何-1769434951063.jpeg",
+    "assets/image/03微几何-1769432851878.jpeg",
+    "assets/image/03微几何-1769432659253.jpeg",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
     "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "assets/image/04微不等式-1769426363619.jpeg",
     "assets/image/04微不等式-1769425583285.jpeg",
-    "assets/image/04微不等式-1769425250134.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
-    "assets/image/04微不等式-1769403009787.jpeg",
-    "assets/image/04微不等式-1769402804252.jpeg",
-    "assets/image/04微不等式-1769402793281.jpeg",
-    "assets/image/04微不等式-1769402338854.jpeg",
-    "assets/image/04微不等式-1769402099202.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
-    "assets/image/04微不等式-1769401707243.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "1.工作流/10.日记文件/2026-01-24 周六.md",
     "1.工作流/10.日记文件/25年1月第三周周报.md",
