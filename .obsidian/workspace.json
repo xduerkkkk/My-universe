@@ -40,74 +40,37 @@
             }
           },
           {
-            "id": "1692abf50c285962",
+            "id": "656baeac4bee3468",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-26 周一.md",
+                "file": "1.工作流/10.日记文件/2026-01-27 周二.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-01-26 周一"
+              "title": "2026-01-27 周二"
             }
           },
           {
-            "id": "3c2e36711258edd0",
+            "id": "9f87e0a60ddf084c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "04微不等式"
-            }
-          },
-          {
-            "id": "c5b5abee1e2e3423",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-                "viewState": {
-                  "x": -32.29641714076311,
-                  "y": 1353.3956235912603,
-                  "zoom": -0.6992760762458337
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "思维导图--导数微分"
-            }
-          },
-          {
-            "id": "6d9b97fee97a4a56",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03微几何"
+              "title": "从概率视角统一“线性模型“（线性回归）"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-26 周一.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-26 周一 的大纲"
+              "title": "从概率视角统一“线性模型“（线性回归） 的大纲"
             }
           },
           {
@@ -290,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,15 +275,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1692abf50c285962",
+  "active": "9f87e0a60ddf084c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
+    "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
+    "1.工作流/10.日记文件/2026-01-27 周二.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
+    "1.工作流/10.日记文件/2026-01-26 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "assets/image/03微几何-1769438416669.jpeg",
     "assets/image/03微几何-1769438021629.jpeg",
     "assets/image/03微几何-1769437833916.jpeg",
-    "1.工作流/10.日记文件/2026-01-26 周一.md",
     "assets/image/03微几何-1769437490251.jpeg",
     "assets/image/03微几何-1769437112796.jpeg",
     "assets/image/03微几何-1769434951063.jpeg",
@@ -334,7 +302,6 @@
     "assets/image/04微不等式-1769425583285.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "1.工作流/10.日记文件/2026-01-24 周六.md",
     "1.工作流/10.日记文件/25年1月第三周周报.md",
     "1.工作流/10.日记文件/2026-01-20 周二.md",
@@ -347,9 +314,6 @@
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/ch7与ch8 主存.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
