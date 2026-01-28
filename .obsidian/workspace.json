@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "656baeac4bee3468",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-01-27 周二.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-27 周二"
-            }
-          },
-          {
             "id": "9f87e0a60ddf084c",
             "type": "leaf",
             "pinned": true,
@@ -74,6 +58,39 @@
           {
             "id": "3a3bce013e59ab5a",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-01-28 周三.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-28 周三"
+            }
+          },
+          {
+            "id": "bf681c0d07c234f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00视频勘察"
+            }
+          },
+          {
+            "id": "15c331d7ef171658",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,11 +98,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01王道题"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0000随便丢收集箱 的大纲"
+              "title": "00视频勘察 的大纲"
             }
           },
           {
@@ -290,11 +309,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2f11ab526d56a87",
+  "active": "bf681c0d07c234f4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md",
+    "1.工作流/10.日记文件/2026-01-28 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/死锁.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/同步与互斥.md",
     "1.工作流/10.日记文件/2026-01-27 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
@@ -322,13 +348,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
-    "1.工作流/10.日记文件/2026-01-24 周六.md",
-    "1.工作流/10.日记文件/25年1月第三周周报.md",
-    "1.工作流/10.日记文件/2026-01-20 周二.md",
-    "1.工作流/10.日记文件/2026-01-22 周四.md",
-    "1.工作流/10.日记文件/2026-01-19 周一.md",
-    "1.工作流/10.日记文件/2026-01-21 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
