@@ -85,8 +85,7 @@
               "title": "01王道题"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-27 周二.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-27 周二 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -291,12 +290,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "656baeac4bee3468",
+  "active": "f2f11ab526d56a87",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-01-27 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "1.工作流/10.日记文件/2026-01-27 周二.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
