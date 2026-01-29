@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+                "file": "1.工作流/10.日记文件/2026-01-29 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概念性质 的大纲"
+              "title": "2026-01-29 周四 的大纲"
             }
           },
           {
@@ -296,10 +296,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90bade5d7a317b24",
+  "active": "0ffe0d8ebf06fb0f",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-01-29 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+    "1.工作流/10.日记文件/2026-01-29 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
