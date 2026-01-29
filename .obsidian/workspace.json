@@ -103,9 +103,23 @@
               "icon": "lucide-file",
               "title": "2026-01-29 周四"
             }
+          },
+          {
+            "id": "9e035e9db44ecbea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "极限--张宇基础30讲"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+                "file": "1.工作流/10.日记文件/2026-01-29 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概念性质 的大纲"
+              "title": "2026-01-29 周四 的大纲"
             }
           },
           {
@@ -310,11 +324,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90bade5d7a317b24",
+  "active": "0ffe0d8ebf06fb0f",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-01-29 周四.md",
-    "1.工作流/10.日记文件/2026-01-28 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+    "assets/image/01积分概念性质-1769698102152.jpeg",
+    "assets/image/01积分概念性质-1769698030486.jpeg",
+    "1.工作流/10.日记文件/2026-01-29 周四.md",
+    "assets/image/01积分概念性质-1769696715444.jpeg",
+    "assets/image/01积分概念性质-1769695856426.jpeg",
+    "assets/image/01积分概念性质-1769694736030.jpeg",
+    "assets/image/01积分概念性质-1769693731655.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "1.工作流/10.日记文件/2026-01-28 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
@@ -340,17 +364,7 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/死锁.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/同步与互斥.md",
-    "1.工作流/10.日记文件/2026-01-27 周二.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769491056932.jpeg",
-    "assets/image/从概率视角统一“线性模型“（线性回归）-1769488793593.jpeg",
-    "assets/image/从概率视角统一“线性模型“（线性回归）-1769487954030.jpeg",
-    "assets/image/从概率视角统一“线性模型“（线性回归）-1769487796884.jpeg",
-    "assets/image/03微几何-1769438416669.jpeg",
-    "assets/image/03微几何-1769438021629.jpeg",
-    "assets/image/03微几何-1769437833916.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
@@ -359,7 +373,6 @@
     "3.创造物/32.思想地图/方法论与系统",
     "3.创造物/32.思想地图/认知",
     "3.创造物/32.思想地图",
-    "2.知识库/21.AI世界/02深度学习/DLFC",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
