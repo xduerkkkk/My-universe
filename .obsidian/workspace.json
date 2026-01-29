@@ -40,69 +40,42 @@
             }
           },
           {
-            "id": "9f87e0a60ddf084c",
+            "id": "0ffe0d8ebf06fb0f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+                "file": "1.工作流/10.日记文件/2026-01-29 周四.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "看见矩阵（三）"
+              "title": "2026-01-29 周四"
             }
           },
           {
-            "id": "3a3bce013e59ab5a",
+            "id": "c7f4ce7f8501d8d6",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-28 周三.md",
-                "mode": "source",
-                "source": false
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+                "viewState": {
+                  "x": -493.768620593097,
+                  "y": 1366.9080310124834,
+                  "zoom": -0.7989440403879086
+                }
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-28 周三"
-            }
-          },
-          {
-            "id": "bf681c0d07c234f4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "00视频勘察"
-            }
-          },
-          {
-            "id": "15c331d7ef171658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01王道题"
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图--导数微分"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 237.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -185,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -285,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,12 +280,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15c331d7ef171658",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-01-28 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名看板.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "1.工作流/10.日记文件/2026-01-29 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260129102045.png",
+    "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "1.工作流/10.日记文件/2026-01-28 周三.md",
     "assets/image/01王道题-1769607671071.jpeg",
     "assets/image/01王道题-1769604699840.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md",
@@ -322,29 +311,14 @@
     "1.工作流/10.日记文件/2026-01-27 周二.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
-    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
-    "未命名.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769491056932.jpeg",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769488793593.jpeg",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769487954030.jpeg",
     "assets/image/从概率视角统一“线性模型“（线性回归）-1769487796884.jpeg",
-    "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
-    "1.工作流/10.日记文件/2026-01-26 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "assets/image/03微几何-1769438416669.jpeg",
     "assets/image/03微几何-1769438021629.jpeg",
     "assets/image/03微几何-1769437833916.jpeg",
-    "assets/image/03微几何-1769437490251.jpeg",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动",
