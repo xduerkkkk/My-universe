@@ -90,7 +90,6 @@
           {
             "id": "15c331d7ef171658",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -98,13 +97,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "01王道题"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-01-28 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-28 周三 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -309,19 +307,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a3bce013e59ab5a",
+  "active": "15c331d7ef171658",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "assets/image/01王道题-1769607671071.jpeg",
     "1.工作流/10.日记文件/2026-01-28 周三.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "assets/image/01王道题-1769607671071.jpeg",
     "assets/image/01王道题-1769604699840.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程，进程的调度.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/死锁.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/同步与互斥.md",
     "1.工作流/10.日记文件/2026-01-27 周二.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
