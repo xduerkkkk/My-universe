@@ -73,9 +73,25 @@
               "icon": "lucide-layout-dashboard",
               "title": "思维导图--导数微分"
             }
+          },
+          {
+            "id": "90bade5d7a317b24",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01积分概念性质"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "01积分概念性质 的大纲"
             }
           },
           {
@@ -280,14 +296,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "90bade5d7a317b24",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+    "1.工作流/10.日记文件/2026-01-29 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名看板.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "1.工作流/10.日记文件/2026-01-29 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260129102045.png",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
@@ -328,7 +346,6 @@
     "3.创造物/32.思想地图/认知",
     "3.创造物/32.思想地图",
     "2.知识库/21.AI世界/02深度学习/DLFC",
-    "2.知识库/20.North_star_ZJU/203.政治",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
