@@ -56,24 +56,41 @@
             }
           },
           {
-            "id": "5d8d17240a934ed4",
+            "id": "0bc201e2ea69ab9d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "机器学习理论+线性模型"
+              "title": "神经网络+深度学习模型"
             }
           },
           {
             "id": "1cef77f13406b6f1",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "神经网络"
+            }
+          },
+          {
+            "id": "9e12ce289b718076",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,6 +98,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "线性分类"
             }
@@ -149,8 +167,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性分类 的大纲"
+              "title": "神经网络 的大纲"
             }
           },
           {
@@ -294,9 +311,12 @@
   },
   "active": "1cef77f13406b6f1",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "1.工作流/10.日记文件/2026-01-30 周五.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+    "1.工作流/10.日记文件/2026-01-30 周五.md",
     "assets/image/线性分类-1769740594587.jpeg",
     "2.知识库/21.AI世界/02深度学习/激活函数.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
@@ -329,8 +349,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "assets/image/01王道题-1769607671071.jpeg",
     "assets/image/01王道题-1769604699840.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
