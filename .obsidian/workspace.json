@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "file": "1.工作流/10.日记文件/2026-01-30 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "神经网络 的大纲"
+              "title": "2026-01-30 周五 的大纲"
             }
           },
           {
@@ -309,12 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cef77f13406b6f1",
+  "active": "fc5cca5c995dd258",
   "lastOpenFiles": [
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
     "1.工作流/10.日记文件/2026-01-30 周五.md",
     "assets/image/线性分类-1769740594587.jpeg",
