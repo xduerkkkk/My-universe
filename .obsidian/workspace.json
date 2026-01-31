@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+                "file": "1.工作流/10.日记文件/2026-01-30 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性分类 的大纲"
+              "title": "2026-01-30 周五 的大纲"
             }
           },
           {
@@ -307,10 +307,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e12ce289b718076",
+  "active": "fc5cca5c995dd258",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+    "1.工作流/10.日记文件/2026-01-30 周五.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/框架.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
@@ -320,7 +322,6 @@
     "2.知识库/21.AI世界/模式识别/支持向量机.md",
     "assets/image/线性分类-1769780604751.jpeg",
     "assets/image/线性分类-1769779887978.jpeg",
-    "1.工作流/10.日记文件/2026-01-30 周五.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "assets/image/线性分类-1769777517548.jpeg",
     "assets/image/线性分类-1769777469041.jpeg",
@@ -332,7 +333,6 @@
     "assets/image/线性分类-1769740594587.jpeg",
     "2.知识库/21.AI世界/02深度学习/激活函数.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "1.工作流/10.日记文件/2026-01-29 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
