@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "fc5cca5c995dd258",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-01-30 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-30 周五"
-            }
-          },
-          {
             "id": "fb39746ef5fa77f3",
             "type": "leaf",
             "pinned": true,
@@ -90,6 +74,7 @@
           {
             "id": "b5ae9fece8142c88",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,12 +82,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "cache"
             }
+          },
+          {
+            "id": "e7d3c7f10cf540f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-01-31 周六.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-31 周六"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cache 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -307,18 +309,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ae9fece8142c88",
+  "active": "80de6751b191ef3c",
   "lastOpenFiles": [
+    "assets/image/王道题-1769835332316.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
+    "1.工作流/10.日记文件/2026-01-31 周六.md",
+    "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
+    "1.工作流/10.日记文件/2026-01-30 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
-    "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
-    "1.工作流/10.日记文件/2026-01-30 周五.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/框架.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
@@ -338,8 +342,6 @@
     "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md",
     "assets/image/线性分类-1769740594587.jpeg",
     "2.知识库/21.AI世界/02深度学习/激活函数.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "1.工作流/10.日记文件/2026-01-29 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "assets/image/01积分概念性质-1769698102152.jpeg",
     "assets/image/01积分概念性质-1769698030486.jpeg",
