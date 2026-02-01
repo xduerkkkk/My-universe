@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "80de6751b191ef3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "b5ae9fece8142c88",
             "type": "leaf",
             "pinned": true,
@@ -125,17 +109,47 @@
               "state": {
                 "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
                 "viewState": {
-                  "x": 576.2005310058594,
-                  "y": 445.8007543029782,
-                  "zoom": 0
+                  "x": 605.70843854242,
+                  "y": 478.9289558396197,
+                  "zoom": -0.44444441731770834
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "思维导图-存储"
             }
+          },
+          {
+            "id": "80de6751b191ef3c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "0eb1a4b3e0f973c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -342,13 +356,14 @@
   },
   "active": "2365c6ef3a022f85",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-01-31 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md",
+    "1.工作流/10.日记文件/2026-01-31 周六.md",
     "1.工作流/10.日记文件/2026-01-30 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
@@ -362,7 +377,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/未命名看板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md",
     "assets/image/王道题-1769861329356.jpeg",
     "assets/image/王道题-1769861263786.jpeg",
     "assets/image/王道题-1769861090891.jpeg",
