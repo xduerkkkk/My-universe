@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+                "file": "1.工作流/10.日记文件/2026-02-02 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概念性质 的大纲"
+              "title": "2026-02-02 周一 的大纲"
             }
           },
           {
@@ -310,22 +310,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07ff7a5c37c33951",
+  "active": "f170c9a6e9924db8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
+    "assets/image/01积分概念性质-1770022485901.jpeg",
+    "assets/image/01积分概念性质-1770021654212.jpeg",
+    "assets/image/01积分概念性质-1770019297793.jpeg",
+    "1.工作流/10.日记文件/2026-02-02 周一.md",
+    "assets/image/01积分概念性质-1770017808054.jpeg",
     "assets/image/01积分概念性质-1770010135229.jpeg",
     "assets/image/01积分概念性质-1770010052553.jpeg",
     "assets/image/01积分概念性质-1770010041871.jpeg",
-    "1.工作流/10.日记文件/2026-02-02 周一.md",
     "assets/image/2026-02-02 周一-1770008995799.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概念性质.md",
     "assets/image/01积分概念性质-1770008674267.jpeg",
     "assets/image/01积分概念性质-1770008650414.jpeg",
-    "assets/image/01积分概念性质-1770007670761.jpeg",
-    "assets/image/01积分概念性质-1770006314722.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260202122122.png",
-    "assets/image/01积分概念性质-1770004884627.jpeg",
-    "assets/image/01积分概念性质-1769999599135.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/职场与教育类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
