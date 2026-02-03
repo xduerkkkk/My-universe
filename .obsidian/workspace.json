@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+                "file": "1.工作流/10.日记文件/2026-02-03 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性分类 的大纲"
+              "title": "2026-02-03 周二 的大纲"
             }
           },
           {
@@ -321,17 +321,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "458829288cb521e3",
+  "active": "977ee58e423cef33",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+    "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "assets/image/线性分类-1770108827938.jpeg",
     "assets/image/线性分类-1770108677930.jpeg",
     "assets/image/线性分类-1770107805718.jpeg",
     "assets/image/线性分类-1770106473997.jpeg",
     "assets/image/线性分类-1770106401240.jpeg",
     "1.工作流/10.日记文件/2026-02-03 周二.md",
-    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
     "3.创造物/32.思想地图/方法论与系统/知识的压缩与解压.md",
     "3.创造物/32.思想地图/方法论与系统/信息降噪与多巴胺饮食.md",
     "3.创造物/32.思想地图/方法论与系统/熵增定律与生活系统.md",
@@ -344,7 +345,6 @@
     "assets/image/线性分类-1770092893164.jpeg",
     "assets/image/线性分类-1770092097674.jpeg",
     "assets/image/线性分类-1770092083587.jpeg",
-    "assets/image/线性分类-1770091446219.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "1.工作流/10.日记文件/2026-02-02 周一.md",
