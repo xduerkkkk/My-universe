@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性分类 的大纲"
+              "title": "临时草稿 的大纲"
             }
           },
           {
@@ -307,11 +307,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "458829288cb521e3",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+    "1.工作流/10.日记文件/2026-02-03 周二.md",
+    "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
     "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "assets/image/线性分类-1770093328415.jpeg",
     "assets/image/线性分类-1770092981707.jpeg",
@@ -319,7 +320,6 @@
     "assets/image/线性分类-1770092097674.jpeg",
     "assets/image/线性分类-1770092083587.jpeg",
     "assets/image/线性分类-1770091446219.jpeg",
-    "1.工作流/10.日记文件/2026-02-03 周二.md",
     "assets/image/线性分类-1770085433512.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
