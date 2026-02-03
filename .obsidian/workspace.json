@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "fb39746ef5fa77f3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "临时草稿"
-            }
-          },
-          {
             "id": "977ee58e423cef33",
             "type": "leaf",
             "pinned": true,
@@ -72,47 +56,33 @@
             }
           },
           {
-            "id": "458829288cb521e3",
+            "id": "b20cf47deaad02cc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "线性分类"
+              "title": "神经网络"
             }
           },
           {
-            "id": "b20cf47deaad02cc",
+            "id": "b873ec744e8f81a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从概率视角统一“线性模型“（线性回归）"
-            }
-          },
-          {
-            "id": "12e0a233451cbe79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "反脆弱系统的设计"
+              "title": "神经网络+深度学习模型"
             }
           }
         ],
@@ -199,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-03 周二.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-03 周二 的大纲"
+              "title": "神经网络 的大纲"
             }
           },
           {
@@ -321,24 +291,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "977ee58e423cef33",
+  "active": "b20cf47deaad02cc",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
-    "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
+    "1.工作流/10.日记文件/2026-02-03 周二.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
+    "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
+    "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
+    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "assets/image/线性分类-1770108827938.jpeg",
     "assets/image/线性分类-1770108677930.jpeg",
     "assets/image/线性分类-1770107805718.jpeg",
     "assets/image/线性分类-1770106473997.jpeg",
     "assets/image/线性分类-1770106401240.jpeg",
-    "1.工作流/10.日记文件/2026-02-03 周二.md",
     "3.创造物/32.思想地图/方法论与系统/知识的压缩与解压.md",
     "3.创造物/32.思想地图/方法论与系统/信息降噪与多巴胺饮食.md",
     "3.创造物/32.思想地图/方法论与系统/熵增定律与生活系统.md",
     "3.创造物/32.思想地图/认知/考研筛选机制的本质.md",
     "3.创造物/32.思想地图/认知/延迟满足与规划的特权.md",
-    "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
     "assets/image/线性分类-1770093328415.jpeg",
     "assets/image/线性分类-1770092981707.jpeg",
@@ -357,9 +330,6 @@
     "1.工作流/10.日记文件/01_25年下半年/25年10月/25年10月第三周周报（10.13-10.19（log35）).md",
     "1.工作流/10.日记文件/01_25年下半年/25年10月/25年10月第二周周报（10.6-10.12（log28））.md",
     "1.工作流/10.日记文件/01_25年下半年/25年9月/2025-09-29 周一.md",
-    "1.工作流/10.日记文件/01_25年下半年/25年9月/2025-09-27 周六.md",
-    "1.工作流/10.日记文件/01_25年下半年/25年9月/2025-09-26 周五.md",
-    "1.工作流/10.日记文件/01_25年下半年/25年9月/2025-09-24 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
