@@ -58,6 +58,7 @@
           {
             "id": "c82619865e5a5222",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,8 +66,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01王道题"
+            }
+          },
+          {
+            "id": "b062ea508a80b40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00视频勘察"
             }
           }
         ],
@@ -277,10 +293,13 @@
   },
   "active": "c82619865e5a5222",
   "lastOpenFiles": [
-    "assets/image/01王道题-1770181122108.jpeg",
-    "assets/image/01王道题-1770180993725.jpeg",
     "1.工作流/10.日记文件/2026-02-04 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "assets/image/01王道题-1770191734666.jpeg",
+    "assets/image/01王道题-1770190626444.jpeg",
+    "assets/image/01王道题-1770181122108.jpeg",
+    "assets/image/01王道题-1770180993725.jpeg",
     "assets/image/01王道题-1770178272134.jpeg",
     "assets/image/01王道题-1770178201146.jpeg",
     "assets/image/01王道题-1770178168506.jpeg",
@@ -305,9 +324,6 @@
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "assets/image/线性分类-1770108827938.jpeg",
     "assets/image/线性分类-1770108677930.jpeg",
-    "assets/image/线性分类-1770107805718.jpeg",
-    "assets/image/线性分类-1770106473997.jpeg",
-    "assets/image/线性分类-1770106401240.jpeg",
     "3.创造物/32.思想地图/方法论与系统/知识的压缩与解压.md",
     "3.创造物/32.思想地图/方法论与系统/信息降噪与多巴胺饮食.md",
     "3.创造物/32.思想地图/方法论与系统/熵增定律与生活系统.md",
