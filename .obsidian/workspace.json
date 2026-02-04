@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "1.工作流/10.日记文件/2026-02-04 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00视频勘察 的大纲"
+              "title": "2026-02-04 周三 的大纲"
             }
           },
           {
@@ -291,11 +291,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b062ea508a80b40b",
+  "active": "61035ba475a5d93d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "1.工作流/10.日记文件/2026-02-04 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "assets/image/01王道题-1770191734666.jpeg",
     "assets/image/01王道题-1770190626444.jpeg",
     "assets/image/01王道题-1770181122108.jpeg",
