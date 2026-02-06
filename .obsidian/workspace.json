@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "53c9721fb95775b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-02-05 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-02-05 周四"
-            }
-          },
-          {
             "id": "d9d22791a94b0747",
             "type": "leaf",
             "pinned": true,
@@ -72,21 +56,39 @@
             }
           },
           {
-            "id": "caf8d45865c99bd6",
+            "id": "2854f73106855707",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02微概计--张宇基础30讲"
+              "title": "神经网络"
+            }
+          },
+          {
+            "id": "4a700c3f4ea0fae8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "神经网络+深度学习模型"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-05 周四.md",
+                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-05 周四 的大纲"
+              "title": "神经网络+深度学习模型 的大纲"
             }
           },
           {
@@ -291,21 +293,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c9721fb95775b8",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
+    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+    "1.工作流/10.日记文件/2026-02-06 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "1.工作流/10.日记文件/2026-02-05 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "assets/image/01积分概+计-1770301630616.jpeg",
     "assets/image/01积分概+计-1770300640842.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "1.工作流/10.日记文件/2026-02-05 周四.md",
     "assets/image/01积分概+计-1770266970648.jpeg",
     "assets/image/01积分概+计-1770264998135.jpeg",
     "assets/image/01积分概+计-1770264311868.jpeg",
     "assets/image/01积分概+计-1770261129748.jpeg",
     "assets/image/01积分概念性质-1770259488179.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "1.工作流/10.日记文件/2026-02-04 周三.md",
@@ -320,14 +327,10 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/5月词汇.md",
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "1.工作流/10.日记文件/2026-02-03 周二.md",
     "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "1.工作流/10.日记文件/2026-02-02 周一.md",
-    "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
     "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md",
-    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
