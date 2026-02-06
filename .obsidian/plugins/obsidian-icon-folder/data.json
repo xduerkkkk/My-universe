@@ -37,7 +37,6 @@
   "英语积累/2-24.md": "LiAArrowUp",
   "英语积累/2-25.md": "LiAlarmClockCheck",
   "英语积累/第一周/2-7.md": "LiAlarmClock",
-  "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md": "LiAArrowUp",
   "1.工作流/10.日记文件": {
     "iconName": "LiAlbum",
     "iconColor": "#611a1a"
@@ -69,14 +68,12 @@
     "iconName": "LiActivity",
     "iconColor": "#26b2c5"
   },
-  "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md": "LiAlbum",
   "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md": "LiAArrowUp",
   "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/对称矩阵.md": "LiAlertOctagon",
   "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/协方差矩阵.md": "LiAlertOctagon",
   "2.知识库/20.North_star_ZJU/201.数学/线性代数/其他/SVD分解.md": "LiAlertOctagon",
   "2.知识库/21.AI世界/01机器学习/01大纲.md": "LiActivitySquare",
   "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md": "LiAlarmClockPlus",
-  "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md": "LiAlbum",
   "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程": "LiAnchor",
   "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md": {
     "iconName": "LiAccessibility",
@@ -86,16 +83,19 @@
     "iconName": "LiAlbum",
     "iconColor": "#a21010"
   },
-  "3.创造物/30.输出文章/数学/看见矩阵（一）.md": "LiAlbum",
   "2.知识库/21.AI世界/01机器学习/PRML/绪论草稿.md": "LiAlbum",
   "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md": {
     "iconName": "LiAlarmClockPlus",
     "iconColor": "#04ecdd"
   },
   "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md": "LiAlignCenter",
-  "3.创造物/30.输出文章/AI/MLDL/认识梯度.md": "LiAlbum",
-  "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md": "LiAlbum",
+  "3.创造物/31. 我的项目/项目0，memory项目/告别“失忆”：拆解Agent记忆系统，并从零实现一个核心原型.md": "LiAArrowUp",
+  "3.创造物/30.输出文章/数学/看见矩阵（一）.md": "LiAlbum",
+  "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md": "LiAlbum",
   "3.创造物/30.输出文章/数学/看见矩阵（二）.md": "LiAlbum",
   "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md": "LiAlbum",
-  "3.创造物/30.输出文章/AI/MLDL/线性分类.md": "LiAlbum"
+  "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md": "LiAlbum",
+  "3.创造物/30.输出文章/AI/MLDL/线性分类.md": "LiAlbum",
+  "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md": "LiAlbum",
+  "3.创造物/30.输出文章/AI/MLDL/认识梯度.md": "LiAlbum"
 }

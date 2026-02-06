@@ -93,7 +93,7 @@ IRR ≈ 19.80%
 
 # EXCEL完成：
 
-![](../../../assets/image/test-1767512605711.jpeg)
+![](../../../../assets/image/test-1767512605711.jpeg)
 
 
 其中 **B3 (NPV)**=NPV(B1, A2:A6) + A1
