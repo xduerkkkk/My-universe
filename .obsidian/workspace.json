@@ -58,6 +58,7 @@
           {
             "id": "24e173400bd46241",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +66,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "00视频勘察"
             }
+          },
+          {
+            "id": "d7319b89eb02c7ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01王道题"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00视频勘察 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -275,14 +293,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24e173400bd46241",
+  "active": "d7319b89eb02c7ac",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
+    "assets/image/01王道题-1770439535328.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "1.工作流/10.日记文件/2026-02-07 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
-    "1.工作流/10.日记文件/2026-02-07 周六.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
@@ -324,7 +344,6 @@
     "1.工作流/10.日记文件/26年上半年/26年1月",
     "3.创造物/32.思想地图/方法论与系统",
     "3.创造物/32.思想地图/认知",
-    "3.创造物/32.思想地图",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
