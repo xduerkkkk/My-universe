@@ -40,51 +40,33 @@
             }
           },
           {
-            "id": "7a4db0d9ec45a144",
+            "id": "ee1fa35e41129bb0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-06 周五.md",
+                "file": "1.工作流/10.日记文件/2026-02-07 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-06 周五"
+              "title": "2026-02-07 周六"
             }
           },
           {
-            "id": "2854f73106855707",
+            "id": "24e173400bd46241",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "神经网络"
-            }
-          },
-          {
-            "id": "4a700c3f4ea0fae8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "神经网络+深度学习模型"
+              "title": "00视频勘察"
             }
           }
         ],
@@ -171,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "神经网络 的大纲"
+              "title": "00视频勘察 的大纲"
             }
           },
           {
@@ -293,11 +275,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2854f73106855707",
+  "active": "24e173400bd46241",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
+    "1.工作流/10.日记文件/2026-02-07 周六.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/xor_sigmoid_transform.gif",
     "3.创造物/30.输出文章/AI/MLDL/assets/xor_transformation_smooth.gif",
     "assets/image/神经网络-1770384994771.jpeg",
@@ -324,14 +313,7 @@
     "3.创造物/30.输出文章/数学/矩阵问题.md",
     "4.不常用/模板文件/课业模板.md",
     "4.不常用/模板文件/联系人模板.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "2.知识库/21.AI世界/01机器学习/期末/降维+计算学习理论+生成式模型.md",
-    "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
-    "1.工作流/10.日记文件/2026-02-05 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
