@@ -88,17 +88,17 @@
             }
           },
           {
-            "id": "073e87e012f6b366",
+            "id": "75a178eab0ae5af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "坑_PC相对寻址计算"
+              "title": "难点_标志位判断逻辑"
             }
           }
         ],
@@ -309,22 +309,22 @@
   },
   "active": "d7319b89eb02c7ac",
   "lastOpenFiles": [
-    "assets/image/01王道题-1770462604431.jpeg",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "assets/image/01王道题-1770464427502.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
+    "assets/image/01王道题-1770462604431.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "assets/image/01王道题-1770455006103.jpeg",
     "assets/image/01王道题-1770454990254.jpeg",
     "assets/image/01王道题-1770454924750.jpeg",
     "assets/image/01王道题-1770454889122.jpeg",
     "assets/image/01王道题-1770454832060.jpeg",
     "assets/image/01王道题-1770454824041.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片",
     "assets/image/01王道题-1770452822205.jpeg",
     "assets/image/01王道题-1770452526403.jpeg",
-    "assets/image/01王道题-1770452389699.jpeg",
-    "assets/image/01王道题-1770439535328.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
@@ -347,7 +347,6 @@
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "3.创造物/30.输出文章/数学/关于“极限”的直觉重塑.md",
     "3.创造物/30.输出文章/数学/矩阵问题.md",
-    "4.不常用/模板文件/课业模板.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
