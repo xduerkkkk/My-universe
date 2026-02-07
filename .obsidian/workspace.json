@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "00视频勘察 的大纲"
             }
           },
           {
@@ -293,13 +293,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7319b89eb02c7ac",
+  "active": "24e173400bd46241",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "1.工作流/10.日记文件/2026-02-07 周六.md",
     "assets/image/01王道题-1770439535328.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "1.工作流/10.日记文件/2026-02-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
@@ -323,7 +323,6 @@
     "assets/image/神经网络-1770370497627.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "3.创造物/30.输出文章/AI/MLDL/概率论基础.md",
-    "assets/image/神经网络-1770366048510.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
