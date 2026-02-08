@@ -5,20 +5,44 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
     },
     {
+      "basename": "MOOC",
+      "path": "2.知识库/22.算法/MOOC.md"
+    },
+    {
       "basename": "2026-02-07 周六",
       "path": "1.工作流/10.日记文件/2026-02-07 周六.md"
     },
     {
-      "basename": "坑_PC相对寻址计算",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md"
+      "basename": "Drawing 2026-02-07 23.05.20.excalidraw",
+      "path": "Excalidraw/Drawing 2026-02-07 23.05.20.excalidraw.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+    },
+    {
+      "basename": "平衡二叉树、二叉树直径",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/二叉树/平衡二叉树、二叉树直径.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "2.知识库/22.算法/动态规划/背包问题.md"
+    },
+    {
+      "basename": "Drawing 2026-02-07 21.45.19.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/Drawing 2026-02-07 21.45.19.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-02-07 22.09.18.excalidraw",
+      "path": "Excalidraw/Drawing 2026-02-07 22.09.18.excalidraw.md"
     },
     {
       "basename": "难点_标志位判断逻辑",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md"
     },
     {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+      "basename": "坑_PC相对寻址计算",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md"
     },
     {
       "basename": "思维导图-存储",
@@ -175,30 +199,6 @@
     {
       "basename": "读文献初期SOP方法论",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md"
-    },
-    {
-      "basename": "5月词汇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/5月词汇.md"
-    },
-    {
-      "basename": "2026-02-03 周二",
-      "path": "1.工作流/10.日记文件/2026-02-03 周二.md"
-    },
-    {
-      "basename": "2026-02-02 周一",
-      "path": "1.工作流/10.日记文件/2026-02-02 周一.md"
-    },
-    {
-      "basename": "反脆弱系统的设计",
-      "path": "3.创造物/32.思想地图/方法论与系统/反脆弱系统的设计.md"
-    },
-    {
-      "basename": "知识的压缩与解压",
-      "path": "3.创造物/32.思想地图/方法论与系统/知识的压缩与解压.md"
-    },
-    {
-      "basename": "信息降噪与多巴胺饮食",
-      "path": "3.创造物/32.思想地图/方法论与系统/信息降噪与多巴胺饮食.md"
     }
   ],
   "omittedPaths": [],
