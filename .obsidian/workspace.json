@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "2000 的大纲"
             }
           },
           {
@@ -251,11 +251,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,12 +279,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7319b89eb02c7ac",
+  "active": "399dc3f5562ab324",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
     "2.知识库/22.算法/MOOC.md",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
     "Excalidraw/Drawing 2026-02-07 23.05.20.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
     "assets/image/01王道题-1770476577535.jpeg",
     "assets/image/01王道题-1770475864160.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
