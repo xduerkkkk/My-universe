@@ -70,9 +70,21 @@
               "icon": "lucide-file",
               "title": "01王道题"
             }
+          },
+          {
+            "id": "0ad4ab9105c71301",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/Drawing 2026-02-07 21.45.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-07 21.45.19.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2000 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -279,9 +291,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "399dc3f5562ab324",
+  "active": "d7319b89eb02c7ac",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/Drawing 2026-02-07 21.45.19.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/22.算法/MOOC.md",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
     "Excalidraw/Drawing 2026-02-07 23.05.20.excalidraw.md",
@@ -290,7 +308,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/二叉树/平衡二叉树、二叉树直径.md",
     "2.知识库/22.算法/动态规划/背包问题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/Drawing 2026-02-07 21.45.19.excalidraw.md",
     "Excalidraw/Drawing 2026-02-07 22.09.18.excalidraw.md",
     "Excalidraw/desktop.ini",
     "Excalidraw",
@@ -303,13 +320,11 @@
     "assets/image/01王道题-1770454924750.jpeg",
     "assets/image/01王道题-1770454889122.jpeg",
     "assets/image/01王道题-1770454832060.jpeg",
-    "assets/image/01王道题-1770454824041.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
@@ -320,16 +335,12 @@
     "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "3.创造物/30.输出文章/AI/MLDL/概率论基础.md",
-    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
-    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/assets",
-    "0.核心/00.规划(Plan)/1.阶段性规划/运动",
-    "3.创造物/30.输出文章/assets",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
