@@ -56,38 +56,6 @@
             }
           },
           {
-            "id": "d7319b89eb02c7ac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道题"
-            }
-          },
-          {
-            "id": "887be63b52231833",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "00视频勘察"
-            }
-          },
-          {
             "id": "0ad4ab9105c71301",
             "type": "leaf",
             "pinned": true,
@@ -99,6 +67,20 @@
               "pinned": true,
               "icon": "excalidraw-icon",
               "title": "思维导图-指令"
+            }
+          },
+          {
+            "id": "bc5bab2dedaafccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01王道题"
             }
           }
         ],
@@ -185,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00视频勘察 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -308,16 +290,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "887be63b52231833",
+  "active": "bc5bab2dedaafccf",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_ISA与微架构的边界.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_四大字长与指令关系.md",
-    "Excalidraw/Drawing 2026-02-08 17.37.31.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/坑_PC相对寻址计算.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
+    "Excalidraw/Drawing 2026-02-08 17.37.31.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets/Pasted Image 20260208154646_721.png",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
@@ -350,9 +335,6 @@
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
     "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假健身.md",
-    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
