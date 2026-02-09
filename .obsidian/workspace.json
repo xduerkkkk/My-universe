@@ -24,156 +24,37 @@
             }
           },
           {
-            "id": "399dc3f5562ab324",
+            "id": "2e9b17ed6118160f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "1.工作流/10.日记文件/2026-02-09 周一.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2000"
+              "title": "2026-02-09 周一"
             }
           },
           {
-            "id": "ee1fa35e41129bb0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-02-07 周六.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-02-07 周六"
-            }
-          },
-          {
-            "id": "978d4760f4f9f308",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "思维导图-进程"
-            }
-          },
-          {
-            "id": "2553e9c566637eb0",
+            "id": "8816e2748c4e856a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00视频勘察"
-            }
-          },
-          {
-            "id": "ae92e120383b3adf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/26年2月第一周周报.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "26年2月第一周周报"
-            }
-          },
-          {
-            "id": "ee3c5457469f764e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "相近词辨析"
-            }
-          },
-          {
-            "id": "e83ed5efcc968599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "社会、工作、经济类"
-            }
-          },
-          {
-            "id": "b3fe40ecc8b87a79",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-                "viewState": {
-                  "x": -124.75088744664595,
-                  "y": 1212.911657724182,
-                  "zoom": -0.8407908444384872
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "思维导图--导数微分"
-            }
-          },
-          {
-            "id": "e31dc8a4f56dbc9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-02-08 周日.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-08 周日"
-            }
-          },
-          {
-            "id": "d9cd42f22e4f10a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "title": "01积分概+计"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-08 周日.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-08 周日 的大纲"
+              "title": "01积分概+计 的大纲"
             }
           },
           {
@@ -379,35 +260,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d9cd42f22e4f10a3",
+  "active": "8816e2748c4e856a",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+    "1.工作流/10.日记文件/2026-02-09 周一.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2026-02-06 周五.md",
+    "1.工作流/10.日记文件/2026-02-07 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
+    "1.工作流/10.日记文件/26年2月第一周周报.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "1.工作流/10.日记文件/2026-02-08 周日.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/凸函数.md",
-    "1.工作流/10.日记文件/26年2月第一周周报.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "1.工作流/10.日记文件/2026-02-03 周二.md",
     "1.工作流/10.日记文件/2026-02-05 周四.md",
     "1.工作流/10.日记文件/2026-02-02 周一.md",
     "1.工作流/10.日记文件/26年上半年/未命名.md",
-    "1.工作流/10.日记文件/2026-02-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets/Pasted Image 20260208154646_721.png",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
