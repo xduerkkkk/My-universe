@@ -42,6 +42,7 @@
           {
             "id": "8816e2748c4e856a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01积分概+计"
             }
@@ -262,7 +264,16 @@
   },
   "active": "8816e2748c4e856a",
   "lastOpenFiles": [
+    "assets/image/01积分概+计-1770615450012.jpeg",
+    "assets/image/01积分概+计-1770615440076.jpeg",
+    "assets/image/01积分概+计-1770614105143.jpeg",
+    "assets/image/01积分概+计-1770614019541.jpeg",
+    "assets/image/01积分概+计-1770613988612.jpeg",
+    "assets/image/01积分概+计-1770613908360.jpeg",
     "1.工作流/10.日记文件/2026-02-09 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "assets/image/01积分概+计-1770611634489.jpeg",
+    "assets/image/01积分概+计-1770611277163.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
@@ -287,22 +298,13 @@
     "1.工作流/10.日记文件/2026-02-02 周一.md",
     "1.工作流/10.日记文件/26年上半年/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets/Pasted Image 20260208154646_721.png",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "assets/image/01王道题-1770476577535.jpeg",
-    "assets/image/01王道题-1770475864160.jpeg",
     "Excalidraw/desktop.ini",
     "Excalidraw",
-    "assets/image/01王道题-1770464427502.jpeg",
-    "assets/image/01王道题-1770462604431.jpeg",
-    "assets/image/01王道题-1770455006103.jpeg",
-    "assets/image/01王道题-1770454990254.jpeg",
-    "assets/image/01王道题-1770454924750.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
