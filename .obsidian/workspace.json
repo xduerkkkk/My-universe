@@ -42,6 +42,7 @@
           {
             "id": "a4cd63b7434fc14e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-02-10 周二"
             }
@@ -98,23 +100,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-02-10 12.25.31.excalidraw"
             }
-          },
-          {
-            "id": "8a0bb4e8f9b29d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神经网络+深度学习模型"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "神经网络 的大纲"
+              "title": "Drawing 2026-02-10 12.25.31.excalidraw 的大纲"
             }
           },
           {
@@ -320,31 +308,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6ddbba8504cfd2ae",
+  "active": "0ea0a243f032df58",
   "lastOpenFiles": [
-    "assets/image/神经网络-1770701642522.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "1.工作流/10.日记文件/2026-02-10 周二.md",
-    "1.工作流/10.日记文件/2026-02-09 周一.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
-    "assets/image/神经网络-1770698459444.jpeg",
+    "assets/image/神经网络-1770714747375.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
+    "assets/image/神经网络-1770714506157.jpeg",
+    "assets/image/神经网络-1770713573439.jpeg",
+    "assets/image/神经网络-1770713292965.jpeg",
+    "1.工作流/10.日记文件/2026-02-10 周二.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "assets/image/神经网络-1770701642522.jpeg",
+    "1.工作流/10.日记文件/2026-02-09 周一.md",
+    "assets/image/神经网络-1770698459444.jpeg",
     "assets/image/神经网络-1770697957980.jpeg",
     "2.知识库/21.AI世界/01机器学习/期末/神经网络+深度学习模型.md",
     "2.知识库/21.AI世界/01机器学习/期末/机器学习理论+线性模型.md",
     "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "assets/image/01积分概+计-1770647478648.jpeg",
     "assets/image/01积分概+计-1770646484534.jpeg",
     "assets/image/01积分概+计-1770646027683.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
-    "assets/image/01积分概+计-1770644396520.jpeg",
-    "assets/image/01积分概+计-1770644383505.jpeg",
-    "assets/image/01积分概+计-1770644273680.jpeg",
-    "assets/image/01积分概+计-1770644266521.jpeg",
-    "assets/image/01积分概+计-1770644196657.jpeg",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
