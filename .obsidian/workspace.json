@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "a39a016c515aa424",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2000"
+            }
+          },
+          {
             "id": "2e9b17ed6118160f",
             "type": "leaf",
             "pinned": true,
@@ -54,9 +70,25 @@
               "icon": "lucide-file",
               "title": "01积分概+计"
             }
+          },
+          {
+            "id": "6ddbba8504cfd2ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "神经网络"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-09 周一.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-09 周一 的大纲"
+              "title": "神经网络 的大纲"
             }
           },
           {
@@ -262,8 +294,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2e9b17ed6118160f",
+  "active": "6ddbba8504cfd2ae",
   "lastOpenFiles": [
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+    "1.工作流/10.日记文件/2026-02-09 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "assets/image/01积分概+计-1770647478648.jpeg",
     "assets/image/01积分概+计-1770646484534.jpeg",
@@ -277,9 +313,6 @@
     "assets/image/01积分概+计-1770644196657.jpeg",
     "assets/image/01积分概+计-1770644007141.jpeg",
     "assets/image/01积分概+计-1770643841724.jpeg",
-    "1.工作流/10.日记文件/2026-02-09 周一.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
     "1.工作流/10.日记文件/2026-02-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
