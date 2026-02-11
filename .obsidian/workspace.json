@@ -40,19 +40,19 @@
             }
           },
           {
-            "id": "a4cd63b7434fc14e",
+            "id": "a45cf6cf57e83f92",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-10 周二.md",
+                "file": "1.工作流/10.日记文件/2026-02-11 周三.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-10 周二"
+              "title": "2026-02-11 周三"
             }
           },
           {
@@ -88,21 +88,21 @@
             }
           },
           {
-            "id": "0ea0a243f032df58",
+            "id": "c1162cf9f6fa39c2",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md"
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-10 12.25.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "自然与动物"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
+                "file": "1.工作流/10.日记文件/2026-02-11 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-02-10 12.25.31.excalidraw 的大纲"
+              "title": "2026-02-11 周三 的大纲"
             }
           },
           {
@@ -285,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,13 +308,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0ea0a243f032df58",
+  "active": "a45cf6cf57e83f92",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "1.工作流/10.日记文件/2026-02-11 周三.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
     "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "1.工作流/10.日记文件/2026-02-09 周一.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
@@ -324,7 +335,6 @@
     "assets/image/神经网络-1770714506157.jpeg",
     "assets/image/神经网络-1770713573439.jpeg",
     "assets/image/神经网络-1770713292965.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "assets/image/神经网络-1770701642522.jpeg",
     "assets/image/神经网络-1770698459444.jpeg",
@@ -336,17 +346,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
     "1.工作流/10.日记文件/2026-02-06 周五.md",
-    "1.工作流/10.日记文件/2026-02-07 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "1.工作流/10.日记文件/26年2月第一周周报.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/社会、工作、经济类.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-    "1.工作流/10.日记文件/2026-02-08 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/单调性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/导数的定义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/大纲.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
