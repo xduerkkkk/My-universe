@@ -74,6 +74,7 @@
           {
             "id": "bb888d8737e55f99",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,12 +82,41 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01视频笔记"
             }
+          },
+          {
+            "id": "076c6100910b47cb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00视频勘察"
+            }
+          },
+          {
+            "id": "e27c4774e3978bb7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "思维导图-进程"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -169,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "思维导图-进程 的大纲"
             }
           },
           {
@@ -292,8 +322,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bb888d8737e55f99",
+  "active": "e27c4774e3978bb7",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets/Pasted Image 20260211164306_706.png",
+    "1.工作流/10.日记文件/2026-02-11 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
     "assets/image/01视频笔记-1770787329515.jpeg",
     "assets/image/01视频笔记-1770786100429.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
@@ -303,10 +339,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
-    "1.工作流/10.日记文件/2026-02-11 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
@@ -318,9 +352,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
-    "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
     "assets/image/神经网络-1770735856769.jpeg",
     "assets/image/神经网络-1770714747375.jpeg",
@@ -328,8 +359,6 @@
     "assets/image/神经网络-1770713573439.jpeg",
     "assets/image/神经网络-1770713292965.jpeg",
     "assets/image/神经网络-1770701642522.jpeg",
-    "assets/image/神经网络-1770698459444.jpeg",
-    "assets/image/神经网络-1770697957980.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
