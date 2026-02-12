@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "8816e2748c4e856a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01积分概+计"
-            }
-          },
-          {
             "id": "135d5618c2aa4c9f",
             "type": "leaf",
             "pinned": true,
@@ -72,8 +56,25 @@
             }
           },
           {
+            "id": "8816e2748c4e856a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01积分概+计"
+            }
+          },
+          {
             "id": "002d9739eda142b4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,12 +82,30 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "02微概计--张宇基础30讲"
             }
+          },
+          {
+            "id": "aa0dfdcb6c7bda6e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02微概计--张宇基础30讲 的大纲"
+              "title": "01积分概+计 的大纲"
             }
           },
           {
@@ -292,16 +311,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "002d9739eda142b4",
+  "active": "8816e2748c4e856a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "1.工作流/10.日记文件/2026-02-12 周四.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
@@ -324,7 +345,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
     "assets/image/神经网络-1770735856769.jpeg",
     "assets/image/神经网络-1770714747375.jpeg",
@@ -332,7 +352,6 @@
     "assets/image/神经网络-1770713573439.jpeg",
     "assets/image/神经网络-1770713292965.jpeg",
     "assets/image/神经网络-1770701642522.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
@@ -348,7 +367,6 @@
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }
