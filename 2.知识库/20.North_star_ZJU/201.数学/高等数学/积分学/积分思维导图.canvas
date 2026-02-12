@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"71b24203acebc77c","type":"text","text":" 连续函数F (x)","x":60,"y":-282,"width":250,"height":60},
+		{"id":"d3c2a28b1fab00f0","type":"text","text":"连续函数f (x) ","x":-420,"y":-282,"width":250,"height":60},
+		{"id":"27f053012f9b509f","type":"text","text":"有震荡间断点的 f (x)","x":-420,"y":-80,"width":250,"height":60},
+		{"id":"3817bbf624d915fd","type":"text","text":"函数f (x) ","x":-420,"y":120,"width":250,"height":60},
+		{"id":"6ffb136b8d9b6a85","x":100,"y":120,"width":250,"height":60,"type":"text","text":"存在区间定积分 F (x)"},
+		{"id":"bf3880b47da4f038","x":-250,"y":-460,"width":270,"height":100,"color":"1","type":"text","text":"**跳跃间断点**、可去间断点、无穷间断点的 f (x)，一定没有原函数"},
+		{"id":"5f2cb68710ef2111","x":40,"y":-640,"width":320,"height":260,"type":"file","file":"2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md"},
+		{"id":"23e938d098dedf9c","x":40,"y":380,"width":250,"height":60,"type":"text","text":"变限积分"}
+	],
+	"edges":[
+		{"id":"3440ff60ff5564b1","fromNode":"d3c2a28b1fab00f0","fromSide":"right","toNode":"71b24203acebc77c","toSide":"left","label":"有原函数(可积）"},
+		{"id":"32112e503b553996","fromNode":"71b24203acebc77c","fromSide":"bottom","toNode":"d3c2a28b1fab00f0","toSide":"bottom","label":"其导数"},
+		{"id":"08587ab28bef9491","fromNode":"71b24203acebc77c","fromSide":"bottom","toNode":"27f053012f9b509f","toSide":"right","label":"其导数"},
+		{"id":"d84a5547c416d322","fromNode":"3817bbf624d915fd","fromSide":"right","toNode":"6ffb136b8d9b6a85","toSide":"left","label":"有界+有限个间断点"},
+		{"id":"79ede4bfb7d47297","fromNode":"3817bbf624d915fd","fromSide":"right","toNode":"6ffb136b8d9b6a85","toSide":"top","label":"连续"},
+		{"id":"9a46271153260ce7","fromNode":"3817bbf624d915fd","fromSide":"right","toNode":"6ffb136b8d9b6a85","toSide":"bottom","label":"有界＋单调"},
+		{"id":"d617b6909f1ae7b0","fromNode":"6ffb136b8d9b6a85","fromSide":"bottom","toNode":"23e938d098dedf9c","toSide":"top","color":"5","label":"当区间为变量x时"}
+	]
+}

@@ -88,24 +88,21 @@
             }
           },
           {
-            "id": "aa0dfdcb6c7bda6e",
+            "id": "aa9f6a777038ccd1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "证明无原函数的情况"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,23 +129,6 @@
             }
           },
           {
-            "id": "f1c609e190887cf1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabeticalReverse"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
-            }
-          },
-          {
             "id": "16a26b16d669b966",
             "type": "leaf",
             "state": {
@@ -166,6 +146,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "f1c609e190887cf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
@@ -188,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "file": "1.工作流/10.日记文件/2026-02-12 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概+计 的大纲"
+              "title": "2026-02-12 周四 的大纲"
             }
           },
           {
@@ -311,11 +308,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8816e2748c4e856a",
+  "active": "135d5618c2aa4c9f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
+    "assets/image/导数极限定理-1770886320912.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "1.工作流/10.日记文件/2026-02-12 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
+    "assets/image/01积分概+计-1770883008784.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/高数--极限.xmind",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
@@ -323,9 +328,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
-    "1.工作流/10.日记文件/2026-02-12 周四.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/10.日记文件/2026-02-11 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
@@ -343,15 +346,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/性能影响因素及改进方式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
     "assets/image/神经网络-1770735856769.jpeg",
     "assets/image/神经网络-1770714747375.jpeg",
     "assets/image/神经网络-1770714506157.jpeg",
     "assets/image/神经网络-1770713573439.jpeg",
-    "assets/image/神经网络-1770713292965.jpeg",
-    "assets/image/神经网络-1770701642522.jpeg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
@@ -359,8 +358,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
