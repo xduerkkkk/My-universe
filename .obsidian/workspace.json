@@ -56,39 +56,37 @@
             }
           },
           {
-            "id": "bb888d8737e55f99",
+            "id": "135d5618c2aa4c9f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "1.工作流/10.日记文件/2026-02-12 周四.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "2026-02-12 周四"
             }
           },
           {
-            "id": "076c6100910b47cb",
+            "id": "002d9739eda142b4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "00视频勘察"
+              "title": "02微概计--张宇基础30讲"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2000 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -294,12 +292,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a39a016c515aa424",
+  "active": "002d9739eda142b4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "1.工作流/10.日记文件/2026-02-12 周四.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/10.日记文件/2026-02-11 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
@@ -318,15 +325,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/商业、管理与创新.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/科技与认知类.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/核心思维，高级表达，易混词.md",
     "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
     "assets/image/神经网络-1770735856769.jpeg",
     "assets/image/神经网络-1770714747375.jpeg",
