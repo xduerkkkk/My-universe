@@ -86,23 +86,9 @@
               "icon": "lucide-file",
               "title": "02微概计--张宇基础30讲"
             }
-          },
-          {
-            "id": "aa9f6a777038ccd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "证明无原函数的情况"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "file": "1.工作流/10.日记文件/2026-02-12 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概+计 的大纲"
+              "title": "2026-02-12 周四 的大纲"
             }
           },
           {
@@ -308,8 +294,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8816e2748c4e856a",
+  "active": "135d5618c2aa4c9f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
+    "assets/image/01积分概+计-1770904782493.jpeg",
+    "assets/image/01积分概+计-1770904765994.jpeg",
     "assets/image/01积分概+计-1770903554735.jpeg",
     "assets/image/01积分概+计-1770902454795.jpeg",
     "assets/image/01积分概+计-1770902432860.jpeg",
@@ -317,11 +307,9 @@
     "assets/image/01积分概+计-1770899410338.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "1.工作流/10.日记文件/2026-02-12 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
     "assets/image/导数极限定理-1770886320912.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "assets/image/01积分概+计-1770883008784.jpeg",
@@ -346,12 +334,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets/Pasted Image 20260211164306_706.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
-    "assets/image/01视频笔记-1770787329515.jpeg",
-    "assets/image/01视频笔记-1770786100429.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/性能影响因素及改进方式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md",
-    "3.创造物/30.输出文章/AI/MLDL/assets/Gemini_Generated_Image_di54l4di54l4di54.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
