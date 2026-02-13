@@ -58,6 +58,7 @@
           {
             "id": "ea416878a724380d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +66,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-02-13 周五"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-13 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-13 周五 的大纲"
+              "title": "2000 的大纲"
             }
           },
           {
@@ -276,10 +278,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea416878a724380d",
+  "active": "a39a016c515aa424",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "1.工作流/10.日记文件/2026-02-13 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "1.工作流/10.日记文件/2026-02-12 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
     "assets/image/01积分概+计-1770904782493.jpeg",
@@ -293,7 +297,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
     "assets/image/导数极限定理-1770886320912.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "assets/image/01积分概+计-1770883008784.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/高数--极限.xmind",
@@ -304,7 +307,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2026-02-11 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
