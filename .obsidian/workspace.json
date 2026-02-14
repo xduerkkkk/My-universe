@@ -90,6 +90,7 @@
           {
             "id": "aeaed1ea84393150",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,6 +98,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "000视频"
             }
@@ -310,10 +312,11 @@
   },
   "active": "d6a2e987d3587e3c",
   "lastOpenFiles": [
-    "assets/image/001王道题-1771048531871.jpeg",
+    "assets/image/001王道题-1771063142953.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
-    "1.工作流/10.日记文件/2026-02-14 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
+    "1.工作流/10.日记文件/2026-02-14 周六.md",
+    "assets/image/001王道题-1771048531871.jpeg",
     "assets/image/001王道题-1771046960223.jpeg",
     "assets/image/001王道题-1771046916732.jpeg",
     "assets/image/001王道题-1771046799732.jpeg",
@@ -343,7 +346,6 @@
     "assets/image/01积分概+计-1770904765994.jpeg",
     "assets/image/01积分概+计-1770903554735.jpeg",
     "assets/image/01积分概+计-1770902454795.jpeg",
-    "assets/image/01积分概+计-1770902432860.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
