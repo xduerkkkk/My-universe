@@ -56,35 +56,33 @@
             }
           },
           {
-            "id": "ea416878a724380d",
+            "id": "cda701c74723987c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-13 周五.md",
+                "file": "1.工作流/10.日记文件/2026-02-14 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-13 周五"
+              "title": "2026-02-14 周六"
             }
           },
           {
-            "id": "15ff821999435ca3",
+            "id": "7c1cb36551fec571",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
+                "file": "4.不常用/002个人信息/信息记录.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "看见矩阵（四）"
+              "title": "信息记录"
             }
           }
         ],
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
+                "file": "4.不常用/002个人信息/信息记录.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看见矩阵（四） 的大纲"
+              "title": "信息记录 的大纲"
             }
           },
           {
@@ -294,17 +292,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "15ff821999435ca3",
+  "active": "7c1cb36551fec571",
   "lastOpenFiles": [
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
+    "4.不常用/002个人信息/康凯.md",
+    "4.不常用/002个人信息/信息记录.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2026-02-14 周六.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "1.工作流/10.日记文件/2026-02-13 周五.md",
     "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "assets/image/看见矩阵（四）-1770990340376.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/2026-02-12 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
     "assets/image/01积分概+计-1770904782493.jpeg",
@@ -333,8 +334,6 @@
     "1.工作流/10.日记文件/2026-02-10 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/未命名",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片",
     "Excalidraw/Scripts/Downloaded",
