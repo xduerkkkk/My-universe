@@ -74,6 +74,7 @@
           {
             "id": "15ff821999435ca3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,6 +82,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "看见矩阵（四）"
             }
@@ -294,8 +296,10 @@
   },
   "active": "15ff821999435ca3",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "1.工作流/10.日记文件/2026-02-13 周五.md",
     "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
+    "assets/image/看见矩阵（四）-1770990340376.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
@@ -331,11 +335,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/未命名",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/assets/Pasted Image 20260211164306_706.png",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
