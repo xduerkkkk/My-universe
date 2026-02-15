@@ -5,16 +5,60 @@
       "path": "1.工作流/10.日记文件/2026-02-14 周六.md"
     },
     {
-      "basename": "Bed-Rock 毕业思考",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
-    },
-    {
       "basename": "001王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md"
     },
     {
       "basename": "000视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md"
+    },
+    {
+      "basename": "Bed-Rock 毕业思考",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
+    },
+    {
+      "basename": "理解知识",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md"
+    },
+    {
+      "basename": "开启新任务的时机",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md"
+    },
+    {
+      "basename": "408学习框架",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md"
+    },
+    {
+      "basename": "精力管理",
+      "path": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md"
+    },
+    {
+      "basename": "框架先行，细节填充",
+      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/框架先行，细节填充.md"
+    },
+    {
+      "basename": "慢就是快",
+      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/慢就是快.md"
+    },
+    {
+      "basename": "弹性原则",
+      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/弹性原则.md"
+    },
+    {
+      "basename": "创造者思维",
+      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md"
+    },
+    {
+      "basename": "掌握的标准",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/掌握的标准.md"
+    },
+    {
+      "basename": "AI辅助学习",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/AI辅助学习.md"
+    },
+    {
+      "basename": "学习方法（bedrock期间）",
+      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md"
     },
     {
       "basename": "01积分概+计",
@@ -155,50 +199,6 @@
     {
       "basename": "01视频笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
-    },
-    {
-      "basename": "思维导图-进程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
-    },
-    {
-      "basename": "现场",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
-    },
-    {
-      "basename": "Drawing 2026-02-11 16.34.18.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/ART.md"
-    },
-    {
-      "basename": "性能影响因素及改进方式",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/性能影响因素及改进方式.md"
-    },
-    {
-      "basename": "详细管理方法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md"
-    },
-    {
-      "basename": "内存映射文件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
-    },
-    {
-      "basename": "地址及内存分配",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
-    },
-    {
-      "basename": "自然与动物",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/自然与动物.md"
     }
   ],
   "omittedPaths": [],
