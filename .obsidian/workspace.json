@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/26年2月第二周周报.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "26年2月第二周周报 的大纲"
+              "title": "Bed-Rock 毕业思考 的大纲"
             }
           },
           {
@@ -340,10 +340,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "95d00e928616542e",
+  "active": "2b7d06bb5b096cc8",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "1.工作流/10.日记文件/26年2月第二周周报.md",
+    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "1.工作流/10.日记文件/2026-02-10 周二.md",
     "1.工作流/10.日记文件/2026-02-09 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/个人品质、情感与行为.md",
