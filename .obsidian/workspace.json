@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概+计 的大纲"
+              "title": "Bed-Rock 毕业思考 的大纲"
             }
           },
           {
@@ -326,8 +326,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8816e2748c4e856a",
+  "active": "2b7d06bb5b096cc8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
     "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
@@ -345,7 +346,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/理解知识.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/开启新任务的时机.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md",
