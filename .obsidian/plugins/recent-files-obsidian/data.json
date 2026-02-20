@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "思维导图-进程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
+    },
+    {
+      "basename": "Mindset First-Aid Kit",
+      "path": "0.核心/02.心智急救包/Mindset First-Aid Kit.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
       "basename": "2000",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
+    },
+    {
+      "basename": "学习时的情绪检测与应对",
+      "path": "0.核心/02.心智急救包/学习时的情绪检测与应对.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "现场",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
+    },
+    {
+      "basename": "上下文及切换",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
+    },
+    {
+      "basename": "001王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md"
     },
     {
       "basename": "Bed-Rock 毕业思考",
@@ -11,10 +47,6 @@
     {
       "basename": "01积分概+计",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md"
-    },
-    {
-      "basename": "001王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md"
     },
     {
       "basename": "000视频",
@@ -31,14 +63,6 @@
     {
       "basename": "封存档案",
       "path": "0.核心/02.心智急救包/封存档案.md"
-    },
-    {
-      "basename": "Mindset First-Aid Kit",
-      "path": "0.核心/02.心智急救包/Mindset First-Aid Kit.md"
-    },
-    {
-      "basename": "学习时的情绪检测与应对",
-      "path": "0.核心/02.心智急救包/学习时的情绪检测与应对.md"
     },
     {
       "basename": "2026-02-10 周二",
@@ -67,10 +91,6 @@
     {
       "basename": "输出枢纽",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "理解知识",
@@ -179,26 +199,6 @@
     {
       "basename": "证明无原函数的情况",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
-      "basename": "导数极限定理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas"
-    },
-    {
-      "basename": "高数--极限",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf"
-    },
-    {
-      "basename": "思维导图--导数微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas"
     }
   ],
   "omittedPaths": [],
