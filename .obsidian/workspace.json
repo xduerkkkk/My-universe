@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Bed-Rock 毕业思考 的大纲"
+              "title": "2000 的大纲"
             }
           },
           {
@@ -326,12 +326,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b7d06bb5b096cc8",
+  "active": "a39a016c515aa424",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
-    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "1.工作流/10.日记文件/26年2月第二周周报.md",
     "1.工作流/10.日记文件/BedRock 0-50天总结.md",
     "0.核心/02.心智急救包/封存档案.md",
