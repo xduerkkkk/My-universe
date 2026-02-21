@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001王道题 的大纲"
+              "title": "Bed-Rock 毕业思考 的大纲"
             }
           },
           {
@@ -315,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,19 +338,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6a2e987d3587e3c",
+  "active": "2b7d06bb5b096cc8",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "1.工作流/10.日记文件/2026-02-21 周六.md",
-    "1.工作流/10.日记文件/2026-02-14 周六.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
+    "1.工作流/10.日记文件/2026-02-21 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
     "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "1.工作流/10.日记文件/2026-02-14 周六.md",
     "1.工作流/10.日记文件/26年2月第二周周报.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
     "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "0.核心/02.心智急救包/学习时的情绪检测与应对.md",
