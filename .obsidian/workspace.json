@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "a39a016c515aa424",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2000"
-            }
-          },
-          {
             "id": "8816e2748c4e856a",
             "type": "leaf",
             "pinned": true,
@@ -118,21 +102,21 @@
             }
           },
           {
-            "id": "22d17a8d8d4a8ee9",
+            "id": "fc993a1575d086ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.不常用/11.随想文件/人际关系认知/亲密关系/液态叙事.md",
+                "file": "1.工作流/10.日记文件/2026-02-23 周一.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "液态叙事"
+              "title": "2026-02-23 周一"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.不常用/11.随想文件/人际关系认知/亲密关系/液态叙事.md",
+                "file": "1.工作流/10.日记文件/2026-02-23 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "液态叙事 的大纲"
+              "title": "2026-02-23 周一 的大纲"
             }
           },
           {
@@ -338,8 +322,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "fc993a1575d086ed",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-02-21 周六.md",
+    "1.工作流/10.日记文件/2026-02-23 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
+    "assets/image/02积分物理-1771832447831.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
+    "4.不常用/11.随想文件/人际关系认知/亲密关系/液态叙事.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/一个梦的解析.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/自我叙事陷阱.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/自我镜像投射.md",
@@ -356,16 +351,6 @@
     "4.不常用/11.随想文件/人际关系认知/亲密关系/缺爱还是不缺爱的人更懂得如何爱人.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/朋友之间需要分析彼此情感吗？.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/爱源于利己还是无条件利他.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
-    "4.不常用/11.随想文件/人际关系认知/亲密关系/存在即共振.md",
-    "4.不常用/11.随想文件/人际关系认知/亲密关系/关于感情受挫经历-给当时的自己一封信.md",
-    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
-    "0.核心/02.心智急救包/封存档案.md",
-    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
-    "1.工作流/10.日记文件/2026-02-21 周六.md",
     "assets/image/001王道题-1771063142953.jpeg",
     "assets/image/001王道题-1771048531871.jpeg",
     "assets/image/001王道题-1771046960223.jpeg",
@@ -376,7 +361,6 @@
     "assets/image/看见矩阵（四）-1770990340376.jpeg",
     "assets/image/01积分概+计-1770904782493.jpeg",
     "assets/image/01积分概+计-1770904765994.jpeg",
-    "assets/image/01积分概+计-1770903554735.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/高数--极限.xmind",
