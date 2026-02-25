@@ -116,9 +116,25 @@
               "icon": "lucide-file",
               "title": "2026-02-25 周三"
             }
+          },
+          {
+            "id": "d7d18e42e9bc27e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-02-25 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-25 周三 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -241,6 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -250,7 +267,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "02王道题 的反向链接列表"
             }
           },
           {
@@ -297,8 +314,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -325,9 +341,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2c1195d48859bbf6",
+  "active": "d7d18e42e9bc27e2",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "1.工作流/10.日记文件/2026-02-25 周三.md",
     "4.不常用/002个人信息/我的衣柜.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
@@ -339,7 +356,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
     "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
-    "1.工作流/10.日记文件/2026-02-25 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
     "1.工作流/10.日记文件/2026-02-24 周二.md",
     "assets/image/我的衣柜-1771993082919.jpeg",
