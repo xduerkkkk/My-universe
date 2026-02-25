@@ -102,21 +102,23 @@
             }
           },
           {
-            "id": "036079ba7c137cc0",
+            "id": "2c1195d48859bbf6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.不常用/002个人信息/我的衣柜.md",
+                "file": "1.工作流/10.日记文件/2026-02-25 周三.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "我的衣柜"
+              "title": "2026-02-25 周三"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "1.工作流/10.日记文件/2026-02-25 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "2026-02-25 周三 的大纲"
             }
           },
           {
@@ -323,13 +325,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a87bccd8c13db857",
+  "active": "2c1195d48859bbf6",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "4.不常用/002个人信息/我的衣柜.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
     "assets/image/我的衣柜-1772005839714.jpeg",
     "assets/image/我的衣柜-1772005837693.jpeg",
     "assets/image/我的衣柜-1772005834619.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
@@ -359,7 +363,6 @@
     "4.不常用/11.随想文件/人际关系认知/亲密关系/液态叙事.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/一个梦的解析.md",
     "4.不常用/11.随想文件/人际关系认知/亲密关系/自我叙事陷阱.md",
-    "4.不常用/11.随想文件/人际关系认知/亲密关系/自我镜像投射.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
