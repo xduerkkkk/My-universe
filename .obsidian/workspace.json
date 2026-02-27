@@ -116,6 +116,18 @@
               "icon": "lucide-file",
               "title": "02王道题"
             }
+          },
+          {
+            "id": "1ee71b1fa94fede1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-02-27 20.39.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-27 20.39.55.excalidraw"
+            }
           }
         ],
         "currentTab": 6
@@ -185,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -327,8 +340,11 @@
   },
   "active": "99c96ea05a6a2f62",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
+    "assets/image/02王道题-1772198433365.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-02-27 20.39.55.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "assets/image/02王道题-1772184166260.jpeg",
     "assets/image/02王道题-1772184148631.jpeg",
@@ -360,8 +376,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001王道题.md",
-    "1.工作流/10.日记文件/2026-02-24 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
