@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "2b7d06bb5b096cc8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Bed-Rock 毕业思考"
-            }
-          },
-          {
             "id": "f3d599c15ba0d9a5",
             "type": "leaf",
             "pinned": true,
@@ -86,22 +70,6 @@
             }
           },
           {
-            "id": "451337dbcaa5baa6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-02-27 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-02-27 周五"
-            }
-          },
-          {
             "id": "99c96ea05a6a2f62",
             "type": "leaf",
             "pinned": true,
@@ -118,19 +86,37 @@
             }
           },
           {
-            "id": "1ee71b1fa94fede1",
+            "id": "9f66e5e8804b8264",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Bed-Rock 毕业思考"
+            }
+          },
+          {
+            "id": "9d90578409d47bd7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-02-27 20.39.55.excalidraw.md"
+                "file": "0.核心/01.学习操作系统My_OS/总OS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-27 20.39.55.excalidraw"
+              "icon": "lucide-file",
+              "title": "总OS"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -214,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "Bed-Rock 毕业思考 的大纲"
             }
           },
           {
@@ -338,44 +323,45 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "99c96ea05a6a2f62",
+  "active": "9f66e5e8804b8264",
   "lastOpenFiles": [
-    "assets/image/02王道题-1772198433365.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-02-27 20.39.55.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "0.核心/01.学习操作系统My_OS/总OS.md",
     "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md",
+    "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
+    "0.核心/00.规划(Plan)/0.North_Star/我的序言.md",
+    "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
+    "0.核心/00.规划(Plan)/0.North_Star/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md",
+    "0.核心/00.规划(Plan)/3.未来探索/ai岗位分析与技术路线.md",
+    "0.核心/00.规划(Plan)/3.未来探索/求职规划.md",
+    "0.核心/00.规划(Plan)/3.未来探索/决策模型--选择城市为例.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-02-27 20.39.55.excalidraw.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/冲刺.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/OS规划.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/期末规划/微机原理规划.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "1.工作流/10.日记文件/26年上半年/26年2月",
+    "assets/image/02王道题-1772198433365.jpeg",
     "assets/image/02王道题-1772184166260.jpeg",
     "assets/image/02王道题-1772184148631.jpeg",
     "assets/image/02王道题-1772183766952.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "1.工作流/10.日记文件/2026-02-27 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "1.工作流/10.日记文件/2026-02-26 周四.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/性能影响因素及改进方式.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/详细管理方法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
-    "4.不常用/002个人信息/康凯.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
     "assets/image/03积分等式与不等式-1772118886037.jpeg",
     "assets/image/03积分等式与不等式-1772118539058.jpeg",
     "assets/image/03积分等式与不等式-1772118532521.jpeg",
     "assets/image/03积分等式与不等式-1772116170592.jpeg",
     "assets/image/03积分等式与不等式-1772116152012.jpeg",
     "assets/image/03积分等式与不等式-1772116117069.jpeg",
-    "assets/image/02积分几何-1772111600208.jpeg",
-    "1.工作流/10.日记文件/2026-02-25 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "4.不常用/002个人信息/我的衣柜.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/000视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
@@ -387,7 +373,6 @@
     "Excalidraw/Scripts",
     "Excalidraw/desktop.ini",
     "Excalidraw",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
