@@ -5,12 +5,20 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
     },
     {
-      "basename": "Bed-Rock 毕业思考",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "总OS",
       "path": "0.核心/01.学习操作系统My_OS/总OS.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
+    },
+    {
+      "basename": "Bed-Rock 毕业思考",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
     },
     {
       "basename": "bedrock寒假阶段",
@@ -31,10 +39,6 @@
     {
       "basename": "考研英语时间线",
       "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
     },
     {
       "basename": "02积分几何",
@@ -99,10 +103,6 @@
     {
       "basename": "思维导图-进程",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "内存映射文件",
