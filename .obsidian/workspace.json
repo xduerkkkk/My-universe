@@ -118,21 +118,21 @@
             }
           },
           {
-            "id": "3ea75dede288dde8",
+            "id": "ff0ad39af73058e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/访存次数.md",
+                "file": "1.工作流/10.日记文件/2026-03-02 周一.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "访存次数"
+              "title": "2026-03-02 周一"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "1.工作流/10.日记文件/2026-03-02 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "2026-03-02 周一 的大纲"
             }
           },
           {
@@ -339,14 +339,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ee47a08ce8ac9f0",
+  "active": "ff0ad39af73058e9",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/变量的字节.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "4.不常用/模板文件/提示词.md",
+    "4.不常用/模板文件/日记模板.md",
+    "1.工作流/10.日记文件/2026-03-02 周一.md",
+    "assets/image/2026-03-02 周一-1772458259843.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/访存次数.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/时钟置换算法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/变量的字节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/未命名",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
     "assets/image/02王道题-1772454119126.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动/寒假前健身.md",
@@ -365,12 +371,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片",
-    "1.工作流/10.日记文件/2026-03-02 周一.md",
-    "4.不常用/模板文件/日记模板.md",
     "assets/image/2026-03-02 周一-1772438260947.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
-    "0.核心/01.学习操作系统My_OS/总OS.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
@@ -381,7 +383,6 @@
     "assets/image/02王道题-1772183766952.jpeg",
     "assets/image/03积分等式与不等式-1772118886037.jpeg",
     "assets/image/03积分等式与不等式-1772118539058.jpeg",
-    "assets/image/03积分等式与不等式-1772118532521.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/高数--极限.xmind",
@@ -389,7 +390,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/desktop.ini",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
