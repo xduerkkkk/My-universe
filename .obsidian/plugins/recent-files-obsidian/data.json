@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-02 周一",
-      "path": "1.工作流/10.日记文件/2026-03-02 周一.md"
+      "basename": "相近词辨析2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析2.md"
+    },
+    {
+      "basename": "相近词辨析",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "Bed-Rock 毕业思考",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+    },
+    {
+      "basename": "02积分几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md"
+    },
+    {
+      "basename": "思维导图-进程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
     },
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
     },
     {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+      "basename": "2026-03-02 周一",
+      "path": "1.工作流/10.日记文件/2026-03-02 周一.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
+    },
+    {
+      "basename": "现场",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
     },
     {
       "basename": "提示词",
@@ -19,10 +55,6 @@
     {
       "basename": "日记模板",
       "path": "4.不常用/模板文件/日记模板.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
     },
     {
       "basename": "访存次数",
@@ -35,10 +67,6 @@
     {
       "basename": "题--计算缺页次数",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "寒假前健身",
@@ -55,14 +83,6 @@
     {
       "basename": "01-BedRock Log 150天计划",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md"
-    },
-    {
-      "basename": "Bed-Rock 毕业思考",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
-    },
-    {
-      "basename": "思维导图-进程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
     },
     {
       "basename": "Drawing 2026-03-02 17.10.14.excalidraw",
@@ -95,14 +115,6 @@
     {
       "basename": "地址及内存分配",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
-    },
-    {
-      "basename": "现场",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
-    },
-    {
-      "basename": "02积分几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md"
     },
     {
       "basename": "总OS",
@@ -187,18 +199,6 @@
     {
       "basename": "视频初步勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md"
-    },
-    {
-      "basename": "1数据链路层功能",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/1数据链路层功能.md"
-    },
-    {
-      "basename": "03积分等式与不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md"
-    },
-    {
-      "basename": "书籍勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01运输层/书籍勘察.md"
     }
   ],
   "omittedPaths": [],
