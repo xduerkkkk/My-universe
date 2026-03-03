@@ -40,20 +40,6 @@
             }
           },
           {
-            "id": "f3d599c15ba0d9a5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "思维导图-进程"
-            }
-          },
-          {
             "id": "f86e325fd2e49798",
             "type": "leaf",
             "pinned": true,
@@ -67,22 +53,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "02积分几何"
-            }
-          },
-          {
-            "id": "d7776baa4a9026d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-03-02 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-03-02 周一"
             }
           },
           {
@@ -120,19 +90,35 @@
           {
             "id": "97c7d20251d47a6c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析2.md",
+                "file": "1.工作流/10.日记文件/2026-03-03 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-03 周二"
+            }
+          },
+          {
+            "id": "14fcff2bfbcd0283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相近词辨析2"
+              "title": "04积分物理应用"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析2.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "相近词辨析2 的大纲"
+              "title": "04积分物理应用 的大纲"
             }
           },
           {
@@ -339,20 +325,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97c7d20251d47a6c",
+  "active": "14fcff2bfbcd0283",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
+    "assets/image/04积分物理应用-1772503233657.jpeg",
+    "assets/image/04积分物理应用-1772503225781.jpeg",
+    "assets/image/04积分物理应用-1772503127516.jpeg",
+    "1.工作流/10.日记文件/2026-03-03 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片",
+    "assets/image/04积分物理应用-1772500727056.jpeg",
+    "assets/image/04积分物理应用-1772499881835.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "1.工作流/10.日记文件/2026-03-02 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析2.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "1.工作流/10.日记文件/2026-03-02 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "4.不常用/模板文件/提示词.md",
     "4.不常用/模板文件/日记模板.md",
     "assets/image/2026-03-02 周一-1772458259843.jpeg",
@@ -368,9 +362,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock Log 150天计划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-03-02 17.10.14.excalidraw.md",
     "assets/image/01视频笔记-1772442405521.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/ART.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/虚拟内存管理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片",
     "assets/image/2026-03-02 周一-1772438260947.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
@@ -379,17 +370,12 @@
     "1.工作流/10.日记文件/26年上半年/26年2月",
     "assets/image/02王道题-1772198433365.jpeg",
     "assets/image/02王道题-1772184166260.jpeg",
-    "assets/image/02王道题-1772184148631.jpeg",
-    "assets/image/02王道题-1772183766952.jpeg",
-    "assets/image/03积分等式与不等式-1772118886037.jpeg",
-    "assets/image/03积分等式与不等式-1772118539058.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/高数--极限.xmind",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/未命名",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
