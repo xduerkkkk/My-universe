@@ -104,35 +104,65 @@
             }
           },
           {
-            "id": "9827620fd1f3b183",
+            "id": "f71c9e89e2c7da5a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "题--M=max{f''(x)}"
+              "title": "02王道题"
             }
           },
           {
-            "id": "0d2e1d85ac85fca8",
+            "id": "89fb8aa70e03a15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "题--积分上下限是常数"
+              "title": "01视频笔记"
+            }
+          },
+          {
+            "id": "962a3c3f808fbb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "辨析--重定位、MMU等名词"
+            }
+          },
+          {
+            "id": "f29c4df27a69a573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--变量的字节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆--变量的字节"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -215,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-04 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--变量的字节.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-04 周三 的大纲"
+              "title": "记忆--变量的字节 的大纲"
             }
           },
           {
@@ -339,9 +369,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "82c3087da8f7bc87",
+  "active": "f29c4df27a69a573",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "assets/image/02王道题-1772606904820.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
+    "1.工作流/10.日记文件/2026-03-04 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
     "assets/image/题--积分上下限是常数-1772596666070.jpeg",
@@ -349,7 +389,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
-    "1.工作流/10.日记文件/2026-03-04 周三.md",
     "assets/image/03积分等式与不等式-1772595905428.jpeg",
     "assets/image/03积分等式与不等式-1772594778563.jpeg",
     "assets/image/03积分等式与不等式-1772593705284.jpeg",
@@ -357,10 +396,7 @@
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "assets/image/03积分等式与不等式-1772589125472.jpeg",
     "assets/image/03积分等式与不等式-1772588451404.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "assets/image/03积分等式与不等式-1772587175260.jpeg",
-    "assets/image/03积分等式与不等式-1772586378493.jpeg",
     "1.工作流/10.日记文件/2026-03-03 周二.md",
     "4.不常用/002个人信息/我的衣柜.md",
     "1.工作流/10.日记文件/2026-03-02 周一.md",
@@ -374,11 +410,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/证明无原函数的情况.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/未命名",
     "2.知识库/21.AI世界/02深度学习/NLP/卡片",
