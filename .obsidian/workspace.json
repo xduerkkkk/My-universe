@@ -40,54 +40,41 @@
             }
           },
           {
-            "id": "82c3087da8f7bc87",
+            "id": "66b7cfb99f316008",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-04 周三.md",
+                "file": "1.工作流/10.日记文件/2026-03-05 周四.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-04 周三"
+              "title": "2026-03-05 周四"
             }
           },
           {
-            "id": "424ec9cfccd239a9",
+            "id": "870199b4dd720d79",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "03积分等式与不等式"
             }
           },
           {
-            "id": "1150ee660e9766c9",
+            "id": "bf14ea7f4d6c076f",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "思维导图-进程"
-            }
-          },
-          {
-            "id": "bdaa50090b6274c1",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -95,12 +82,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "02积分几何"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -307,20 +295,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bdaa50090b6274c1",
+  "active": "bf14ea7f4d6c076f",
   "lastOpenFiles": [
-    "4.不常用/002个人信息/我的衣柜.md",
+    "assets/image/02积分几何-1772677663405.jpeg",
+    "assets/image/02积分几何-1772677629876.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
+    "1.工作流/10.日记文件/2026-03-05 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
+    "assets/image/记忆--积分中的极坐标-1772673128355.jpeg",
+    "assets/image/记忆--各个参数方程曲线-1772672475240.jpeg",
+    "assets/image/记忆--各个参数方程曲线-1772671884756.jpeg",
     "1.工作流/10.日记文件/2026-03-04 周三.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
+    "4.不常用/002个人信息/我的衣柜.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
     "1.工作流/10.日记文件/2026-03-03 周二.md",
     "assets/image/我的衣柜-1772635982096.jpeg",
     "assets/image/我的衣柜-1772635966343.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
@@ -332,20 +329,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--变量的字节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/卡片/模型显存.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
     "assets/image/内存映射文件-1772616971574.jpeg",
     "assets/image/02王道题-1772606904820.jpeg",
     "assets/image/题--积分上下限是常数-1772596666070.jpeg",
     "assets/image/题--M=max{f''(x)}-1772596650171.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
-    "assets/image/03积分等式与不等式-1772595905428.jpeg",
-    "assets/image/03积分等式与不等式-1772594778563.jpeg",
-    "assets/image/03积分等式与不等式-1772593705284.jpeg",
-    "assets/image/03积分等式与不等式-1772591992061.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/assets",
