@@ -72,51 +72,53 @@
             }
           },
           {
-            "id": "bf14ea7f4d6c076f",
+            "id": "1db1d263ed12ee55",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "02积分几何"
+              "title": "001视频"
             }
           },
           {
-            "id": "0f3e6d42290516d6",
+            "id": "f727833779f02bb1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "002王道题"
+            }
+          },
+          {
+            "id": "27ca996346e4235e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01积分概+计"
-            }
-          },
-          {
-            "id": "814ae012457da41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01积分概+计"
+              "title": "单周期处理器与多周期处理器区别"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01积分概+计 的大纲"
+              "title": "001视频 的大纲"
             }
           },
           {
@@ -323,13 +325,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "814ae012457da41d",
+  "active": "1db1d263ed12ee55",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md",
     "1.工作流/10.日记文件/2026-03-05 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--定积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
@@ -357,9 +363,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/05微分物理，经济应用.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--提高抖动降低的CPU利用率.md",
     "assets/image/内存映射文件-1772616971574.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
@@ -373,7 +376,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "1.工作流/10.日记文件/26年上半年/26年2月",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
