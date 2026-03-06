@@ -40,51 +40,19 @@
             }
           },
           {
-            "id": "66b7cfb99f316008",
+            "id": "f277f4f48306a4e6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-05 周四.md",
+                "file": "1.工作流/10.日记文件/2026-03-06 周五.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-05 周四"
-            }
-          },
-          {
-            "id": "870199b4dd720d79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03积分等式与不等式"
-            }
-          },
-          {
-            "id": "1db1d263ed12ee55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "001视频"
+              "title": "2026-03-06 周五"
             }
           },
           {
@@ -101,6 +69,52 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "002王道题"
+            }
+          },
+          {
+            "id": "741e2836a949d525",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01积分概+计"
+            }
+          },
+          {
+            "id": "8669a726f2ba0045",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03积分等式与不等式"
+            }
+          },
+          {
+            "id": "9420c1613abf1aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "题--周期性"
             }
           }
         ],
@@ -187,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-05 周四.md",
+                "file": "1.工作流/10.日记文件/2026-03-06 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-05 周四 的大纲"
+              "title": "2026-03-06 周五 的大纲"
             }
           },
           {
@@ -311,45 +325,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "66b7cfb99f316008",
+  "active": "f277f4f48306a4e6",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
-    "1.工作流/10.日记文件/2026-03-05 周四.md",
+    "assets/image/03积分等式与不等式-1772763653926.jpeg",
+    "assets/image/03积分等式与不等式-1772763283570.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md",
+    "1.工作流/10.日记文件/2026-03-06 周五.md",
+    "assets/image/03积分等式与不等式-1772761623366.jpeg",
+    "assets/image/03积分等式与不等式-1772761017584.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分计算.md",
+    "assets/image/题--积分计算-1772760106035.jpeg",
+    "assets/image/题--积分计算-1772760099703.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--定积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md",
+    "assets/image/题--积分计算-1772759029092.jpeg",
+    "assets/image/题--积分计算-1772759022486.jpeg",
+    "assets/image/题--积分计算-1772758980746.jpeg",
+    "assets/image/题--积分计算-1772758952547.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "1.工作流/10.日记文件/2026-03-05 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "1.工作流/10.日记文件/2026-03-04 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md",
-    "assets/image/002王道题-1772702757076.jpeg",
-    "assets/image/002王道题-1772702638773.jpeg",
-    "assets/image/001视频-1772698483255.jpeg",
-    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
-    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
-    "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
-    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_四大字长与指令关系.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_ISA与微架构的边界.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
-    "assets/image/02积分几何-1772680012698.jpeg",
-    "assets/image/02积分几何-1772678946659.jpeg",
-    "assets/image/02积分几何-1772677663405.jpeg",
-    "assets/image/02积分几何-1772677629876.jpeg",
-    "assets/image/记忆--积分中的极坐标-1772673128355.jpeg",
-    "assets/image/记忆--各个参数方程曲线-1772672475240.jpeg",
-    "assets/image/记忆--各个参数方程曲线-1772671884756.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1",
