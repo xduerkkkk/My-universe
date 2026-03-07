@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-06 周五",
-      "path": "1.工作流/10.日记文件/2026-03-06 周五.md"
+      "basename": "积分思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas"
     },
     {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+      "basename": "2026-03-07 周六",
+      "path": "1.工作流/10.日记文件/2026-03-07 周六.md"
+    },
+    {
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+    },
+    {
+      "basename": "01积分概+计",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md"
     },
     {
       "basename": "002王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
     },
     {
-      "basename": "001视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+      "basename": "Pasted image 20260307095750",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png"
+    },
+    {
+      "basename": "Pasted image 20260307091454",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png"
+    },
+    {
+      "basename": "难--导数极限定理",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--导数极限定理.md"
+    },
+    {
+      "basename": "题--周期性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md"
+    },
+    {
+      "basename": "2026-03-06 周五",
+      "path": "1.工作流/10.日记文件/2026-03-06 周五.md"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "图--五段指令流水线",
@@ -51,14 +79,6 @@
     {
       "basename": "记忆--流水线性能指标",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--流水线性能指标.md"
-    },
-    {
-      "basename": "01积分概+计",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas"
     },
     {
       "basename": "02积分几何",
@@ -125,10 +145,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md"
     },
     {
-      "basename": "题--周期性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md"
-    },
-    {
       "basename": "未命名",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md"
     },
@@ -147,10 +163,6 @@
     {
       "basename": "04积分物理应用",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md"
-    },
-    {
-      "basename": "导数极限定理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/导数极限定理.md"
     },
     {
       "basename": "02微概计--张宇基础30讲",
@@ -187,18 +199,6 @@
     {
       "basename": "认识梯度",
       "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md"
-    },
-    {
-      "basename": "线性分类",
-      "path": "3.创造物/30.输出文章/AI/MLDL/线性分类.md"
-    },
-    {
-      "basename": "机器学习基石--如何诞生一个“机器”",
-      "path": "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md"
-    },
-    {
-      "basename": "贝叶斯的详细讲解",
-      "path": "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md"
     }
   ],
   "omittedPaths": [],

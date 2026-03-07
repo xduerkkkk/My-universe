@@ -40,19 +40,19 @@
             }
           },
           {
-            "id": "f277f4f48306a4e6",
+            "id": "0e3678da32a36e2d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-06 周五.md",
+                "file": "1.工作流/10.日记文件/2026-03-07 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-06 周五"
+              "title": "2026-03-07 周六"
             }
           },
           {
@@ -86,9 +86,44 @@
               "icon": "lucide-file",
               "title": "001视频"
             }
+          },
+          {
+            "id": "a092e208dee07760",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01积分概+计"
+            }
+          },
+          {
+            "id": "c0d690ed4ef732c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
+                "viewState": {
+                  "x": 903.6465704715364,
+                  "y": 219.5734599778572,
+                  "zoom": 0.11111116536458315
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "积分思维导图"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-06 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-06 周五 的大纲"
+              "title": "积分思维导图 的大纲"
             }
           },
           {
@@ -295,14 +330,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f277f4f48306a4e6",
+  "active": "c0d690ed4ef732c2",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "1.工作流/10.日记文件/2026-03-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307100453.png",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--导数极限定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md",
+    "1.工作流/10.日记文件/2026-03-06 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--五段流水线.md",
-    "1.工作流/10.日记文件/2026-03-06 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md",
@@ -317,11 +360,6 @@
     "assets/image/001视频-1772783263654.jpeg",
     "assets/image/001视频-1772783243300.jpeg",
     "assets/image/001视频-1772783232467.jpeg",
-    "assets/image/001视频-1772779882136.jpeg",
-    "assets/image/001视频-1772779589541.jpeg",
-    "assets/image/001视频-1772779118379.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
@@ -332,10 +370,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--定积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
