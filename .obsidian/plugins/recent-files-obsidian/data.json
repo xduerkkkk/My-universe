@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2026-03-07 15.17.54.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md"
+    },
+    {
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+    },
+    {
+      "basename": "数据通路",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
+    },
+    {
+      "basename": "微指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
+    },
+    {
+      "basename": "002王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+    },
+    {
+      "basename": "cpu问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
+    },
+    {
+      "basename": "辨析--“并行”层级",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md"
+    },
+    {
       "basename": "2026-03-07 周六",
       "path": "1.工作流/10.日记文件/2026-03-07 周六.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "积分思维导图",
@@ -45,14 +77,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md"
     },
     {
-      "basename": "001视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
-    },
-    {
-      "basename": "002王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
-    },
-    {
       "basename": "Pasted image 20260307095750",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png"
     },
@@ -85,10 +109,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md"
     },
     {
-      "basename": "数据通路",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
-    },
-    {
       "basename": "单周期处理器与多周期处理器区别",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md"
     },
@@ -119,10 +139,6 @@
     {
       "basename": "高数--极限",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "题--M=max{f''(x)}",
@@ -183,22 +199,6 @@
     {
       "basename": "辨析--重定位、MMU等名词",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md"
-    },
-    {
-      "basename": "辨析--xx上限",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md"
-    },
-    {
-      "basename": "辨析_大端小端",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md"
-    },
-    {
-      "basename": "思维导图-指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
-    },
-    {
-      "basename": "认识梯度",
-      "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md"
     }
   ],
   "omittedPaths": [],
