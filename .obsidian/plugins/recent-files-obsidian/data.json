@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2026-03-07 15.17.54.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md"
+      "basename": "2026-03-07 周六",
+      "path": "1.工作流/10.日记文件/2026-03-07 周六.md"
+    },
+    {
+      "basename": "002王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
     },
     {
       "basename": "001视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+    },
+    {
+      "basename": "1998",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
+    },
+    {
+      "basename": "核心语境库1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
+    },
+    {
+      "basename": "语境库",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
+    },
+    {
+      "basename": "1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/语法笔记/1.md"
+    },
+    {
+      "basename": "Drawing 2026-03-07 15.17.54.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "4.不常用/模板文件/日记模板.md"
     },
     {
       "basename": "数据通路",
@@ -17,24 +53,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
     },
     {
-      "basename": "002王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
-    },
-    {
       "basename": "cpu问题记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
     },
     {
       "basename": "辨析--“并行”层级",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md"
-    },
-    {
-      "basename": "2026-03-07 周六",
-      "path": "1.工作流/10.日记文件/2026-03-07 周六.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "积分思维导图",
@@ -83,10 +107,6 @@
     {
       "basename": "Pasted image 20260307091454",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "图--五段指令流水线",
@@ -179,26 +199,6 @@
     {
       "basename": "04积分物理应用",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
-      "basename": "记忆--各个分配方法的优点",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md"
-    },
-    {
-      "basename": "2026-03-04 周三",
-      "path": "1.工作流/10.日记文件/2026-03-04 周三.md"
-    },
-    {
-      "basename": "辨析--都有哪些可共享",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md"
-    },
-    {
-      "basename": "辨析--重定位、MMU等名词",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md"
     }
   ],
   "omittedPaths": [],

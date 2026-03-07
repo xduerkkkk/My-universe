@@ -98,9 +98,51 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-03-07 15.17.54.excalidraw"
             }
+          },
+          {
+            "id": "d99a6e937450f9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "语境库"
+            }
+          },
+          {
+            "id": "26fef6f6ae1a88f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2001"
+            }
+          },
+          {
+            "id": "4821a42d311c1cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002王道题"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md",
+                "file": "1.工作流/10.日记文件/2026-03-07 周六.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-07 15.17.54.excalidraw 的大纲"
+              "title": "2026-03-07 周六 的大纲"
             }
           },
           {
@@ -307,18 +349,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f934ff11fc5b71c7",
+  "active": "0e3678da32a36e2d",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "1.工作流/10.日记文件/2026-03-07 周六.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/六级/语法笔记/1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md",
+    "4.不常用/模板文件/日记模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md",
     "assets/image/002王道题-1772867457097.jpeg",
-    "1.工作流/10.日记文件/2026-03-07 周六.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/02积分几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
@@ -332,21 +380,15 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307100453.png",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--五段流水线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md",
     "assets/image/002王道题-1772789063723.jpeg",
     "assets/image/002王道题-1772788318592.jpeg",
     "assets/image/002王道题-1772788267483.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md",
     "assets/image/002王道题-1772787659533.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--流水线性能指标.md",
     "assets/image/001视频-1772783263654.jpeg",
     "assets/image/001视频-1772783243300.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
