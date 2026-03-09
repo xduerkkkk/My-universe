@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+    },
+    {
+      "basename": "核心语境库1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
+    },
+    {
+      "basename": "阅读中的相近词1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md"
+    },
+    {
+      "basename": "语境库",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
+    },
+    {
+      "basename": "2026-03-09 周一",
+      "path": "1.工作流/10.日记文件/2026-03-09 周一.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
+      "basename": "辨析--xx指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
+    },
+    {
+      "basename": "记忆--IO时序",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md"
+    },
+    {
+      "basename": "视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
+    },
+    {
       "basename": "ch9 ch10",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
     },
@@ -9,32 +45,24 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
     },
     {
-      "basename": "ch5 ch6",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
-    },
-    {
       "basename": "ch2、ch3、ch4",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "作业（ch7-ch10）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
     },
     {
       "basename": "作业（ch2-ch6）",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
     },
     {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
       "basename": "困惑",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
-    },
-    {
-      "basename": "2026-03-09 周一",
-      "path": "1.工作流/10.日记文件/2026-03-09 周一.md"
-    },
-    {
-      "basename": "IO时序",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/IO时序.md"
-    },
-    {
-      "basename": "视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
     },
     {
       "basename": "总思维导图",
@@ -87,10 +115,6 @@
     {
       "basename": "思维导图-存储",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "极限--张宇基础30讲",
@@ -175,30 +199,6 @@
     {
       "basename": "背单词相近词辨析",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
-    },
-    {
-      "basename": "核心语境库1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
-    },
-    {
-      "basename": "阅读中的相近词1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md"
-    },
-    {
-      "basename": "1998",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
-    },
-    {
-      "basename": "语境库",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
-    },
-    {
-      "basename": "1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/六级/语法笔记/1.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "4.不常用/模板文件/日记模板.md"
     }
   ],
   "omittedPaths": [],
