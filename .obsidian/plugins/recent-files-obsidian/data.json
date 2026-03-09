@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas"
-    },
-    {
-      "basename": "002王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "2026-03-09 周一",
       "path": "1.工作流/10.日记文件/2026-03-09 周一.md"
     },
     {
-      "basename": "记忆--gamma函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md"
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
+    },
+    {
+      "basename": "辨析--可微可导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md"
+    },
+    {
+      "basename": "002王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
     },
     {
       "basename": "001视频",
@@ -29,12 +29,48 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md"
     },
     {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md"
+      "basename": "困惑",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md"
     },
     {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+      "basename": "函数的连续性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md"
+    },
+    {
+      "basename": "函数--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md"
+    },
+    {
+      "basename": "高数--极限",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf"
+    },
+    {
+      "basename": "01书籍对齐",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "思维导图--导数微分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas"
+    },
+    {
+      "basename": "积分思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas"
+    },
+    {
+      "basename": "记忆--gamma函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md"
+    },
+    {
+      "basename": "习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md"
     },
     {
       "basename": "03积分等式与不等式",
@@ -121,10 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md"
     },
     {
-      "basename": "思维导图--导数微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas"
-    },
-    {
       "basename": "01积分概+计",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "记忆--CPU宏观结构",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md"
-    },
-    {
-      "basename": "图--微程序流程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md"
-    },
-    {
-      "basename": "解码--指令与微指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md"
-    },
-    {
-      "basename": "单周期处理器与多周期处理器区别",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md"
-    },
-    {
-      "basename": "记忆--流水线性能指标",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--流水线性能指标.md"
-    },
-    {
-      "basename": "01书籍对齐",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md"
-    },
-    {
-      "basename": "Pasted image 20260306112753",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260306112753.jpg"
-    },
-    {
-      "basename": "Pasted image 20260306090113",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets/Pasted image 20260306090113.png"
-    },
-    {
-      "basename": "闭区间上连续函数的性质",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md"
     }
   ],
   "omittedPaths": [],

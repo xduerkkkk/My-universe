@@ -88,25 +88,6 @@
             }
           },
           {
-            "id": "b6588df54d88cf55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-                "viewState": {
-                  "x": 2834.4656767733827,
-                  "y": 594.7435020186922,
-                  "zoom": 0.2967389700844373
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "积分思维导图"
-            }
-          },
-          {
             "id": "c0862dcae01ea2c1",
             "type": "leaf",
             "pinned": true,
@@ -123,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍与例题 的大纲"
+              "title": "2001 的大纲"
             }
           },
           {
@@ -330,18 +311,32 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c0862dcae01ea2c1",
+  "active": "d29f6989a0a7eca6",
   "lastOpenFiles": [
-    "assets/image/书籍与例题-1773023495363.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
-    "assets/image/书籍与例题-1773022766683.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
+    "assets/image/书籍与例题-1773027467973.jpeg",
+    "assets/image/书籍与例题-1773027123120.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+    "assets/image/书籍与例题-1773024940668.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105458.png",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105447.png",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
+    "assets/image/书籍与例题-1773023495363.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
+    "assets/image/书籍与例题-1773022766683.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分",
@@ -357,23 +352,8 @@
     "1.工作流/10.日记文件/2026-03-07 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/六级/语法笔记/1.md",
-    "4.不常用/模板文件/日记模板.md",
     "assets/image/002王道题-1772867457097.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307100453.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png",
-    "assets/image/002王道题-1772789063723.jpeg",
-    "assets/image/002王道题-1772788318592.jpeg",
-    "assets/image/002王道题-1772788267483.jpeg",
-    "assets/image/002王道题-1772787659533.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
