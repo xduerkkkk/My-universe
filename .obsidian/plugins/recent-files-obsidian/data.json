@@ -1,32 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
-    },
-    {
-      "basename": "001视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+      "basename": "视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
     },
     {
       "basename": "2026-03-09 周一",
       "path": "1.工作流/10.日记文件/2026-03-09 周一.md"
     },
     {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+    },
+    {
+      "basename": "002王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+    },
+    {
+      "basename": "图--微程序流程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md"
+    },
+    {
+      "basename": "解码--指令与微指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md"
     },
     {
       "basename": "书籍与例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
     },
     {
-      "basename": "辨析--可微可导",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md"
+      "basename": "微指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
     },
     {
-      "basename": "002王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+      "basename": "数据通路",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
+    },
+    {
+      "basename": "思维导图-存储",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+    },
+    {
+      "basename": "辨析--可微可导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md"
     },
     {
       "basename": "极限--张宇基础30讲",
@@ -141,14 +173,6 @@
       "path": "4.不常用/模板文件/日记模板.md"
     },
     {
-      "basename": "数据通路",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
-    },
-    {
-      "basename": "微指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
-    },
-    {
       "basename": "cpu问题记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "题--积分计算",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分计算.md"
-    },
-    {
-      "basename": "题--周期性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md"
-    },
-    {
-      "basename": "Pasted image 20260307095750",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307095750.png"
-    },
-    {
-      "basename": "Pasted image 20260307091454",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307091454.png"
-    },
-    {
-      "basename": "图--五段指令流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md"
-    },
-    {
-      "basename": "记忆--五段流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--五段流水线.md"
     }
   ],
   "omittedPaths": [],
