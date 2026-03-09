@@ -56,93 +56,35 @@
             }
           },
           {
-            "id": "f727833779f02bb1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "002王道题"
-            }
-          },
-          {
-            "id": "a6dc68c1ced94b60",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "001视频"
-            }
-          },
-          {
-            "id": "8e7007c2f3b46403",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "总思维导图"
-            }
-          },
-          {
-            "id": "33a2be108a72c0cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "图--微程序流程"
-            }
-          },
-          {
-            "id": "e41aab5f07dab3dc",
+            "id": "a16546ae1c59997b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/IO时序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002王道题"
+              "title": "IO时序"
             }
           },
           {
-            "id": "4e991c9b3389b3c0",
+            "id": "051a63fb0b02bc98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频"
+              "title": "ch9 ch10"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "视频 的大纲"
+              "title": "ch9 ch10 的大纲"
             }
           },
           {
@@ -326,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,16 +291,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e991c9b3389b3c0",
+  "active": "051a63fb0b02bc98",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/IO时序.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
@@ -368,29 +319,21 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "assets/image/书籍与例题-1773027467973.jpeg",
     "assets/image/书籍与例题-1773027123120.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/01书籍对齐.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
     "assets/image/书籍与例题-1773024940668.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105458.png",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105447.png",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "assets/image/书籍与例题-1773023495363.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
     "assets/image/书籍与例题-1773022766683.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260309085910.png",
     "assets/image/002王道题-1772867457097.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307100453.png",
@@ -400,7 +343,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/未命名",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
