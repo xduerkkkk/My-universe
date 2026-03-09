@@ -102,9 +102,23 @@
               "icon": "lucide-file",
               "title": "书籍与例题"
             }
+          },
+          {
+            "id": "8e7007c2f3b46403",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "总思维导图"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2001 的大纲"
+              "title": "总思维导图 的大纲"
             }
           },
           {
@@ -311,15 +325,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d29f6989a0a7eca6",
+  "active": "8e7007c2f3b46403",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-02-14 12.42.12.excalidraw.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
     "assets/image/书籍与例题-1773027467973.jpeg",
     "assets/image/书籍与例题-1773027123120.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/困惑.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
@@ -340,7 +357,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/03积分等式与不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
@@ -350,7 +366,6 @@
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/基础阶段（1-7）3月第一周周报.md",
     "1.工作流/10.日记文件/2026-03-07 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/Drawing 2026-03-07 15.17.54.excalidraw.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
     "assets/image/002王道题-1772867457097.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/assets/Pasted image 20260307100453.png",
