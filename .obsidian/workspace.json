@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "e62050a3199de431",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "905c8ce18ae444b7",
             "type": "leaf",
             "state": {
@@ -100,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+                "file": "1.工作流/10.日记文件/2026-03-09 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2001 的大纲"
+              "title": "2026-03-09 周一 的大纲"
             }
           },
           {
@@ -307,12 +291,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d29f6989a0a7eca6",
+  "active": "4ddd0a26379f48c7",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
