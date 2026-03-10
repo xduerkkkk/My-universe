@@ -5,6 +5,26 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
     },
     {
+      "basename": "2026-03-10 周二",
+      "path": "1.工作流/10.日记文件/2026-03-10 周二.md"
+    },
+    {
+      "basename": "题--计算占比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md"
+    },
+    {
+      "basename": "记忆--中断分类",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md"
+    },
+    {
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
+    },
+    {
+      "basename": "辨析--xx指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
+    },
+    {
       "basename": "视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
     },
@@ -13,16 +33,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
     },
     {
-      "basename": "辨析--xx指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
-    },
-    {
-      "basename": "2026-03-10 周二",
-      "path": "1.工作流/10.日记文件/2026-03-10 周二.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
+      "basename": "辨析--单中断和多重中断的区别",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md"
     },
     {
       "basename": "习题与1000题",
@@ -109,10 +121,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/04积分物理应用.md"
     },
     {
-      "basename": "辨析--单中断和多重中断的区别",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md"
-    },
-    {
       "basename": "记忆--IO时序",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ch5 ch6",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
-    },
-    {
-      "basename": "困惑",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
-    },
-    {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
     }
   ],
   "omittedPaths": [],
