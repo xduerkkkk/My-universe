@@ -40,51 +40,67 @@
             }
           },
           {
-            "id": "4ddd0a26379f48c7",
+            "id": "e0f965f15759c999",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-09 周一.md",
+                "file": "1.工作流/10.日记文件/2026-03-10 周二.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-09 周一"
+              "title": "2026-03-10 周二"
             }
           },
           {
-            "id": "905c8ce18ae444b7",
+            "id": "1d0863d167aaefd9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "书籍与例题"
+            }
+          },
+          {
+            "id": "bd6f0ff24898e902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辨析--xx指令"
+              "title": "题--能练习多个方法"
             }
           },
           {
-            "id": "bb0c73c59b2802d3",
+            "id": "24ed2792550b3c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心语境库1"
+              "title": "题--能练习多个方法"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-09 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-09 周一 的大纲"
+              "title": "题--能练习多个方法 的大纲"
             }
           },
           {
@@ -291,13 +307,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4ddd0a26379f48c7",
+  "active": "24ed2792550b3c10",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "1.工作流/10.日记文件/2026-03-10 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
+    "assets/image/题--能练习多个方法-1773108010847.jpeg",
+    "assets/image/题--能练习多个方法-1773108004516.jpeg",
+    "assets/image/题--能练习多个方法-1773107986141.jpeg",
+    "assets/image/难点--隐函数存在定理-1773106153091.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
+    "assets/image/书籍与例题-1773105161371.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "4.不常用/模板文件/日记模板.md",
+    "1.工作流/10.日记文件/2026-03-09 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
-    "1.工作流/10.日记文件/2026-03-09 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md",
@@ -318,23 +345,12 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/解码--指令与微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "assets/image/书籍与例题-1773027467973.jpeg",
-    "assets/image/书籍与例题-1773027123120.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
-    "assets/image/书籍与例题-1773024940668.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105458.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/assets/Pasted image 20260309105447.png",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "assets/image/书籍与例题-1773023495363.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分",
@@ -342,7 +358,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
