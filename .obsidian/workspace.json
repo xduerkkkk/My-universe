@@ -70,9 +70,41 @@
               "icon": "lucide-file",
               "title": "书籍与例题"
             }
+          },
+          {
+            "id": "c3fb8f505d0d12a8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "c76f70ef2f0f9235",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "视频"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-10 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-10 周二 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -279,13 +311,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e0f965f15759c999",
+  "active": "c3fb8f505d0d12a8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "assets/image/视频-1773130996026.jpeg",
+    "1.工作流/10.日记文件/2026-03-10 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--单中断和多重中断的区别.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
+    "assets/image/视频-1773127849253.jpeg",
+    "assets/image/视频-1773127401216.jpeg",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/未命名.md",
     "4.不常用/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
@@ -293,7 +333,6 @@
     "assets/image/书籍与例题-1773112954422.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
     "assets/image/书籍与例题-1773112577469.jpeg",
-    "1.工作流/10.日记文件/2026-03-10 周二.md",
     "assets/image/书籍与例题-1773111119018.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
     "assets/image/题--能练习多个方法-1773108010847.jpeg",
@@ -301,25 +340,17 @@
     "assets/image/题--能练习多个方法-1773107986141.jpeg",
     "assets/image/难点--隐函数存在定理-1773106153091.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
-    "assets/image/书籍与例题-1773105161371.jpeg",
     "4.不常用/模板文件/日记模板.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "assets/image/王道题-1773060794890.jpeg",
-    "assets/image/视频-1773060577199.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
