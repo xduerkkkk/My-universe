@@ -56,39 +56,51 @@
             }
           },
           {
-            "id": "c3fb8f505d0d12a8",
+            "id": "8f5aaa6fe18a5bb4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "file": "1.工作流/10.日记文件/2026-03-11 周三.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "王道题"
+              "title": "2026-03-11 周三"
             }
           },
           {
-            "id": "c76f70ef2f0f9235",
+            "id": "0e6722e02e3bd5cd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "视频"
+              "title": "难点--隐函数存在定理"
+            }
+          },
+          {
+            "id": "f369b40b82ca3b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "习题与1000题"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍与例题 的大纲"
+              "title": "习题与1000题 的大纲"
             }
           },
           {
@@ -295,14 +307,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1d0863d167aaefd9",
+  "active": "f369b40b82ca3b47",
   "lastOpenFiles": [
+    "assets/image/习题与1000题-1773197297283.jpeg",
+    "1.工作流/10.日记文件/2026-03-11 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
+    "assets/image/习题与1000题-1773196701107.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
+    "assets/image/书籍与例题-1773192666438.jpeg",
+    "assets/image/书籍与例题-1773192022166.jpeg",
     "1.工作流/10.日记文件/2026-03-10 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "assets/image/王道题-1773150134749.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md",
@@ -313,7 +332,6 @@
     "assets/image/王道题-1773145278077.jpeg",
     "assets/image/王道题-1773144007277.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
@@ -327,12 +345,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
-    "assets/image/王道题-1773133880652.jpeg",
-    "assets/image/视频-1773130996026.jpeg",
-    "assets/image/视频-1773127849253.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets",
