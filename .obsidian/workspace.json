@@ -102,9 +102,25 @@
               "icon": "lucide-file",
               "title": "00.视频勘察"
             }
+          },
+          {
+            "id": "4d768a5fb210c627",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00.视频勘察 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -311,14 +327,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dfddac14b47738c4",
+  "active": "4d768a5fb210c627",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-03-11 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "assets/image/02王道题-1773214495801.jpeg",
+    "assets/image/02王道题-1773214080520.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
+    "1.工作流/10.日记文件/2026-03-11 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/概念--f'.md",
@@ -341,20 +367,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md",
-    "assets/image/王道题-1773149296610.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md",
-    "assets/image/王道题-1773147933244.jpeg",
-    "1.工作流/10.日记文件/2026-03-09 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
@@ -362,7 +379,6 @@
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",

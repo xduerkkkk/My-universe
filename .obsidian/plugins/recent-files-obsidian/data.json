@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
+    },
+    {
+      "basename": "主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md"
+    },
+    {
+      "basename": "外存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
+    },
+    {
+      "basename": "思维导图-存储",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
+    },
+    {
+      "basename": "存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
+    },
+    {
       "basename": "00.视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "记忆--IO软件与硬件对照",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md"
     },
     {
       "basename": "2026-03-11 周三",
       "path": "1.工作流/10.日记文件/2026-03-11 周三.md"
     },
     {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
-    },
-    {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
     },
     {
-      "basename": "题目",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
     },
     {
       "basename": "IO控制方式",
@@ -171,34 +199,6 @@
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/未命名.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "4.不常用/未命名.md"
-    },
-    {
-      "basename": "思维导图--导数微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "4.不常用/模板文件/日记模板.md"
     }
   ],
   "omittedPaths": [],
