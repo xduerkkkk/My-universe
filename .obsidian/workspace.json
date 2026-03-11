@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "1d0863d167aaefd9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "书籍与例题"
-            }
-          },
-          {
             "id": "8f5aaa6fe18a5bb4",
             "type": "leaf",
             "pinned": true,
@@ -72,22 +56,25 @@
             }
           },
           {
-            "id": "0e6722e02e3bd5cd",
+            "id": "1d0863d167aaefd9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "难点--隐函数存在定理"
+              "title": "书籍与例题"
             }
           },
           {
-            "id": "f369b40b82ca3b47",
+            "id": "098255f17c4f863f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -95,12 +82,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "习题与1000题"
             }
+          },
+          {
+            "id": "c013ff7b3bd7f664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/概念--f'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概念--f'"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -307,14 +309,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f369b40b82ca3b47",
+  "active": "098255f17c4f863f",
   "lastOpenFiles": [
-    "assets/image/习题与1000题-1773197297283.jpeg",
-    "1.工作流/10.日记文件/2026-03-11 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/概念--f'.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
-    "assets/image/习题与1000题-1773196701107.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--d还是roundd.md",
+    "assets/image/概念--f'-1773199288318.jpeg",
+    "assets/image/习题与1000题-1773201119247.jpeg",
+    "assets/image/辨析--d还是roundd-1773201107620.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "1.工作流/10.日记文件/2026-03-11 周三.md",
+    "assets/image/习题与1000题-1773197297283.jpeg",
+    "assets/image/习题与1000题-1773196701107.jpeg",
     "assets/image/书籍与例题-1773192666438.jpeg",
     "assets/image/书籍与例题-1773192022166.jpeg",
     "1.工作流/10.日记文件/2026-03-10 周二.md",
@@ -328,23 +339,13 @@
     "assets/image/王道题-1773149296610.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md",
     "assets/image/王道题-1773147933244.jpeg",
-    "assets/image/王道题-1773146826758.jpeg",
-    "assets/image/王道题-1773145278077.jpeg",
-    "assets/image/王道题-1773144007277.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "1.工作流/10.日记文件/2026-03-09 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
