@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "2026-03-11 周三",
+      "path": "1.工作流/10.日记文件/2026-03-11 周三.md"
+    },
+    {
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
+    },
+    {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
+    },
+    {
+      "basename": "题目",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/题目.md"
+    },
+    {
+      "basename": "IO控制方式",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
     },
     {
       "basename": "概念--f'",
@@ -35,14 +63,6 @@
     {
       "basename": "辨析--极值充分与必要",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md"
-    },
-    {
-      "basename": "2026-03-11 周三",
-      "path": "1.工作流/10.日记文件/2026-03-11 周三.md"
     },
     {
       "basename": "2026-03-10 周二",
@@ -179,26 +199,6 @@
     {
       "basename": "日记模板",
       "path": "4.不常用/模板文件/日记模板.md"
-    },
-    {
-      "basename": "核心语境库1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
-    },
-    {
-      "basename": "阅读中的相近词1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md"
-    },
-    {
-      "basename": "语境库",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
-    },
-    {
-      "basename": "ch9 ch10",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
-    },
-    {
-      "basename": "ch7 ch8",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
     }
   ],
   "omittedPaths": [],
