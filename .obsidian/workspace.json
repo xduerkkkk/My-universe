@@ -40,19 +40,22 @@
             }
           },
           {
-            "id": "8f5aaa6fe18a5bb4",
+            "id": "f1ee0d0f4fbe1518",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-11 周三.md",
-                "mode": "source",
-                "source": false
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/多元微分思维导图.canvas",
+                "viewState": {
+                  "x": -86.4000244140625,
+                  "y": 83.60004040527343,
+                  "zoom": 0
+                }
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-03-11 周三"
+              "icon": "lucide-layout-dashboard",
+              "title": "多元微分思维导图"
             }
           },
           {
@@ -86,9 +89,25 @@
               "icon": "lucide-file",
               "title": "习题与1000题"
             }
+          },
+          {
+            "id": "195d1711c8e902ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-03-12 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-12 周四"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-11 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
                 "followCursor": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-11 周三 的大纲"
+              "title": "习题与1000题 的大纲"
             }
           },
           {
@@ -295,45 +314,46 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8f5aaa6fe18a5bb4",
+  "active": "098255f17c4f863f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/多元微分思维导图.canvas",
+    "1.工作流/10.日记文件/2026-03-12 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/概念--f'.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--d还是roundd.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/Drawing 2026-03-12 10.27.29.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分计算.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/计算坑.md",
+    "assets/image/习题与1000题-1773281272613.jpeg",
+    "assets/image/习题与1000题-1773280941944.jpeg",
+    "assets/image/习题与1000题-1773280615602.jpeg",
+    "assets/image/习题与1000题-1773280434399.jpeg",
+    "assets/image/习题与1000题-1773279614122.jpeg",
+    "assets/image/题--积分计算-1773278417066.jpeg",
+    "assets/image/题--积分计算-1773278380830.jpeg",
+    "1.工作流/10.日记文件/2026-03-11 周三.md",
     "assets/image/习题与1000题-1773235872054.jpeg",
     "assets/image/习题与1000题-1773235564481.jpeg",
-    "1.工作流/10.日记文件/2026-03-11 周三.md",
     "assets/image/习题与1000题-1773235357765.jpeg",
-    "assets/image/习题与1000题-1773235326747.jpeg",
-    "assets/image/习题与1000题-1773235051335.jpeg",
-    "assets/image/习题与1000题-1773234698159.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
-    "assets/image/习题与1000题-1773233821175.jpeg",
-    "assets/image/习题与1000题-1773232813225.jpeg",
-    "assets/image/习题与1000题-1773232810320.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
     "1.工作流/10.日记文件/2026-03-10 周二.md",
-    "assets/image/00.视频勘察-1773231422274.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--d还是roundd.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/IO控制方式.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
@@ -350,7 +370,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
     "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
-    "未命名 3.canvas",
-    "未命名 2.canvas"
+    "未命名 3.canvas"
   ]
 }
