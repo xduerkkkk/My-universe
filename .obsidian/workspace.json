@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "02王道题"
             }
+          },
+          {
+            "id": "3a299777a579faea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆--各缓冲区图解"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00.视频勘察 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -295,10 +309,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bdbd87fbdd4a614",
+  "active": "ee1316181e509cb3",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "assets/image/02王道题-1773307547324.jpeg",
+    "assets/image/02王道题-1773307407032.jpeg",
+    "assets/image/02王道题-1773306205591.jpeg",
+    "assets/image/02王道题-1773305754496.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
     "1.工作流/10.日记文件/2026-03-12 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "assets/image/00.视频勘察-1773300299971.jpeg",
@@ -313,7 +334,6 @@
     "assets/image/00.视频勘察-1773297746908.jpeg",
     "assets/image/00.视频勘察-1773297710829.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/书籍与例题.md",
-    "assets/image/书籍与例题-1773287337863.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md",
@@ -327,15 +347,9 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--定积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/计算坑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/辨析--“并行”层级.md",
-    "assets/image/书籍与例题-1773287151629.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets/Pasted image 20260312104212.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",

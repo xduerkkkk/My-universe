@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
+    },
+    {
       "basename": "00.视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
+      "basename": "记忆--各缓冲区图解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
+    },
+    {
+      "basename": "记忆--IO软件与硬件对照",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md"
+    },
+    {
+      "basename": "辨析--接口、阻塞、非阻塞、异步",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md"
     },
     {
       "basename": "2026-03-12 周四",
@@ -161,10 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md"
     },
     {
-      "basename": "辨析--接口、阻塞、非阻塞、异步",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md"
-    },
-    {
       "basename": "问题记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md"
     },
@@ -175,10 +183,6 @@
     {
       "basename": "存储系统概述",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
-    },
-    {
-      "basename": "记忆--IO软件与硬件对照",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md"
     },
     {
       "basename": "期末应试",
@@ -195,10 +199,6 @@
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
-    },
-    {
-      "basename": "辨析--xx指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
     }
   ],
   "omittedPaths": [],
