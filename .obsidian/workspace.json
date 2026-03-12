@@ -58,6 +58,7 @@
           {
             "id": "2bdbd87fbdd4a614",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,8 +66,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "00.视频勘察"
+            }
+          },
+          {
+            "id": "ee1316181e509cb3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
             }
           }
         ],
@@ -254,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,9 +297,21 @@
   },
   "active": "2bdbd87fbdd4a614",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
     "1.工作流/10.日记文件/2026-03-12 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+    "assets/image/00.视频勘察-1773300299971.jpeg",
+    "assets/image/00.视频勘察-1773300125296.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
+    "assets/image/00.视频勘察-1773298355937.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
+    "assets/image/00.视频勘察-1773297777244.jpeg",
+    "assets/image/00.视频勘察-1773297757427.jpeg",
+    "assets/image/00.视频勘察-1773297746908.jpeg",
+    "assets/image/00.视频勘察-1773297710829.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/书籍与例题.md",
     "assets/image/书籍与例题-1773287337863.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
@@ -305,19 +335,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/概念--f'.md",
-    "1.工作流/10.日记文件/2026-03-11 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets/Pasted image 20260312104212.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets/Pasted image 20260312104155.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--可微可导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/题--能练习多个方法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/难点--隐函数存在定理.md",
-    "assets/image/习题与1000题-1773281272613.jpeg",
-    "assets/image/习题与1000题-1773280941944.jpeg",
-    "assets/image/习题与1000题-1773280615602.jpeg",
-    "assets/image/习题与1000题-1773280434399.jpeg",
-    "assets/image/习题与1000题-1773279614122.jpeg",
-    "assets/image/题--积分计算-1773278417066.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/积分思维导图.canvas",

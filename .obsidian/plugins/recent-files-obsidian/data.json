@@ -5,12 +5,32 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
     },
     {
-      "basename": "01.对齐书籍",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
     },
     {
       "basename": "2026-03-12 周四",
       "path": "1.工作流/10.日记文件/2026-03-12 周四.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
+    },
+    {
+      "basename": "外存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
+    },
+    {
+      "basename": "主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
     },
     {
       "basename": "书籍与例题",
@@ -121,10 +141,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/辨析--极值充分与必要.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
-    },
-    {
       "basename": "2026-03-10 周二",
       "path": "1.工作流/10.日记文件/2026-03-10 周二.md"
     },
@@ -149,20 +165,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md"
     },
     {
-      "basename": "主存",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
-    },
-    {
       "basename": "问题记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md"
-    },
-    {
-      "basename": "外存",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
     },
     {
       "basename": "思维导图-存储",
@@ -195,10 +199,6 @@
     {
       "basename": "辨析--xx指令",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
-    },
-    {
-      "basename": "视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
     }
   ],
   "omittedPaths": [],
