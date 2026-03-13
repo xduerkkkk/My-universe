@@ -40,19 +40,19 @@
             }
           },
           {
-            "id": "195d1711c8e902ed",
+            "id": "7f0cdb35064c85ea",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-12 周四.md",
+                "file": "1.工作流/10.日记文件/2026-03-13 周五.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-12 周四"
+              "title": "2026-03-13 周五"
             }
           },
           {
@@ -88,35 +88,65 @@
             }
           },
           {
-            "id": "3669395861c12e62",
+            "id": "853c1ab1056908bd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/书籍与例题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2000"
+              "title": "书籍与例题"
             }
           },
           {
-            "id": "0306a3a9e19faa70",
+            "id": "83537723c7a2e99a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-12 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/卡片/记忆--arcsinx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12 周四"
+              "title": "记忆--arcsinx"
+            }
+          },
+          {
+            "id": "debe1a1cc048b1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "极限--张宇基础30讲"
+            }
+          },
+          {
+            "id": "8b4787a6ccc24f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02微概计--张宇基础30讲"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-12 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-12 周四 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -323,44 +353,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0306a3a9e19faa70",
+  "active": "8b4787a6ccc24f23",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-03-11 周三.md",
-    "1.工作流/10.日记文件/2026-03-12 周四.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "assets/image/02王道题-1773307547324.jpeg",
-    "assets/image/02王道题-1773307407032.jpeg",
-    "assets/image/02王道题-1773306205591.jpeg",
-    "assets/image/02王道题-1773305754496.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
-    "assets/image/00.视频勘察-1773300299971.jpeg",
-    "assets/image/00.视频勘察-1773300125296.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
-    "assets/image/00.视频勘察-1773298355937.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
-    "assets/image/00.视频勘察-1773297777244.jpeg",
-    "assets/image/00.视频勘察-1773297757427.jpeg",
-    "assets/image/00.视频勘察-1773297746908.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/中值定理中，中值点位置的依赖性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--周期性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/04微不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分计算.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--导数极限定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
+    "assets/image/题--积分计算-1773369127379.jpeg",
+    "assets/image/题--积分计算-1773369119845.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--积分上下限是常数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/题--M=max{f''(x)}.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分中的极坐标.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--积分题反函数性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--定积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/记忆--常用放缩.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--创建两阶导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/难--导数极限定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/积分学/00卡片/计算坑.md",
+    "1.工作流/10.日记文件/2026-03-13 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/极限的本质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/闭区间上连续函数的性质.md",
+    "assets/image/书籍与例题-1773367233117.jpeg",
+    "assets/image/书籍与例题-1773367063461.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/卡片/记忆--arcsinx.md",
+    "assets/image/记忆--arcsinx-1773366876034.jpeg",
+    "assets/image/记忆--arcsinx-1773366869788.jpeg",
+    "assets/image/记忆--arcsinx-1773366789663.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/卡片/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "assets/image/书籍与例题-1773364696216.jpeg",
+    "assets/image/书籍与例题-1773364520986.jpeg",
+    "1.工作流/10.日记文件/2026-03-12 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "assets/image/02王道题-1773307547324.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/二重积分",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/多元微分思维导图.canvas",
@@ -371,10 +404,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/多元函数微分",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
