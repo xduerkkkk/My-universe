@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "d29f6989a0a7eca6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2001"
-            }
-          },
-          {
             "id": "813e4c081c6b6b15",
             "type": "leaf",
             "pinned": true,
@@ -53,38 +37,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "2026-03-14 周六"
-            }
-          },
-          {
-            "id": "853c1ab1056908bd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "书籍与例题"
-            }
-          },
-          {
-            "id": "20b35e6924506c78",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "习题与1000题"
             }
           },
           {
@@ -138,6 +90,7 @@
           {
             "id": "86a47b887bf00d48",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -145,12 +98,43 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "王道题"
             }
+          },
+          {
+            "id": "2cbc3b2fca2439d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-14 16.38.31.excalidraw"
+            }
+          },
+          {
+            "id": "b3516f773e22a6f0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "记忆--IO软件四层作用"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -233,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "记忆--IO软件四层作用 的大纲"
             }
           },
           {
@@ -357,24 +341,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "86a47b887bf00d48",
+  "active": "b3516f773e22a6f0",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
     "1.工作流/10.日记文件/2026-03-14 周六.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/题--计算机系统优化的“名词动词”.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--随机与直接访问.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/题--计算机系统优化的“名词动词”.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md",
@@ -389,8 +375,6 @@
     "assets/image/习题与1000题-1773456830818.jpeg",
     "assets/image/习题与1000题-1773456807135.jpeg",
     "1.工作流/10.日记文件/2026-03-13 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/概念--e的-x方积分证明.md",
     "assets/image/习题与1000题-1773456106515.jpeg",
     "assets/image/习题与1000题-1773455555694.jpeg",
     "assets/image/习题与1000题-1773455043053.jpeg",
