@@ -56,63 +56,21 @@
             }
           },
           {
-            "id": "096dc54a83dc0559",
+            "id": "a0c5d88cb8a22d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02微概计--张宇基础30讲"
-            }
-          },
-          {
-            "id": "a64c024ca86f9406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01积分概+计"
-            }
-          },
-          {
-            "id": "9a43b55e280cf1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "技巧--构造变上限积分"
-            }
-          },
-          {
-            "id": "a6e82d6fc986ee69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "技巧--构造变上限积分"
+              "title": "01视频"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍与例题 的大纲"
+              "title": "01视频 的大纲"
             }
           },
           {
@@ -319,14 +277,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a8e8b772bffa92c2",
+  "active": "a0c5d88cb8a22d3c",
   "lastOpenFiles": [
+    "assets/image/01视频-1773644524578.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/虚拟文件系统.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/文件系统挂载.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/文件的概念.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "1.工作流/10.日记文件/2026-03-16 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "assets/image/书籍与例题-1773632445970.jpeg",
     "assets/image/书籍与例题-1773632419297.jpeg",
-    "1.工作流/10.日记文件/2026-03-16 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "assets/image/书籍与例题-1773630866911.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
     "assets/image/技巧--构造变上限积分-1773630435048.jpeg",
@@ -346,22 +315,11 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--常用放缩.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--定积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/计算坑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md",
     "assets/image/题--积分计算-1773625048876.jpeg",
     "assets/image/题--积分计算-1773625040854.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/辨析--“并行”层级.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--周期性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--M=max{f''(x)}.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-    "assets/image/习题与1000题-1773493422946.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
