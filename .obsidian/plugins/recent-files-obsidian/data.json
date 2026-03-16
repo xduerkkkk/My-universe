@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "01视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
       "basename": "辨析--多级索引思想",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md"
     },
     {
-      "basename": "01视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+      "basename": "2026-03-16 周一",
+      "path": "1.工作流/10.日记文件/2026-03-16 周一.md"
+    },
+    {
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md"
+    },
+    {
+      "basename": "图--多级页表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+    },
+    {
+      "basename": "题--页面置换定位",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
+    },
+    {
+      "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
+    },
+    {
+      "basename": "基础阶段（8-14）3月第周周报",
+      "path": "1.工作流/10.日记文件/基础阶段（8-14）3月第周周报.md"
+    },
+    {
+      "basename": "基础阶段（1-7）3月第一周周报",
+      "path": "1.工作流/10.日记文件/基础阶段（1-7）3月第一周周报.md"
     },
     {
       "basename": "02王道题",
@@ -15,10 +47,6 @@
     {
       "basename": "期末应试",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md"
     },
     {
       "basename": "ART",
@@ -43,10 +71,6 @@
     {
       "basename": "目录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md"
-    },
-    {
-      "basename": "2026-03-16 周一",
-      "path": "1.工作流/10.日记文件/2026-03-16 周一.md"
     },
     {
       "basename": "技巧--构造变上限积分",
@@ -145,14 +169,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md"
     },
     {
-      "basename": "基础阶段（8-14）3月第周周报",
-      "path": "1.工作流/10.日记文件/基础阶段（8-14）3月第周周报.md"
-    },
-    {
-      "basename": "基础阶段（1-7）3月第一周周报",
-      "path": "1.工作流/10.日记文件/基础阶段（1-7）3月第一周周报.md"
-    },
-    {
       "basename": "2026-03-14 周六",
       "path": "1.工作流/10.日记文件/2026-03-14 周六.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "绘图记录",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/绘图记录.md"
-    },
-    {
-      "basename": "04Transformer的缺陷及改进",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/04Transformer的缺陷及改进.md"
-    },
-    {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
-    },
-    {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
-      "basename": "01为什么需要Transformer：从“词”的编码到“序列”的革命",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/01为什么需要Transformer：从“词”的编码到“序列”的革命.md"
     }
   ],
   "omittedPaths": [],
