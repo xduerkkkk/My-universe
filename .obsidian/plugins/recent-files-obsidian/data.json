@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "辨析--多级索引思想",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md"
+    },
+    {
       "basename": "01视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
+    },
+    {
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md"
     },
     {
       "basename": "ART",
@@ -25,24 +41,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md"
     },
     {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md"
-    },
-    {
       "basename": "目录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
-    },
-    {
       "basename": "2026-03-16 周一",
       "path": "1.工作流/10.日记文件/2026-03-16 周一.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md"
     },
     {
       "basename": "技巧--构造变上限积分",
@@ -195,10 +199,6 @@
     {
       "basename": "01为什么需要Transformer：从“词”的编码到“序列”的革命",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/01为什么需要Transformer：从“词”的编码到“序列”的革命.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "4.不常用/模板文件/日记模板.md"
     }
   ],
   "omittedPaths": [],

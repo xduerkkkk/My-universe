@@ -58,6 +58,7 @@
           {
             "id": "a0c5d88cb8a22d3c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +66,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01视频"
             }
+          },
+          {
+            "id": "2f55fd5f63b27c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "辨析--多级索引思想"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频 的大纲"
+              "title": "辨析--多级索引思想 的大纲"
             }
           },
           {
@@ -277,8 +293,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a0c5d88cb8a22d3c",
+  "active": "2f55fd5f63b27c06",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "assets/image/01视频-1773644524578.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/虚拟文件系统.md",
@@ -286,12 +308,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/文件的概念.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
     "1.工作流/10.日记文件/2026-03-16 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "assets/image/书籍与例题-1773632445970.jpeg",
     "assets/image/书籍与例题-1773632419297.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
@@ -316,7 +334,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--常用放缩.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--定积分.md",
     "assets/image/题--积分计算-1773625048876.jpeg",
-    "assets/image/题--积分计算-1773625040854.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程",
@@ -326,7 +343,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "未命名.canvas",
