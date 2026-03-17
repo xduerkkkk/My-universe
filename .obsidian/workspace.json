@@ -72,51 +72,35 @@
             }
           },
           {
-            "id": "0ff66c650c8d858e",
+            "id": "75379b0e852645e3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "02王道题"
+              "title": "题目--已知特解反推方程"
             }
           },
           {
-            "id": "1fd1dd83d9064916",
+            "id": "23ac9851fef5d37a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/21.AI世界/02深度学习/DLFC/模型剪枝.md",
+                "file": "1.工作流/10.日记文件/2026-03-16 周一.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模型剪枝"
-            }
-          },
-          {
-            "id": "ecf8235efa12b6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/31. 我的项目/项目三，知识图谱/知识图谱项目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "知识图谱项目"
+              "title": "2026-03-16 周一"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/21.AI世界/02深度学习/DLFC/模型剪枝.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "模型剪枝 的大纲"
+              "title": "书籍与例题 的大纲"
             }
           },
           {
@@ -323,34 +307,37 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1fd1dd83d9064916",
+  "active": "a8e8b772bffa92c2",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
-    "3.创造物/31. 我的项目/项目三，知识图谱/知识图谱项目.md",
-    "3.创造物/31. 我的项目/项目三，知识图谱/知识图谱介绍.md",
-    "2.知识库/21.AI世界/02深度学习/DLFC/模型剪枝.md",
-    "assets/image/模型剪枝-1773744240410.jpeg",
-    "2.知识库/21.AI世界/02深度学习/DLFC/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "assets/image/书籍与例题-1773752093243.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
+    "1.工作流/10.日记文件/2026-03-16 周一.md",
     "1.工作流/10.日记文件/2026-03-17 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "assets/image/02王道题-1773738680631.jpeg",
-    "assets/image/辨析-1773738270720.jpeg",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "assets/image/题--多级索引计算题-1773749902901.jpeg",
+    "assets/image/02王道题-1773749894129.jpeg",
+    "assets/image/02王道题-1773749724253.jpeg",
+    "assets/image/02王道题-1773748794152.jpeg",
+    "2.知识库/21.AI世界/02深度学习/DLFC/模型剪枝.md",
+    "assets/image/模型剪枝-1773746417993.jpeg",
+    "assets/image/模型剪枝-1773746412479.jpeg",
+    "2.知识库/21.AI世界/02深度学习/DLFC/assets/剪枝后.png",
+    "assets/image/模型剪枝-1773746371904.jpeg",
+    "assets/image/模型剪枝-1773746322571.jpeg",
+    "assets/image/模型剪枝-1773746318823.jpeg",
+    "3.创造物/31. 我的项目/项目三，知识图谱/知识图谱项目.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
+    "3.创造物/31. 我的项目/项目三，知识图谱/知识图谱介绍.md",
+    "2.知识库/21.AI世界/02深度学习/DLFC/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
-    "assets/image/02王道题-1773737260824.jpeg",
-    "assets/image/02王道题-1773732868309.jpeg",
-    "assets/image/02王道题-1773732541401.jpeg",
-    "assets/image/02王道题-1773730773011.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-    "assets/image/题目--已知特解反推方程-1773719631980.jpeg",
-    "assets/image/书籍与例题-1773719028100.jpeg",
-    "assets/image/书籍与例题-1773719020209.jpeg",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "1.工作流/10.日记文件/2026-03-16 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
@@ -361,9 +348,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/虚拟文件系统.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/文件系统挂载.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/文件的概念.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
