@@ -40,79 +40,24 @@
             }
           },
           {
-            "id": "05f39aab3c8aa418",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "53981465dcae2ba9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01视频"
-            }
-          },
-          {
-            "id": "be63e7fc51772b5d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
-            }
-          },
-          {
-            "id": "b3ff9bf0ca855eaa",
+            "id": "9fb0cd9532b17472",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
-                "mode": "source",
-                "source": false
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
+                "viewState": {
+                  "x": 113.12805931535125,
+                  "y": -91.94088316729852,
+                  "zoom": -0.0949191308733872
+                }
               },
-              "icon": "lucide-file",
-              "title": "辨析--逻辑索引 vs 物理索引 vs FAT 表"
-            }
-          },
-          {
-            "id": "330621c77a28e8e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-16 19.52.17.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw 的大纲"
+              "title": "2026-03-19 周四 的大纲"
             }
           },
           {
@@ -319,21 +264,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "be63e7fc51772b5d",
+  "active": "c4e646b58ea1b4b3",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
+    "1.工作流/10.日记文件/2026-03-19 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--i结点与目录项.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
-    "1.工作流/10.日记文件/2026-03-19 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
@@ -349,14 +298,9 @@
     "assets/image/习题与1000题-1773885349824.jpeg",
     "assets/image/习题与1000题-1773883619268.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
-    "1.工作流/10.日记文件/2026-03-18 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
     "assets/image/技巧--看穿换元-1773842207889.jpeg",
     "assets/image/习题与1000题-1773842202433.jpeg",
     "assets/image/习题与1000题-1773842168146.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "assets/image/习题与1000题-1773840079845.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
