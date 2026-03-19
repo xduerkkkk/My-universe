@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"cf7788e2a237275c","x":-240,"y":-420,"width":190,"height":191,"type":"text","text":"# 可分离微分\n标准形式：\n$$y' = 2xy$$"},
+		{"id":"13fcf15bb4717a6d","x":-435,"y":-42,"width":195,"height":100,"type":"text","text":"齐次方程，令 **$u = \\frac{y}{x}$**：\n$$xy' = x + y$$"},
+		{"id":"18a736b738301183","x":-220,"y":-64,"width":250,"height":156,"type":"text","text":"整体换元，$x$ 和 $y$ 被加减号绑在一起，还被套在括号、平方、或者其他函数里\n$$y' = (x+y)^2$$\n"},
+		{"id":"e5f4863cd693200b","x":80,"y":-92,"width":250,"height":213,"type":"text","text":"凑微分 ：看到特定的 $xdx$、$ydy$、$xdy$、$ydx$ 组合\n- $xdy + ydx = d(xy)$\n- $xdy - ydx = x^2 d(\\frac{y}{x})$\n- $xdx + ydy = \\frac{1}{2} d(x^2+y^2)$"},
+		{"id":"ecb065304c8b89e3","x":82,"y":-580,"width":258,"height":280,"type":"text","text":"视角切换：$y$ 被套在复杂的式子里（比如 $\\ln y, y^2, e^y$），但 $x$ 是孤零零的一次项。\n\n令 $x' = \\frac{dx}{dy}$\n\n$$\\frac{dy}{dx} = \\frac{1}{x + y^2}$$\n\n$$\\frac{dx}{dy} = x + y^2$$\n"}
+	],
+	"edges":[
+		{"id":"f76de697cefd2e18","fromNode":"cf7788e2a237275c","fromSide":"bottom","toNode":"13fcf15bb4717a6d","toSide":"top"},
+		{"id":"e2e050aa88357cf1","fromNode":"cf7788e2a237275c","fromSide":"bottom","toNode":"18a736b738301183","toSide":"top","label":"换元"},
+		{"id":"833703b9942f9332","fromNode":"cf7788e2a237275c","fromSide":"bottom","toNode":"e5f4863cd693200b","toSide":"top"}
+	]
+}

@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "a2f9ce304d69d31c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "关系数据库"
-            }
-          },
-          {
             "id": "c4e646b58ea1b4b3",
             "type": "leaf",
             "pinned": true,
@@ -88,21 +72,54 @@
             }
           },
           {
-            "id": "021710ae8bec9a96",
+            "id": "4ba1ada75a4adb84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
+                "viewState": {
+                  "x": 332.3492232674249,
+                  "y": -86.89723314848891,
+                  "zoom": -0.8888888346354168
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "2e764bd13448b0c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技巧--构造变上限积分"
+              "title": "技巧--看穿换元"
+            }
+          },
+          {
+            "id": "cb564ec8aac5335c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技巧--看穿换元"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-19 周四 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -309,16 +326,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c4e646b58ea1b4b3",
+  "active": "4ba1ada75a4adb84",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
-    "assets/image/习题与1000题-1773886565913.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/2026-03-19 周四.md",
+    "assets/image/习题与1000题-1773889854146.jpeg",
+    "assets/image/习题与1000题-1773889436205.jpeg",
+    "1.工作流/10.日记文件/2026-03-18 周三 (conflict 2026-03-18-23-25-52).md",
+    "assets/image/习题与1000题-1773886565913.jpeg",
     "assets/image/习题与1000题-1773885351210.jpeg",
     "assets/image/习题与1000题-1773885349824.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
-    "1.工作流/10.日记文件/2026-03-19 周四.md",
     "assets/image/习题与1000题-1773883619268.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
@@ -331,11 +355,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
     "assets/image/习题与1000题-1773840079845.jpeg",
-    "assets/image/习题与1000题-1773837206859.jpeg",
     "2.知识库/24.工程实践/Prompt大全.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/24.工程实践/conda环境.md",
     "2.知识库/24.工程实践/pytorch环境.md",
     "2.知识库/24.工程实践/代理.md",
@@ -344,9 +365,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
-    "assets/image/02王道题-1773825933439.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
     "2.知识库/21.AI世界/02深度学习/DLFC/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/assets",
@@ -364,7 +382,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas",
     "2.知识卡片/未命名.canvas",
-    "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas",
-    "未命名 3.canvas"
+    "1.工作流/10.日记文件/01_25年下半年/25年8月/未命名.canvas"
   ]
 }
