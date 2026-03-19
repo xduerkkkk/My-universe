@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
+                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2026-03-19 周四 的大纲"
             }
           },
           {
@@ -326,10 +326,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4ba1ada75a4adb84",
+  "active": "c4e646b58ea1b4b3",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
