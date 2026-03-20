@@ -24,69 +24,37 @@
             }
           },
           {
-            "id": "c4e646b58ea1b4b3",
+            "id": "d060ab262cb919d2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
+                "file": "1.工作流/10.日记文件/2026-03-20 周五.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-19 周四"
+              "title": "2026-03-20 周五"
             }
           },
           {
-            "id": "7622ae5745b3d294",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "书籍与例题"
-            }
-          },
-          {
-            "id": "4eeaef92e108a144",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "习题与1000题"
-            }
-          },
-          {
-            "id": "a4a6fde33da7b2ef",
+            "id": "1373364f08dee33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-19 周四"
+              "title": "笔记"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-19 周四 的大纲"
+              "title": "笔记 的大纲"
             }
           },
           {
@@ -293,15 +261,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a4a6fde33da7b2ef",
+  "active": "1373364f08dee33d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式",
+    "1.工作流/10.日记文件/2026-03-20 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/求极限.md",
+    "assets/image/求极限-1773969759390.jpeg",
+    "assets/image/求极限-1773969673569.jpeg",
+    "assets/image/求极限-1773969523395.jpeg",
+    "assets/image/求极限-1773969154857.jpeg",
+    "assets/image/求极限-1773968894740.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-03-19 周四.md",
     "1.工作流/10.日记文件/2026-03-18 周三 (conflict 2026-03-18-23-25-52).md",
     "1.工作流/10.日记文件/2026-03-18 周三.md",
-    "1.工作流/10.日记文件/2026-03-19 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/assets/Pasted image 20260319223737.png",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
@@ -318,20 +299,10 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--看穿换元.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "assets/image/习题与1000题-1773889854146.jpeg",
     "assets/image/习题与1000题-1773889436205.jpeg",
     "assets/image/习题与1000题-1773886565913.jpeg",
     "assets/image/习题与1000题-1773885351210.jpeg",
-    "assets/image/习题与1000题-1773885349824.jpeg",
-    "assets/image/习题与1000题-1773883619268.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "assets/image/技巧--看穿换元-1773842207889.jpeg",
-    "assets/image/习题与1000题-1773842202433.jpeg",
-    "assets/image/习题与1000题-1773842168146.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
     "2.知识库/21.AI世界/02深度学习/DLFC/assets",
@@ -340,9 +311,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
