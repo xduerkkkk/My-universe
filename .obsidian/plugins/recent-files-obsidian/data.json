@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "资金管理",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md"
+    },
+    {
+      "basename": "英语六级冲刺",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
+    },
+    {
+      "basename": "寒假规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
+    },
+    {
+      "basename": "规划概览",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
+    },
+    {
+      "basename": "3月后",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md"
+    },
+    {
+      "basename": "我的序言",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
+    },
+    {
+      "basename": "我的bedrock",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
+    },
+    {
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
+    },
+    {
+      "basename": "考研英语时间线",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
+    },
+    {
+      "basename": "Bed-Rock 毕业思考",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
+    },
+    {
+      "basename": "视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
+    },
+    {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
     },
     {
       "basename": "2026-03-20 周五",
       "path": "1.工作流/10.日记文件/2026-03-20 周五.md"
+    },
+    {
+      "basename": "康凯",
+      "path": "4.不常用/002个人信息/康凯.md"
     },
     {
       "basename": "未命名",
@@ -139,66 +199,6 @@
     {
       "basename": "极限的本质",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限的本质.md"
-    },
-    {
-      "basename": "函数的连续性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md"
-    },
-    {
-      "basename": "高数--极限",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf"
-    },
-    {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
-    },
-    {
-      "basename": "conda环境",
-      "path": "2.知识库/24.工程实践/conda环境.md"
-    },
-    {
-      "basename": "pytorch环境",
-      "path": "2.知识库/24.工程实践/pytorch环境.md"
-    },
-    {
-      "basename": "代理",
-      "path": "2.知识库/24.工程实践/代理.md"
-    },
-    {
-      "basename": "工程化问题",
-      "path": "2.知识库/24.工程实践/工程化问题.md"
-    },
-    {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
-    },
-    {
-      "basename": "题--页面置换定位",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
-    },
-    {
-      "basename": "辨析--空闲区管理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md"
-    },
-    {
-      "basename": "记忆--变量的字节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--变量的字节.md"
-    },
-    {
-      "basename": "记忆--多道程序设计考点",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md"
-    },
-    {
-      "basename": "记忆--程序的链接",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md"
-    },
-    {
-      "basename": "02积分几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md"
-    },
-    {
-      "basename": "题--积分计算",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md"
     }
   ],
   "omittedPaths": [],
