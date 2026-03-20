@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-english 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -309,8 +309,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5af361b88d0ee1d8",
+  "active": "e2376ca716593cde",
   "lastOpenFiles": [
+    "assets/image/王道题-1773997906733.jpeg",
+    "assets/image/王道题-1773997816653.jpeg",
+    "assets/image/王道题-1773997255502.jpeg",
+    "assets/image/王道题-1773997147473.jpeg",
+    "assets/image/王道题-1773997050234.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md",
@@ -335,10 +341,6 @@
     "assets/image/笔记-1773978022665.jpeg",
     "assets/image/笔记-1773977896132.jpeg",
     "assets/image/笔记-1773977843254.jpeg",
-    "assets/image/笔记-1773976697158.jpeg",
-    "assets/image/笔记-1773976495854.jpeg",
-    "assets/image/笔记-1773974343192.jpeg",
-    "assets/image/笔记-1773974295803.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式",
@@ -352,8 +354,6 @@
     "1.工作流/10.日记文件/2026-03-18 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
     "2.知识库/21.AI世界/02深度学习/DLFC/assets",
