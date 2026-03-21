@@ -58,6 +58,7 @@
           {
             "id": "be87a704bd34c6a4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +66,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "数值数据的表示"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
+                "file": "1.工作流/10.日记文件/2026-03-21 周六.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数值数据的表示 的大纲"
+              "title": "2026-03-21 周六 的大纲"
             }
           },
           {
@@ -277,15 +279,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "be87a704bd34c6a4",
+  "active": "8d181ee77f4e8d8a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
+    "3.创造物/31. 我的项目/mocha.md",
+    "assets/image/mocha-1774097388683.jpeg",
+    "assets/image/mocha-1774097378597.jpeg",
+    "assets/image/mocha-1774097368590.jpeg",
+    "1.工作流/10.日记文件/2026-03-21 周六.md",
+    "assets/image/mocha-1774095506230.jpeg",
+    "3.创造物/31. 我的项目/assets",
     "assets/image/数值数据的表示-1774086016373.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "1.工作流/10.日记文件/2026-03-21 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/记忆--初始化.md",
@@ -294,11 +302,6 @@
     "assets/image/视频笔记-1774078839886.jpeg",
     "assets/image/视频笔记-1774077383810.jpeg",
     "assets/image/视频笔记-1774076067403.jpeg",
-    "assets/image/笔记-1774062783425.jpeg",
-    "assets/image/笔记-1774060435144.jpeg",
-    "assets/image/笔记-1774060190158.jpeg",
-    "assets/image/笔记-1774058923583.jpeg",
-    "assets/image/笔记-1774058711925.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/求极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数--张宇基础30讲.md",
@@ -316,7 +319,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md",
     "0.核心/00.规划(Plan)/0.North_Star/我的序言.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/assets",
@@ -325,7 +327,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
-    "2.知识库/21.AI世界/02深度学习/DLFC/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
