@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "数值数据的表示",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
+    },
+    {
       "basename": "关系数据库",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md"
     },
     {
       "basename": "2026-03-21 周六",
       "path": "1.工作流/10.日记文件/2026-03-21 周六.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
     },
     {
       "basename": "视频笔记",
@@ -191,14 +199,6 @@
     {
       "basename": "题--多级索引计算题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/未命名.md"
-    },
-    {
-      "basename": "记忆--磁盘初始化",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md"
     }
   ],
   "omittedPaths": [],
