@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
+      "basename": "关系数据库",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md"
     },
     {
       "basename": "2026-03-21 周六",
@@ -15,6 +11,18 @@
     {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
+    },
+    {
+      "basename": "视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
+    },
+    {
+      "basename": "记忆--初始化",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/记忆--初始化.md"
     },
     {
       "basename": "求极限",
@@ -51,10 +59,6 @@
     {
       "basename": "00.视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
-    },
-    {
-      "basename": "关系数据库",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md"
     },
     {
       "basename": "02-english",
@@ -195,10 +199,6 @@
     {
       "basename": "记忆--磁盘初始化",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
     }
   ],
   "omittedPaths": [],

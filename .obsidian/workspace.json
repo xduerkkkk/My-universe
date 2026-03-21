@@ -56,35 +56,17 @@
             }
           },
           {
-            "id": "ffcec61371ad5238",
+            "id": "5b55c2d1557ff9b5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "视频笔记"
-            }
-          },
-          {
-            "id": "e2376ca716593cde",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
+              "title": "关系数据库"
             }
           }
         ],
@@ -171,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "视频笔记 的大纲"
+              "title": "关系数据库 的大纲"
             }
           },
           {
@@ -295,27 +277,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ffcec61371ad5238",
+  "active": "5b55c2d1557ff9b5",
   "lastOpenFiles": [
-    "assets/image/视频笔记-1774076067403.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "1.工作流/10.日记文件/2026-03-21 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/记忆--初始化.md",
+    "assets/image/王道题-1774082289975.jpeg",
+    "assets/image/视频笔记-1774082231425.jpeg",
+    "assets/image/视频笔记-1774078839886.jpeg",
+    "assets/image/视频笔记-1774077383810.jpeg",
+    "assets/image/视频笔记-1774076067403.jpeg",
     "assets/image/笔记-1774062783425.jpeg",
     "assets/image/笔记-1774060435144.jpeg",
     "assets/image/笔记-1774060190158.jpeg",
     "assets/image/笔记-1774058923583.jpeg",
     "assets/image/笔记-1774058711925.jpeg",
-    "assets/image/笔记-1774058590434.jpeg",
-    "assets/image/笔记-1774058148359.jpeg",
-    "assets/image/笔记-1774057940258.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/求极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
-    "assets/image/求极限-1774056838720.jpeg",
-    "assets/image/求极限-1774056478938.jpeg",
     "1.工作流/10.日记文件/2026-03-20 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
