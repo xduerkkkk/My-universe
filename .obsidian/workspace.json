@@ -56,23 +56,37 @@
             }
           },
           {
-            "id": "13a6c8edcbb6519b",
+            "id": "e2ecfbdc4b56cf62",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "数值数据的表示"
+            }
+          },
+          {
+            "id": "61fefcc5a2c808fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王道题"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "习题与1000题 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -279,8 +293,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b7b82e93ed8c68c",
+  "active": "61fefcc5a2c808fb",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "1.工作流/10.日记文件/2026-03-23 周一.md",
+    "assets/image/数值数据的表示-1774248781747.jpeg",
+    "assets/image/数值数据的表示-1774248619128.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
     "assets/image/习题与1000题-1774237897454.jpeg",
     "assets/image/习题与1000题-1774237581277.jpeg",
     "assets/image/习题与1000题-1774237577894.jpeg",
@@ -289,12 +309,7 @@
     "assets/image/习题与1000题-1774236035842.jpeg",
     "assets/image/习题与1000题-1774236021122.jpeg",
     "assets/image/习题与1000题-1774235974917.jpeg",
-    "assets/image/习题与1000题-1774234728658.jpeg",
-    "1.工作流/10.日记文件/2026-03-23 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
-    "assets/image/习题与1000题-1774234083529.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
-    "assets/image/习题与1000题-1774233777710.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/assets",
@@ -308,7 +323,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "1.工作流/10.日记文件/2026-03-21 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
     "1.工作流/10.日记文件/2026-03-20 周五.md",
     "3.创造物/31. 我的项目/mocha.md",
     "3.创造物/31. 我的项目/assets",
