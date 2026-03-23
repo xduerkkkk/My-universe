@@ -24,21 +24,55 @@
             }
           },
           {
-            "id": "2fd43c6f81bafa26",
+            "id": "7abbb2cdc29864c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+                "file": "1.工作流/10.日记文件/2026-03-23 周一.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "基础阶段（15-21）3月周报"
+              "title": "2026-03-23 周一"
+            }
+          },
+          {
+            "id": "8b7b82e93ed8c68c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "习题与1000题"
+            }
+          },
+          {
+            "id": "13a6c8edcbb6519b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "笔记"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础阶段（15-21）3月周报 的大纲"
+              "title": "习题与1000题 的大纲"
             }
           },
           {
@@ -245,15 +279,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2fd43c6f81bafa26",
+  "active": "8b7b82e93ed8c68c",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/基础阶段（8-14）3月第周周报.md",
-    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+    "assets/image/习题与1000题-1774234083529.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
+    "assets/image/习题与1000题-1774233777710.jpeg",
+    "assets/image/习题与1000题-1774230806525.jpeg",
+    "1.工作流/10.日记文件/2026-03-23 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
+    "assets/image/泰勒-1774229496036.jpeg",
+    "assets/image/泰勒-1774229405373.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
+    "assets/image/泰勒-1774228485441.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "1.工作流/10.日记文件/26年上半年/未命名/desktop.ini",
+    "1.工作流/10.日记文件/26年上半年/26年3月",
+    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+    "1.工作流/10.日记文件/基础阶段（8-14）3月第周周报.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "1.工作流/10.日记文件/2026-03-21 周六.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
     "1.工作流/10.日记文件/2026-03-20 周五.md",
     "3.创造物/31. 我的项目/mocha.md",
@@ -269,31 +318,16 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/记忆--初始化.md",
-    "assets/image/王道题-1774082289975.jpeg",
-    "assets/image/视频笔记-1774082231425.jpeg",
-    "assets/image/视频笔记-1774078839886.jpeg",
-    "assets/image/视频笔记-1774077383810.jpeg",
-    "assets/image/视频笔记-1774076067403.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/求极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
