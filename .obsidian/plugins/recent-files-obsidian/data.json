@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "有符号无符号互相转换",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md"
+    },
+    {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "地址及内存分配",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
     }
   ],
   "omittedPaths": [],
