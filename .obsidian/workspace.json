@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "61fefcc5a2c808fb",
+            "id": "b30a1f1f3de0bbd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,23 +84,9 @@
               "icon": "lucide-file",
               "title": "有符号无符号互相转换"
             }
-          },
-          {
-            "id": "c7f43e2b0c54befd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
+                "file": "1.工作流/10.日记文件/2026-03-23 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "有符号无符号互相转换 的大纲"
+              "title": "2026-03-23 周一 的大纲"
             }
           },
           {
@@ -307,26 +293,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "61fefcc5a2c808fb",
+  "active": "7abbb2cdc29864c5",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-03-23 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
     "assets/image/有符号无符号互相转换-1774257765762.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/数值数据的表示.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
     "assets/image/有符号无符号互相转换-1774257352189.jpeg",
     "assets/image/有符号无符号互相转换-1774257350819.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片",
     "assets/image/王道题-1774256464614.jpeg",
-    "1.工作流/10.日记文件/2026-03-23 周一.md",
     "assets/image/数值数据的表示-1774248781747.jpeg",
     "assets/image/数值数据的表示-1774248619128.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
     "assets/image/习题与1000题-1774237897454.jpeg",
     "assets/image/习题与1000题-1774237581277.jpeg",
     "assets/image/习题与1000题-1774237577894.jpeg",
     "assets/image/习题与1000题-1774236911013.jpeg",
-    "assets/image/习题与1000题-1774236056296.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
