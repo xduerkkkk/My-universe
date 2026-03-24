@@ -40,21 +40,23 @@
             }
           },
           {
-            "id": "a046922a3846cc46",
+            "id": "abe6aef5d1eabe8c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "有符号无符号互相转换"
+              "title": "两类溢出"
             }
           },
           {
-            "id": "f1b8a95bcd49268b",
+            "id": "5a186fd856ea162f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,21 +68,9 @@
               "icon": "lucide-file",
               "title": "笔记"
             }
-          },
-          {
-            "id": "d7dbc0e63ce4c707",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-24 16.59.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-24 16.59.22.excalidraw"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-24 16.59.22.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-24 16.59.22.excalidraw 的大纲"
+              "title": "两类溢出 的大纲"
             }
           },
           {
@@ -287,28 +277,32 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7dbc0e63ce4c707",
+  "active": "abe6aef5d1eabe8c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted Image 20260324171230_565.png",
+    "assets/image/两类溢出-1774357247298.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "assets/image/两类溢出-1774356368239.jpeg",
+    "1.工作流/10.日记文件/2026-03-24 周二.md",
+    "assets/image/两类溢出-1774355588562.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "assets/image/两类溢出-1774355551491.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
+    "assets/image/笔记-1774354731359.jpeg",
+    "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+    "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-24 16.59.22.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted Image 20260324171230_565.png",
     "assets/image/笔记-1774341993250.jpeg",
     "assets/image/笔记-1774341577537.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "1.工作流/10.日记文件/2026-03-24 周二.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
     "assets/image/笔记-1774337166352.jpeg",
     "assets/image/笔记-1774335165724.jpeg",
     "assets/image/笔记-1774334875561.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/视频.md",
-    "assets/image/视频-1774324134697.jpeg",
-    "assets/image/视频-1774324026100.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
-    "assets/image/泰勒-1774315574734.jpeg",
-    "assets/image/泰勒-1774315525562.jpeg",
-    "assets/image/泰勒-1774315358945.jpeg",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-23 周一.md",
     "1.工作流/10.日记文件/26年上半年/26年4月",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-21 周六.md",
@@ -330,11 +324,7 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-20 周五.md",
-    "3.创造物/31. 我的项目/mocha.md",
     "3.创造物/31. 我的项目/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
