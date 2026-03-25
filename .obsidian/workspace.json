@@ -77,16 +77,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频"
+              "title": "笔记"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-25 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-25 周三 的大纲"
+              "title": "笔记 的大纲"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-25 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2026-03-25 周三 的反向链接列表"
+              "title": "笔记 的反向链接列表"
             }
           },
           {
@@ -293,27 +293,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "62fcdd2ddc5fb726",
+  "active": "169f33a569345f16",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/视频.md",
+    "assets/image/笔记-1774410208131.jpeg",
+    "assets/image/笔记-1774410193742.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
+    "1.工作流/10.日记文件/2026-03-25 周三.md",
+    "assets/image/视频-1774408212808.jpeg",
+    "assets/image/视频-1774408144415.jpeg",
+    "assets/image/视频-1774408054342.jpeg",
+    "assets/image/视频-1774407645328.jpeg",
+    "assets/image/视频-1774407401948.jpeg",
     "assets/image/视频-1774404110718.jpeg",
     "assets/image/视频-1774403045247.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "assets/image/泰勒-1774401457601.jpeg",
     "assets/image/泰勒-1774401417719.jpeg",
-    "assets/image/泰勒-1774401154405.jpeg",
-    "1.工作流/10.日记文件/2026-03-25 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
     "1.工作流/10.日记文件/2026-03-24 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
-    "assets/image/两类溢出-1774357247298.jpeg",
-    "assets/image/两类溢出-1774356368239.jpeg",
-    "assets/image/两类溢出-1774355588562.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "assets/image/两类溢出-1774355551491.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
-    "assets/image/笔记-1774354731359.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
     "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
@@ -328,7 +330,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/assets",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限",

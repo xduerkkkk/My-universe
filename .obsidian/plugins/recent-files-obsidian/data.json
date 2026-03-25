@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-25 周三",
-      "path": "1.工作流/10.日记文件/2026-03-25 周三.md"
-    },
-    {
-      "basename": "视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/视频.md"
-    },
-    {
       "basename": "泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
+    },
+    {
+      "basename": "2026-03-25 周三",
+      "path": "1.工作流/10.日记文件/2026-03-25 周三.md"
     },
     {
       "basename": "两类溢出",
@@ -71,10 +75,6 @@
     {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/习题与1000题.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md"
     },
     {
       "basename": "极限--张宇基础30讲",
