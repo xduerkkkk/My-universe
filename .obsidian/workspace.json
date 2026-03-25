@@ -70,34 +70,6 @@
               "icon": "lucide-file",
               "title": "王道题"
             }
-          },
-          {
-            "id": "b21bf59289b7b002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "笔记"
-            }
-          },
-          {
-            "id": "630bbd784088109f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "两类溢出"
-            }
           }
         ],
         "currentTab": 3
@@ -223,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "王道题 的反向链接列表"
+              "title": "2001 的反向链接列表"
             }
           },
           {
@@ -309,11 +281,12 @@
   },
   "active": "21f340389db5ceef",
   "lastOpenFiles": [
-    "assets/image/王道题-1774432300108.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "1.工作流/10.日记文件/2026-03-25 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
-    "1.工作流/10.日记文件/2026-03-25 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "assets/image/王道题-1774432300108.jpeg",
     "assets/image/王道题-1774431313917.jpeg",
     "assets/image/王道题-1774431110584.jpeg",
     "assets/image/王道题-1774430992540.jpeg",
@@ -333,7 +306,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
     "assets/image/两类溢出-1774424562490.jpeg",
     "assets/image/两类溢出-1774423875308.jpeg",
-    "assets/image/笔记-1774422830017.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/行列式/笔记.md",
