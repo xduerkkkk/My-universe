@@ -13,12 +13,40 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md"
     },
     {
-      "basename": "问题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
-    },
-    {
       "basename": "2026-03-25 周三",
       "path": "1.工作流/10.日记文件/2026-03-25 周三.md"
+    },
+    {
+      "basename": "记忆--变量的字节",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md"
+    },
+    {
+      "basename": "记忆--程序的链接",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md"
+    },
+    {
+      "basename": "记忆--访存次数",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md"
+    },
+    {
+      "basename": "记忆--各个分配方法的优点",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md"
+    },
+    {
+      "basename": "辨析--重定位、MMU等名词",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md"
+    },
+    {
+      "basename": "辨析--都有哪些可共享",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md"
+    },
+    {
+      "basename": "辨析--xx上限",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
     },
     {
       "basename": "泰勒",
@@ -167,38 +195,6 @@
     {
       "basename": "资金管理",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md"
-    },
-    {
-      "basename": "英语六级冲刺",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
-    },
-    {
-      "basename": "寒假规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
-    },
-    {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "3月后",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md"
-    },
-    {
-      "basename": "我的序言",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "我的bedrock",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
-    },
-    {
-      "basename": "bedrock后半程",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
     }
   ],
   "omittedPaths": [],
