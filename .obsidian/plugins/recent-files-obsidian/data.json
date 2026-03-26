@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md"
+    },
+    {
+      "basename": "2026-03-26 周四",
+      "path": "1.工作流/10.日记文件/2026-03-26 周四.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/未命名 1.base"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/未命名.base"
+    },
+    {
       "basename": "两类溢出",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "mocha",
       "path": "3.创造物/31. 我的项目/mocha.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md"
     },
     {
       "basename": "2001",
@@ -59,10 +75,6 @@
     {
       "basename": "泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md"
     },
     {
       "basename": "笔记",
@@ -187,14 +199,6 @@
     {
       "basename": "02-english",
       "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "资金管理",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md"
     }
   ],
   "omittedPaths": [],
