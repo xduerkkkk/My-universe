@@ -72,19 +72,17 @@
             }
           },
           {
-            "id": "9762d13d28a0a62b",
+            "id": "30957171ca3c190c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-26 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/习题与1000题.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-26 周四"
+              "title": "习题与1000题"
             }
           }
         ],
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-26 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/习题与1000题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-26 周四 的大纲"
+              "title": "习题与1000题 的大纲"
             }
           },
           {
@@ -295,25 +293,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9762d13d28a0a62b",
+  "active": "30957171ca3c190c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "assets/image/习题与1000题-1774580404191.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "assets/image/习题与1000题-1774579861995.jpeg",
+    "assets/image/习题与1000题-1774579183766.jpeg",
+    "assets/image/习题与1000题-1774578217992.jpeg",
+    "assets/image/习题与1000题-1774577164399.jpeg",
     "1.工作流/10.日记文件/2026-03-26 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
+    "assets/image/等价无穷小-1774574828032.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
     "assets/image/泰勒-1774531722148.jpeg",
     "assets/image/泰勒-1774531707826.jpeg",
     "assets/image/泰勒-1774531309494.jpeg",
     "assets/image/泰勒-1774531281324.jpeg",
     "assets/image/泰勒-1774531265828.jpeg",
-    "assets/image/笔记-1774530570646.jpeg",
-    "assets/image/笔记-1774530480549.jpeg",
-    "assets/image/笔记-1774530477878.jpeg",
-    "assets/image/笔记-1774530323399.jpeg",
-    "assets/image/笔记-1774529138572.jpeg",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-21 周六.md",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-20 周五.md",
     "1.工作流/10.日记文件/26年上半年/26年3月/2026-03-19 周四.md",
@@ -331,11 +333,7 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵",
     "1.工作流/10.日记文件/26年上半年/26年4月",
