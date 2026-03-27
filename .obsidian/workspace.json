@@ -88,21 +88,39 @@
             }
           },
           {
-            "id": "0bd8f7a0db1484c2",
+            "id": "28e405b7a86e7992",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "王道题"
+              "title": "从0到1理解反向传播与自动微分"
+            }
+          },
+          {
+            "id": "0082d65a37fd910e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "神经网络"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "file": "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "神经网络 的大纲"
             }
           },
           {
@@ -309,14 +327,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0bd8f7a0db1484c2",
+  "active": "0082d65a37fd910e",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
+    "3.创造物/30.输出文章/AI/MLDL/神经网络.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+    "1.工作流/10.日记文件/2026-03-27 周五.md",
+    "3.创造物/30.输出文章/AI/MLDL/临时草稿.md",
+    "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md",
+    "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "assets/image/王道题-1774603329823.jpeg",
     "assets/image/笔记-1774601866513.jpeg",
     "assets/image/笔记-1774601860740.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
     "assets/image/王道题-1774601347653.jpeg",
-    "1.工作流/10.日记文件/2026-03-27 周五.md",
     "assets/image/笔记-1774599703024.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/笔记.md",
@@ -327,7 +351,6 @@
     "assets/image/习题与1000题-1774581242462.jpeg",
     "assets/image/习题与1000题-1774580404191.jpeg",
     "assets/image/习题与1000题-1774579861995.jpeg",
-    "assets/image/习题与1000题-1774579183766.jpeg",
     "1.工作流/10.日记文件/2026-03-26 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
@@ -344,10 +367,6 @@
     "1.工作流/10.日记文件/2026-03-25 周三.md",
     "3.创造物/31. 我的项目/mocha.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--字节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--程序的链接.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/矩阵",
