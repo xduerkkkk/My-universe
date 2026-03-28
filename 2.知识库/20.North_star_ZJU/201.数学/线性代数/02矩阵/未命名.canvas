@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"67e1727e877e623f","x":-219,"y":-303,"width":250,"height":60,"type":"text","text":"配方视角"},
+		{"id":"800c925c52a9206f","x":-364,"y":-173,"width":250,"height":60,"type":"text","text":"左乘，行配方"},
+		{"id":"b5201e53afe267ca","x":-48,"y":-173,"width":250,"height":60,"type":"text","text":"右乘，列配方"},
+		{"id":"0e347460bd64a36e","x":1060,"y":-303,"width":250,"height":60,"type":"text","text":"几何视角"},
+		{"id":"6aaa177f6211407f","x":1060,"y":-173,"width":250,"height":60,"type":"text","text":"左乘，改变基座标"},
+		{"id":"024f33a4e9bd6257","x":553,"y":-303,"width":250,"height":60,"type":"text","text":"点积视角"},
+		{"id":"edb823badbd1e85a","x":553,"y":-173,"width":250,"height":60,"type":"text","text":"信息的匹配/相关性"},
+		{"id":"3bb0357da9ca6970","x":520,"y":-20,"width":393,"height":180,"type":"text","text":"理解转置矩阵\n-  $A^TA$ 衡量了 $A$ 中**各个列（特征）之间的相关性/相似度**。\n-  $AA^T$ 衡量了 $A$ 中**各个行（样本或数据点）之间的相关性/相似度**"},
+		{"id":"e6b687f447307db3","x":-133,"y":-78,"width":123,"height":58,"type":"text","text":"理解"},
+		{"id":"917432ed37c5526c","x":-238,"y":70,"width":334,"height":94,"type":"text","text":"初等行变换/列变换：\n左乘/右乘稍微变化的单位矩阵"},
+		{"id":"6d03db1524c996d0","x":-509,"y":240,"width":270,"height":227,"type":"text","text":"可逆矩阵：\n满秩矩阵，假设为 A。\nPQ 为单位矩阵的变换\nPA 或 AQ一定能将 A 化为 E。\n\n记 P 或 Q 为 A 的逆\n\n"},
+		{"id":"0ab94d1901e1df91","x":77,"y":250,"width":335,"height":217,"type":"text","text":"等价矩阵：\n秩相等。\n假设 A、B 等价\n- 若都为满秩，一定有 PA=B 或 AQ=B\n- 若不满秩，一定有 PAQ=B\n"}
+	],
+	"edges":[
+		{"id":"93e23933fbe757fa","fromNode":"800c925c52a9206f","fromSide":"bottom","toNode":"e6b687f447307db3","toSide":"top"},
+		{"id":"ba272cb0bb6c7040","fromNode":"b5201e53afe267ca","fromSide":"bottom","toNode":"e6b687f447307db3","toSide":"top"},
+		{"id":"0c46d6ac1791d410","fromNode":"e6b687f447307db3","fromSide":"bottom","toNode":"917432ed37c5526c","toSide":"top"}
+	]
+}
