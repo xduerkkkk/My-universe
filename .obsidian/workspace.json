@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
+                "file": "1.工作流/10.日记文件/2026-03-28 周六.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "等价无穷小 的大纲"
+              "title": "2026-03-28 周六 的大纲"
             }
           },
           {
@@ -342,14 +342,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c54a6a83a1d874b5",
+  "active": "0ed6eb5e0338cba2",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
+    "assets/image/等价无穷小-1774702207985.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "assets/image/等价无穷小-1774701404174.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
     "1.工作流/10.日记文件/2026-03-28 周六.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/笔记.md",
     "assets/image/笔记-1774700335173.jpeg",
@@ -368,7 +369,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163811.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163544.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163512.png",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163408.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
@@ -384,7 +384,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/未命名 1.base",
