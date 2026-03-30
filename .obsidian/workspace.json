@@ -91,20 +91,6 @@
             }
           },
           {
-            "id": "087186a3fa31bbb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "记忆--逆操作的理解"
-            }
-          },
-          {
             "id": "c54a6a83a1d874b5",
             "type": "leaf",
             "pinned": true,
@@ -121,37 +107,37 @@
             }
           },
           {
-            "id": "1e3171ff31d3a2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "背单词相近词辨析2"
-            }
-          },
-          {
-            "id": "884936775efb295c",
+            "id": "e697e8f27ae19544",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
+                "file": "1.工作流/10.日记文件/基础阶段（22-28）.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "背单词相近词辨析3"
+              "title": "基础阶段（22-28）"
+            }
+          },
+          {
+            "id": "653aacece94bdf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础阶段（15-21）3月周报"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
+                "file": "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "背单词相近词辨析3 的大纲"
+              "title": "基础阶段（15-21）3月周报 的大纲"
             }
           },
           {
@@ -358,17 +344,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "884936775efb295c",
+  "active": "653aacece94bdf9d",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/基础阶段（22-28）.md",
+    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+    "1.工作流/10.日记文件/BedRock 0-50天总结.md",
+    "1.工作流/10.日记文件/2026-03-27 周五.md",
+    "1.工作流/10.日记文件/2026-03-25 周三.md",
+    "1.工作流/10.日记文件/2026-03-24 周二.md",
+    "1.工作流/10.日记文件/2026-03-23 周一.md",
+    "1.工作流/10.日记文件/基础阶段（8-14）3月第周周报.md",
+    "1.工作流/10.日记文件/2026-03-28 周六.md",
+    "1.工作流/10.日记文件/2026-03-26 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
-    "1.工作流/10.日记文件/2026-03-28 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
     "assets/image/等价无穷小-1774702207985.jpeg",
     "assets/image/等价无穷小-1774701404174.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
@@ -390,15 +385,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163544.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/assets/Pasted image 20260328163512.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
-    "2.知识库/22.算法/代码随想录-算法题/栈与队列/栈与队列 part02.md",
-    "2.知识库/22.算法/代码随想录-算法题/栈与队列/栈与队列 part01.md",
-    "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part03.md",
-    "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part02.md",
-    "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part01.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/未命名.base",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/assets",
