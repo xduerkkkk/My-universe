@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/笔记.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md"
+    },
+    {
+      "basename": "数组",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/数组.md"
     },
     {
       "basename": "2026-03-30 周一",
       "path": "1.工作流/10.日记文件/2026-03-30 周一.md"
+    },
+    {
+      "basename": "等价无穷小",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/笔记.md"
     },
     {
       "basename": "笔记",
@@ -23,10 +39,6 @@
     {
       "basename": "视频勘察",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/视频勘察.md"
-    },
-    {
-      "basename": "等价无穷小",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
     },
     {
       "basename": "2026-03-28 周六",
@@ -98,7 +110,7 @@
     },
     {
       "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/王道题.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md"
     },
     {
       "basename": "求极限基础",
@@ -110,7 +122,7 @@
     },
     {
       "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/绪论/笔记.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/笔记.md"
     },
     {
       "basename": "笔记",
@@ -187,18 +199,6 @@
     {
       "basename": "未命名",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
-    },
-    {
-      "basename": "笔记-1774410208131",
-      "path": "assets/image/笔记-1774410208131.jpeg"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
     }
   ],
   "omittedPaths": [],
