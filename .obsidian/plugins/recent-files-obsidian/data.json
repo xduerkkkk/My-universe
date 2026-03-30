@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
-    },
-    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md"
+    },
+    {
+      "basename": "基础概念",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md"
+    },
+    {
+      "basename": "算法题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题.md"
+    },
+    {
+      "basename": "算法题核心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题核心.md"
+    },
+    {
+      "basename": "反转链表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/反转链表.md"
+    },
+    {
+      "basename": "链表的typedef",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/链表的typedef.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/未命名.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
     },
     {
       "basename": "数组",
@@ -175,30 +199,6 @@
     {
       "basename": "栈与队列 part01",
       "path": "2.知识库/22.算法/代码随想录-算法题/栈与队列/栈与队列 part01.md"
-    },
-    {
-      "basename": "哈希表part03",
-      "path": "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part03.md"
-    },
-    {
-      "basename": "哈希表part02",
-      "path": "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part02.md"
-    },
-    {
-      "basename": "哈希表part01",
-      "path": "2.知识库/22.算法/代码随想录-算法题/哈希表/哈希表part01.md"
-    },
-    {
-      "basename": "Drawing 2026-03-28 14.56.21.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md"
-    },
-    {
-      "basename": "问题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
     }
   ],
   "omittedPaths": [],
