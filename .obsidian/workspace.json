@@ -100,9 +100,23 @@
               "icon": "lucide-file",
               "title": "01王道笔记"
             }
+          },
+          {
+            "id": "8b75d3ec65d20eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2001"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/栈与队列/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-03-31 周二.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-03-31 周二 的大纲"
             }
           },
           {
@@ -309,12 +323,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "301d4073f50adc57",
+  "active": "3f66667cd0e7daad",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/栈与队列/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/栈与队列/02王道题.md",
+    "assets/image/2026-03-31 周二-1774964933625.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
+    "assets/image/2001-1774963730977.jpeg",
+    "assets/image/2001-1774963314278.jpeg",
     "1.工作流/10.日记文件/2026-03-31 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/栈与队列/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/栈与队列/01王道笔记.md",
     "assets/image/01王道笔记-1774947526695.jpeg",
     "assets/image/01王道笔记-1774946375481.jpeg",
     "assets/image/01王道笔记-1774946365913.jpeg",
@@ -325,9 +345,7 @@
     "assets/image/02王道题-1774945233857.jpeg",
     "assets/image/02王道题-1774945071218.jpeg",
     "assets/image/02王道题-1774945064389.jpeg",
-    "assets/image/02王道题-1774944659653.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
-    "assets/image/02王道题-1774940382865.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/辨析“带头节点与不带”.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/书籍3.1&3.2定义、子空间.md",
@@ -344,13 +362,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题核心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/反转链表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/数组.md",
-    "1.工作流/10.日记文件/2026-03-28 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论",
