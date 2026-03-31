@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "fa0766ed87081e26",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-03-30 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-03-30 周一"
-            }
-          },
-          {
             "id": "d8a99861f95eef8f",
             "type": "leaf",
             "pinned": true,
@@ -185,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-30 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-30 周一 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -309,12 +293,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fa0766ed87081e26",
+  "active": "d8a99861f95eef8f",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-03-30 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
     "assets/image/等价无穷小-1774879234788.jpeg",
     "assets/image/等价无穷小-1774878767160.jpeg",
-    "1.工作流/10.日记文件/2026-03-30 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/辨析“带头节点与不带”.md",
