@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "c54a6a83a1d874b5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "等价无穷小"
-            }
-          },
-          {
             "id": "d8a99861f95eef8f",
             "type": "leaf",
             "pinned": true,
@@ -72,21 +56,37 @@
             }
           },
           {
-            "id": "36fc536e5670ed66",
+            "id": "3f66667cd0e7daad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-03-31 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-31 周二"
+            }
+          },
+          {
+            "id": "7a4569a2edb8958a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02王道题"
+              "title": "01笔记"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道笔记 的大纲"
+              "title": "01笔记 的大纲"
             }
           },
           {
@@ -293,14 +293,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d8a99861f95eef8f",
+  "active": "7a4569a2edb8958a",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-03-30 周一.md",
+    "assets/image/01笔记-1774925378753.jpeg",
+    "assets/image/01笔记-1774922221429.jpeg",
+    "assets/image/01笔记-1774921898388.jpeg",
+    "1.工作流/10.日记文件/2026-03-31 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/书籍3.1&3.2定义、子空间.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md",
+    "assets/image/洛必达-1774920335013.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md",
+    "assets/image/洛必达-1774919548058.jpeg",
+    "assets/image/洛必达-1774919374258.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
+    "1.工作流/10.日记文件/2026-03-30 周一.md",
     "assets/image/等价无穷小-1774879234788.jpeg",
     "assets/image/等价无穷小-1774878767160.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/辨析“带头节点与不带”.md",
     "2.知识库/22.算法/代码随想录-算法题/链表/链表part01.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片/链表的typedef.md",
@@ -308,11 +322,6 @@
     "assets/image/01王道笔记-1774874376154.jpeg",
     "assets/image/01王道笔记-1774874358681.jpeg",
     "2.知识库/22.算法/代码随想录-算法题/链表/递归.md",
-    "assets/image/01王道笔记-1774873243977.jpeg",
-    "assets/image/01王道笔记-1774873150390.jpeg",
-    "assets/image/01王道笔记-1774873124343.jpeg",
-    "assets/image/01王道笔记-1774872746993.jpeg",
-    "assets/image/01王道笔记-1774872001246.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/算法题核心.md",
@@ -322,18 +331,10 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/数组.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/书籍3.1&3.2定义、子空间.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/视频勘察.md",
     "1.工作流/10.日记文件/2026-03-28 周六.md",
     "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-    "1.工作流/10.日记文件/基础阶段（22-28）.md",
-    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
-    "1.工作流/10.日记文件/BedRock 0-50天总结.md",
-    "1.工作流/10.日记文件/2026-03-27 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/未命名.base",
