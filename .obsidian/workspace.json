@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-04-01 周三.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-04-01 周三 的大纲"
             }
           },
           {
@@ -323,15 +323,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "301d4073f50adc57",
+  "active": "8d184b90f34fcc69",
   "lastOpenFiles": [
-    "assets/image/02王道题-1775036924830.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/记忆--队满队空.md",
+    "1.工作流/10.日记文件/2026-04-01 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
+    "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/01王道笔记.md",
+    "assets/image/02王道题-1775036924830.jpeg",
     "assets/image/01王道笔记-1775034907419.jpeg",
     "assets/image/01王道笔记-1775034895727.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
-    "1.工作流/10.日记文件/2026-04-01 周三.md",
     "assets/image/01王道笔记-1775034155630.jpeg",
     "assets/image/01王道笔记-1775034120828.jpeg",
     "assets/image/01王道笔记-1775034050349.jpeg",
@@ -339,13 +341,10 @@
     "assets/image/01王道笔记-1775033643506.jpeg",
     "assets/image/01王道笔记-1775033609588.jpeg",
     "assets/image/01王道笔记-1775033588332.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/记忆--队满队空.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/题--1234.md",
-    "assets/image/02王道题-1775027259041.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
-    "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限--张宇基础30讲.md",
