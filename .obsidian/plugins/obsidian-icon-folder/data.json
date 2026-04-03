@@ -94,10 +94,10 @@
   "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md": "LiAlbum",
   "3.创造物/30.输出文章/AI/MLDL/认识梯度.md": "LiAlbum",
   "3.创造物/30.输出文章/数学/看见矩阵（三）.md": "LiAlbum",
-  "3.创造物/30.输出文章/AI/MLDL/神经网络.md": "LiAlbum",
   "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/困惑.md": {
     "iconName": "LiAccessibility",
     "iconColor": "#ee11b3"
   },
-  "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md": "LiAlignCenter"
+  "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md": "LiAlignCenter",
+  "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md": "LiAlbum"
 }
