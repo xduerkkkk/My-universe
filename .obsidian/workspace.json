@@ -88,7 +88,23 @@
             }
           },
           {
-            "id": "1e840822ac6f32f7",
+            "id": "006391fed9b8a3b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01王道笔记"
+            }
+          },
+          {
+            "id": "f3b289ce82d4b662",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,21 +118,21 @@
             }
           },
           {
-            "id": "9bd79e0ea99e94b1",
+            "id": "ae97393b2d9bfa4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/遍历.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01王道笔记"
+              "title": "遍历"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -323,13 +339,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5501b122ff64ba0b",
+  "active": "006391fed9b8a3b3",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-03 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "assets/image/01王道笔记-1775208696882.jpeg",
+    "assets/image/01王道笔记-1775208683260.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/遍历.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/迭代遍历.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/堆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/二叉树的最近公共祖先.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+    "1.工作流/10.日记文件/2026-04-03 周五.md",
+    "assets/image/02王道题-1775207570423.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片",
     "assets/image/02王道题-1775206246149.jpeg",
     "assets/image/02王道题-1775206236663.jpeg",
@@ -339,8 +363,6 @@
     "assets/image/02王道题-1775205385100.jpeg",
     "assets/image/02王道题-1775205232569.jpeg",
     "assets/image/02王道题-1775204656100.jpeg",
-    "assets/image/02王道题-1775204261129.jpeg",
-    "assets/image/02王道题-1775203232741.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
@@ -359,12 +381,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "1.工作流/10.日记文件/2026-04-02 周四.md",
     "3.创造物/30.输出文章/AI/MLDL/从0到1理解反向传播与自动微分.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道题.md",
-    "0.核心/02.心智急救包/Mindset First-Aid Kit.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/assets",
