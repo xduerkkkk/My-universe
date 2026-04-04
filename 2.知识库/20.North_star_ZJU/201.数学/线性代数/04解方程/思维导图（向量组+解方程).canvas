@@ -1,6 +1,39 @@
 {
 	"nodes":[
-		{"id":"0a5fe4804c5f5959","x":-218,"y":-257,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c192902287527550","x":-944,"y":-96,"width":244,"height":56,"type":"text","text":"## 判断线性无关 ：\n"},
+		{"id":"2be084deb5886d7b","x":-911,"y":44,"width":422,"height":396,"type":"text","text":"题目信息少，那么使用线性无关的定义。\nk1a+k2b+,,,=0，\n所有 k 只能是 0 才可以等式成立\n\n![](../../../../../assets/image/笔记-1774842669010.jpeg)"},
+		{"id":"23397f61739ce2ea","x":-1429,"y":21,"width":485,"height":419,"type":"text","text":"已知向量组 abcd 线性无关，问一些组合，比如 a+b, b-c...\n\n写成矩阵相乘形式，判断过渡矩阵是否为满秩\n\n![](../../../../../assets/image/笔记-1774842755325.jpeg)"},
+		{"id":"94a14897e9a021e2","x":-600,"y":-553,"width":267,"height":296,"type":"text","text":"等价线性无关组：\nA，B 都是线性无关向量组。\n不过A，B可以互相表示。\n（只要说“B”能被 A 线性表示，就意味二者可以互相表示。）\n\n$r (A)=r (B)=r (A|B)$ \n\nr (A)=r (B) 是因为都是同维的线性无关向量组，=r (A|B) 是因为 A 与 B 互相线性相关"},
+		{"id":"0a5fe4804c5f5959","x":-371,"y":-674,"width":250,"height":60,"type":"text","text":"# 等价"},
+		{"id":"dc69f7c42fba16e7","x":-267,"y":-544,"width":250,"height":247,"type":"text","text":"等价矩阵：\n两矩阵 A，B\n只要都表示把 m 维转为 n维，就说明他们等价了（不是相等）\n\n故而 $r (A)=r (B)$ 即可"},
+		{"id":"fcc5050a9c3a2bfc","x":-357,"y":22,"width":270,"height":87,"type":"text","text":"同维 ABCD 向量，\n向量 A，能被向量组 BCD 线性表示："},
+		{"id":"7e4f8ad4e92d8af0","x":-184,"y":166,"width":250,"height":153,"type":"text","text":"向量组线性相关，向量组 BCD 表示的空间是坍缩的，但恰巧向量 A 也在坍缩的空间"},
+		{"id":"b2996d19bfe46089","x":-127,"y":509,"width":580,"height":300,"type":"text","text":"![](../../../../../assets/image/习题与1000题-1775011218433.jpeg)"},
+		{"id":"c67bf18f49202bd3","x":-310,"y":-118,"width":250,"height":60,"type":"text","text":"# 线性相关"},
+		{"id":"6bb40985b2455655","x":-427,"y":189,"width":160,"height":64,"type":"text","text":"向量组线性无关；\n"},
+		{"id":"e40f9e6626f89aba","x":860,"y":345,"width":249,"height":95,"type":"text","text":"子式处在的那俩个列向量线性无关"},
+		{"id":"81cff2e531effdad","x":1058,"y":195,"width":250,"height":60,"type":"text","text":"通过 n 阶子式判断，\n若其大于 0"},
+		{"id":"3f204bd7dffb13c0","x":1179,"y":66,"width":250,"height":60,"type":"text","text":"# 秩的应用"},
+		{"id":"cd8f3eb9e21a40a3","x":1183,"y":364,"width":250,"height":58,"type":"text","text":"矩阵秩，>=n"},
+		{"id":"fb9385cf12576a54","x":163,"y":22,"width":697,"height":265,"type":"text","text":"![](../../../../../assets/image/习题与1000题-1775014992593.jpeg)\n不一定非要硬算，也可以这样成比例"},
+		{"id":"d5b5ae6679174983","x":-489,"y":599,"width":250,"height":60,"type":"text","text":"无论如何，\nr (A)=r (ABCD)"},
+		{"id":"9fa018f2b9c917d8","x":-1568,"y":559,"width":808,"height":421,"type":"text","text":"已知矩阵基础解系，求另一部分是否也是\n![](../../../../../assets/image/01笔记-1775097627963.jpeg)"},
+		{"id":"a3468b8e7365581f","x":280,"y":-420,"width":729,"height":344,"type":"text","text":"![](../../../../../assets/image/01笔记-1775101368506.jpeg)"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"45069b81e4db41bb","fromNode":"7e4f8ad4e92d8af0","fromSide":"bottom","toNode":"b2996d19bfe46089","toSide":"top","label":"把线性相关全部转为了行列式等于 0"},
+		{"id":"e469423481e4c9ca","fromNode":"7e4f8ad4e92d8af0","fromSide":"bottom","toNode":"b2996d19bfe46089","toSide":"top"},
+		{"id":"35b900dd193be75f","fromNode":"0a5fe4804c5f5959","fromSide":"bottom","toNode":"94a14897e9a021e2","toSide":"top"},
+		{"id":"814c3a63978c971d","fromNode":"0a5fe4804c5f5959","fromSide":"bottom","toNode":"dc69f7c42fba16e7","toSide":"top"},
+		{"id":"4ec7596d194cdea9","fromNode":"fcc5050a9c3a2bfc","fromSide":"bottom","toNode":"6bb40985b2455655","toSide":"top"},
+		{"id":"528f1c6e3b52666a","fromNode":"fcc5050a9c3a2bfc","fromSide":"bottom","toNode":"7e4f8ad4e92d8af0","toSide":"top"},
+		{"id":"f90e3d01c77f84b3","fromNode":"c67bf18f49202bd3","fromSide":"bottom","toNode":"fcc5050a9c3a2bfc","toSide":"top"},
+		{"id":"77e8b010f0f83f0c","fromNode":"c192902287527550","fromSide":"bottom","toNode":"23397f61739ce2ea","toSide":"top"},
+		{"id":"f537663cccf9ab22","fromNode":"c192902287527550","fromSide":"bottom","toNode":"2be084deb5886d7b","toSide":"top"},
+		{"id":"c24b99174ac004ba","fromNode":"c67bf18f49202bd3","fromSide":"bottom","toNode":"fb9385cf12576a54","toSide":"top"},
+		{"id":"8fa9876afdc1e03a","fromNode":"6bb40985b2455655","fromSide":"bottom","toNode":"d5b5ae6679174983","toSide":"top"},
+		{"id":"0664090c3fc309ce","fromNode":"7e4f8ad4e92d8af0","fromSide":"bottom","toNode":"d5b5ae6679174983","toSide":"top"},
+		{"id":"b3fae7a6d1aa0d2a","fromNode":"23397f61739ce2ea","fromSide":"bottom","toNode":"9fa018f2b9c917d8","toSide":"top"},
+		{"id":"38504789457097c0","fromNode":"c67bf18f49202bd3","fromSide":"right","toNode":"a3468b8e7365581f","toSide":"left"}
+	]
 }
