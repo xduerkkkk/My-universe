@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "dc364abc12fc0f8e",
+            "id": "3d2be38b9adeec21",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -88,42 +88,21 @@
             }
           },
           {
-            "id": "0affe47ca40aa0a8",
+            "id": "4cf9d56b044251e3",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-                "viewState": {
-                  "x": 302.7524799300913,
-                  "y": 37.124832910310346,
-                  "zoom": -0.4444444173177084
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "思维导图（向量组+解方程)"
-            }
-          },
-          {
-            "id": "f1c32931ee46a656",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "02习题与1000题"
+              "title": "幂指数求极限"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "幂指数求极限 的大纲"
             }
           },
           {
@@ -330,11 +309,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5501b122ff64ba0b",
+  "active": "4cf9d56b044251e3",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+    "assets/image/幂指数求极限-1775305540574.jpeg",
     "1.工作流/10.日记文件/2026-04-04 周六.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "assets/image/2001-1775301507985.jpeg",
     "assets/image/01王道笔记-1775292772524.jpeg",
     "assets/image/01王道笔记-1775292756462.jpeg",
     "assets/image/01王道笔记-1775292737574.jpeg",
@@ -344,12 +332,7 @@
     "assets/image/01王道笔记-1775292360711.jpeg",
     "assets/image/01王道笔记-1775291841495.jpeg",
     "assets/image/02王道题-1775291278814.jpeg",
-    "assets/image/02王道题-1775290757418.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/未命名.base",
@@ -359,10 +342,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题与1000题.md",
     "1.工作流/10.日记文件/2026-04-03 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/assets",
     "3.创造物/30.输出文章/AI/MLDL/DL",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
@@ -370,7 +351,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/迭代遍历.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/堆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/二叉树的最近公共祖先.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法",
