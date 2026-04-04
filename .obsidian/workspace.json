@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "c697fbdf49c46b09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-04-03 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-04-03 周五"
-            }
-          },
-          {
-            "id": "bae11e7d5e83ecc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02习题与1000题"
-            }
-          },
-          {
             "id": "5501b122ff64ba0b",
             "type": "leaf",
             "pinned": true,
@@ -102,9 +70,88 @@
               "icon": "lucide-file",
               "title": "01王道笔记"
             }
+          },
+          {
+            "id": "dc364abc12fc0f8e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-04-04 周六.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-04-04 周六"
+            }
+          },
+          {
+            "id": "f1c32931ee46a656",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02习题与1000题"
+            }
+          },
+          {
+            "id": "0affe47ca40aa0a8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图（向量组+解方程)"
+            }
+          },
+          {
+            "id": "fa8c4694888408c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01笔记"
+            }
+          },
+          {
+            "id": "867326cb4e3d887d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "习题与1000题"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-03 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-03 周五 的大纲"
+              "title": "习题与1000题 的大纲"
             }
           },
           {
@@ -311,29 +358,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c697fbdf49c46b09",
+  "active": "867326cb4e3d887d",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
-    "assets/image/02王道题-1775221609440.jpeg",
-    "assets/image/02王道题-1775221568283.jpeg",
-    "1.工作流/10.日记文件/2026-04-03 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-    "assets/image/02习题与1000题-1775220250545.jpeg",
-    "assets/image/02习题与1000题-1775220233424.jpeg",
-    "assets/image/02习题与1000题-1775220026107.jpeg",
-    "assets/image/02习题与1000题-1775219957571.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+    "1.工作流/10.日记文件/2026-04-04 周六.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/未命名.base",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/Drawing 2026-04-04 10.30.42.excalidraw.md",
+    "assets/image/02习题与1000题-1775268969509.jpeg",
+    "assets/image/02习题与1000题-1775268954429.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/02习题与1000题-1775268582949.jpeg",
+    "assets/image/02习题与1000题-1775268565387.jpeg",
+    "assets/image/02习题与1000题-1775268042774.jpeg",
+    "assets/image/02习题与1000题-1775268027865.jpeg",
+    "assets/image/02习题与1000题-1775266743551.jpeg",
+    "assets/image/02习题与1000题-1775266723551.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
+    "assets/image/02习题与1000题-1775266137279.jpeg",
+    "assets/image/02习题与1000题-1775266111676.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-04-03 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "assets/image/从0到1理解反向传播与自动微分-1775217331285.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775216820295.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775216669690.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775216609066.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/DL/assets",
     "3.创造物/30.输出文章/AI/MLDL/DL",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
@@ -346,19 +402,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法",
     "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
-    "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/书籍3.1&3.2定义、子空间.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/视频勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
@@ -366,7 +414,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/200.英语积累/未命名.canvas"
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/函数、极限、连续/未命名.canvas"
   ]
 }
