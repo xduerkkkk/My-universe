@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
+                "file": "1.工作流/10.日记文件/2026-04-04 周六.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "幂指数求极限 的大纲"
+              "title": "2026-04-04 周六 的大纲"
             }
           },
           {
@@ -309,8 +309,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4cf9d56b044251e3",
+  "active": "3d2be38b9adeec21",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
     "assets/image/幂指数求极限-1775305540574.jpeg",
     "1.工作流/10.日记文件/2026-04-04 周六.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
@@ -331,7 +332,6 @@
     "assets/image/01王道笔记-1775292389493.jpeg",
     "assets/image/01王道笔记-1775292360711.jpeg",
     "assets/image/01王道笔记-1775291841495.jpeg",
-    "assets/image/02王道题-1775291278814.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).md",
