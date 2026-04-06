@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md"
     },
     {
       "basename": "2026-04-06 周一",
       "path": "1.工作流/10.日记文件/2026-04-06 周一.md"
     },
     {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md"
+      "basename": "从0到1理解反向传播与自动微分",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     },
     {
       "basename": "做题--试根",
@@ -71,10 +79,6 @@
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md"
     },
     {
       "basename": "01笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道题.md"
-    },
-    {
-      "basename": "Mindset First-Aid Kit",
-      "path": "0.核心/02.心智急救包/Mindset First-Aid Kit.md"
     }
   ],
   "omittedPaths": [],
