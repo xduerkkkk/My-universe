@@ -104,21 +104,21 @@
             }
           },
           {
-            "id": "de3be32f8f48ac16",
+            "id": "074090ddd0c86070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "记忆--边与顶点"
+              "title": "做题--试根"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-04-06 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-04-06 周一 的大纲"
             }
           },
           {
@@ -325,32 +325,31 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5403e35bab84430e",
+  "active": "554e7a42ffd1111e",
   "lastOpenFiles": [
-    "assets/image/02王道题-1775480705246.jpeg",
-    "assets/image/02王道题-1775480697382.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
-    "1.工作流/10.日记文件/2026-04-06 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
-    "assets/image/02王道题-1775480048372.jpeg",
-    "assets/image/02王道题-1775480042811.jpeg",
-    "assets/image/02王道题-1775479739939.jpeg",
-    "assets/image/02王道题-1775479728074.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md",
+    "1.工作流/10.日记文件/2026-04-06 周一.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+    "assets/image/01视频笔记-1775483857782.jpeg",
+    "assets/image/01视频笔记-1775483734425.jpeg",
+    "assets/image/01视频笔记-1775483694250.jpeg",
+    "assets/image/01视频笔记-1775483331659.jpeg",
+    "assets/image/01视频笔记-1775483272351.jpeg",
+    "assets/image/01视频笔记-1775482960658.jpeg",
+    "assets/image/01王道笔记-1775482427677.jpeg",
+    "assets/image/01王道笔记-1775482296954.jpeg",
+    "assets/image/01王道笔记-1775482244235.jpeg",
+    "assets/image/01王道笔记-1775482197885.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "assets/image/从0到1理解反向传播与自动微分-1775476092166.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/assets/sigmoid_fixed.gif",
-    "3.创造物/30.输出文章/AI/MLDL/DL/assets/xor_fold.gif",
-    "assets/image/从0到1理解反向传播与自动微分-1775474994194.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775474458358.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
