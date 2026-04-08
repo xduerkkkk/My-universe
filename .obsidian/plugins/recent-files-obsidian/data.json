@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
     },
     {
       "basename": "01视频笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
     },
     {
       "basename": "2026-04-08 周三",
@@ -21,8 +21,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
+    },
+    {
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
     },
     {
       "basename": "01笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "背单词相近词辨析",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md"
     }
   ],
   "omittedPaths": [],
