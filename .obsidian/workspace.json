@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "97727810c8070347",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道笔记"
-            }
-          },
-          {
-            "id": "5403e35bab84430e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
             "id": "62dde49f73b92c2e",
             "type": "leaf",
             "pinned": true,
@@ -106,6 +74,22 @@
           {
             "id": "4ec2c283ecced1df",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "3ae50d37e8283fc2",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道笔记 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -327,28 +311,29 @@
   },
   "active": "4ec2c283ecced1df",
   "lastOpenFiles": [
+    "assets/image/02王道题-1775641350019.jpeg",
+    "assets/image/02王道题-1775641245481.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "assets/image/01王道笔记-1775641157004.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
+    "1.工作流/10.日记文件/2026-04-08 周三.md",
+    "assets/image/02王道题-1775640497899.jpeg",
+    "assets/image/02王道题-1775640467650.jpeg",
+    "assets/image/02王道题-1775640414692.jpeg",
+    "assets/image/01王道笔记-1775639261706.jpeg",
+    "assets/image/01王道笔记-1775639251174.jpeg",
+    "assets/image/01王道笔记-1775637951357.jpeg",
     "assets/image/01王道笔记-1775637463209.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找",
     "assets/image/02王道题-1775636596389.jpeg",
-    "assets/image/02王道题-1775636476389.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "1.工作流/10.日记文件/2026-04-08 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
-    "assets/image/02王道题-1775632693504.jpeg",
-    "assets/image/02王道题-1775632202711.jpeg",
-    "assets/image/02王道题-1775632194730.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
-    "assets/image/02习题与1000题-1775618963107.jpeg",
-    "assets/image/01视频笔记-1775616989156.jpeg",
-    "assets/image/01视频笔记-1775615690590.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md",
-    "assets/image/求间断点-1775611604069.jpeg",
-    "assets/image/求间断点-1775611551575.jpeg",
     "1.工作流/10.日记文件/2026-04-07 周二.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
@@ -368,7 +353,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/assets",
