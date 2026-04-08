@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
     },
     {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
+    },
+    {
+      "basename": "背单词相近词辨析4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
     },
     {
       "basename": "2026-04-07 周二",
       "path": "1.工作流/10.日记文件/2026-04-07 周二.md"
     },
     {
-      "basename": "背单词相近词辨析4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+      "basename": "从0到1理解反向传播与自动微分",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
+    },
+    {
+      "basename": "项目工程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/项目工程.md"
+    },
+    {
+      "basename": "算法题复盘方法",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md"
+    },
+    {
+      "basename": "图的IO",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md"
+    },
+    {
+      "basename": "BFS模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md"
     },
     {
       "basename": "0000随便丢收集箱",
@@ -31,10 +59,6 @@
     {
       "basename": "封存档案",
       "path": "0.核心/02.心智急救包/封存档案.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
     },
     {
       "basename": "看见矩阵（三）",
@@ -91,10 +115,6 @@
     {
       "basename": "记忆--边与顶点",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md"
-    },
-    {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     },
     {
       "basename": "推导--结点高度，log公式",
@@ -179,26 +199,6 @@
     {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
-    },
-    {
-      "basename": "01笔记-1775097627963",
-      "path": "assets/image/01笔记-1775097627963.jpeg"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
     }
   ],
   "omittedPaths": [],

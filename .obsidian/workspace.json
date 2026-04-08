@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "01视频笔记 的大纲"
             }
           },
           {
@@ -327,11 +327,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5403e35bab84430e",
+  "active": "62dde49f73b92c2e",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
-    "1.工作流/10.日记文件/2026-04-07 周二.md",
+    "assets/image/01视频笔记-1775569708767.jpeg",
+    "assets/image/01视频笔记-1775569666139.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "1.工作流/10.日记文件/2026-04-07 周二.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+    "assets/image/02王道题-1775567229770.jpeg",
+    "assets/image/02王道题-1775567076926.jpeg",
+    "assets/image/02王道题-1775566969821.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/项目工程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md",
+    "assets/image/02王道题-1775565556625.jpeg",
+    "assets/image/02王道题-1775565060159.jpeg",
+    "assets/image/02王道题-1775564821641.jpeg",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "4.不常用/002个人信息/我的衣柜.md",
     "assets/image/我的衣柜-1775561416477.jpeg",
@@ -339,15 +355,6 @@
     "assets/image/我的衣柜-1775561356081.jpeg",
     "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md",
     "0.核心/02.心智急救包/封存档案.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "assets/image/01王道笔记-1775554138017.jpeg",
-    "assets/image/01王道笔记-1775554117448.jpeg",
-    "assets/image/01王道笔记-1775554106194.jpeg",
-    "assets/image/01王道笔记-1775554050657.jpeg",
-    "assets/image/01王道笔记-1775553979724.jpeg",
-    "assets/image/01王道笔记-1775553909706.jpeg",
-    "assets/image/01王道笔记-1775553464703.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
     "3.创造物/30.输出文章/数学/看见矩阵（三）.md",
     "3.创造物/30.输出文章/数学/看见矩阵（四）.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
@@ -362,15 +369,9 @@
     "1.工作流/10.日记文件/2026-04-06 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片",
-    "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片",
@@ -380,7 +381,6 @@
     "3.创造物/30.输出文章/AI/MLDL/DL/assets",
     "3.创造物/30.输出文章/AI/MLDL/DL",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",
