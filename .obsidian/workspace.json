@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-10 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 周五 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -327,11 +327,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4498271799f591b4",
+  "active": "4ec2c283ecced1df",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-04-10 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+    "assets/image/02王道题-1775811533918.jpeg",
+    "assets/image/02王道题-1775811283043.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
@@ -354,9 +358,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
     "assets/image/技巧-1775809719296.jpeg",
     "assets/image/技巧-1775809716310.jpeg",
     "assets/image/技巧-1775809714378.jpeg",
@@ -369,8 +370,6 @@
     "assets/image/02习题与1000题-1775790910551.jpeg",
     "assets/image/02习题与1000题-1775790893326.jpeg",
     "assets/image/02习题与1000题-1775790860619.jpeg",
-    "assets/image/02习题与1000题-1775789328621.jpeg",
-    "assets/image/02习题与1000题-1775789162038.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
