@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+                "file": "1.工作流/10.日记文件/2026-04-10 周五.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题与1000题 的大纲"
+              "title": "2026-04-10 周五 的大纲"
             }
           },
           {
@@ -327,17 +327,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f7844360d2fc1a54",
+  "active": "4498271799f591b4",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "1.工作流/10.日记文件/2026-04-10 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "assets/image/从0到1理解反向传播与自动微分-1775823336472.jpeg",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
     "assets/image/从0到1理解反向传播与自动微分-1775822980057.jpeg",
     "assets/image/从0到1理解反向传播与自动微分-1775822172700.jpeg",
