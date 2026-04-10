@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "02习题与1000题 的大纲"
             }
           },
           {
@@ -304,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,13 +327,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4ec2c283ecced1df",
+  "active": "f7844360d2fc1a54",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-10 周五.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+    "1.工作流/10.日记文件/2026-04-10 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/从0到1理解反向传播与自动微分-1775823336472.jpeg",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+    "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
+    "assets/image/从0到1理解反向传播与自动微分-1775822980057.jpeg",
+    "assets/image/从0到1理解反向传播与自动微分-1775822172700.jpeg",
+    "assets/image/从0到1理解反向传播与自动微分-1775822100916.jpeg",
+    "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
+    "assets/image/02王道题-1775820789952.jpeg",
+    "assets/image/02王道题-1775820744687.jpeg",
+    "assets/image/02王道题-1775820593191.jpeg",
+    "assets/image/02王道题-1775819969947.jpeg",
     "assets/image/02王道题-1775811533918.jpeg",
     "assets/image/02王道题-1775811283043.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
@@ -353,23 +367,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "assets/image/技巧-1775809719296.jpeg",
-    "assets/image/技巧-1775809716310.jpeg",
-    "assets/image/技巧-1775809714378.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片",
-    "assets/image/01王道笔记-1775804512719.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "assets/image/02习题与1000题-1775791296978.jpeg",
-    "assets/image/02习题与1000题-1775790910551.jpeg",
-    "assets/image/02习题与1000题-1775790893326.jpeg",
-    "assets/image/02习题与1000题-1775790860619.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",

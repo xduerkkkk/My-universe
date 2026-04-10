@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md"
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
     },
     {
       "basename": "2026-04-10 周五",
@@ -13,12 +21,28 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md"
     },
     {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
+      "basename": "从0到1理解反向传播与自动微分",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     },
     {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md"
+    },
+    {
+      "basename": "Drawing 2026-02-10 12.25.31.excalidraw",
+      "path": "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-04-03 19.41.59.excalidraw",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md"
     },
     {
       "basename": "Drawing 2026-03-14 16.38.31.excalidraw",
@@ -175,30 +199,6 @@
     {
       "basename": "技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片/技巧.md"
-    },
-    {
-      "basename": "求极限基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md"
-    },
-    {
-      "basename": "基础阶段（22-28）",
-      "path": "1.工作流/10.日记文件/基础阶段（22-28）.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas"
-    },
-    {
-      "basename": "基础阶段（29-35）",
-      "path": "1.工作流/10.日记文件/基础阶段（29-35）.md"
-    },
-    {
-      "basename": "做题--试根",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md"
-    },
-    {
-      "basename": "思维导图（向量组+解方程)",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas"
     }
   ],
   "omittedPaths": [],

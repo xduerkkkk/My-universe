@@ -1,16 +1,21 @@
 {
 	"nodes":[
-		{"id":"2dbbdabefe08fbe8","x":-191,"y":-290,"width":250,"height":210,"type":"text","text":"基本概念：\n$Ax=\\lambda x$\n由\n$|\\lambda E -A| =0$  解 $\\lambda$\n再代回 $(\\lambda E -A)x=0$\n解方程得特征向量\n"},
-		{"id":"3bf80dcbde43182e","x":-1020,"y":20,"width":620,"height":900,"type":"text","text":"$|\\lambda E -A| =0$  解 $\\lambda$\n有：![](../../../../../assets/image/01视频笔记-1775443830951.jpeg)\n故而有行列式等于特征值乘积；\n矩阵迹等于特征值和"},
-		{"id":"2255f5c4fb444d36","x":-219,"y":60,"width":307,"height":356,"type":"text","text":"对于特征向量\n，对于一个 lambda，\n$|\\lambda E -A| =0$  解 $\\lambda$\n可能是 k 重根，\n而解方程可能得到的是 s 重特征向量。\n出现的原因在于，即使特征向量是线性相关，也不影响有多少重根? \n然后 k 重根最多就是 k 个线性无关特征向量了，这是最理想的情况。\n\n同时，也只有这种情况才能进行“相似”"},
-		{"id":"1c2b1a4aa3fc4511","x":141,"y":-73,"width":679,"height":253,"type":"text","text":"已知 $Ax=\\lambda x$\n求其他类似矩阵特征值，特征向量![](../../../../../assets/image/01视频笔记-1775445688914.jpeg)"},
-		{"id":"b5d6d9938df8d3ab","x":-1540,"y":200,"width":422,"height":587,"type":"text","text":"# 特殊矩阵性质\n### 秩一矩阵性质\n![](../../../../../assets/image/01视频笔记-1775446205496.jpeg)\n\n### 幂等矩阵\n注意特征值“可能取值”和特征值的值之区别\n\n![](../../../../../assets/image/01视频笔记-1775447465406.jpeg)\n\n"},
-		{"id":"47a5be20f522936a","x":-135,"y":567,"width":616,"height":413,"type":"text","text":"# 相似"}
+		{"id":"2dbbdabefe08fbe8","type":"text","text":"基本概念：\n$Ax=\\lambda x$\n由\n$|\\lambda E -A| =0$  解 $\\lambda$\n再代回 $(\\lambda E -A)x=0$\n解方程得特征向量\n","x":-191,"y":-290,"width":250,"height":210},
+		{"id":"3bf80dcbde43182e","type":"text","text":"$|\\lambda E -A| =0$  解 $\\lambda$\n有：![](../../../../../assets/image/01视频笔记-1775443830951.jpeg)\n故而有行列式等于特征值乘积；\n矩阵迹等于特征值和","x":-1020,"y":20,"width":620,"height":900},
+		{"id":"2255f5c4fb444d36","type":"text","text":"对于特征向量\n，对于一个 lambda，\n$|\\lambda E -A| =0$  解 $\\lambda$\n可能是 k 重根，\n而解方程可能得到的是 s 重特征向量。\n出现的原因在于，即使特征向量是线性相关，也不影响有多少重根? \n然后 k 重根最多就是 k 个线性无关特征向量了，这是最理想的情况。\n\n*同时，也只有这种情况才能进行“相似对角化”","x":-219,"y":60,"width":307,"height":356},
+		{"id":"1c2b1a4aa3fc4511","type":"text","text":"已知 $Ax=\\lambda x$\n求其他类似矩阵特征值，特征向量![](../../../../../assets/image/01视频笔记-1775445688914.jpeg)","x":141,"y":-73,"width":679,"height":253},
+		{"id":"b5d6d9938df8d3ab","type":"text","text":"# 特殊矩阵性质\n### 秩一矩阵性质\n![](../../../../../assets/image/01视频笔记-1775446205496.jpeg)\n\n### 幂等矩阵\n注意特征值“可能取值”和特征值的值之区别\n\n![](../../../../../assets/image/01视频笔记-1775447465406.jpeg)\n\n","x":-1540,"y":200,"width":422,"height":587},
+		{"id":"47a5be20f522936a","type":"text","text":"# 相似\n相似最根本的定义 $P^{-1}AP=B$ \n\n若 A 有特征值，\nB 也有特征值且与 A 相等。(各自能解出来的特征向量的个数（几何重数）也完全对应相等。)\n只不过 B 的特征向量是 P^-1 乘 A 的特征向量。\n尤此也显然得，A 与 B 行列式相等，tr 相等，主子式和相等\n\n","x":-135,"y":567,"width":575,"height":253},
+		{"id":"0cd73eb5d0fb491f","x":601,"y":520,"width":437,"height":431,"type":"text","text":" 已知 $P^{-1}AP=B$，对于 A 的兄弟矩阵的性质：\n![](../../../../../assets/image/01视频笔记-1775529977878.jpeg)\n且除了转置！\n各类型，P, P^-1 是一样的\n\n![](../../../../../assets/image/01视频笔记-1775529857393.jpeg)\n\n分块\n![](../../../../../assets/image/01视频笔记-1775530152619.jpeg)\n"},
+		{"id":"6dbc8b0c7bf2b96b","x":-89,"y":980,"width":484,"height":340,"type":"text","text":"# 相似对角化\n如确信 A 有特征值，特征向量拼成 P 矩阵，\n可以有相似对角化\n$$[\\xi_1, \\xi_2, \\cdots, \\xi_n]^{-1} A [\\xi_1, \\xi_2, \\cdots, \\xi_n] = \\begin{bmatrix} \\lambda_1 & & & \\\\ & \\lambda_2 & & \\\\ & & \\ddots & \\\\ & & & \\lambda_n \\end{bmatrix}$$ $n$ 阶矩阵 $A$ 可相似对角化 $\\Leftrightarrow$ $A$ 对应于每个 $k_i$ 重特征值都有 $k_i$ 个线性无关的特征向量.”\n"}
 	],
 	"edges":[
 		{"id":"ae0fa82ca82e75bc","fromNode":"2dbbdabefe08fbe8","fromSide":"left","toNode":"3bf80dcbde43182e","toSide":"top","label":"性质"},
 		{"id":"3226857a1640709c","fromNode":"2dbbdabefe08fbe8","fromSide":"right","toNode":"1c2b1a4aa3fc4511","toSide":"top"},
 		{"id":"2bc4ee650e13336f","fromNode":"2dbbdabefe08fbe8","fromSide":"bottom","toNode":"2255f5c4fb444d36","toSide":"top"},
-		{"id":"2139e9376542c6c3","fromNode":"2255f5c4fb444d36","fromSide":"bottom","toNode":"47a5be20f522936a","toSide":"top"}
+		{"id":"2139e9376542c6c3","fromNode":"2255f5c4fb444d36","fromSide":"bottom","toNode":"47a5be20f522936a","toSide":"top"},
+		{"id":"9fc6fa1f9bf7cd85","fromNode":"47a5be20f522936a","fromSide":"left","toNode":"3bf80dcbde43182e","toSide":"right","label":"性质的原因，\n本质是特征值\n相等的性质"},
+		{"id":"3223a8de45d11c88","fromNode":"47a5be20f522936a","fromSide":"right","toNode":"0cd73eb5d0fb491f","toSide":"left"},
+		{"id":"f6e942c6e922f0ab","fromNode":"47a5be20f522936a","fromSide":"bottom","toNode":"6dbc8b0c7bf2b96b","toSide":"top"}
 	]
 }
