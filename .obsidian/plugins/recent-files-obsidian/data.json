@@ -1,30 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas"
-    },
-    {
-      "basename": "做题--试根",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md"
-    },
-    {
-      "basename": "思维导图（向量组+解方程)",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas"
-    },
-    {
-      "basename": "理解--谱分解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/理解--谱分解.md"
-    },
-    {
       "basename": "2026-04-10 周五",
       "path": "1.工作流/10.日记文件/2026-04-10 周五.md"
     },
@@ -37,152 +13,144 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md"
     },
     {
-      "basename": "简单积分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md"
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md"
     },
     {
-      "basename": "泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
+      "basename": "Drawing 2026-03-14 16.38.31.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
     },
     {
-      "basename": "幂指数求极限",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md"
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md"
     },
     {
-      "basename": "等价无穷小",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
+      "basename": "思维导图-进程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md"
     },
     {
-      "basename": "2026-04-09 周四",
-      "path": "1.工作流/10.日记文件/2026-04-09 周四.md"
+      "basename": "现场",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
     },
     {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
     },
     {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md"
     },
     {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md"
+      "basename": "Drawing 2026-02-11 16.34.18.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md"
     },
     {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md"
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+    },
+    {
+      "basename": "题--页面置换定位",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
+    },
+    {
+      "basename": "地址及内存分配",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+    },
+    {
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+    },
+    {
+      "basename": "思维导图-存储",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
     },
     {
       "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas"
     },
     {
-      "basename": "2026-04-08 周三",
-      "path": "1.工作流/10.日记文件/2026-04-08 周三.md"
+      "basename": "ch3总线",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md"
     },
     {
-      "basename": "神经网络",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md"
+      "basename": "思维导图-指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
     },
     {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+      "basename": "辨析_大端小端",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+    },
+    {
+      "basename": "指令问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md"
+    },
+    {
+      "basename": "乘法电路图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md"
     },
     {
       "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/01王道笔记.md"
     },
     {
-      "basename": "求间断点",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md"
     },
     {
-      "basename": "2026-04-07 周二",
-      "path": "1.工作流/10.日记文件/2026-04-07 周二.md"
+      "basename": "核心算法题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/核心算法题.md"
     },
     {
-      "basename": "背单词相近词辨析4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md"
     },
     {
-      "basename": "2026-04-06 周一",
-      "path": "1.工作流/10.日记文件/2026-04-06 周一.md"
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md"
     },
     {
-      "basename": "项目工程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/项目工程.md"
+      "basename": "迭代遍历",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/迭代遍历.md"
     },
     {
-      "basename": "算法题复盘方法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md"
+      "basename": "二叉树路径总和",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/二叉树路径总和.md"
     },
     {
-      "basename": "图的IO",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md"
+      "basename": "二叉树模型",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/二叉树模型.md"
     },
     {
-      "basename": "BFS模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md"
+      "basename": "搜索二叉树",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/搜索二叉树.md"
     },
     {
-      "basename": "我的衣柜",
-      "path": "4.不常用/002个人信息/我的衣柜.md"
+      "basename": "平衡二叉树、二叉树直径",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/平衡二叉树、二叉树直径.md"
     },
     {
-      "basename": "创造者思维",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md"
-    },
-    {
-      "basename": "封存档案",
-      "path": "0.核心/02.心智急救包/封存档案.md"
-    },
-    {
-      "basename": "看见矩阵（三）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（三）.md"
-    },
-    {
-      "basename": "看见矩阵（四）",
-      "path": "3.创造物/30.输出文章/数学/看见矩阵（四）.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas"
-    },
-    {
-      "basename": "思维导图--导数微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas"
-    },
-    {
-      "basename": "多元微分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md"
-    },
-    {
-      "basename": "思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/书籍与例题.md"
-    },
-    {
-      "basename": "记忆--边与顶点",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md"
+      "basename": "二叉树构造",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/算法/二叉树构造.md"
     },
     {
       "basename": "推导--结点高度，log公式",
@@ -193,12 +161,44 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md"
     },
     {
-      "basename": "Drawing 2026-04-03 19.41.59.excalidraw",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md"
+      "basename": "记忆--队满队空",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/记忆--队满队空.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md"
+      "basename": "循环队列",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/循环队列.md"
+    },
+    {
+      "basename": "题--1234",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/题--1234.md"
+    },
+    {
+      "basename": "技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片/技巧.md"
+    },
+    {
+      "basename": "求极限基础",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md"
+    },
+    {
+      "basename": "基础阶段（22-28）",
+      "path": "1.工作流/10.日记文件/基础阶段（22-28）.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas"
+    },
+    {
+      "basename": "基础阶段（29-35）",
+      "path": "1.工作流/10.日记文件/基础阶段（29-35）.md"
+    },
+    {
+      "basename": "做题--试根",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md"
+    },
+    {
+      "basename": "思维导图（向量组+解方程)",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas"
     }
   ],
   "omittedPaths": [],
