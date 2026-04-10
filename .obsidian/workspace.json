@@ -88,22 +88,6 @@
             }
           },
           {
-            "id": "816a41125f2c45a0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-04-09 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-04-09 周四"
-            }
-          },
-          {
             "id": "f7844360d2fc1a54",
             "type": "leaf",
             "pinned": true,
@@ -120,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -329,24 +313,24 @@
   },
   "active": "f7844360d2fc1a54",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "1.工作流/10.日记文件/2026-04-09 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+    "assets/image/02习题与1000题-1775746744652.jpeg",
+    "assets/image/02习题与1000题-1775746723090.jpeg",
+    "assets/image/02习题与1000题-1775746504138.jpeg",
+    "assets/image/02习题与1000题-1775746502578.jpeg",
+    "assets/image/02习题与1000题-1775746153799.jpeg",
+    "assets/image/02习题与1000题-1775745849313.jpeg",
+    "assets/image/02习题与1000题-1775745799520.jpeg",
+    "assets/image/02习题与1000题-1775745799392.jpeg",
     "assets/image/01王道笔记-1775723274038.jpeg",
     "assets/image/01王道笔记-1775723229677.jpeg",
-    "assets/image/01王道笔记-1775722982840.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
-    "assets/image/02王道题-1775719687913.jpeg",
-    "assets/image/02王道题-1775719682238.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "assets/image/02习题与1000题-1775705350798.jpeg",
-    "assets/image/02习题与1000题-1775705319457.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "assets/image/02习题与1000题-1775703445739.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/assets/Pasted image 20260409105718.png",
-    "assets/image/02习题与1000题-1775703185973.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
     "1.工作流/10.日记文件/2026-04-08 周三.md",
