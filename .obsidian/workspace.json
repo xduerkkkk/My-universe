@@ -40,19 +40,19 @@
             }
           },
           {
-            "id": "4498271799f591b4",
+            "id": "e5f5b04a52bcc266",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-10 周五.md",
+                "file": "1.工作流/10.日记文件/2026-04-11 周六.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-04-10 周五"
+              "title": "2026-04-11 周六"
             }
           },
           {
@@ -88,13 +88,13 @@
             }
           },
           {
-            "id": "62dde49f73b92c2e",
+            "id": "1f862fb8bc29b3ac",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,23 +104,21 @@
             }
           },
           {
-            "id": "f7844360d2fc1a54",
+            "id": "c215d4444f1b4138",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+                "file": "1.工作流/10.日记文件/基础阶段（29-35）.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "02习题与1000题"
+              "title": "基础阶段（29-35）"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 254.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -203,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-10 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 周五 的大纲"
+              "title": "01视频笔记 的大纲"
             }
           },
           {
@@ -327,46 +325,49 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4498271799f591b4",
+  "active": "1f862fb8bc29b3ac",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "1.工作流/10.日记文件/2026-04-10 周五.md",
+    "1.工作流/10.日记文件/基础阶段（29-35）.md",
+    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
+    "1.工作流/10.日记文件/基础阶段（22-28）.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
+    "assets/image/01视频笔记-1775874928562.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+    "1.工作流/10.日记文件/2026-04-11 周六.md",
+    "assets/image/01视频笔记-1775873419813.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/assets",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型",
+    "assets/image/简单积分-1775871635102.jpeg",
+    "assets/image/简单积分-1775871608134.jpeg",
+    "assets/image/简单积分-1775871362240.jpeg",
+    "assets/image/简单积分-1775871339593.jpeg",
+    "assets/image/简单积分-1775871147592.jpeg",
+    "assets/image/简单积分-1775871127314.jpeg",
+    "assets/image/简单积分-1775870974140.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/中值定理中，中值点位置的依赖性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--M=max{f''(x)}.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--周期性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--上下限是常数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--创建两阶导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--导数极限定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--定积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/计算坑.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "assets/image/从0到1理解反向传播与自动微分-1775823336472.jpeg",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "3.创造物/30.输出文章/AI/MLDL/Drawing 2026-02-10 12.25.31.excalidraw.md",
-    "assets/image/从0到1理解反向传播与自动微分-1775822980057.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775822172700.jpeg",
-    "assets/image/从0到1理解反向传播与自动微分-1775822100916.jpeg",
-    "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md",
-    "assets/image/02王道题-1775820789952.jpeg",
-    "assets/image/02王道题-1775820744687.jpeg",
-    "assets/image/02王道题-1775820593191.jpeg",
-    "assets/image/02王道题-1775819969947.jpeg",
-    "assets/image/02王道题-1775811533918.jpeg",
-    "assets/image/02王道题-1775811283043.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
@@ -381,8 +382,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/assets",
     "未命名.canvas"
   ]
 }
