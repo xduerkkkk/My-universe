@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "背单词相近词辨析4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+      "basename": "postgreSQL",
+      "path": "3.创造物/31. 我的项目/postgreSQL.md"
     },
     {
       "basename": "背单词相近词辨析3",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md"
+    },
+    {
+      "basename": "背单词相近词辨析2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md"
+    },
+    {
+      "basename": "背单词相近词辨析4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+    },
+    {
+      "basename": "背单词相近词辨析",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
     },
     {
       "basename": "02王道题",
@@ -187,18 +199,6 @@
     {
       "basename": "总思维导图",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
-    },
-    {
-      "basename": "题--页面置换定位",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
-    },
-    {
-      "basename": "地址及内存分配",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
     }
   ],
   "omittedPaths": [],
