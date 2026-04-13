@@ -118,23 +118,9 @@
               "icon": "lucide-file",
               "title": "02习题与1000题"
             }
-          },
-          {
-            "id": "e937536ef082f7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02习题与1000题"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题与1000题 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -341,12 +327,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e937536ef082f7e5",
+  "active": "4ec2c283ecced1df",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-13 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "assets/image/01王道笔记-1776063647261.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
+    "1.工作流/10.日记文件/2026-04-13 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
+    "assets/image/02王道题-1776061567891.jpeg",
+    "assets/image/02王道题-1776061479112.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "assets/image/简单积分-1776043670681.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
@@ -366,15 +356,11 @@
     "1.工作流/10.日记文件/assets/7D13B1D21688A4664AE3AAF5B74A81F0.jpg",
     "1.工作流/10.日记文件/2026-04-11 周六.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "1.工作流/10.日记文件/基础阶段（29-35）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
     "3.创造物/31. 我的项目/postgreSQL.md",
     "assets/image/postgreSQL-1775990809510.jpeg",
-    "assets/image/postgreSQL-1775990690859.jpeg",
-    "assets/image/postgreSQL-1775989673343.jpeg",
-    "assets/image/postgreSQL-1775989673220.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
     "0.核心/02.心智急救包/封存档案.md",
     "1.工作流/10.日记文件/2026-04-10 周五.md",
