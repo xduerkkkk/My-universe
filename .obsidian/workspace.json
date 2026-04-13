@@ -88,33 +88,35 @@
             }
           },
           {
-            "id": "36b200a48d20cfaf",
+            "id": "fd8796f3f248611f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+                "file": "1.工作流/10.日记文件/2026-04-13 周一.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "背单词相近词辨析4"
+              "title": "2026-04-13 周一"
             }
           },
           {
-            "id": "5f9609524cf4dd84",
+            "id": "f2d40f60b8c95cce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "基础阶段（36-42）Week 6 (2026.3.29 - 4.4)"
+              "title": "02习题与1000题"
             }
           }
         ],
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础阶段（36-42）Week 6 (2026.3.29 - 4.4) 的大纲"
+              "title": "02习题与1000题 的大纲"
             }
           },
           {
@@ -325,12 +327,32 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5f9609524cf4dd84",
+  "active": "f2d40f60b8c95cce",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
+    "1.工作流/10.日记文件/2026-04-13 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+    "assets/image/简单积分-1776043670681.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
+    "assets/image/简单积分-1776043136012.jpeg",
+    "assets/image/简单积分-1776043125550.jpeg",
+    "assets/image/简单积分-1776042842341.jpeg",
+    "assets/image/简单积分-1776042825009.jpeg",
     "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-28 周五.md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-23 周日.md",
+    "4.不常用/11.随想文件/人际关系认知/承认的力量.md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-20 周四.md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-19 周三.md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-15 周六.md",
+    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-09 周日.md",
+    "1.工作流/10.日记文件/assets/25年.md",
+    "1.工作流/10.日记文件/assets/7D13B1D21688A4664AE3AAF5B74A81F0.jpg",
     "1.工作流/10.日记文件/2026-04-11 周六.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "1.工作流/10.日记文件/基础阶段（29-35）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
@@ -339,32 +361,11 @@
     "assets/image/postgreSQL-1775990690859.jpeg",
     "assets/image/postgreSQL-1775989673343.jpeg",
     "assets/image/postgreSQL-1775989673220.jpeg",
-    "assets/image/postgreSQL-1775989614101.jpeg",
-    "assets/image/postgreSQL-1775989537842.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
-    "assets/image/postgreSQL-1775989160114.jpeg",
-    "assets/image/postgreSQL-1775989137291.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
     "0.核心/02.心智急救包/封存档案.md",
     "1.工作流/10.日记文件/2026-04-10 周五.md",
-    "assets/image/02王道题-1775913446266.jpeg",
-    "assets/image/02王道题-1775913437142.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
-    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
-    "1.工作流/10.日记文件/基础阶段（22-28）.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/中值定理中，中值点位置的依赖性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
