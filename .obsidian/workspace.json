@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
+                "file": "1.工作流/10.日记文件/2026-04-13 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题与1000题 的大纲"
+              "title": "2026-04-13 周一 的大纲"
             }
           },
           {
@@ -327,26 +327,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f2d40f60b8c95cce",
+  "active": "fd8796f3f248611f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
     "1.工作流/10.日记文件/2026-04-13 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
+    "assets/image/02习题与1000题-1776087572693.jpeg",
+    "assets/image/02习题与1000题-1776087310615.jpeg",
+    "assets/image/02习题与1000题-1776085509098.jpeg",
     "assets/image/02习题与1000题-1776084777860.jpeg",
     "assets/image/02习题与1000题-1776084093763.jpeg",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "assets/image/01王道笔记-1776063647261.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
     "assets/image/02王道题-1776061567891.jpeg",
     "assets/image/02王道题-1776061479112.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "assets/image/简单积分-1776043670681.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
     "assets/image/简单积分-1776043136012.jpeg",
-    "assets/image/简单积分-1776043125550.jpeg",
-    "assets/image/简单积分-1776042842341.jpeg",
-    "assets/image/简单积分-1776042825009.jpeg",
     "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
     "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-28 周五.md",
     "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-23 周日.md",
