@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道笔记 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -311,12 +311,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6521b0db0631bc1b",
+  "active": "08abe75c9faebf4c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/随机事件及其概率/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
+    "assets/image/02王道题-1776158988894.jpeg",
     "1.工作流/10.日记文件/2026-04-14 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/随机事件及其概率/02习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "assets/image/01王道笔记-1776154247844.jpeg",
@@ -348,10 +349,8 @@
     "assets/image/02习题与1000题-1776087310615.jpeg",
     "assets/image/02习题与1000题-1776085509098.jpeg",
     "assets/image/02习题与1000题-1776084777860.jpeg",
-    "assets/image/02习题与1000题-1776084093763.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md",
     "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
-    "1.工作流/10.日记文件/01_25年上半年/25年3月/2025-03-28 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
