@@ -1,40 +1,5 @@
 
-### 1. 左侧树状菜单（资源管理器）：你的“数据集目录”
-
-这是整个数据库的结构树。
-
-- **Databases (2)：** 这里显示你所有的数据库。你已经创建了 AI_Project_DB_KangKai。
-    
-- **Schemas（模式）：** 点击你的数据库左侧的小箭头，展开后找到 Schemas。再展开 Schemas，你会看到一个 **public**。
-    
-    - **核心知识：** 在 PostgreSQL 中，表（Tables）不是直接放在数据库下的，而是放在“模式（Schema）”下的。**默认都在 public -> Tables 里**。等会儿我们建完表，就在这里找。
-        
-- **Extensions（扩展）：** 这个就是以后放 **pgvector**（向量检索插件）的地方。
-    
-
-### 2. 中间上部（查询编辑器）：你的“代码实验室”
-
-就是你输入 SELECT version (); 的那个地方。
-
-- 这里是你写 SQL 指令的地方。
-    
-- **蓝色播放键（或 F5）：** 执行你选中的 SQL 代码。
-    
-- **软盘图标：** 保存你的 SQL 脚本（可以保存为 . sql 文件，以后重复使用）。
-    
-
-### 3. 中间下部（结果面板）：你的“实验报告区”
-
-- **Data Output：** 显示查询出来的表格数据。你刚才看到的 postgres 和数据库名就在这。
-    
-- **Messages：** 如果你执行代码报错了，或者成功创建了表，这里会提示“Query returned successfully”或者具体的错误代码（比如你刚才遇到的路径非空错误，在这里也会有提示）。
-    
-
-### 4. 顶部状态栏：你的“仪表盘”
-
-你会看到一些像心电图一样的波动（Dashboard）。
-
-- **AI 关联点：** 当你以后用 Python 写循环往数据库里塞几百万条 Embedding 向量时，看这里的 CPU 和 Transactions（事务）波动，能帮你判断数据库是否遇到了性能瓶颈。
+![](../../assets/image/postgreSQL-1776254268990.jpeg)
 
 
 
@@ -58,9 +23,9 @@ kkdatabase
 
 ![](../../assets/image/postgreSQL-1775989160114.jpeg)
 
-### 二、 数据库初始化与个人操作痕迹展示
 
-#### 2.1 创建个性化实验数据库
+
+#### 1.4 创建个性化实验数据库
 
 为体现操作的真实性并模拟多项目管理环境，我手动创建了一个以个人身份命名的数据库。
 
@@ -78,9 +43,9 @@ kkdatabase
 
 
 
-### 三、 数据库基本操作验证（截图点）
 
-#### 3.1 环境连通性测试
+
+#### 2.5 环境连通性测试
 
 在 Query Tool（查询工具）中执行基础 SQL 命令，验证数据库服务的运行状态及当前操作上下文。
 
@@ -106,3 +71,137 @@ kkdatabase
 
 
 ![](../../assets/image/postgreSQL-1775990809510.jpeg)
+
+### 二、数据库模式设计与数据导入
+
+#### 2.1 实体关系建
+
+基于实践要求，构建了三个核心模型：
+
+- **S (Student)：** 学生基础特征库。
+    
+- **C (Course)：** 课程元数据配置。
+    
+- **SC (Score)：** 学生-课程交互矩阵
+
+#### 2.2 核心实现与逻辑说明
+
+- **操作细节：** 在建表脚本中，我使用了 PRIMARY KEY 约束确保数据的唯一性，并利用 FOREIGN KEY 建立了表间的参照完整性。
+
+```SQL
+DROP TABLE IF EXISTS SC; 
+DROP TABLE IF EXISTS S;
+DROP TABLE IF EXISTS C;
+
+
+CREATE TABLE S (
+    sno   CHAR(5) PRIMARY KEY, -- 数据类型固定5位，主键
+    sname VARCHAR(20) NOT NULL, -- 可变长度字符，最长 20 位
+    ssex  CHAR(2),
+    sdep  CHAR(2),
+    sage  INT
+);
+
+CREATE TABLE C (
+    cno    CHAR(5) PRIMARY KEY,
+    cname  VARCHAR(50),
+    credit FLOAT,
+    cpno   CHAR(5)
+);
+
+CREATE TABLE SC (
+    sno    CHAR(5),
+    cno    CHAR(5),
+    grade  INT,
+    PRIMARY KEY (sno, cno),
+    FOREIGN KEY (sno) REFERENCES S(sno),
+    FOREIGN KEY (cno) REFERENCES C(cno)
+);
+
+```
+![](../../assets/image/postgreSQL-1776254431841.jpeg)
+
+
+![](../../assets/image/postgreSQL-1776254441122.jpeg)
+
+#### 2.3 数据导入与验证 (DML)
+
+将样本数据批量录入数据库。
+
+
+
+```SQL
+
+-- 1. 录入学生数据
+INSERT INTO S (sno, sname, ssex, sdep, sage) VALUES 
+('801', '张三', '女', '01', 19),
+('802', '李四', '男', '01', 20),
+('803', '王五', '男', '01', 20),
+('804', '赵六', '女', '02', 20),
+('805', '钱七', '男', '02', 19);
+
+-- 2. 录入课程数据 
+INSERT INTO C (cno, cname, credit, cpno) VALUES 
+('c1', '数据库', 3.5, 'c2'),
+('c2', '数据结构', 4, 'c4'),
+('c3', '编译原理', 4, 'c6'),
+('c4', 'Pascal', 3, NULL);
+
+-- 3. 录入成绩数据
+INSERT INTO SC (sno, cno, grade) VALUES 
+('801', 'c4', 92),
+('801', 'c3', 78),
+('801', 'c2', 85),
+('802', 'c3', 82),
+('802', 'c4', 90),
+('803', 'c4', 88);
+```
+
+
+
+**操作展示：**
+
+![](../../assets/image/postgreSQL-1776254914920.jpeg) 
+
+
+![](../../assets/image/postgreSQL-1776254889287.jpeg)
+
+![](../../assets/image/postgreSQL-1776254902072.jpeg)
+
+### 三、核心查询任务与分析
+
+
+#### 3.1 任务一：查询选修 c4 课程的学生学号及成绩（按成绩降序排列）
+
+- **SQL 语句：**
+```SQL
+    SELECT sno, grade 
+    FROM SC 
+    WHERE cno = 'c4' 
+    ORDER BY grade DESC;
+```
+
+    
+![](../../assets/image/postgreSQL-1776254769404.jpeg)
+
+#### 3.2 任务二：查询其他系中比 01 系“某些”学生年龄小的学生姓名和年龄
+
+- **SQL 语句：**
+
+    
+    ```SQL
+    SELECT sname, sage 
+    FROM S 
+    WHERE sdep <> '01' 
+      AND sage < ANY (SELECT sage FROM S WHERE sdep = '01');
+    ```
+
+![](../../assets/image/postgreSQL-1776254836918.jpeg)
+
+### 四、总结
+
+通过本次 PostgreSQL 数据库实践，我掌握了从环境搭建、Schema 设计到高级 SQL 查询的全流程操作。作为人工智能专业的学生，我深刻体会到关系型数据库在结构化特征管理中的稳健性。
+
+在未来 AI 项目中，我将尝试将此类传统数据库与向量索引技术结合，构建支持非结构化数据检索的智能化应用系统。
+
+
