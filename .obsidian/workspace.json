@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -311,15 +311,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "08abe75c9faebf4c",
+  "active": "6521b0db0631bc1b",
   "lastOpenFiles": [
-    "assets/image/02王道题-1776236944453.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+    "assets/image/01王道笔记-1776241536939.jpeg",
+    "assets/image/01王道笔记-1776241410538.jpeg",
+    "assets/image/01王道笔记-1776241028314.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
-    "1.工作流/10.日记文件/2026-04-15 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md",
+    "1.工作流/10.日记文件/2026-04-15 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+    "assets/image/01王道笔记-1776239845791.jpeg",
+    "assets/image/02王道题-1776239651528.jpeg",
+    "assets/image/02王道题-1776239548984.jpeg",
+    "assets/image/02王道题-1776236944453.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量",
     "assets/image/02习题-1776224659426.jpeg",
     "assets/image/02习题-1776223898297.jpeg",
@@ -331,18 +337,12 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "1.工作流/10.日记文件/2026-04-14 周二.md",
-    "assets/image/2026-04-14 周二-1776179891623.jpeg",
     "2.知识库/21.AI世界/02深度学习/cv基础/01作业.md",
-    "assets/image/01作业-1776179100742.jpeg",
-    "assets/image/01作业-1776179100678.jpeg",
     "2.知识库/21.AI世界/02深度学习/cv基础/assets",
     "2.知识库/21.AI世界/02深度学习/cv基础/000图像处理，计算机视觉.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/连续性随机变量及其概率.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量分布.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量的分布函数.md",
-    "assets/image/02王道题-1776173313283.jpeg",
-    "assets/image/02王道题-1776172817403.jpeg",
-    "assets/image/02王道题-1776172458050.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/assets",
