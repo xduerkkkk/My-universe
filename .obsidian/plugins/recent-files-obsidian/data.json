@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
+      "basename": "b测",
+      "path": "3.创造物/31. 我的项目/b测.md"
     },
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md"
     },
     {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
+    },
+    {
       "basename": "02习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md"
+    },
+    {
+      "basename": "01笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md"
+    },
+    {
+      "basename": "习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md"
+    },
+    {
+      "basename": "思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas"
+    },
+    {
+      "basename": "做题--试根",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md"
+    },
+    {
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md"
+    },
+    {
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md"
     },
     {
       "basename": "2026-04-15 周三",
       "path": "1.工作流/10.日记文件/2026-04-15 周三.md"
     },
     {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md"
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas"
     },
     {
       "basename": "01视频笔记",
@@ -105,14 +137,6 @@
       "path": "1.工作流/10.日记文件/2026-04-13 周一.md"
     },
     {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md"
-    },
-    {
       "basename": "000卡片",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/000卡片.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "背单词相近词辨析3",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md"
-    },
-    {
-      "basename": "postgreSQL",
-      "path": "3.创造物/31. 我的项目/postgreSQL.md"
-    },
-    {
-      "basename": "背单词相近词辨析",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
-    },
-    {
-      "basename": "封存档案",
-      "path": "0.核心/02.心智急救包/封存档案.md"
-    },
-    {
-      "basename": "2026-04-10 周五",
-      "path": "1.工作流/10.日记文件/2026-04-10 周五.md"
-    },
-    {
-      "basename": "记忆--gamma函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/记忆--gamma函数.md"
-    },
-    {
-      "basename": "辨析--d还是roundd",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md"
     }
   ],
   "omittedPaths": [],
