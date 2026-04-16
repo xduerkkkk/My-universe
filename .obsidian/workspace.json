@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "f5dc4f24a2facfcd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-04-15 周三.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-04-15 周三"
-            }
-          },
-          {
-            "id": "5ec75d9402afcf51",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02习题"
-            }
-          },
-          {
             "id": "08abe75c9faebf4c",
             "type": "leaf",
             "pinned": true,
@@ -102,9 +70,72 @@
               "icon": "lucide-file",
               "title": "01王道笔记"
             }
+          },
+          {
+            "id": "d03c17a6e0ea238f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-04-16 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-04-16 周四"
+            }
+          },
+          {
+            "id": "f512a8849087c2ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01视频笔记"
+            }
+          },
+          {
+            "id": "07c9f249b472760b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
+                "viewState": {
+                  "x": 20.062452318325512,
+                  "y": 233.7981931736693,
+                  "zoom": -0.3485515405896572
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "积分思维导图"
+            }
+          },
+          {
+            "id": "3cffe282b3991001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02习题"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-15 周三.md",
+                "file": "1.工作流/10.日记文件/2026-04-16 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-15 周三 的大纲"
+              "title": "2026-04-16 周四 的大纲"
             }
           },
           {
@@ -311,47 +342,49 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f5dc4f24a2facfcd",
+  "active": "d03c17a6e0ea238f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
+    "1.工作流/10.日记文件/2026-04-16 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
+    "assets/image/01视频笔记-1776307760574.jpeg",
+    "assets/image/01视频笔记-1776307747404.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
     "1.工作流/10.日记文件/2026-04-15 周三.md",
-    "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量分布.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量的分布函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/认识概率/贝叶斯网络.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/认识概率/链式法则.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/认识概率/偶然的语言.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/大纲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/最大似然估计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/正态分布.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/认识概率/似然.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "3.创造物/31. 我的项目/postgreSQL.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
+    "assets/image/换元法-1776303039786.jpeg",
+    "assets/image/换元法-1776303032436.jpeg",
+    "assets/image/换元法-1776302170897.jpeg",
+    "assets/image/换元法-1776302162036.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+    "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
+    "1.工作流/10.日记文件/基础阶段（29-35）.md",
+    "1.工作流/10.日记文件/基础阶段（22-28）.md",
+    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
     "assets/image/postgreSQL-1776254914920.jpeg",
     "assets/image/postgreSQL-1776254902072.jpeg",
     "assets/image/postgreSQL-1776254889287.jpeg",
     "assets/image/postgreSQL-1776254836918.jpeg",
-    "assets/image/postgreSQL-1776254769404.jpeg",
-    "assets/image/postgreSQL-1776254721233.jpeg",
-    "assets/image/postgreSQL-1776254441122.jpeg",
-    "assets/image/postgreSQL-1776254431841.jpeg",
-    "assets/image/postgreSQL-1776254268990.jpeg",
-    "3.创造物/31. 我的项目/b测.md",
-    "3.创造物/31. 我的项目/b测代码.md",
-    "assets/image/b测-1776251980298.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/卡片/做题--试根.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/06二次型/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/导数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/21.AI世界/02深度学习/cv基础/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序",
@@ -364,9 +397,7 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/assets",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas"
   ]
