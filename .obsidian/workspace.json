@@ -104,23 +104,6 @@
             }
           },
           {
-            "id": "07c9f249b472760b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
-                "viewState": {
-                  "x": 20.062452318325512,
-                  "y": 233.7981931736693,
-                  "zoom": -0.3485515405896572
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "积分思维导图"
-            }
-          },
-          {
             "id": "3cffe282b3991001",
             "type": "leaf",
             "state": {
@@ -135,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-16 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-16 周四 的大纲"
+              "title": "01视频笔记 的大纲"
             }
           },
           {
@@ -342,12 +325,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d03c17a6e0ea238f",
+  "active": "f512a8849087c2ef",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
+    "assets/image/02习题-1776309107851.jpeg",
     "1.工作流/10.日记文件/2026-04-16 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
@@ -377,11 +361,9 @@
     "1.工作流/10.日记文件/基础阶段（36-42）Week 6 (2026.3.29 - 4.4).md",
     "1.工作流/10.日记文件/基础阶段（29-35）.md",
     "1.工作流/10.日记文件/基础阶段（22-28）.md",
-    "1.工作流/10.日记文件/基础阶段（15-21）3月周报.md",
     "assets/image/postgreSQL-1776254914920.jpeg",
     "assets/image/postgreSQL-1776254902072.jpeg",
     "assets/image/postgreSQL-1776254889287.jpeg",
-    "assets/image/postgreSQL-1776254836918.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量",
