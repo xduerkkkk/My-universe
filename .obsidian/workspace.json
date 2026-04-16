@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-04-16 16.29.10.excalidraw 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -351,10 +351,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2a89c714966406ee",
+  "active": "ce4948aa544c4905",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "assets/image/01王道笔记-1776330384543.jpeg",
+    "assets/image/01王道笔记-1776330088147.jpeg",
+    "assets/image/01王道笔记-1776329995348.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "assets/image/01王道笔记-1776328137504.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/assets",
     "0.核心/01.学习操作系统My_OS/总OS.md",
@@ -381,7 +384,6 @@
     "0.核心/00.规划(Plan)/0.North_Star/我的序言.md",
     "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "assets/image/02习题-1776309107851.jpeg",
     "assets/image/01视频笔记-1776307760574.jpeg",
@@ -391,8 +393,6 @@
     "assets/image/换元法-1776303032436.jpeg",
     "assets/image/换元法-1776302170897.jpeg",
     "assets/image/换元法-1776302162036.jpeg",
-    "assets/image/postgreSQL-1776254914920.jpeg",
-    "assets/image/postgreSQL-1776254902072.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量",
