@@ -40,33 +40,15 @@
             }
           },
           {
-            "id": "08abe75c9faebf4c",
+            "id": "d531027292b7b6f4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "6521b0db0631bc1b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "01王道笔记"
             }
@@ -104,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -311,16 +293,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f512a8849087c2ef",
+  "active": "d531027292b7b6f4",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-17 周五.md",
-    "1.工作流/10.日记文件/2026-04-16 周四.md",
+    "assets/image/01王道笔记-1776414693703.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
-    "3.创造物/31. 我的项目/大模型打榜.md",
+    "1.工作流/10.日记文件/2026-04-17 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "assets/image/01王道笔记-1776410519919.jpeg",
+    "assets/image/01王道笔记-1776410494902.jpeg",
+    "assets/image/01王道笔记-1776410465471.jpeg",
+    "assets/image/01王道笔记-1776410397620.jpeg",
+    "assets/image/01王道笔记-1776409366756.jpeg",
+    "assets/image/01王道笔记-1776409210673.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+    "1.工作流/10.日记文件/2026-04-16 周四.md",
+    "3.创造物/31. 我的项目/大模型打榜.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "assets/image/01王道笔记-1776330384543.jpeg",
     "assets/image/01王道笔记-1776330088147.jpeg",
     "assets/image/01王道笔记-1776329995348.jpeg",
@@ -343,16 +333,8 @@
     "0.核心/01.学习操作系统My_OS/0.学习理念/弹性原则.md",
     "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md",
     "0.核心/00.规划(Plan)/0.North_Star/记录补足点.md",
-    "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md",
-    "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
-    "assets/image/02习题-1776309107851.jpeg",
-    "assets/image/01视频笔记-1776307760574.jpeg",
-    "assets/image/01视频笔记-1776307747404.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/assets",
-    "assets/image/换元法-1776303039786.jpeg",
-    "assets/image/换元法-1776303032436.jpeg",
-    "assets/image/换元法-1776302170897.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量",
