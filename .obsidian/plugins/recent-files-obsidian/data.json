@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/02习题.md"
+    },
+    {
+      "basename": "2026-04-18 周六",
+      "path": "1.工作流/10.日记文件/2026-04-18 周六.md"
+    },
+    {
       "basename": "2026-04-17 周五",
       "path": "1.工作流/10.日记文件/2026-04-17 周五.md"
     },
@@ -9,12 +29,16 @@
       "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     },
     {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
+      "basename": "换元法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
     },
     {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md"
+      "basename": "简单积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
     },
     {
       "basename": "‘我想看谷歌的首页’",
@@ -129,10 +153,6 @@
       "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
     },
     {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md"
-    },
-    {
       "basename": "积分思维导图",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "最大似然估计",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/最大似然估计.md"
-    },
-    {
-      "basename": "正态分布",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/正态分布.md"
-    },
-    {
-      "basename": "似然",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/认识概率/似然.md"
-    },
-    {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md"
-    },
-    {
-      "basename": "换元法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
     }
   ],
   "omittedPaths": [],
