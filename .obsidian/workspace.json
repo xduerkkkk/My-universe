@@ -72,37 +72,39 @@
             }
           },
           {
-            "id": "ddcbd5146c6070b1",
+            "id": "8948ca62f7ff392e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道题.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "01王道题"
             }
           },
           {
-            "id": "af977825c5fc4ce6",
+            "id": "778b16e0ec9add40",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02习题"
+              "title": "01王道笔记"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -309,16 +311,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ddcbd5146c6070b1",
+  "active": "778b16e0ec9add40",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-04-18 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
     "assets/image/02习题-1776480999552.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/02习题.md",
     "assets/image/02习题-1776480611583.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/assets",
-    "1.工作流/10.日记文件/2026-04-18 周六.md",
     "1.工作流/10.日记文件/2026-04-17 周五.md",
     "assets/image/02习题-1776478685629.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量",
@@ -327,7 +331,6 @@
     "assets/image/换元法-1776474588187.jpeg",
     "assets/image/换元法-1776474508491.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "assets/image/01王道笔记-1776417989324.jpeg",
     "assets/image/01王道笔记-1776417692948.jpeg",
     "assets/image/01王道笔记-1776417608728.jpeg",
