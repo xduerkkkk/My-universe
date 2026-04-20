@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "强化阶段？基础过渡？",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/强化阶段？基础过渡？.md"
+    },
+    {
+      "basename": "2026-04-20 周一",
+      "path": "1.工作流/10.日记文件/2026-04-20 周一.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
+    },
+    {
+      "basename": "规划概览",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
+    },
+    {
+      "basename": "3月后",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/3月后.md"
+    },
+    {
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
+    },
+    {
+      "basename": "bedrock寒假阶段",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md"
+    },
+    {
+      "basename": "从0到1理解反向传播与自动微分",
+      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
+    },
+    {
+      "basename": "寒假规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
+    },
+    {
+      "basename": "英语六级冲刺",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
+    },
+    {
+      "basename": "资金管理",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md"
+    },
+    {
+      "basename": "postgreSQL-数据库实践报告",
+      "path": "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md"
+    },
+    {
+      "basename": "b测",
+      "path": "3.创造物/31. 我的项目/b测.md"
+    },
+    {
+      "basename": "理论",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/运动/理论.md"
+    },
+    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
     },
@@ -15,10 +71,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
-    },
-    {
-      "basename": "2026-04-20 周一",
-      "path": "1.工作流/10.日记文件/2026-04-20 周一.md"
     },
     {
       "basename": "康凯",
@@ -71,10 +123,6 @@
     {
       "basename": "02习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/02习题.md"
-    },
-    {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     },
     {
       "basename": "1",
@@ -151,54 +199,6 @@
     {
       "basename": "认识一个事",
       "path": "0.核心/01.学习操作系统My_OS/1.心智模型/认识一个事.md"
-    },
-    {
-      "basename": "慢就是快",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/慢就是快.md"
-    },
-    {
-      "basename": "框架先行，细节填充",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/框架先行，细节填充.md"
-    },
-    {
-      "basename": "过程即奖励",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/过程即奖励.md"
-    },
-    {
-      "basename": "弹性原则",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/弹性原则.md"
-    },
-    {
-      "basename": "创造者思维",
-      "path": "0.核心/01.学习操作系统My_OS/0.学习理念/创造者思维.md"
-    },
-    {
-      "basename": "记录补足点",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/记录补足点.md"
-    },
-    {
-      "basename": "我的bedrock",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的bedrock.md"
-    },
-    {
-      "basename": "Bed-Rock 毕业思考",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/Bed-Rock 毕业思考.md"
-    },
-    {
-      "basename": "我的序言",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
-    },
-    {
-      "basename": "考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas"
     }
   ],
   "omittedPaths": [],

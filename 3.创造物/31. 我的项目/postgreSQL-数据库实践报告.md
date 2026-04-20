@@ -1,5 +1,5 @@
 
-![](../../assets/image/postgreSQL-1776254268990.jpeg)
+康凯---23009200942
 
 
 
@@ -204,4 +204,10 @@ INSERT INTO SC (sno, cno, grade) VALUES
 
 在未来 AI 项目中，我将尝试将此类传统数据库与向量索引技术结合，构建支持非结构化数据检索的智能化应用系统。
 
+
+### 五、参考文献
+
+1. **王珊, 萨师煊.** 《数据库系统概论（第五版）》. 高等教育出版社
+
+2. **PostgreSQL Global Development Group.** PostgreSQL 16.0 Documentation. [Online] Available: [https://www.postgresql.org/docs/16/index.html](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.postgresql.org%2Fdocs%2F16%2Findex.html) 
 
