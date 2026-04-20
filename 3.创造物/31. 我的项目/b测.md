@@ -14,7 +14,7 @@
 
 
 
-- 硬件环境：Intel Core i7 / 8GB RAM 
+- 硬件环境：Intel Core i5 / 8GB RAM 
 - 软件环境：MATLAB R2024a
 
 
