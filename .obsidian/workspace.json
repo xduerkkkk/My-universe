@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
+                "file": "4.不常用/002个人信息/康凯.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02王道题"
+              "title": "康凯"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
+                "file": "4.不常用/002个人信息/康凯.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "康凯 的大纲"
             }
           },
           {
@@ -311,8 +311,10 @@
   },
   "active": "10669c8a0ea0c162",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "4.不常用/002个人信息/我的衣柜.md",
+    "4.不常用/002个人信息/信息记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "1.工作流/10.日记文件/2026-04-20 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
@@ -350,7 +352,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/assets",
     "0.核心/01.学习操作系统My_OS/总OS.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
