@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
+                "file": "1.工作流/10.日记文件/2026-04-21 周二.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "2026-04-21 周二 的大纲"
             }
           },
           {
@@ -270,7 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,15 +293,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e592d3ff21053b4e",
+  "active": "8076bc92e954c9a4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "1.工作流/10.日记文件/2026-04-21 周二.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/01视频笔记-1776777912283.jpeg",
     "assets/image/01视频笔记-1776776728266.jpeg",
     "assets/image/01视频笔记-1776776510163.jpeg",
-    "1.工作流/10.日记文件/2026-04-21 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "assets/image/从0到1理解反向传播与自动微分-1776773196794.jpeg",
     "assets/image/01王道视频-1776763500028.jpeg",
     "assets/image/01王道视频-1776763479289.jpeg",
@@ -318,8 +319,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
     "assets/image/01王道笔记-1776759297216.jpeg",
     "assets/image/01王道笔记-1776759190370.jpeg",
-    "assets/image/01王道笔记-1776759175472.jpeg",
-    "assets/image/01王道笔记-1776758902667.jpeg",
     "1.工作流/10.日记文件/2026-04-20 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
