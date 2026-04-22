@@ -74,6 +74,7 @@
           {
             "id": "e5e9eed3ac7f662f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,22 +82,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01王道视频"
             }
           },
           {
-            "id": "859932dd83163574",
+            "id": "d313af40f7450bee",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-21 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-04-21 周二"
+              "title": "02王道题"
             }
           }
         ],
@@ -309,12 +313,26 @@
   },
   "active": "e5e9eed3ac7f662f",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-21 周二.md",
-    "1.工作流/10.日记文件/2026-04-20 周一.md",
-    "1.工作流/10.日记文件/2026-04-22 周三.md",
+    "assets/image/01王道视频-1776849125492.jpeg",
+    "assets/image/01王道视频-1776849101855.jpeg",
+    "assets/image/01王道视频-1776849079402.jpeg",
+    "assets/image/01王道视频-1776849061410.jpeg",
+    "assets/image/01王道视频-1776849046559.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
+    "assets/image/01王道视频-1776846873765.jpeg",
+    "1.工作流/10.日记文件/2026-04-22 周三.md",
+    "assets/image/01王道视频-1776843717652.jpeg",
+    "assets/image/01王道视频-1776842672202.jpeg",
+    "assets/image/01王道视频-1776842647196.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
+    "1.工作流/10.日记文件/2026-04-21 周二.md",
+    "1.工作流/10.日记文件/26年上半年/26年4月/2026-04-20 周一.md",
+    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md",
     "assets/image/02基础习题-1776829591190.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/数字特征公式直觉.md",
@@ -331,22 +349,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--常用放缩.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--定积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--导数极限定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分中的极坐标.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/中值定理中，中值点位置的依赖性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/未命名.md",
     "assets/image/02基础习题-1776826628056.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片",
-    "assets/image/01视频笔记-1776823603544.jpeg",
-    "assets/image/换元法-1776822058765.jpeg",
-    "assets/image/换元法-1776822044140.jpeg",
-    "assets/image/换元法-1776821373378.jpeg",
-    "assets/image/换元法-1776821120389.jpeg",
-    "assets/image/换元法-1776820682553.jpeg",
-    "assets/image/01视频笔记-1776777912283.jpeg",
-    "assets/image/01视频笔记-1776776728266.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
