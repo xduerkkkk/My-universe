@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "4e8af7a7f6abb40c",
+            "id": "8e0f350ee16bec70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--gamma函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01基础视频"
+              "title": "记忆--gamma函数"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
+                "file": "1.工作流/10.日记文件/2026-04-22 周三.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01基础视频 的大纲"
+              "title": "2026-04-22 周三 的大纲"
             }
           },
           {
@@ -341,8 +341,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e8af7a7f6abb40c",
+  "active": "27e3c562927cac37",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--gamma函数.md",
+    "1.工作流/10.日记文件/2026-04-22 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--创建两阶导.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/07数理统计基本概念/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名 1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/07数理统计基本概念",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
     "assets/image/01基础视频-1776863546288.jpeg",
     "assets/image/01基础视频-1776863465981.jpeg",
     "assets/image/01基础视频-1776863061023.jpeg",
@@ -351,14 +362,11 @@
     "assets/image/01基础视频-1776862358007.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/数字特征公式直觉.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/独立与相关.md",
     "assets/image/02基础习题-1776861374160.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/协方差矩阵.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/正态分布.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/最大似然估计.md",
@@ -369,18 +377,11 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md",
     "1.工作流/10.日记文件/基础阶段（29-35）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "assets/image/01王道视频-1776849125492.jpeg",
     "assets/image/01王道视频-1776849101855.jpeg",
     "assets/image/01王道视频-1776849079402.jpeg",
-    "assets/image/01王道视频-1776849061410.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-    "1.工作流/10.日记文件/2026-04-22 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
-    "1.工作流/10.日记文件/2026-04-21 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/assets",
@@ -394,7 +395,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
