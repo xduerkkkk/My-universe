@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "01基础视频",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md"
+    },
+    {
+      "basename": "02基础习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md"
+    },
+    {
+      "basename": "数字特征公式直觉",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/数字特征公式直觉.md"
+    },
+    {
+      "basename": "独立与相关",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/独立与相关.md"
+    },
+    {
+      "basename": "背单词相近词辨析4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+    },
+    {
+      "basename": "协方差矩阵",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/协方差矩阵.md"
+    },
+    {
+      "basename": "正态分布",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/正态分布.md"
+    },
+    {
+      "basename": "最大似然估计",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/最大似然估计.md"
+    },
+    {
+      "basename": "背单词相近词辨析4 (conflict 2026-04-19-13-53-13)",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4 (conflict 2026-04-19-13-53-13).md"
+    },
+    {
+      "basename": "背单词相近词辨析6",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md"
+    },
+    {
+      "basename": "背单词相近词辨析5",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md"
+    },
+    {
+      "basename": "背单词相近词辨析",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
+    },
+    {
+      "basename": "背单词相近词辨析2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md"
+    },
+    {
+      "basename": "背单词相近词辨析3",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md"
+    },
+    {
+      "basename": "基础阶段（29-35）",
+      "path": "1.工作流/10.日记文件/基础阶段（29-35）.md"
+    },
+    {
       "basename": "01王道视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
     },
@@ -15,10 +83,6 @@
     {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md"
     },
     {
       "basename": "乘法电路图",
@@ -43,14 +107,6 @@
     {
       "basename": "03记录补足点",
       "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md"
-    },
-    {
-      "basename": "数字特征公式直觉",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/数字特征公式直觉.md"
     },
     {
       "basename": "记忆--gamma函数",
@@ -133,10 +189,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--M=max{f''(x)}.md"
     },
     {
-      "basename": "独立与相关",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/独立与相关.md"
-    },
-    {
       "basename": "01导师信息收集",
       "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "从概率视角统一“线性模型“（线性回归）",
       "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md"
-    },
-    {
-      "basename": "概率论基础",
-      "path": "3.创造物/30.输出文章/AI/MLDL/概率论基础.md"
-    },
-    {
-      "basename": "临时草稿",
-      "path": "3.创造物/30.输出文章/AI/MLDL/临时草稿.md"
-    },
-    {
-      "basename": "认识梯度",
-      "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md"
-    },
-    {
-      "basename": "认识梯度大纲",
-      "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度大纲.md"
-    },
-    {
-      "basename": "贝叶斯的详细讲解",
-      "path": "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md"
-    },
-    {
-      "basename": "Drawing 2026-04-03 19.41.59.excalidraw",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/Drawing 2026-04-03 19.41.59.excalidraw.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md"
-    },
-    {
-      "basename": "线性模型",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/线性模型.md"
-    },
-    {
-      "basename": "导读",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/导读.md"
-    },
-    {
-      "basename": "绪论",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/绪论.md"
-    },
-    {
-      "basename": "概率分布",
-      "path": "2.知识库/21.AI世界/01机器学习/PRML/概率分布.md"
-    },
-    {
-      "basename": "线性回归基础",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/线性回归/线性回归基础.md"
-    },
-    {
-      "basename": "作业1线性模型",
-      "path": "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md"
     }
   ],
   "omittedPaths": [],
