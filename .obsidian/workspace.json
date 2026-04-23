@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道视频 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -311,12 +311,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5e9eed3ac7f662f",
+  "active": "d313af40f7450bee",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-04-23 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "assets/image/02王道题-1776933214554.jpeg",
-    "1.工作流/10.日记文件/2026-04-23 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "assets/image/01王道视频-1776927339075.jpeg",
