@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01基础视频 的大纲"
+              "title": "01王道视频 的大纲"
             }
           },
           {
@@ -311,29 +311,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "acd869fb042a2a4b",
+  "active": "e5e9eed3ac7f662f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "assets/image/02王道题-1776933214554.jpeg",
+    "1.工作流/10.日记文件/2026-04-23 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/01王道视频-1776927339075.jpeg",
+    "assets/image/01王道视频-1776927321469.jpeg",
+    "assets/image/01王道视频-1776927086016.jpeg",
     "assets/image/01基础视频-1776916459957.jpeg",
     "assets/image/01基础视频-1776916362967.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/01基础视频.md",
-    "1.工作流/10.日记文件/2026-04-23 周四.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md",
     "assets/image/01基础视频-1776914910594.jpeg",
     "assets/image/01基础视频-1776914635613.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计",
     "assets/image/01基础视频-1776913771750.jpeg",
     "assets/image/01基础视频-1776913743290.jpeg",
-    "assets/image/01基础视频-1776913057628.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/assets/Pasted image 20251024112430.png",
-    "assets/image/01基础视频-1776912771861.jpeg",
-    "assets/image/01基础视频-1776910724459.jpeg",
-    "assets/image/01基础视频-1776910099115.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "1.工作流/10.日记文件/2026-04-22 周三.md",
