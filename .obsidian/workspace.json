@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "9f6c9d566aad71f2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-04-23 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-04-23 周四"
-            }
-          },
-          {
             "id": "acd869fb042a2a4b",
             "type": "leaf",
             "pinned": true,
@@ -102,9 +86,25 @@
               "icon": "lucide-file",
               "title": "01基础视频"
             }
+          },
+          {
+            "id": "9f6c9d566aad71f2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-04-23 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-04-23 周四"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-04-23 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-04-23 周四 的大纲"
             }
           },
           {
@@ -311,20 +311,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d313af40f7450bee",
+  "active": "9f6c9d566aad71f2",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-04-23 周四.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "assets/image/02王道题-1776933214554.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "1.工作流/10.日记文件/2026-04-23 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/02王道题-1776933214554.jpeg",
     "assets/image/01王道视频-1776927339075.jpeg",
     "assets/image/01王道视频-1776927321469.jpeg",
     "assets/image/01王道视频-1776927086016.jpeg",
     "assets/image/01基础视频-1776916459957.jpeg",
     "assets/image/01基础视频-1776916362967.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/01基础视频.md",
     "assets/image/01基础视频-1776914910594.jpeg",
     "assets/image/01基础视频-1776914635613.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/assets",
@@ -341,7 +342,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--创建两阶导.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名 1.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数",
