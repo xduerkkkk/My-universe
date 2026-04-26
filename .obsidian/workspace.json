@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道视频 的大纲"
+              "title": "02 880基础篇 的大纲"
             }
           },
           {
@@ -288,7 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,12 +311,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5e9eed3ac7f662f",
+  "active": "417abb66f5a20324",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "3.创造物/30.输出文章/AI/LLM/deepseek-V4.md",
+    "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
+    "assets/image/deepseek-V4-1777118098317.jpeg",
+    "assets/image/deepseek-V4-1777118012082.jpeg",
+    "assets/image/deepseek-V4-1777117712930.jpeg",
+    "3.创造物/30.输出文章/AI/LLM/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md",
     "assets/image/01王道视频-1777107196733.jpeg",
     "assets/image/01王道视频-1777106671462.jpeg",
@@ -325,9 +331,6 @@
     "assets/image/01王道视频-1777105306000.jpeg",
     "assets/image/01王道视频-1777105158276.jpeg",
     "assets/image/01王道视频-1777105123970.jpeg",
-    "assets/image/01王道视频-1777104993484.jpeg",
-    "assets/image/01王道视频-1777103526531.jpeg",
-    "assets/image/01王道视频-1777103273655.jpeg",
     "1.工作流/10.日记文件/2026-04-25 周六.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
@@ -347,19 +350,16 @@
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/01基础视频.md",
     "1.工作流/10.日记文件/2026-04-23 周四.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "3.创造物/30.输出文章/AI/LLM/deepseek-V4.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/导数.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
