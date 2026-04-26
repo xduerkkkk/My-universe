@@ -181,7 +181,7 @@ $$ y = \gamma \cdot \text{Normalized}(x) + \beta $$
 
 
 总的来说，整个流程是
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763624493165.jpeg)
+![16](../../../../../assets1/image/Transformer架构：组装我们的零件-1763624493165.jpeg)
 ![](assets/EncoderBlock.drawio%20(1).svg)
 
 

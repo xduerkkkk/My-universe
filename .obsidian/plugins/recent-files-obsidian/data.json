@@ -5,8 +5,28 @@
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
     },
     {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
+    },
+    {
+      "basename": "DecoderBlock.drawio (2)",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/assets/DecoderBlock.drawio (2).svg"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
+    },
+    {
       "basename": "deepseek-V4",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
+    },
+    {
+      "basename": "04Transformer的缺陷及改进",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/04Transformer的缺陷及改进.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
     },
     {
       "basename": "v4公式",
@@ -17,16 +37,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
     },
     {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
       "basename": "01王道视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
     {
       "basename": "从0到1理解反向传播与自动微分",
@@ -187,18 +199,6 @@
     {
       "basename": "背单词相近词辨析2",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md"
-    },
-    {
-      "basename": "背单词相近词辨析3",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md"
-    },
-    {
-      "basename": "基础阶段（29-35）",
-      "path": "1.工作流/10.日记文件/基础阶段（29-35）.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md"
     }
   ],
   "omittedPaths": [],
