@@ -15,12 +15,12 @@ To enhance long context efficiency, we design a hybrid attention mechanism combi
 
 
 
-
-
 .  **“where $c$ is the head dimension” 是什么意思？**
     *   在大模型里，隐藏层维度（Hidden Size）通常很大（比如 $d=7168$）。为了让模型同时关注不同的信息，我们会把它拆成很多个“头”（Heads）。
     *   **$c$ 就是每个“头”自己的维度。** 比如有 128 个头，那 $c = 7168 / 128 = 56$。
     *   公式（9）和（10）做的事情，就是把原始的维度 $d$ 映射到一个更精简的维度 $c$ 上。
+
+
 
 2.  **你的图画得对吗？**
     *   **完全正确！** 逻辑非常清晰：原始矩阵 $H$（$n$ 行 $d$ 列）乘以权重矩阵 $W$（$d$ 行 $c$ 列），得到四个新矩阵。
