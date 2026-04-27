@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "28e405b7a86e7992",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "从0到1理解反向传播与自动微分"
-            }
-          },
-          {
             "id": "e5e9eed3ac7f662f",
             "type": "leaf",
             "pinned": true,
@@ -104,38 +88,21 @@
             }
           },
           {
-            "id": "1366bda26383636f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
-                "viewState": {
-                  "x": -1263.680183286009,
-                  "y": 917.4010010437204,
-                  "zoom": -0.05262422390031132
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "行列式矩阵思维导图"
-            }
-          },
-          {
-            "id": "67b1ecfbf0f1ac9e",
+            "id": "17caeea429954dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "00卡片"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔记 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -342,13 +309,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "67b1ecfbf0f1ac9e",
+  "active": "4333498724e2f89b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
     "1.工作流/10.日记文件/2026-04-27 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
     "assets/image/习题，1000题，880基础-1777260775417.jpeg",
     "assets/image/习题，1000题，880基础-1777260760078.jpeg",
     "assets/image/02 880基础篇-1777259878895.jpeg",
@@ -372,15 +342,12 @@
     "1.工作流/10.日记文件/基础阶段（52-58）Week8.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/04Transformer的缺陷及改进.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/assets",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读",
     "3.创造物/30.输出文章/AI/LLM/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些重要的式子.md",

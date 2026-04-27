@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
+    },
+    {
+      "basename": "00卡片",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
     },
     {
       "basename": "02 880基础篇",
@@ -15,6 +23,10 @@
     {
       "basename": "行列式矩阵思维导图",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
       "basename": "习题，1000题，880基础",
@@ -77,10 +89,6 @@
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
-    },
-    {
       "basename": "04Transformer的缺陷及改进",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/04Transformer的缺陷及改进.md"
     },
@@ -89,16 +97,8 @@
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
     },
     {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
-    },
-    {
       "basename": "从0到1理解反向传播与自动微分",
       "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
-    },
-    {
-      "basename": "00卡片",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md"
     },
     {
       "basename": "泰勒",
