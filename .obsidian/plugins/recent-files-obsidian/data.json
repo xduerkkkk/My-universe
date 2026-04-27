@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "03记录补足点",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
+    },
+    {
+      "basename": "01导师信息收集",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "02基础习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md"
-    },
-    {
-      "basename": "数字特征公式直觉",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/数字特征公式直觉.md"
-    },
-    {
-      "basename": "独立与相关",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/独立与相关.md"
     }
   ],
   "omittedPaths": [],
