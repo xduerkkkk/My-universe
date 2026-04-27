@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "v4草稿",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
+    },
+    {
+      "basename": "Drawing 2026-04-27 20.48.08.excalidraw",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/Drawing 2026-04-27 20.48.08.excalidraw.md"
+    },
+    {
+      "basename": "v4公式",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
+    },
+    {
+      "basename": "deepseek-V4",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
+    },
+    {
+      "basename": "2026-04-27 周一",
+      "path": "1.工作流/10.日记文件/2026-04-27 周一.md"
+    },
+    {
+      "basename": "00卡片",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md"
+    },
+    {
       "basename": "03记录补足点",
       "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
     },
@@ -13,20 +37,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
     {
-      "basename": "00卡片",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md"
-    },
-    {
       "basename": "01王道视频",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
     },
     {
       "basename": "02 880基础篇",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
-    },
-    {
-      "basename": "2026-04-27 周一",
-      "path": "1.工作流/10.日记文件/2026-04-27 周一.md"
     },
     {
       "basename": "行列式矩阵思维导图",
@@ -73,24 +89,12 @@
       "path": "1.工作流/10.日记文件/2026-04-25 周六.md"
     },
     {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
-    },
-    {
-      "basename": "v4草稿",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
-    },
-    {
       "basename": "基础阶段（52-58）Week8",
       "path": "1.工作流/10.日记文件/基础阶段（52-58）Week8.md"
     },
     {
       "basename": "DecoderBlock.drawio (2)",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/assets/DecoderBlock.drawio (2).svg"
-    },
-    {
-      "basename": "v4公式",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
     },
     {
       "basename": "03Transformer架构：组装我们的零件",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/未命名.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/02基础习题.md"
     }
   ],
   "omittedPaths": [],
