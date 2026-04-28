@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+      "basename": "03记录补足点",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
     },
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
     {
+      "basename": "v4草稿",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+    },
+    {
       "basename": "2026-04-28 周二",
       "path": "1.工作流/10.日记文件/2026-04-28 周二.md"
+    },
+    {
+      "basename": "deepseek-V4",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+    },
+    {
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+    },
+    {
+      "basename": "03思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md"
+    },
+    {
+      "basename": "梳理逻辑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
+    },
+    {
+      "basename": "英文",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md"
+    },
+    {
+      "basename": "IEEE整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md"
+    },
+    {
+      "basename": "视频初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md"
+    },
+    {
+      "basename": "书籍初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/书籍初步勘察.md"
     },
     {
       "basename": "习题，1000题，880基础",
@@ -19,18 +71,6 @@
     {
       "basename": "习题，1000题，880基础-1777348601791",
       "path": "assets/image/习题，1000题，880基础-1777348601791.jpeg"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
-    },
-    {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
     },
     {
       "basename": "思维导图--导数微分",
@@ -85,10 +125,6 @@
       "path": "1.工作流/10.日记文件/2026-04-27 周一.md"
     },
     {
-      "basename": "v4草稿",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
-    },
-    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
     },
@@ -123,14 +159,6 @@
     {
       "basename": "Drawing 2026-04-27 20.48.08.excalidraw",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/Drawing 2026-04-27 20.48.08.excalidraw.md"
-    },
-    {
-      "basename": "00卡片",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md"
-    },
-    {
-      "basename": "03记录补足点",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
     },
     {
       "basename": "01导师信息收集",
@@ -171,34 +199,6 @@
     {
       "basename": "从0到1理解反向传播与自动微分",
       "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
-    },
-    {
-      "basename": "一些重要的式子",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些重要的式子.md"
-    },
-    {
-      "basename": "古鲁金定理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/古鲁金定理.md"
-    },
-    {
-      "basename": "闭区间上连续函数的性质",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/闭区间上连续函数的性质.md"
-    },
-    {
-      "basename": "函数的连续性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/01基础视频.md"
-    },
-    {
-      "basename": "2026-04-24 周五",
-      "path": "1.工作流/10.日记文件/2026-04-24 周五.md"
-    },
-    {
-      "basename": "总结",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/总结.md"
     }
   ],
   "omittedPaths": [],

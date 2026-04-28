@@ -24,38 +24,6 @@
             }
           },
           {
-            "id": "e5e9eed3ac7f662f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道视频"
-            }
-          },
-          {
-            "id": "4333498724e2f89b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
             "id": "aefe402c90779fce",
             "type": "leaf",
             "pinned": true,
@@ -134,9 +102,55 @@
               "icon": "lucide-file",
               "title": "笔记"
             }
+          },
+          {
+            "id": "e5e9eed3ac7f662f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01王道视频"
+            }
+          },
+          {
+            "id": "4333498724e2f89b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "3d346e673c2044e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03记录补足点"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -219,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道视频 的大纲"
+              "title": "03记录补足点 的大纲"
             }
           },
           {
@@ -340,31 +354,42 @@
       "obsidian-language-learner:单词列表": false,
       "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e5e9eed3ac7f662f",
+  "active": "3d346e673c2044e0",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "1.工作流/10.日记文件/2026-04-28 周二.md",
+    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "assets/image/02王道题-1777365055999.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/书籍初步勘察.md",
+    "assets/image/01王道视频-1777361595457.jpeg",
+    "assets/image/01王道视频-1777361577087.jpeg",
+    "assets/image/01王道视频-1777361509625.jpeg",
     "assets/image/01王道视频-1777359974316.jpeg",
     "assets/image/01王道视频-1777359823169.jpeg",
     "assets/image/01王道视频-1777359700971.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-    "1.工作流/10.日记文件/2026-04-28 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
     "assets/image/习题，1000题，880基础-1777348611873.jpeg",
     "assets/image/习题，1000题，880基础-1777348601791.jpeg",
     "assets/image/习题，1000题，880基础-1777348432675.jpeg",
-    "assets/image/习题，1000题，880基础-1777347993946.jpeg",
-    "assets/image/习题，1000题，880基础-1777347988659.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
-    "assets/image/习题，1000题，880基础-1777347249568.jpeg",
-    "assets/image/习题，1000题，880基础-1777347239798.jpeg",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "assets/image/06-880-1777345271886.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
@@ -374,15 +399,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "1.工作流/10.日记文件/2026-04-27 周一.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/assets",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读",
@@ -392,7 +408,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/05中心极限，大数",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
