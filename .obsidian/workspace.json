@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "02bfccaa1a4adb16",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-04-27 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-04-27 周一"
-            }
-          },
-          {
             "id": "aefe402c90779fce",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +104,37 @@
             }
           },
           {
-            "id": "e2449a2e4d327580",
+            "id": "c1adf4902723041c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-04-28 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-04-28 周二"
+            }
+          },
+          {
+            "id": "3d0452527be82b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01王道笔记"
+              "title": "03微几何"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-27 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-27 周一 的大纲"
+              "title": "03微几何 的大纲"
             }
           },
           {
@@ -341,11 +341,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "02bfccaa1a4adb16",
+  "active": "3d0452527be82b5c",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "1.工作流/10.日记文件/2026-04-28 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "assets/image/06-880-1777344016906.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/05微分物理，经济应用.md",
+    "assets/image/06-880-1777343423348.jpeg",
+    "assets/image/06-880-1777343406551.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
+    "assets/image/换元法-1777339285567.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "1.工作流/10.日记文件/2026-04-27 周一.md",
+    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
@@ -357,30 +374,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/Drawing 2026-04-27 20.48.08.excalidraw.md",
     "assets/image/v4草稿-1777291568486.jpeg",
     "assets/image/v4草稿-1777291308734.jpeg",
     "assets/image/v4草稿-1777290219298.jpeg",
     "assets/image/v4草稿-1777289463544.jpeg",
     "assets/image/v4草稿-1777288531648.jpeg",
     "assets/image/v4草稿-1777288194359.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片.md",
-    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
-    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
-    "assets/image/02王道题-1777275106316.jpeg",
-    "assets/image/02王道题-1777274319919.jpeg",
-    "assets/image/02王道题-1777274307826.jpeg",
-    "assets/image/02王道题-1777273638042.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "4.不常用/模板文件/日记模板.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/assets",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读",
     "3.创造物/30.输出文章/AI/LLM/assets",
@@ -397,7 +397,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas"
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas"
   ]
 }
