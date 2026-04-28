@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "v4草稿",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
+    },
+    {
+      "basename": "v4公式",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
+    },
+    {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
+    },
+    {
+      "basename": "deepseek-V4",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
+    },
+    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "mocha",
+      "path": "3.创造物/31. 我的项目/mocha.md"
     },
     {
       "basename": "2026-04-28 周二",
@@ -17,20 +45,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
-    },
-    {
       "basename": "03记录补足点",
       "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
-    },
-    {
-      "basename": "v4草稿",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
-    },
-    {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
     },
     {
       "basename": "01王道视频",
@@ -129,10 +145,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
     },
     {
-      "basename": "v4公式",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
-    },
-    {
       "basename": "泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
     },
@@ -185,20 +197,8 @@
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/assets/DecoderBlock.drawio (2).svg"
     },
     {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
-    },
-    {
       "basename": "04Transformer的缺陷及改进",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/04Transformer的缺陷及改进.md"
-    },
-    {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
     }
   ],
   "omittedPaths": [],
