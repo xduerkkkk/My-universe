@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "417abb66f5a20324",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 880基础篇"
-            }
-          },
-          {
             "id": "aefe402c90779fce",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +104,53 @@
             }
           },
           {
-            "id": "3d0452527be82b5c",
+            "id": "109f470707c1f966",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "06-880"
+            }
+          },
+          {
+            "id": "23601cd7940ba604",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "笔记"
+            }
+          },
+          {
+            "id": "46577fc6d3afc643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03微几何"
+              "title": "习题，1000题，880基础"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03微几何 的大纲"
+              "title": "习题，1000题，880基础 的大纲"
             }
           },
           {
@@ -341,25 +357,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3d0452527be82b5c",
+  "active": "46577fc6d3afc643",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "assets/image/习题，1000题，880基础-1777348611873.jpeg",
+    "assets/image/习题，1000题，880基础-1777348601791.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
+    "assets/image/习题，1000题，880基础-1777348432675.jpeg",
+    "assets/image/习题，1000题，880基础-1777347993946.jpeg",
+    "assets/image/习题，1000题，880基础-1777347988659.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "assets/image/习题，1000题，880基础-1777347249568.jpeg",
+    "assets/image/习题，1000题，880基础-1777347239798.jpeg",
     "1.工作流/10.日记文件/2026-04-28 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
+    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "assets/image/06-880-1777345271886.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
     "assets/image/06-880-1777344016906.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/05微分物理，经济应用.md",
     "assets/image/06-880-1777343423348.jpeg",
     "assets/image/06-880-1777343406551.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/01书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
-    "assets/image/换元法-1777339285567.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "1.工作流/10.日记文件/2026-04-27 周一.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md",
@@ -367,19 +393,10 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
-    "assets/image/v4草稿-1777291568486.jpeg",
-    "assets/image/v4草稿-1777291308734.jpeg",
-    "assets/image/v4草稿-1777290219298.jpeg",
-    "assets/image/v4草稿-1777289463544.jpeg",
-    "assets/image/v4草稿-1777288531648.jpeg",
-    "assets/image/v4草稿-1777288194359.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/assets",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读",

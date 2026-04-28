@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
+      "basename": "习题，1000题，880基础",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md"
     },
     {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
+      "basename": "习题，1000题，880基础-1777348601791",
+      "path": "assets/image/习题，1000题，880基础-1777348601791.jpeg"
     },
     {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+    },
+    {
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
     },
     {
       "basename": "2026-04-28 周二",
       "path": "1.工作流/10.日记文件/2026-04-28 周二.md"
     },
     {
-      "basename": "换元法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
+      "basename": "deepseek-V4",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
     },
     {
       "basename": "思维导图--导数微分",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "02 880基础篇",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "换元法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
     },
     {
       "basename": "01极限--张宇基础30讲",
@@ -31,14 +55,6 @@
     {
       "basename": "00函数--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md"
-    },
-    {
-      "basename": "02 880基础篇",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
     },
     {
       "basename": "05微分物理，经济应用",
@@ -79,10 +95,6 @@
     {
       "basename": "v4公式",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
-    },
-    {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
     },
     {
       "basename": "泰勒",
@@ -127,14 +139,6 @@
     {
       "basename": "行列式矩阵思维导图",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
-    },
-    {
-      "basename": "习题，1000题，880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md"
     },
     {
       "basename": "日记模板",
@@ -195,10 +199,6 @@
     {
       "basename": "总结",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/00卡片/总结.md"
-    },
-    {
-      "basename": "视频初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md"
     }
   ],
   "omittedPaths": [],
