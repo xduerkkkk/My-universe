@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
+    },
+    {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md"
     },
     {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+    },
+    {
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+    },
+    {
+      "basename": "2026-04-29 周三",
+      "path": "1.工作流/10.日记文件/2026-04-29 周三.md"
+    },
+    {
+      "basename": "03Transformer架构：组装我们的零件",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
+    },
+    {
+      "basename": "02对Attention机制的深度可视化解剖",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
+    },
+    {
+      "basename": "看见矩阵（一）",
+      "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
+    },
+    {
+      "basename": "v4草稿",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
+    },
+    {
+      "basename": "‘我想看谷歌的首页’",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md"
     },
     {
       "basename": "习题与1000题",
@@ -19,10 +55,6 @@
     {
       "basename": "习题，1000题，880基础",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md"
-    },
-    {
-      "basename": "2026-04-29 周三",
-      "path": "1.工作流/10.日记文件/2026-04-29 周三.md"
     },
     {
       "basename": "一些小点",
@@ -39,10 +71,6 @@
     {
       "basename": "02 880基础篇",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
     },
     {
       "basename": "05微分物理，经济应用",
@@ -69,24 +97,12 @@
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
     },
     {
-      "basename": "v4草稿",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
-    },
-    {
       "basename": "v4公式",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
     },
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
-    },
-    {
-      "basename": "02对Attention机制的深度可视化解剖",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md"
-    },
-    {
-      "basename": "03Transformer架构：组装我们的零件",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
     },
     {
       "basename": "0000随便丢收集箱",
@@ -183,22 +199,6 @@
     {
       "basename": "求间断点",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md"
-    },
-    {
-      "basename": "求极限基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求极限基础.md"
-    },
-    {
-      "basename": "幂指数求极限",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md"
-    },
-    {
-      "basename": "Drawing 2026-04-27 20.48.08.excalidraw",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/Drawing 2026-04-27 20.48.08.excalidraw.md"
-    },
-    {
-      "basename": "01导师信息收集",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
     }
   ],
   "omittedPaths": [],
