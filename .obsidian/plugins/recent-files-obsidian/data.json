@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md"
+    },
+    {
+      "basename": "v4公式",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
+    },
+    {
+      "basename": "deepseek-V4",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/未命名.md"
+    },
+    {
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+    },
+    {
+      "basename": "面向文档版面理解的视觉语言建模实践",
+      "path": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md"
+    },
+    {
+      "basename": "mocha",
+      "path": "3.创造物/31. 我的项目/mocha.md"
+    },
+    {
+      "basename": "postgreSQL-数据库实践报告",
+      "path": "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md"
+    },
+    {
+      "basename": "大模型打榜",
+      "path": "3.创造物/31. 我的项目/大模型打榜.md"
+    },
+    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
     },
@@ -17,10 +53,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
-    },
-    {
       "basename": "03Transformer架构：组装我们的零件",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md"
     },
@@ -31,10 +63,6 @@
     {
       "basename": "看见矩阵（一）",
       "path": "3.创造物/30.输出文章/数学/看见矩阵（一）.md"
-    },
-    {
-      "basename": "v4草稿",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4草稿.md"
     },
     {
       "basename": "‘我想看谷歌的首页’",
@@ -93,24 +121,12 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
-    },
-    {
-      "basename": "v4公式",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "mocha",
-      "path": "3.创造物/31. 我的项目/mocha.md"
     },
     {
       "basename": "03记录补足点",
@@ -183,22 +199,6 @@
     {
       "basename": "2026-04-27 周一",
       "path": "1.工作流/10.日记文件/2026-04-27 周一.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
-    },
-    {
-      "basename": "等价无穷小",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
-    },
-    {
-      "basename": "洛必达",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md"
-    },
-    {
-      "basename": "求间断点",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/求间断点.md"
     }
   ],
   "omittedPaths": [],
