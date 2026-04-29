@@ -56,20 +56,6 @@
             }
           },
           {
-            "id": "04554ab0c3ab607d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "v4公式"
-            }
-          },
-          {
             "id": "109f470707c1f966",
             "type": "leaf",
             "pinned": true,
@@ -132,23 +118,9 @@
               "icon": "lucide-file",
               "title": "01王道笔记"
             }
-          },
-          {
-            "id": "3aed1d23d9fdfdfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拿接下来",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
+                "file": "1.工作流/10.日记文件/2026-04-29 周三.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力 的大纲"
+              "title": "2026-04-29 周三 的大纲"
             }
           },
           {
@@ -333,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,26 +328,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3aed1d23d9fdfdfa",
+  "active": "d8468c908ca06f81",
   "lastOpenFiles": [
+    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "1.工作流/10.日记文件/2026-04-29 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
     "assets/image/v4草稿-1777463975877.jpeg",
     "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
     "3.创造物/31. 我的项目/mocha.md",
     "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md",
     "3.创造物/31. 我的项目/大模型打榜.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "assets/image/01王道笔记-1777454457170.jpeg",
     "assets/image/01王道笔记-1777454264865.jpeg",
     "assets/image/01王道笔记-1777454255874.jpeg",
     "assets/image/01王道笔记-1777454246436.jpeg",
-    "1.工作流/10.日记文件/2026-04-29 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "assets/image/01王道笔记-1777449433355.jpeg",
     "assets/image/01王道笔记-1777448613410.jpeg",
     "3.创造物/30.输出文章/AI/LLM/transformer/03Transformer架构：组装我们的零件.md",
