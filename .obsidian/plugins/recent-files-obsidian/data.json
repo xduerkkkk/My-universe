@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+    },
+    {
+      "basename": "2026-04-29 周三",
+      "path": "1.工作流/10.日记文件/2026-04-29 周三.md"
+    },
+    {
+      "basename": "一些小点",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些小点.md"
     },
     {
       "basename": "2026-04-28 周二",
       "path": "1.工作流/10.日记文件/2026-04-28 周二.md"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
     },
     {
       "basename": "deepseek-V4",
@@ -19,14 +51,6 @@
     {
       "basename": "习题，1000题，880基础",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
       "basename": "v4草稿",
@@ -101,20 +125,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas"
     },
     {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
       "basename": "02 880基础篇",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
     },
     {
       "basename": "换元法",
@@ -153,10 +165,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
     },
     {
-      "basename": "泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/泰勒.md"
-    },
-    {
       "basename": "等价无穷小",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-25 周六",
       "path": "1.工作流/10.日记文件/2026-04-25 周六.md"
-    },
-    {
-      "basename": "基础阶段（52-58）Week8",
-      "path": "1.工作流/10.日记文件/基础阶段（52-58）Week8.md"
-    },
-    {
-      "basename": "DecoderBlock.drawio (2)",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/assets/DecoderBlock.drawio (2).svg"
     }
   ],
   "omittedPaths": [],
