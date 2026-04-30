@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-880 的大纲"
+              "title": "01王道笔记 的大纲"
             }
           },
           {
@@ -323,10 +323,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "273124935c9346dd",
+  "active": "1008a5b34ce290df",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "1.工作流/10.日记文件/2026-04-30 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "assets/image/01王道笔记-1777537875038.jpeg",
+    "assets/image/01王道笔记-1777533912188.jpeg",
+    "assets/image/01王道笔记-1777533735327.jpeg",
+    "assets/image/01王道笔记-1777533589911.jpeg",
+    "assets/image/01王道笔记-1777532738884.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
     "assets/image/06-880-1777521024257.jpeg",
     "assets/image/06-880-1777520985005.jpeg",
     "assets/image/06-880-1777520714646.jpeg",
@@ -334,21 +342,13 @@
     "assets/image/06-880-1777520220940.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
-    "1.工作流/10.日记文件/2026-04-30 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
-    "assets/image/06-880-1777518409278.jpeg",
-    "assets/image/06-880-1777518405875.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "assets/image/换元法-1777517024000.jpeg",
-    "assets/image/换元法-1777517006771.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "1.工作流/10.日记文件/2026-04-29 周三.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/未命名.md",
-    "assets/image/v4草稿-1777463975877.jpeg",
     "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
     "3.创造物/31. 我的项目/mocha.md",
     "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md",
@@ -362,7 +362,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
