@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-04-29 周三",
-      "path": "1.工作流/10.日记文件/2026-04-29 周三.md"
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
     },
     {
-      "basename": "DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md"
+      "basename": "02 880基础篇",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
+    },
+    {
+      "basename": "2026-04-30 周四",
+      "path": "1.工作流/10.日记文件/2026-04-30 周四.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
     },
     {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+      "basename": "换元法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
     },
     {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+      "basename": "简单积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md"
+    },
+    {
+      "basename": "2026-04-29 周三",
+      "path": "1.工作流/10.日记文件/2026-04-29 周三.md"
+    },
+    {
+      "basename": "DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力",
+      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md"
     },
     {
       "basename": "v4公式",
@@ -87,18 +111,6 @@
     {
       "basename": "一些小点",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些小点.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
-    },
-    {
-      "basename": "02 880基础篇",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md"
     },
     {
       "basename": "05微分物理，经济应用",
@@ -173,10 +185,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas"
     },
     {
-      "basename": "换元法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
-    },
-    {
       "basename": "01极限--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "高数--极限",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf"
-    },
-    {
-      "basename": "简单积分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md"
-    },
-    {
-      "basename": "2026-04-27 周一",
-      "path": "1.工作流/10.日记文件/2026-04-27 周一.md"
     }
   ],
   "omittedPaths": [],
