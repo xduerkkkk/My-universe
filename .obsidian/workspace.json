@@ -183,8 +183,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-04-29 周三.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-29 周三 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -328,7 +327,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d8468c908ca06f81",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
