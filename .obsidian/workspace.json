@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道笔记 的大纲"
+              "title": "06-880 的大纲"
             }
           },
           {
@@ -323,11 +323,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1008a5b34ce290df",
+  "active": "273124935c9346dd",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "1.工作流/10.日记文件/2026-04-29 周三.md",
     "1.工作流/10.日记文件/2026-04-30 周四.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "assets/image/01王道笔记-1777540154693.jpeg",
+    "assets/image/01王道笔记-1777539714172.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "assets/image/01王道笔记-1777537875038.jpeg",
     "assets/image/01王道笔记-1777533912188.jpeg",
     "assets/image/01王道笔记-1777533735327.jpeg",
@@ -338,13 +341,10 @@
     "assets/image/06-880-1777521024257.jpeg",
     "assets/image/06-880-1777520985005.jpeg",
     "assets/image/06-880-1777520714646.jpeg",
-    "assets/image/06-880-1777520231247.jpeg",
-    "assets/image/06-880-1777520220940.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "1.工作流/10.日记文件/2026-04-29 周三.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/DeepSeek-V4 究竟快在哪里？硬核图解 V4 的混合注意力.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md",
     "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md",
