@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "54e36abf618f354c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-01 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-01 周五"
+            }
+          },
+          {
             "id": "109f470707c1f966",
             "type": "leaf",
             "pinned": true,
@@ -72,51 +88,23 @@
             }
           },
           {
-            "id": "54e36abf618f354c",
+            "id": "d20956b56f363b27",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-01 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-05-01 周五"
-            }
-          },
-          {
-            "id": "24f9a709aeedacca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "笔记"
-            }
-          },
-          {
-            "id": "9b2a265c400ff9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "习题，1000题，880基础"
+              "title": "02王道题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "习题，1000题，880基础 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -323,13 +311,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b2a265c400ff9c4",
+  "active": "d20956b56f363b27",
   "lastOpenFiles": [
-    "assets/image/习题，1000题，880基础-1777607316628.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "1.工作流/10.日记文件/2026-05-01 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/睡眠.md",
+    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
+    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "1.工作流/10.日记文件/2026-05-01 周五.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "assets/image/01王道笔记-1777620320472.jpeg",
+    "assets/image/01王道笔记-1777619710743.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
+    "assets/image/习题，1000题，880基础-1777607316628.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
     "assets/image/06-880-1777605501539.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/05微分物理，经济应用.md",
@@ -344,24 +343,14 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/睡眠.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
     "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/身体OS.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/衣服.md",
-    "1.工作流/10.日记文件/2026-04-30 周四.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
-    "1.工作流/10.日记文件/2026-04-29 周三.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
     "assets/image/01王道笔记-1777540154693.jpeg",
     "assets/image/01王道笔记-1777539714172.jpeg",
     "assets/image/01王道笔记-1777537875038.jpeg",
     "assets/image/01王道笔记-1777533912188.jpeg",
     "assets/image/01王道笔记-1777533735327.jpeg",
-    "assets/image/01王道笔记-1777533589911.jpeg",
-    "assets/image/01王道笔记-1777532738884.jpeg",
-    "assets/image/06-880-1777521024257.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
@@ -372,7 +361,6 @@
     "3.创造物/30.输出文章/AI/LLM/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/assets",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/06数理统计基本概念/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
