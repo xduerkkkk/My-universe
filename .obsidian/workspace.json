@@ -88,31 +88,31 @@
             }
           },
           {
-            "id": "a9c73949f100859a",
+            "id": "f686a9bd01b8de31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03微几何"
+              "title": "背单词相近词辨析6"
             }
           },
           {
-            "id": "273124935c9346dd",
+            "id": "3498448738d2c556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+                "file": "1.工作流/10.日记文件/2026-04-30 周四.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-880"
+              "title": "2026-04-30 周四"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+                "file": "1.工作流/10.日记文件/2026-04-30 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-880 的大纲"
+              "title": "2026-04-30 周四 的大纲"
             }
           },
           {
@@ -323,25 +323,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "273124935c9346dd",
+  "active": "3498448738d2c556",
   "lastOpenFiles": [
     "1.工作流/10.日记文件/2026-04-29 周三.md",
     "1.工作流/10.日记文件/2026-04-30 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4 (conflict 2026-04-19-13-53-13).md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
     "assets/image/01王道笔记-1777540154693.jpeg",
     "assets/image/01王道笔记-1777539714172.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "assets/image/01王道笔记-1777537875038.jpeg",
     "assets/image/01王道笔记-1777533912188.jpeg",
     "assets/image/01王道笔记-1777533735327.jpeg",
     "assets/image/01王道笔记-1777533589911.jpeg",
     "assets/image/01王道笔记-1777532738884.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
     "assets/image/06-880-1777521024257.jpeg",
     "assets/image/06-880-1777520985005.jpeg",
     "assets/image/06-880-1777520714646.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
@@ -358,10 +362,7 @@
     "3.创造物/30.输出文章/AI/LLM/transformer/02对Attention机制的深度可视化解剖.md",
     "3.创造物/30.输出文章/数学/看见矩阵（一）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
