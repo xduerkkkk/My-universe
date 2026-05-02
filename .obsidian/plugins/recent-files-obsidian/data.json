@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md"
+    },
+    {
+      "basename": "2026-05-02 周六",
+      "path": "1.工作流/10.日记文件/2026-05-02 周六.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
+    },
+    {
+      "basename": "特殊IP",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/特殊IP.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
+    },
+    {
+      "basename": "06-880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
+    },
+    {
       "basename": "01导师信息收集",
       "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
+    },
+    {
+      "basename": "行列式矩阵思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas"
     },
     {
       "basename": "习题，1000题，880基础",
@@ -23,18 +51,6 @@
     {
       "basename": "古鲁金定理",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/古鲁金定理.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md"
-    },
-    {
-      "basename": "2026-05-02 周六",
-      "path": "1.工作流/10.日记文件/2026-05-02 周六.md"
     },
     {
       "basename": "面向文档版面理解的视觉语言建模实践",
@@ -65,10 +81,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md"
     },
     {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
-    },
-    {
       "basename": "基础阶段（52-58）Week8",
       "path": "1.工作流/10.日记文件/基础阶段（52-58）Week8.md"
     },
@@ -95,10 +107,6 @@
     {
       "basename": "梳理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md"
     },
     {
       "basename": "04微不等式",
@@ -191,14 +199,6 @@
     {
       "basename": "v4公式",
       "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/v4公式.md"
-    },
-    {
-      "basename": "deepseek-V4",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/deepseek-V4.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/未命名.md"
     }
   ],
   "omittedPaths": [],
