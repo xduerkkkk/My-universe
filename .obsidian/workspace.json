@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "54e36abf618f354c",
+            "id": "61497252e7ddb106",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-01 周五.md",
+                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-05-01 周五"
+              "title": "面向文档版面理解的视觉语言建模实践"
             }
           },
           {
@@ -104,21 +104,23 @@
             }
           },
           {
-            "id": "61497252e7ddb106",
+            "id": "1e9776fd579ba06c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "1.工作流/10.日记文件/2026-05-02 周六.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "面向文档版面理解的视觉语言建模实践"
+              "title": "2026-05-02 周六"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面向文档版面理解的视觉语言建模实践 的大纲"
+              "title": "06-880 的大纲"
             }
           },
           {
@@ -241,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -251,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2001 的反向链接列表"
+              "title": "06-880 的反向链接列表"
             }
           },
           {
@@ -260,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-03-19 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-03-19 周四 的出链列表"
+              "title": "06-880 的出链列表"
             }
           },
           {
@@ -297,12 +299,22 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0a97343c8a56ad80",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,59 +334,60 @@
       "obsidian-language-learner:单词列表": false,
       "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "61497252e7ddb106",
+  "active": "109f470707c1f966",
   "lastOpenFiles": [
+    "assets/image/06-880-1777690116945.jpeg",
+    "assets/image/06-880-1777689129944.jpeg",
+    "1.工作流/10.日记文件/2026-05-02 周六.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md",
+    "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/两个重要极限.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/极限的本质.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
+    "assets/image/06-880-1777687641680.jpeg",
+    "copilot/copilot-conversations/总结请求@20260502_100031.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
-    "1.工作流/10.日记文件/2026-05-01 周五.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/睡眠.md",
-    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
-    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
+    "1.工作流/10.日记文件/基础阶段（52-58）Week8.md",
+    "copilot/copilot-conversations/四月总结请求@20260502_095835.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/常见的定理条件配置.md",
+    "copilot/copilot-conversations/desktop.ini",
+    "copilot/copilot-conversations/API_Error_and_April_Summary@20260502_095319.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
     "assets/image/01王道笔记-1777620320472.jpeg",
     "assets/image/01王道笔记-1777619710743.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/习题，1000题，880基础.md",
     "assets/image/习题，1000题，880基础-1777607316628.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
     "assets/image/06-880-1777605501539.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/05微分物理，经济应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/单调性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/导数的定义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/微分的定义.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "assets/image/06-880-1777604260895.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/能量匹配策略.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/护肤、护发.md",
-    "0.核心/01.学习操作系统My_OS/2.精力与健康OS/精力管理.md",
     "assets/image/01王道笔记-1777540154693.jpeg",
     "assets/image/01王道笔记-1777539714172.jpeg",
     "assets/image/01王道笔记-1777537875038.jpeg",
-    "assets/image/01王道笔记-1777533912188.jpeg",
-    "assets/image/01王道笔记-1777533735327.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读/assets",
-    "3.创造物/30.输出文章/AI/LLM/transformer/DeepSeek解读",
-    "3.创造物/30.输出文章/AI/LLM/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计/assets",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/07参数估计",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
