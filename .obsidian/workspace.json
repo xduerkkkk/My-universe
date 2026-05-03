@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "1.工作流/10.日记文件/2026-05-02 周六.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面向文档版面理解的视觉语言建模实践 的大纲"
+              "title": "2026-05-02 周六 的大纲"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "4.不常用/002个人信息/信息记录.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "面向文档版面理解的视觉语言建模实践 的反向链接列表"
+              "title": "信息记录 的反向链接列表"
             }
           },
           {
@@ -262,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "4.不常用/002个人信息/信息记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "面向文档版面理解的视觉语言建模实践 的出链列表"
+              "title": "信息记录 的出链列表"
             }
           },
           {
@@ -314,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,8 +338,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "61497252e7ddb106",
+  "active": "1e9776fd579ba06c",
   "lastOpenFiles": [
+    "4.不常用/002个人信息/信息记录.md",
+    "3.创造物/31. 我的项目/b测.md",
+    "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "1.工作流/10.日记文件/2026-05-02 周六.md",
@@ -362,7 +365,6 @@
     "assets/image/06-880-1777691246222.jpeg",
     "assets/image/06-880-1777690116945.jpeg",
     "assets/image/06-880-1777689129944.jpeg",
-    "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/书籍对齐.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/两个重要极限.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/函数的连续性.md",
@@ -379,7 +381,6 @@
     "copilot/copilot-conversations/API_Error_and_April_Summary@20260502_095319.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片",
