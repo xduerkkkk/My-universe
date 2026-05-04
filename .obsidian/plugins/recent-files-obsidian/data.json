@@ -5,12 +5,20 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
     },
     {
-      "basename": "梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md"
+    },
+    {
+      "basename": "03记录补足点",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
+    },
+    {
+      "basename": "考研英语时间线",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
+    },
+    {
+      "basename": "梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
     },
     {
       "basename": "2026-05-04 周一",
@@ -189,16 +197,8 @@
       "path": "0.核心/01.学习操作系统My_OS/2.精力与健康OS/睡眠.md"
     },
     {
-      "basename": "03记录补足点",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
-    },
-    {
       "basename": "00-整个考研",
       "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "单调性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/单调性.md"
     }
   ],
   "omittedPaths": [],
