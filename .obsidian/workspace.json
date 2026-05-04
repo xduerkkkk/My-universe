@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.创造物/31. 我的项目/面向文档版面理解的视觉语言建模实践.md",
+                "file": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "面向文档版面理解的视觉语言建模实践"
+              "title": "草稿"
             }
           },
           {
@@ -109,16 +109,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
+                "file": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03记录补足点"
+              "title": "正文"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+                "file": "1.工作流/10.日记文件/2026-05-04 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道笔记 的大纲"
+              "title": "2026-05-04 周一 的大纲"
             }
           },
           {
@@ -336,13 +336,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1008a5b34ce290df",
+  "active": "5ba1ef3e3ee6efe0",
   "lastOpenFiles": [
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模",
+    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
+    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "assets/image/01王道笔记-1777886276212.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "assets/image/01王道笔记-1777885185822.jpeg",
-    "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md",
     "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
     "1.工作流/10.日记文件/2026-05-04 周一.md",
@@ -367,14 +372,10 @@
     "assets/image/06-880-1777861966008.jpeg",
     "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
     "assets/image/04微不等式-1777861805393.jpeg",
-    "assets/image/04微不等式-1777861795231.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/01行列式/笔记.md",
-    "1.工作流/10.日记文件/2026-05-02 周六.md",
-    "1.工作流/10.日记文件/基础阶段（52-58）Week8.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "copilot/memory",
@@ -385,7 +386,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
