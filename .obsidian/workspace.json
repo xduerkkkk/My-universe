@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-05 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-05 周二 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -322,24 +322,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a9d049d80b9454a3",
+  "active": "d20956b56f363b27",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "1.工作流/10.日记文件/2026-05-05 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "assets/image/01王道笔记-1777973345208.jpeg",
+    "assets/image/01王道笔记-1777973331320.jpeg",
+    "assets/image/01王道笔记-1777973144099.jpeg",
+    "assets/image/01王道笔记-1777972273432.jpeg",
+    "assets/image/01王道笔记-1777971494366.jpeg",
     "assets/image/01王道笔记-1777969267933.jpeg",
     "assets/image/01王道笔记-1777969016199.jpeg",
     "assets/image/01王道笔记-1777968338658.jpeg",
     "assets/image/01王道笔记-1777968077975.jpeg",
     "assets/image/01王道笔记-1777967705904.jpeg",
-    "assets/image/01王道笔记-1777967126263.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-    "1.工作流/10.日记文件/2026-05-05 周二.md",
-    "assets/image/01王道笔记-1777965961092.jpeg",
-    "assets/image/01王道笔记-1777965171746.jpeg",
-    "assets/image/01王道笔记-1777965144380.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "assets/image/习题与1000题-1777953738829.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
@@ -360,7 +361,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--是否是另一子网.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "copilot/memory",
