@@ -120,21 +120,33 @@
             }
           },
           {
-            "id": "ebcd51e97e388100",
+            "id": "ee1117fb1c45edd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "判断一个协议属于哪一层"
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "e1f41b9669b95890",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-06 17.14.17.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 257.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -207,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "Drawing 2026-05-06 17.14.17.excalidraw 的大纲"
             }
           },
           {
@@ -342,27 +354,31 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "e1f41b9669b95890",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-05-06 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md",
+    "assets/image/02王道题-1778057754929.jpeg",
     "assets/image/01王道笔记-1778055902862.jpeg",
     "assets/image/01王道笔记-1778055845632.jpeg",
     "assets/image/01王道笔记-1778055706044.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "assets/image/01王道笔记-1778055226877.jpeg",
     "assets/image/01王道笔记-1778053750077.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
     "assets/image/01王道笔记-1778052905917.jpeg",
-    "1.工作流/10.日记文件/2026-05-06 周三.md",
     "assets/image/02王道题-1778051737763.jpeg",
     "assets/image/习题与1000题-1778040017054.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
     "assets/image/习题与1000题-1778039166429.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "assets/image/05 880-1778037990574.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
@@ -377,9 +393,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "0.核心/02.心智急救包/观念.md",
     "0.核心/02.心智急救包/封存档案.md",
-    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
-    "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md",
-    "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
