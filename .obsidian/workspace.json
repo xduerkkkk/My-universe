@@ -120,33 +120,21 @@
             }
           },
           {
-            "id": "ee1117fb1c45edd2",
+            "id": "a4f8f4e03f3c794e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
-            "id": "e1f41b9669b95890",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-06 17.14.17.excalidraw"
+              "title": "背单词相近词辨析8"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-05-06 17.14.17.excalidraw 的大纲"
+              "title": "背单词相近词辨析8 的大纲"
             }
           },
           {
@@ -354,15 +342,30 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e1f41b9669b95890",
+  "active": "a4f8f4e03f3c794e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
+    "3.创造物/31. 我的项目/QPSK已调信号生成.md",
+    "1.工作流/10.日记文件/2026-05-06 周三.md",
+    "3.创造物/31. 我的项目/b测.md",
+    "3.创造物/31. 我的项目/b测代码.md",
+    "3.创造物/31. 我的项目/发言草稿.md",
+    "assets/image/未命名-1778069340643.jpeg",
+    "assets/image/未命名-1778069035627.jpeg",
+    "4.不常用/002个人信息/信息记录.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "1.工作流/10.日记文件/2026-05-06 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md",
@@ -374,25 +377,10 @@
     "assets/image/01王道笔记-1778053750077.jpeg",
     "assets/image/01王道笔记-1778052905917.jpeg",
     "assets/image/02王道题-1778051737763.jpeg",
-    "assets/image/习题与1000题-1778040017054.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
-    "assets/image/习题与1000题-1778039166429.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些重要的式子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
-    "1.工作流/10.日记文件/2026-05-05 周二.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/00串联卡片/一些小点.md",
-    "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
-    "0.核心/02.心智急救包/观念.md",
-    "0.核心/02.心智急救包/封存档案.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",

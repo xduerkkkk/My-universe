@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2026-05-06 17.14.17.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
+      "basename": "背单词相近词辨析8",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md"
+    },
+    {
+      "basename": "背单词相近词辨析7",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md"
+    },
+    {
+      "basename": "背单词相近词辨析5",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md"
+    },
+    {
+      "basename": "背单词相近词辨析4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md"
+    },
+    {
+      "basename": "背单词相近词辨析6",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md"
+    },
+    {
+      "basename": "QPSK已调信号生成",
+      "path": "3.创造物/31. 我的项目/QPSK已调信号生成.md"
+    },
+    {
+      "basename": "2026-05-06 周三",
+      "path": "1.工作流/10.日记文件/2026-05-06 周三.md"
+    },
+    {
+      "basename": "b测",
+      "path": "3.创造物/31. 我的项目/b测.md"
+    },
+    {
+      "basename": "b测代码",
+      "path": "3.创造物/31. 我的项目/b测代码.md"
+    },
+    {
+      "basename": "发言草稿",
+      "path": "3.创造物/31. 我的项目/发言草稿.md"
+    },
+    {
+      "basename": "信息记录",
+      "path": "4.不常用/002个人信息/信息记录.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "01导师信息收集",
+      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
     },
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md"
+    },
+    {
+      "basename": "Drawing 2026-05-06 17.14.17.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
     },
     {
       "basename": "视频勘察",
@@ -23,10 +79,6 @@
     {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
-    },
-    {
-      "basename": "2026-05-06 周三",
-      "path": "1.工作流/10.日记文件/2026-05-06 周三.md"
     },
     {
       "basename": "05 880",
@@ -83,10 +135,6 @@
     {
       "basename": "2026-05-05 周二",
       "path": "1.工作流/10.日记文件/2026-05-05 周二.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "一些小点",
@@ -151,54 +199,6 @@
     {
       "basename": "梳理",
       "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md"
-    },
-    {
-      "basename": "01导师信息收集",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
-    },
-    {
-      "basename": "03记录补足点",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
-    },
-    {
-      "basename": "考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
-    },
-    {
-      "basename": "特殊IP",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/特殊IP.md"
-    },
-    {
-      "basename": "梳理逻辑",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
-    },
-    {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
-    },
-    {
-      "basename": "IEEE整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md"
-    },
-    {
-      "basename": "题--是否是另一子网",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--是否是另一子网.md"
-    },
-    {
-      "basename": "题--聚合地址",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md"
-    },
-    {
-      "basename": "05微分物理，经济应用",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/05微分物理，经济应用.md"
     }
   ],
   "omittedPaths": [],
