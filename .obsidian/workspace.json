@@ -118,23 +118,9 @@
               "icon": "lucide-file",
               "title": "2026-05-07 周四"
             }
-          },
-          {
-            "id": "a524a0b4770eca2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/31. 我的项目/QPSK已调信号生成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QPSK已调信号生成"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/31. 我的项目/QPSK已调信号生成.md",
+                "file": "1.工作流/10.日记文件/2026-05-07 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "QPSK已调信号生成 的大纲"
+              "title": "2026-05-07 周四 的大纲"
             }
           },
           {
@@ -352,8 +338,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a524a0b4770eca2f",
+  "active": "f708423544dacd0d",
   "lastOpenFiles": [
+    "3.创造物/31. 我的项目/QPSK已调信号生成.md",
     "assets/image/QPSK已调信号生成-1778143559860.jpeg",
     "assets/image/QPSK已调信号生成-1778143499948.jpeg",
     "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md",
@@ -385,7 +372,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "assets/image/习题与1000题-1778126161315.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/总结.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
