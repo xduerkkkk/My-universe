@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "d20956b56f363b27",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "1008a5b34ce290df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道笔记"
-            }
-          },
-          {
             "id": "b6a70056e945195e",
             "type": "leaf",
             "pinned": true,
@@ -104,7 +72,39 @@
             }
           },
           {
-            "id": "15713a8237d5b4bb",
+            "id": "f72d823d96c0ebda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "视频勘察"
+            }
+          },
+          {
+            "id": "480c03a77f14a267",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "f708423544dacd0d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "903caf11b4d0c021",
+            "id": "a524a0b4770eca2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
+                "file": "3.创造物/31. 我的项目/QPSK已调信号生成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "习题与1000题"
+              "title": "QPSK已调信号生成"
             }
           }
         ],
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
+                "file": "3.创造物/31. 我的项目/QPSK已调信号生成.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "习题与1000题 的大纲"
+              "title": "QPSK已调信号生成 的大纲"
             }
           },
           {
@@ -328,7 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,45 +352,48 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "903caf11b4d0c021",
+  "active": "a524a0b4770eca2f",
   "lastOpenFiles": [
-    "assets/image/习题与1000题-1778126161315.jpeg",
-    "assets/image/习题与1000题-1778125987694.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/总结.md",
+    "assets/image/QPSK已调信号生成-1778143559860.jpeg",
+    "assets/image/QPSK已调信号生成-1778143499948.jpeg",
+    "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md",
+    "3.创造物/31. 我的项目/发言草稿.md",
+    "3.创造物/31. 我的项目/b测代码.md",
+    "3.创造物/31. 我的项目/b测.md",
+    "1.工作流/10.日记文件/2026-05-07 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/未命名 1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+    "assets/image/王道题-1778140036129.jpeg",
+    "assets/image/王道题-1778139900987.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/区别.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md",
+    "assets/image/视频勘察-1778138544745.jpeg",
+    "assets/image/视频勘察-1778138520203.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets/Pasted Image 20260507151149_028.png",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/11.md",
+    "image/华为套题一-1756545707849.jpeg",
+    "Excalidraw/Drawing 2026-02-08 17.37.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-07 22.09.18.excalidraw.md",
+    "assets/image/Drawing 2026-05-07 15.08.10.excalidraw.md",
+    "assets/image/assets/Pasted Image 20260507150814_063.png",
+    "assets/image/assets",
+    "assets/image/区别-1778137673088.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "assets/image/习题与1000题-1778125391272.jpeg",
+    "assets/image/习题与1000题-1778126161315.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/总结.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "assets/image/换元法-1778124082780.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md",
-    "assets/image/换元法-1778123115724.jpeg",
-    "assets/image/换元法-1778123113923.jpeg",
-    "assets/image/换元法-1778122270276.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
-    "assets/image/换元法-1778121701838.jpeg",
-    "1.工作流/10.日记文件/2026-05-07 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/assets/Pasted image 20260507095805.png",
-    "assets/image/换元法-1778118910945.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
-    "1.工作流/10.日记文件/2026-05-06 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
-    "3.创造物/31. 我的项目/QPSK已调信号生成.md",
-    "3.创造物/31. 我的项目/b测.md",
-    "3.创造物/31. 我的项目/b测代码.md",
-    "3.创造物/31. 我的项目/发言草稿.md",
-    "assets/image/未命名-1778069340643.jpeg",
-    "4.不常用/002个人信息/信息记录.md",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
@@ -398,10 +401,7 @@
     "copilot/copilot-conversations/desktop.ini",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",

@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "QPSK已调信号生成",
+      "path": "3.创造物/31. 我的项目/QPSK已调信号生成.md"
+    },
+    {
+      "basename": "postgreSQL-数据库实践报告",
+      "path": "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md"
+    },
+    {
+      "basename": "发言草稿",
+      "path": "3.创造物/31. 我的项目/发言草稿.md"
+    },
+    {
+      "basename": "b测代码",
+      "path": "3.创造物/31. 我的项目/b测代码.md"
+    },
+    {
+      "basename": "b测",
+      "path": "3.创造物/31. 我的项目/b测.md"
+    },
+    {
+      "basename": "2026-05-07 周四",
+      "path": "1.工作流/10.日记文件/2026-05-07 周四.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/未命名 1.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md"
+    },
+    {
+      "basename": "区别",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/区别.md"
+    },
+    {
+      "basename": "视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md"
+    },
+    {
+      "basename": "11",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/11.md"
+    },
+    {
+      "basename": "华为套题一-1756545707849",
+      "path": "image/华为套题一-1756545707849.jpeg"
+    },
+    {
+      "basename": "Drawing 2026-02-08 17.37.31.excalidraw",
+      "path": "Excalidraw/Drawing 2026-02-08 17.37.31.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-02-07 22.09.18.excalidraw",
+      "path": "Excalidraw/Drawing 2026-02-07 22.09.18.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-05-07 15.08.10.excalidraw",
+      "path": "assets/image/Drawing 2026-05-07 15.08.10.excalidraw.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+    },
+    {
+      "basename": "05 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
+    },
+    {
+      "basename": "书籍勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md"
+    },
+    {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
     },
@@ -27,14 +103,6 @@
     {
       "basename": "总结",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md"
-    },
-    {
-      "basename": "05 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md"
-    },
-    {
-      "basename": "2026-05-07 周四",
-      "path": "1.工作流/10.日记文件/2026-05-07 周四.md"
     },
     {
       "basename": "背单词相近词辨析6",
@@ -73,22 +141,6 @@
       "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md"
     },
     {
-      "basename": "QPSK已调信号生成",
-      "path": "3.创造物/31. 我的项目/QPSK已调信号生成.md"
-    },
-    {
-      "basename": "b测",
-      "path": "3.创造物/31. 我的项目/b测.md"
-    },
-    {
-      "basename": "b测代码",
-      "path": "3.创造物/31. 我的项目/b测代码.md"
-    },
-    {
-      "basename": "发言草稿",
-      "path": "3.创造物/31. 我的项目/发言草稿.md"
-    },
-    {
       "basename": "信息记录",
       "path": "4.不常用/002个人信息/信息记录.md"
     },
@@ -105,24 +157,12 @@
       "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
     },
     {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/王道题.md"
-    },
-    {
       "basename": "Drawing 2026-05-06 17.14.17.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
     },
     {
-      "basename": "视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05运输层/视频勘察.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
     },
     {
       "basename": "01积分概+计",
@@ -159,46 +199,6 @@
     {
       "basename": "从0到1理解反向传播与自动微分",
       "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
-    },
-    {
-      "basename": "观念",
-      "path": "0.核心/02.心智急救包/观念.md"
-    },
-    {
-      "basename": "封存档案",
-      "path": "0.核心/02.心智急救包/封存档案.md"
-    },
-    {
-      "basename": "贝叶斯的详细讲解",
-      "path": "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md"
-    },
-    {
-      "basename": "从概率视角统一“线性模型“（线性回归）",
-      "path": "3.创造物/30.输出文章/AI/MLDL/从概率视角统一“线性模型“（线性回归）.md"
-    },
-    {
-      "basename": "机器学习基石--如何诞生一个“机器”",
-      "path": "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md"
-    },
-    {
-      "basename": "认识梯度",
-      "path": "3.创造物/30.输出文章/AI/MLDL/认识梯度.md"
-    },
-    {
-      "basename": "线性分类",
-      "path": "3.创造物/30.输出文章/AI/MLDL/线性分类.md"
-    },
-    {
-      "basename": "2026-05-04 周一",
-      "path": "1.工作流/10.日记文件/2026-05-04 周一.md"
-    },
-    {
-      "basename": "06-880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/06-880.md"
     }
   ],
   "omittedPaths": [],
