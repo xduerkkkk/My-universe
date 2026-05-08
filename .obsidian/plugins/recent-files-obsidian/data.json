@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md"
+      "basename": "正文",
+      "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md"
+    },
+    {
+      "basename": "梳理",
+      "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md"
+    },
+    {
+      "basename": "发言草稿",
+      "path": "3.创造物/31. 我的项目/发言草稿.md"
+    },
+    {
+      "basename": "b测代码",
+      "path": "3.创造物/31. 我的项目/b测代码.md"
+    },
+    {
+      "basename": "postgreSQL-数据库实践报告",
+      "path": "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md"
     },
     {
       "basename": "视频勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md"
     },
     {
       "basename": "2026-05-08 周五",
@@ -87,18 +107,6 @@
     {
       "basename": "QPSK已调信号生成",
       "path": "3.创造物/31. 我的项目/QPSK已调信号生成.md"
-    },
-    {
-      "basename": "postgreSQL-数据库实践报告",
-      "path": "3.创造物/31. 我的项目/postgreSQL-数据库实践报告.md"
-    },
-    {
-      "basename": "发言草稿",
-      "path": "3.创造物/31. 我的项目/发言草稿.md"
-    },
-    {
-      "basename": "b测代码",
-      "path": "3.创造物/31. 我的项目/b测代码.md"
     },
     {
       "basename": "b测",
@@ -191,14 +199,6 @@
     {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "01导师信息收集",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
-    },
-    {
-      "basename": "Drawing 2026-05-06 17.14.17.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-06 17.14.17.excalidraw.md"
     }
   ],
   "omittedPaths": [],
