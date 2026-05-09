@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+                "file": "1.工作流/10.日记文件/2026-05-08 周五.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "2026-05-08 周五 的大纲"
             }
           },
           {
@@ -354,10 +354,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "480c03a77f14a267",
+  "active": "07baf79af8e294b4",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-05-08 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+    "1.工作流/10.日记文件/2026-05-08 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "assets/image/05 880-1778245999714.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
