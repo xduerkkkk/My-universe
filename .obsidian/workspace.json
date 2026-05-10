@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "02王道题"
             }
+          },
+          {
+            "id": "03cdea57e25272c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2000"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -203,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2000 的大纲"
             }
           },
           {
@@ -338,20 +352,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "464643301c8851c4",
+  "active": "03cdea57e25272c6",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
     "assets/image/01王道视频-1778404022557.jpeg",
     "assets/image/01王道视频-1778403647250.jpeg",
     "assets/image/01王道视频-1778402437652.jpeg",
     "assets/image/01王道视频-1778402218317.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
     "assets/image/01王道视频-1778400500138.jpeg",
     "assets/image/01王道视频-1778400474091.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "1.工作流/10.日记文件/2026-05-10 周日.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层",
@@ -369,14 +386,12 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "assets/image/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
