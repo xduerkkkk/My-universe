@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "75ec2786cfa17ca6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "习题与1000题"
-            }
-          },
-          {
             "id": "f72d823d96c0ebda",
             "type": "leaf",
             "pinned": true,
@@ -104,22 +88,6 @@
             }
           },
           {
-            "id": "20ad1dc75f5f7a0a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03积分等式与不等式"
-            }
-          },
-          {
             "id": "42d64a600d848f02",
             "type": "leaf",
             "pinned": true,
@@ -136,21 +104,37 @@
             }
           },
           {
-            "id": "d358283c13c37844",
+            "id": "80f56784d0c78c90",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03 880"
+            }
+          },
+          {
+            "id": "8d81dbaf0497f2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "880"
+              "title": "01笔记"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -233,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "880 的大纲"
+              "title": "03 880 的大纲"
             }
           },
           {
@@ -368,45 +352,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d358283c13c37844",
+  "active": "80f56784d0c78c90",
   "lastOpenFiles": [
+    "assets/image/03 880-1778385386305.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-05-10 周日.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+    "assets/image/03 880-1778384684400.jpeg",
+    "assets/image/03 880-1778384674321.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/408.md",
+    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+    "assets/image/880-1778382553990.jpeg",
     "assets/image/880-1778382327519.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
     "assets/image/880-1778382008490.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
-    "1.工作流/10.日记文件/2026-05-10 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--特殊图形.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--常用放缩.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--定积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--导数极限定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/难--创建两阶导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--gamma函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/计算坑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/辨析--“并行”层级.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--区间再现.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--构造函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
     "assets/image/05 880-1778378008857.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--M=max{f''(x)}.md",
     "assets/image/05 880-1778377172666.jpeg",
     "assets/image/05 880-1778245999714.jpeg",
     "assets/image/03积分等式与不等式-1778244787000.jpeg",
     "assets/image/03积分等式与不等式-1778244086216.jpeg",
-    "assets/image/03积分等式与不等式-1778244073192.jpeg",
-    "assets/image/视频勘察-1778231578389.jpeg",
-    "assets/image/王道题-1778231294734.jpeg",
-    "assets/image/王道题-1778231282855.jpeg",
     "assets/image/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片",

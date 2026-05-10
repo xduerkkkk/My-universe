@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md"
+    },
+    {
+      "basename": "01笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md"
+    },
+    {
+      "basename": "视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md"
+    },
+    {
+      "basename": "习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
+    },
+    {
+      "basename": "2026-05-10 周日",
+      "path": "1.工作流/10.日记文件/2026-05-10 周日.md"
+    },
+    {
+      "basename": "03积分等式与不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md"
+    },
+    {
+      "basename": "背单词相近词辨析7",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md"
+    },
+    {
+      "basename": "背单词相近词辨析8",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md"
+    },
+    {
+      "basename": "背单词相近词辨析6",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md"
+    },
+    {
+      "basename": "背单词相近词辨析2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md"
+    },
+    {
+      "basename": "背单词相近词辨析",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md"
+    },
+    {
+      "basename": "1998",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
+    },
+    {
+      "basename": "阅读中的相近词1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md"
+    },
+    {
+      "basename": "核心语境库1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
+    },
+    {
+      "basename": "2000",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
+    },
+    {
+      "basename": "2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "408",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/408.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
       "basename": "880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md"
     },
@@ -21,24 +109,12 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md"
     },
     {
-      "basename": "03积分等式与不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md"
-    },
-    {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md"
     },
     {
       "basename": "书籍与例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md"
-    },
-    {
-      "basename": "2026-05-10 周日",
-      "path": "1.工作流/10.日记文件/2026-05-10 周日.md"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md"
     },
     {
       "basename": "05 880",
@@ -97,10 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--积分计算.md"
     },
     {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md"
-    },
-    {
       "basename": "题--M=max{f''(x)}",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/题--M=max{f''(x)}.md"
     },
@@ -113,14 +185,6 @@
       "path": "1.工作流/10.日记文件/2026-05-08 周五.md"
     },
     {
-      "basename": "背单词相近词辨析8",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md"
-    },
-    {
-      "basename": "背单词相近词辨析7",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md"
-    },
-    {
       "basename": "背单词相近词辨析5",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md"
     },
@@ -129,76 +193,12 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析3.md"
     },
     {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
       "basename": "资金管理",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/资金管理.md"
     },
     {
       "basename": "BedRock实验",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md"
-    },
-    {
-      "basename": "规划概览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
-    },
-    {
-      "basename": "寒假规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/寒假规划.md"
-    },
-    {
-      "basename": "英语六级冲刺",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/英语六级冲刺.md"
-    },
-    {
-      "basename": "我的序言",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/我的序言.md"
-    },
-    {
-      "basename": "bedrock寒假阶段",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock寒假阶段.md"
-    },
-    {
-      "basename": "bedrock后半程",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/bedrock后半程.md"
-    },
-    {
-      "basename": "考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md"
-    },
-    {
-      "basename": "强化阶段？基础过渡？",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/强化阶段？基础过渡？.md"
-    },
-    {
-      "basename": "03记录补足点",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/03记录补足点.md"
-    },
-    {
-      "basename": "01导师信息收集",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/01导师信息收集.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "从0到1理解反向传播与自动微分",
-      "path": "3.创造物/30.输出文章/AI/MLDL/DL/从0到1理解反向传播与自动微分.md"
-    },
-    {
-      "basename": "01极限--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
-    },
-    {
-      "basename": "正文",
-      "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md"
-    },
-    {
-      "basename": "梳理",
-      "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md"
     }
   ],
   "omittedPaths": [],
