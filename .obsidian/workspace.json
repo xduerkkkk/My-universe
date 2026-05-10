@@ -106,6 +106,7 @@
           {
             "id": "464643301c8851c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -113,12 +114,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "02王道题"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道视频 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -336,12 +338,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5006e78a6de96335",
+  "active": "464643301c8851c4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+    "assets/image/01王道视频-1778404022557.jpeg",
+    "assets/image/01王道视频-1778403647250.jpeg",
     "assets/image/01王道视频-1778402437652.jpeg",
     "assets/image/01王道视频-1778402218317.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
     "assets/image/01王道视频-1778400500138.jpeg",
     "assets/image/01王道视频-1778400474091.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
@@ -373,10 +377,7 @@
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/2.当前项目/408.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "assets/image/880-1778382553990.jpeg",
-    "assets/image/880-1778382327519.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "assets/image/880-1778382008490.jpeg",
     "assets/image/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片",
