@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道视频 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -354,33 +354,32 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5006e78a6de96335",
+  "active": "464643301c8851c4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+    "1.工作流/10.日记文件/2026-05-11 周一.md",
+    "assets/image/01王道视频-1778490119577.jpeg",
+    "assets/image/01王道视频-1778489994755.jpeg",
+    "assets/image/01王道视频-1778488684386.jpeg",
     "assets/image/01王道视频-1778488550455.jpeg",
     "assets/image/01王道视频-1778488539873.jpeg",
-    "1.工作流/10.日记文件/2026-05-11 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
     "assets/image/01王道视频-1778487816454.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
     "assets/image/01王道视频-1778485984955.jpeg",
     "assets/image/01王道视频-1778485916869.jpeg",
     "assets/image/01王道视频-1778485586816.jpeg",
     "assets/image/01王道视频-1778485283227.jpeg",
-    "assets/image/01王道视频-1778485247587.jpeg",
-    "assets/image/01王道视频-1778484700960.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/运动/3月到6月运动.md",
-    "assets/image/880-1778470399418.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/习题与1000题.md",
-    "assets/image/880-1778468821638.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/概念--f'.md",
