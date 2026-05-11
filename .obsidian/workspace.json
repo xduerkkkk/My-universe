@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "b6a70056e945195e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05 880"
-            }
-          },
-          {
             "id": "80f56784d0c78c90",
             "type": "leaf",
             "pinned": true,
@@ -69,22 +53,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "03 880"
-            }
-          },
-          {
-            "id": "42d64a600d848f02",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-05-10 周日.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-05-10 周日"
             }
           },
           {
@@ -136,21 +104,53 @@
             }
           },
           {
-            "id": "ca01664966a30e63",
+            "id": "b9336aefe6fb7898",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-11 周一.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-11 周一"
+            }
+          },
+          {
+            "id": "cf1afb1a69c5bf2b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "880"
+            }
+          },
+          {
+            "id": "21fca311303232aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
+                "file": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础强化过渡阶段（1-7） Week1"
+              "title": "00-整个考研"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础强化过渡阶段（1-7） Week1 的大纲"
+              "title": "880 的大纲"
             }
           },
           {
@@ -344,7 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,19 +368,39 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ca01664966a30e63",
+  "active": "cf1afb1a69c5bf2b",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/基础强化过渡阶段（8-14） Week2.md",
-    "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
-    "1.工作流/10.日记文件/2026-05-10 周日.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+    "assets/image/880-1778468821638.jpeg",
+    "assets/image/880-1778468819260.jpeg",
+    "assets/image/880-1778467513853.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/概念--f'.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/02 880基础篇.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "1.工作流/10.日记文件/2026-05-11 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
+    "1.工作流/10.日记文件/2026-05-10 周日.md",
+    "0.核心/00.规划(Plan)/0.North_Star/考研英语时间线.md",
+    "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
     "assets/image/01王道视频-1778404022557.jpeg",
     "assets/image/01王道视频-1778403647250.jpeg",
     "assets/image/01王道视频-1778402437652.jpeg",
@@ -388,27 +408,8 @@
     "assets/image/01王道视频-1778400500138.jpeg",
     "assets/image/01王道视频-1778400474091.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md",
     "assets/image/视频勘察-1778396702463.jpeg",
-    "assets/image/03 880-1778385386305.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
-    "assets/image/03 880-1778384684400.jpeg",
-    "assets/image/03 880-1778384674321.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "assets/image/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片",
@@ -423,7 +424,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
   ]
