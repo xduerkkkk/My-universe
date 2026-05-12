@@ -136,21 +136,37 @@
             }
           },
           {
-            "id": "bac9cab263356c6e",
+            "id": "c7a01fd931e24056",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00再次梳理"
+            }
+          },
+          {
+            "id": "cf12c5662cb7dbe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01王道笔记"
+              "title": "梳理"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-12 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-12 周二 的大纲"
+              "title": "00再次梳理 的大纲"
             }
           },
           {
@@ -368,44 +384,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "20f348344542c23f",
+  "active": "c7a01fd931e24056",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/书籍初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/大纲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/任务.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets/Pasted Image 20260512165848_103.png",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/从服务器返程.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "1.工作流/10.日记文件/2026-05-12 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md",
-    "1.工作流/10.日记文件/2026-05-12 周二.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
     "assets/image/880-1778557340505.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/概念--f'.md",
     "assets/image/880-1778553611418.jpeg",
     "assets/image/880-1778552925659.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题.md",
     "assets/image/880-1778552434667.jpeg",
     "assets/image/880-1778552398491.jpeg",
     "assets/image/880-1778551742937.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md",
-    "1.工作流/10.日记文件/2026-05-11 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--可微可导.md",
     "assets/image/880-1778502378785.jpeg",
     "assets/image/880-1778500706501.jpeg",
     "assets/image/01王道视频-1778490119577.jpeg",
-    "assets/image/01王道视频-1778489994755.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
@@ -418,7 +435,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/01函数、极限、连续/高数--极限.pdf",
     "copilot/memory",
-    "copilot/copilot-conversations/desktop.ini",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",

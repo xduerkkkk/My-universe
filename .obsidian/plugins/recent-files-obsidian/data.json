@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-12 周二",
-      "path": "1.工作流/10.日记文件/2026-05-12 周二.md"
+      "basename": "00再次梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md"
+    },
+    {
+      "basename": "梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
+    },
+    {
+      "basename": "“冲突域”和“广播域”",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md"
+    },
+    {
+      "basename": "题--聚合地址",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md"
+    },
+    {
+      "basename": "判断一个协议属于哪一层",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+    },
+    {
+      "basename": "IEEE整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md"
+    },
+    {
+      "basename": "英文",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md"
+    },
+    {
+      "basename": "梳理逻辑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
+    },
+    {
+      "basename": "书籍初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/书籍初步勘察.md"
+    },
+    {
+      "basename": "视频初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md"
+    },
+    {
+      "basename": "03思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md"
+    },
+    {
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/大纲.md"
+    },
+    {
+      "basename": "‘我想看谷歌的首页’",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md"
+    },
+    {
+      "basename": "任务",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/任务.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md"
+    },
+    {
+      "basename": "Drawing 2026-05-12 16.58.47.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md"
+    },
+    {
+      "basename": "从服务器返程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/从服务器返程.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md"
     },
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
+    },
+    {
+      "basename": "2026-05-12 周二",
+      "path": "1.工作流/10.日记文件/2026-05-12 周二.md"
     },
     {
       "basename": "01王道视频",
@@ -19,10 +103,6 @@
     {
       "basename": "03 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md"
     },
     {
       "basename": "视频勘察",
@@ -119,86 +199,6 @@
     {
       "basename": "03积分等式与不等式",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md"
-    },
-    {
-      "basename": "02积分几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md"
-    },
-    {
-      "basename": "05 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md"
-    },
-    {
-      "basename": "核心语境库1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md"
-    },
-    {
-      "basename": "Prompt大全",
-      "path": "2.知识库/24.工程实践/Prompt大全.md"
-    },
-    {
-      "basename": "语境库",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
-    },
-    {
-      "basename": "外刊记录",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md"
-    },
-    {
-      "basename": "读文献初期SOP方法论",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md"
-    },
-    {
-      "basename": "9月词汇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/9月词汇.md"
-    },
-    {
-      "basename": "6月词汇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/6月词汇.md"
-    },
-    {
-      "basename": "5月词汇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/5月词汇.md"
-    },
-    {
-      "basename": "辨析--极值充分与必要",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "3月到6月运动",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/运动/3月到6月运动.md"
-    },
-    {
-      "basename": "多元微分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md"
-    },
-    {
-      "basename": "思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/04微不等式.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/03微几何.md"
-    },
-    {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/02微概计--张宇基础30讲.md"
     }
   ],
   "omittedPaths": [],
