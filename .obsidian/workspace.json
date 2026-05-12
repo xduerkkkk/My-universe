@@ -104,22 +104,6 @@
             }
           },
           {
-            "id": "b9336aefe6fb7898",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-05-11 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-05-11 周一"
-            }
-          },
-          {
             "id": "cf1afb1a69c5bf2b",
             "type": "leaf",
             "pinned": true,
@@ -136,21 +120,37 @@
             }
           },
           {
-            "id": "67764f99dbe616d5",
+            "id": "b9336aefe6fb7898",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-11 周一.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-11 周一"
+            }
+          },
+          {
+            "id": "0c496cf1714baf95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2000"
+              "title": "02王道题"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+                "file": "1.工作流/10.日记文件/2026-05-11 周一.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2000 的大纲"
+              "title": "2026-05-11 周一 的大纲"
             }
           },
           {
@@ -368,31 +368,36 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "67764f99dbe616d5",
+  "active": "b9336aefe6fb7898",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
+    "1.工作流/10.日记文件/2026-05-11 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--可微可导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/00卡片/记忆--常用放缩.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
+    "2.知识库/24.工程实践/Prompt大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/9月词汇.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/6月词汇.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/5月词汇.md",
-    "1.工作流/10.日记文件/2026-05-11 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/05 880.md",
     "assets/image/880-1778502378785.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/概念--f'.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--可微可导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
     "assets/image/880-1778500706501.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md",
     "assets/image/01王道视频-1778490119577.jpeg",
     "assets/image/01王道视频-1778489994755.jpeg",
     "assets/image/01王道视频-1778488684386.jpeg",
@@ -401,12 +406,7 @@
     "assets/image/01王道视频-1778487816454.jpeg",
     "assets/image/01王道视频-1778485984955.jpeg",
     "assets/image/01王道视频-1778485916869.jpeg",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/运动/3月到6月运动.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "0.核心/00.规划(Plan)/0.North_Star/00-整个考研.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层",
