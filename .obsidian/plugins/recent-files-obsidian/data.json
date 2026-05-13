@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "换元法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
+    },
+    {
+      "basename": "2026-05-13 周三",
+      "path": "1.工作流/10.日记文件/2026-05-13 周三.md"
+    },
+    {
+      "basename": "00再次梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00再次梳理.md"
+    },
+    {
+      "basename": "01全程梳理图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01全程梳理图.md"
+    },
+    {
+      "basename": "03基础轮复习",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03基础轮复习.md"
+    },
+    {
+      "basename": "02图的细节",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02图的细节.md"
+    },
+    {
+      "basename": "英语全称",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/英语全称.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
+    },
+    {
+      "basename": "03思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md"
+    },
+    {
+      "basename": "Drawing 2026-05-12 16.58.47.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
+    },
+    {
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/大纲.md"
+    },
+    {
+      "basename": "‘我想看谷歌的首页’",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md"
+    },
+    {
+      "basename": "OSPF",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/路由协议/OSPF.md"
+    },
+    {
+      "basename": "交换机",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/局域网/交换机.md"
+    },
+    {
+      "basename": "路由器的NAT",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/局域网/路由器的NAT.md"
+    },
+    {
+      "basename": "Drawing 2026-04-16 16.29.10.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md"
+    },
+    {
+      "basename": "梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
+    },
+    {
+      "basename": "梳理逻辑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
+    },
+    {
       "basename": "880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md"
     },
@@ -33,20 +133,12 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--arcsinx.md"
     },
     {
-      "basename": "2026-05-13 周三",
-      "path": "1.工作流/10.日记文件/2026-05-13 周三.md"
-    },
-    {
       "basename": "习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/习题与1000题.md"
     },
     {
       "basename": "书籍与例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/书籍与例题.md"
-    },
-    {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md"
     },
     {
       "basename": "2026-05-12 周二",
@@ -59,10 +151,6 @@
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md"
-    },
-    {
-      "basename": "00再次梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md"
     },
     {
       "basename": "04关于我",
@@ -93,10 +181,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量的分布函数.md"
     },
     {
-      "basename": "梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
-    },
-    {
       "basename": "一，二，三阶段",
       "path": "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "“冲突域”和“广播域”",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md"
-    },
-    {
-      "basename": "题--聚合地址",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md"
-    },
-    {
-      "basename": "判断一个协议属于哪一层",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
-    },
-    {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
-    },
-    {
-      "basename": "IEEE整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md"
-    },
-    {
-      "basename": "英文",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md"
-    },
-    {
-      "basename": "梳理逻辑",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
-    },
-    {
-      "basename": "书籍初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/书籍初步勘察.md"
-    },
-    {
-      "basename": "视频初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/视频初步勘察.md"
-    },
-    {
-      "basename": "03思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/大纲.md"
-    },
-    {
-      "basename": "‘我想看谷歌的首页’",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md"
-    },
-    {
-      "basename": "任务",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/任务.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/未命名 1.md"
-    },
-    {
-      "basename": "Drawing 2026-05-12 16.58.47.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md"
-    },
-    {
-      "basename": "从服务器返程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/从服务器返程.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
-    },
-    {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/01王道视频.md"
-    },
-    {
-      "basename": "视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/视频勘察.md"
-    },
-    {
-      "basename": "书籍勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md"
     }
   ],
   "omittedPaths": [],
