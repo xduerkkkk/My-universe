@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
+                "file": "1.工作流/10.日记文件/2026-05-12 周二.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00再次梳理 的大纲"
+              "title": "2026-05-12 周二 的大纲"
             }
           },
           {
@@ -370,8 +370,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c7a01fd931e24056",
+  "active": "20f348344542c23f",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
     "0.核心/00.规划(Plan)/0.North_Star/04关于我.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
     "1.工作流/10.日记文件/2026-05-12 周二.md",
@@ -383,7 +384,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md",
     "assets/image/880-1778590785074.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量的分布函数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/00再次梳理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/梳理整理.md",
