@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/特殊曲线.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "特殊曲线 的大纲"
+              "title": "880 的大纲"
             }
           },
           {
@@ -352,10 +352,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ea87cf1eddbd1f40",
+  "active": "68637e39738934e5",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/题--广义极坐标变换.md",
+    "assets/image/880-1778643186695.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/特殊曲线.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/题--广义极坐标变换.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/题--二重换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--一元、二元换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
@@ -384,7 +385,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/随机变量的分布函数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/梳理整理.md",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets/Pasted Image 20260512165848_103.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets",
