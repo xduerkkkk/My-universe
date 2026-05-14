@@ -109,16 +109,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "记忆--形心公式"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+                "file": "1.工作流/10.日记文件/2026-05-13 周三.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "2026-05-13 周三 的大纲"
             }
           },
           {
@@ -336,12 +336,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a0b6abe0258e4d68",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
+    "1.工作流/10.日记文件/2026-05-13 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片/正态分布总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片",
-    "1.工作流/10.日记文件/2026-05-13 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析2.md",
@@ -349,7 +354,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
@@ -361,10 +365,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/大纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/TCP协议/TCP拥塞控制.md",
     "assets/image/880-1778643186695.jpeg",
     "assets/image/880-1778640567525.jpeg",
     "assets/image/880-1778639447319.jpeg",
