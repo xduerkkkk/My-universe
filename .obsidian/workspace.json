@@ -119,9 +119,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "思维导图（向量组+解方程)"
             }
+          },
+          {
+            "id": "acb6e83318fd790b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+                "viewState": {
+                  "x": -34.90448631502892,
+                  "y": -147.37051310229828,
+                  "zoom": -0.31631149409948467
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图（向量组+解方程)"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -188,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 241.5
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -204,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-14 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-14 周四 的大纲"
+              "title": "思维导图（向量组+解方程) 的大纲"
             }
           },
           {
@@ -339,11 +356,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3a6c53997bb2dfa5",
+  "active": "acb6e83318fd790b",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+    "assets/image/880-1778729149243.jpeg",
+    "assets/image/880-1778727978028.jpeg",
+    "assets/image/880-1778727116142.jpeg",
+    "assets/image/880-1778727092435.jpeg",
     "1.工作流/10.日记文件/2026-05-14 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题与880.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
@@ -375,11 +396,7 @@
     "assets/image/880-1778643186695.jpeg",
     "assets/image/880-1778640567525.jpeg",
     "assets/image/880-1778639447319.jpeg",
-    "assets/image/880-1778638273505.jpeg",
-    "assets/image/880-1778638005934.jpeg",
-    "assets/image/880-1778590785074.jpeg",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets/Pasted Image 20260512165848_103.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
