@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "28af59fb0ddb1867",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2000"
-            }
-          },
-          {
-            "id": "80f56784d0c78c90",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03 880"
-            }
-          },
-          {
             "id": "68637e39738934e5",
             "type": "leaf",
             "pinned": true,
@@ -88,33 +56,68 @@
             }
           },
           {
-            "id": "7758b1a52208f284",
+            "id": "28af59fb0ddb1867",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-13 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-05-13 周三"
+              "title": "2000"
             }
           },
           {
-            "id": "a0b6abe0258e4d68",
+            "id": "94b2c952ba583d61",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "记忆--形心公式"
+              "title": "880"
+            }
+          },
+          {
+            "id": "3a6c53997bb2dfa5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-14 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-14 周四"
+            }
+          },
+          {
+            "id": "f8489576ff84ed41",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+                "viewState": {
+                  "x": 1060.051179846976,
+                  "y": 355.8713507388796,
+                  "zoom": -0.5456793094458642
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图（向量组+解方程)"
             }
           }
         ],
@@ -201,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-13 周三.md",
+                "file": "1.工作流/10.日记文件/2026-05-14 周四.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-13 周三 的大纲"
+              "title": "2026-05-14 周四 的大纲"
             }
           },
           {
@@ -312,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,15 +339,27 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "3a6c53997bb2dfa5",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
-    "1.工作流/10.日记文件/2026-05-13 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
+    "1.工作流/10.日记文件/2026-05-14 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/习题与1000题与880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md",
+    "assets/image/880-1778723867834.jpeg",
+    "assets/image/880-1778723861766.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/03 880.md",
+    "assets/image/880-1778722753580.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片/正态分布总结.md",
+    "2.知识库/20.North_star_ZJU/201.数学/概率论/01随机事件及其概率/01笔记.md",
+    "1.工作流/10.日记文件/2026-05-13 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/卡片/记忆--形心公式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析8.md",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析7.md",
@@ -354,17 +369,9 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析4.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00再次梳理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01全程梳理图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03基础轮复习.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02图的细节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/英语全称.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md",
     "assets/image/880-1778643186695.jpeg",
     "assets/image/880-1778640567525.jpeg",
     "assets/image/880-1778639447319.jpeg",
@@ -374,9 +381,6 @@
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets/Pasted Image 20260512165848_103.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets",
-    "assets/image/880-1778557340505.jpeg",
-    "assets/image/880-1778553611418.jpeg",
-    "assets/image/880-1778552925659.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
@@ -384,14 +388,12 @@
     "assets/image/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
   ]
