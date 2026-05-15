@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md"
+      "basename": "03强化课--PV操作",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
+    },
+    {
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/ART.md"
+    },
+    {
+      "basename": "线程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/线程.md"
+    },
+    {
+      "basename": "同步与互斥",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/同步与互斥.md"
+    },
+    {
+      "basename": "进程，进程的调度",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/进程，进程的调度.md"
     },
     {
       "basename": "2026-05-15 周五",
       "path": "1.工作流/10.日记文件/2026-05-15 周五.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md"
     },
     {
       "basename": "02习题与1000题",
@@ -161,32 +185,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
     },
     {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/ART.md"
-    },
-    {
-      "basename": "线程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/线程.md"
-    },
-    {
       "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/期末应试.md"
-    },
-    {
-      "basename": "Drawing 2026-02-11 16.34.18.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md"
-    },
-    {
-      "basename": "读者优先",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/读者优先.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/期末应试.md"
     },
     {
       "basename": "大纲",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/大纲.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
     },
     {
       "basename": "习题与1000题",
@@ -195,10 +199,6 @@
     {
       "basename": "行列式矩阵思维导图",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md"
     }
   ],
   "omittedPaths": [],

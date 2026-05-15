@@ -104,21 +104,39 @@
             }
           },
           {
-            "id": "5d3b8c56496b1fa3",
+            "id": "358ff01d84d62973",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02习题与1000题"
+              "title": "00视频勘察"
+            }
+          },
+          {
+            "id": "b2803455c52d4a22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03强化课--PV操作"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
                 "followCursor": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03 880 的大纲"
+              "title": "03强化课--PV操作 的大纲"
             }
           },
           {
@@ -336,14 +354,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c4e2cd89ce2bdb3c",
+  "active": "b2803455c52d4a22",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/ART.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/线程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/同步与互斥.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/进程，进程的调度.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程的通信.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/读者优先.md",
+    "1.工作流/10.日记文件/2026-05-15 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+    "assets/image/03 880-1778827802442.jpeg",
     "assets/image/03 880-1778816870626.jpeg",
     "assets/image/03 880-1778816868269.jpeg",
-    "1.工作流/10.日记文件/2026-05-15 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
     "assets/image/03 880-1778813709898.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
@@ -362,23 +392,12 @@
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "1.工作流/10.日记文件/周报",
     "1.工作流/10.日记文件/26年上半年/26年5月",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
     "assets/image/01笔记-1774921898388.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片",
     "assets/image/880-1778749237026.jpeg",
     "assets/image/880-1778749219061.jpeg",
     "assets/image/880-1778747850809.jpeg",
-    "assets/image/880-1778747846567.jpeg",
-    "assets/image/880-1778747815377.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "1.工作流/10.日记文件/26年上半年/26年5月/2026-05-11 周一.md",
-    "1.工作流/10.日记文件/26年上半年/26年5月/2026-05-12 周二.md",
-    "1.工作流/10.日记文件/26年上半年/26年5月/2026-05-13 周三.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/00强化规划.md",
-    "0.核心/00.规划(Plan)/0.North_Star/强化阶段？基础过渡？.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片",
     "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new",
@@ -387,7 +406,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层",
-    "assets/image/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
