@@ -109,16 +109,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 880"
+              "title": "02习题与1000题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -336,13 +336,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5d3b8c56496b1fa3",
+  "active": "c4e2cd89ce2bdb3c",
   "lastOpenFiles": [
-    "assets/image/03 880-1778813709898.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+    "assets/image/03 880-1778816870626.jpeg",
+    "assets/image/03 880-1778816868269.jpeg",
     "1.工作流/10.日记文件/2026-05-15 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+    "assets/image/03 880-1778813709898.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
@@ -368,8 +370,6 @@
     "assets/image/880-1778747850809.jpeg",
     "assets/image/880-1778747846567.jpeg",
     "assets/image/880-1778747815377.jpeg",
-    "assets/image/880-1778747382149.jpeg",
-    "assets/image/880-1778747361211.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
