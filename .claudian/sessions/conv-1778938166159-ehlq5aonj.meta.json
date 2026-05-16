@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778938166159-ehlq5aonj",
+  "providerId": "claude",
+  "title": "Debug Excalidraw rendering issue",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778938166159,
+  "updatedAt": 1778938831082,
+  "lastResponseAt": 1778938831082,
+  "sessionId": "2a457350-a6ce-410c-82eb-553f8ef0dc55",
+  "providerState": {
+    "providerSessionId": "2a457350-a6ce-410c-82eb-553f8ef0dc55"
+  },
+  "currentNote": "核心插件地图.excalidraw.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 22089,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 22089,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
