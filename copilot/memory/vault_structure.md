@@ -147,6 +147,11 @@ _attachments/                → 所有图片/附件统一存放 (2,410 files)
 |------|------|
 | `核心插件地图.excalidraw.md` | Obsidian 33 个核心插件按 7 大分类可视化 (90 元素) |
 
+### ⚠️ Excalidraw 压缩注意事项
+- **必须用 JS lz-string** (npm install lz-string) 进行压缩，Python lzstring 库不兼容
+- 验证命令: `node -e "const lz=require('lz-string'); const d=lz.decompressFromEncodedURIComponent('...'); console.log(JSON.parse(d).elements.length)"`
+- 文件位于 vault 根目录，frontmatter 内部需有空行（与 Excalidraw 插件生成格式一致）
+
 ### 网络代理
 - 代理端口: 7890
 - 格式: `http://127.0.0.1:7890`

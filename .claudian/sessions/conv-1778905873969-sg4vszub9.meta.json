@@ -4,20 +4,20 @@
   "title": "Answer what AI model I am",
   "titleGenerationStatus": "success",
   "createdAt": 1778905873969,
-  "updatedAt": 1778911825447,
-  "lastResponseAt": 1778911825447,
+  "updatedAt": 1778918987840,
+  "lastResponseAt": 1778918987840,
   "sessionId": "c3292625-60e4-4a38-b574-709da99bf33a",
   "providerState": {
     "providerSessionId": "c3292625-60e4-4a38-b574-709da99bf33a"
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 899,
+    "inputTokens": 45,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 42240,
+    "cacheReadInputTokens": 152704,
     "contextWindow": 200000,
-    "contextTokens": 43139,
-    "percentage": 22,
+    "contextTokens": 152749,
+    "percentage": 76,
     "contextWindowIsAuthoritative": true
   }
 }

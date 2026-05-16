@@ -5,6 +5,74 @@
       "path": "核心插件地图.excalidraw.md"
     },
     {
+      "basename": "02思维导图-进程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md"
+    },
+    {
+      "basename": "现场",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
+    },
+    {
+      "basename": "03强化课--PV操作",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+    },
+    {
+      "basename": "题--页面置换定位",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md"
+    },
+    {
+      "basename": "乘法电路图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md"
+    },
+    {
+      "basename": "Drawing 2026-03-28 14.56.21.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas"
+    },
+    {
+      "basename": "思维导图-存储",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
+    },
+    {
+      "basename": "存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
+    },
+    {
+      "basename": "记忆--变量的字节",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md"
+    },
+    {
+      "basename": "内存映射文件",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
+    },
+    {
       "basename": "03 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md"
     },
@@ -89,10 +157,6 @@
       "path": "3.创造物/30.输出文章/数学/看见矩阵（二）.md"
     },
     {
-      "basename": "03强化课--PV操作",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md"
-    },
-    {
       "basename": "2000",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Drawing 2026-02-07 22.09.18.excalidraw",
       "path": "Excalidraw/Drawing 2026-02-07 22.09.18.excalidraw.md"
-    },
-    {
-      "basename": "Clip Web Page",
-      "path": "copilot/copilot-custom-prompts/Clip Web Page.md"
-    },
-    {
-      "basename": "显存占用",
-      "path": "2.知识库/21.AI世界/04大模型/模型训练专项/显存占用.md"
-    },
-    {
-      "basename": "快速幂",
-      "path": "2.知识库/22.算法/代码随想录-算法题/综合算法题/快速幂.md"
-    },
-    {
-      "basename": "PEFT三部曲之（一）",
-      "path": "3.创造物/30.输出文章/AI/LLM/PEFT/PEFT三部曲之（一）.md"
-    },
-    {
-      "basename": "记忆--变量的字节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/880.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/ART.md"
-    },
-    {
-      "basename": "线程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/线程.md"
-    },
-    {
-      "basename": "同步与互斥",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/同步与互斥.md"
-    },
-    {
-      "basename": "进程，进程的调度",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/进程，进程的调度.md"
     }
   ],
   "omittedPaths": [
