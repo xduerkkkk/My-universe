@@ -41,7 +41,7 @@
 为了讲解方便，我们暂时忽略batch_size，将输入的“原材料”视为一个` [seq_len, d_model]` 的二维矩阵。
 我们假设batch_size就为1，省略掉他.
 如图为例：
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763610820025.jpeg)
+![[Transformer架构：组装我们的零件-1763610820025.jpeg]]
 
 
 现在，原材料被送上了Encoder的第一道加工单元（一个Encoder Block）。 
@@ -70,7 +70,7 @@
 
 经过”阅览“部分，我们成功地 让每一个词向量，都变成了蕴含上下文的词向量！
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763610972041.jpeg)
+![[Transformer架构：组装我们的零件-1763610972041.jpeg]]
 我们输出的依然是一个 `[seq_len, d_model] `的矩阵，但每个词至此都**蕴含全局上下文信息**。
 ## **融合与稳定**
 接下来，向量们需要“稍作休整”，完成两个至关重要的操作：**残差连接** 和 **层归一化**。（Add&Norm)
@@ -86,7 +86,7 @@
 
 $X_{processed} = X_{original} + Attention(X_{original})$
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1761879601432.jpeg)
+![[Transformer架构：组装我们的零件-1761879601432.jpeg]]
 
 
 ### 层归一化: 纪律委员
@@ -99,7 +99,7 @@ $X_{processed} = X_{original} + Attention(X_{original})$
 
 
 它会计算单个向量内部所有512个维度的**均值和方差**，然后利用这些统计数据，将这个向量的数值分布“拉回”到一个标准的、更健康的范围内（通常是均值为0，方差为1）。
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763015862657.jpeg)
+![[Transformer架构：组装我们的零件-1763015862657.jpeg]]
 
 
 
@@ -158,7 +158,7 @@ $$ y = \gamma \cdot \text{Normalized}(x) + \beta $$
 
 把一个向量从512维映射到2048维，正是让数据来到极其广阔的“高维空间”，在低维空间中可能线性不可分的复杂特征组合，在高维空间中可能变得更容易被区分和处理。这为模型学习更复杂的函数关系提供了可能。
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763611304817.jpeg)
+![[Transformer架构：组装我们的零件-1763611304817.jpeg]]
 
 **2. 非线性激活是关键**：
 在这两个线性层之间，还夹着一个至关重要的**非线性激活函数**，通常是**ReLU**。 关于非线性激活函数，我会在未来机器学习基础文章详细讲解。
@@ -181,8 +181,8 @@ $$ y = \gamma \cdot \text{Normalized}(x) + \beta $$
 
 
 总的来说，整个流程是
-![16](../../../../../assets1/image/Transformer架构：组装我们的零件-1763624493165.jpeg)
-![](assets/EncoderBlock.drawio%20(1).svg)
+![[Transformer架构：组装我们的零件-1763624493165.jpeg]]
+![](assets/EncoderBlock.drawio (1).svg)
 
 
 
@@ -278,7 +278,7 @@ Attention Mask？ 他也用和encoder一样的Attention机制？
 **第一步：生成原始的“全知”注意力分数**
 
 如果没有加任何限制，Decoder的“阅览室”会像Encoder一样，生成一个“全知视角”的分数矩阵。每一行每个词都能“看到”所有其他词，包括未来的词。假设我们的句子是“今天天气好”，这个5x5的矩阵看起来会是这样：
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1762927651311.jpeg)
+![[Transformer架构：组装我们的零件-1762927651311.jpeg]]
 
   
 图中是原始分数矩阵。如，s12 代表 ”今“字与”天“字的对应程度。
@@ -308,7 +308,7 @@ Attention Mask？ 他也用和encoder一样的Attention机制？
 
 
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1762927757034.jpeg)
+![[Transformer架构：组装我们的零件-1762927757034.jpeg]]
 
 
 
@@ -322,7 +322,7 @@ Attention Mask？ 他也用和encoder一样的Attention机制？
 - 原始分数 + -inf = **负无穷大 (-inf)**。
 
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763015508882.jpeg)
+![[Transformer架构：组装我们的零件-1763015508882.jpeg]]
 
 
 
@@ -339,7 +339,7 @@ Softmax函数有一个特性：**Softmax(-inf) = 0。**
 **这就完美地实现了“遮蔽”的效果。** 
 
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763015533016.jpeg)
+![[Transformer架构：组装我们的零件-1763015533016.jpeg]]
 
 
 即，在数学上，我们让模型在一次并行计算中，就为每个位置都创造出了一个“只能看到过去”的公平环境。
@@ -352,7 +352,7 @@ Softmax函数有一个特性：**Softmax(-inf) = 0。**
 
 我们可以看看词向量最终到底如何诞生的
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763190719873.jpeg)
+![[Transformer架构：组装我们的零件-1763190719873.jpeg]]
 
 如图，左边的权重矩阵得益于我们的掩码矩阵， 让各词只“关注”了本身及之前的词。  其中， 颜色深浅可以理解为权重大小。
 词向量如何得来？是由左边的权重矩阵与右边的V矩阵做矩阵乘法，
@@ -421,7 +421,7 @@ Decoder模型，还会**将上述的Decoder Block完整地堆叠N次**（GPT-3�
 并行来看：
 
 在训练时，输入一个句子，对应的真实答案（label），是刚好错开一位输入的
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763624693480.jpeg)
+![[Transformer架构：组装我们的零件-1763624693480.jpeg]]
  ![](assets/decoder输出.drawio.svg)
  如图，这样就可以同时进行比较，计算输出与结果的偏差，反向传播更新参数，每一个对照都是独立的，不影响其他词。
  
@@ -437,9 +437,9 @@ Decoder模型，还会**将上述的Decoder Block完整地堆叠N次**（GPT-3�
 
 ### 总结
 一个专注于写作的decoder架构，如图所示
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763624786373.jpeg)
+![[Transformer架构：组装我们的零件-1763624786373.jpeg]]
 
-![](assets/DecoderBlock.drawio%20(2).svg)
+![](assets/DecoderBlock.drawio (2).svg)
 
 
 
@@ -455,7 +455,7 @@ Decoder模型，还会**将上述的Decoder Block完整地堆叠N次**（GPT-3�
 
 我们发现，在Decoder架构中，居然有Encoder的箭头！ 似乎参与到了Decoder 的Block里！
 （如果大家嫌弃我画的丑可以看看这个网图）
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1762399010432.jpeg)
+![[Transformer架构：组装我们的零件-1762399010432.jpeg]]
 
 
 
@@ -591,9 +591,9 @@ Transformer诞生是架构其任务是什么呢？
 
 这是一个**串行**的、**一步一步**的自回归过程。Decoder每生成一个词，都会把它作为下一步的输入，循环往复，直到生成结束符。
 
-![](assets/transformer生成.drawio%20(3).svg)
+![](assets/transformer生成.drawio (3).svg)
 
-![](assets/transformer生成%20(4).webp)
+![](assets/transformer生成 (4).webp)
 
 如图，Encoder的理解，在每一个时间步都会用的。对于Encoder属于是“一劳永逸”了。
 
@@ -607,7 +607,7 @@ Transformer诞生是架构其任务是什么呢？
 - Encoder-Only
 - Decoder-Only
 - Encoder-Decoder
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1762741357822.jpeg)
+![[Transformer架构：组装我们的零件-1762741357822.jpeg]]
 
 
 图:LLM进化树(来自论文[2304.13712] Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond)
@@ -708,7 +708,7 @@ Vision Transformer (ViT)应运而生 。它的做法简单粗暴：
 
 ViT的结果证明了，在有足够数据的情况下，一个纯粹基于全局注意力机制的模型，其性能可以**超越**最顶尖的CNN。
 
-![](../../../../../assets1/image/Transformer架构：组装我们的零件-1763610423273.jpeg)
+![[Transformer架构：组装我们的零件-1763610423273.jpeg]]
 
 也就是说，Attention机制理解“**全局空间关系**”的能力，可能比CNN的“局部特征提取”更为根本。
 Attention被正式应用到了图片理解上。

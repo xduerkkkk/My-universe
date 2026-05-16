@@ -104,23 +104,21 @@
             }
           },
           {
-            "id": "b2803455c52d4a22",
+            "id": "2b33007e5b891f25",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+                "file": "核心插件地图.excalidraw.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "03强化课--PV操作"
+              "title": "核心插件地图.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,12 +180,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "10af3c063cb790d4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -203,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-15 周五.md",
+                "file": "核心插件地图.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-15 周五 的大纲"
+              "title": "核心插件地图.excalidraw 的大纲"
             }
           },
           {
@@ -243,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.不常用/002个人信息/信息记录.md",
+                "file": "核心插件地图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "信息记录 的反向链接列表"
+              "title": "核心插件地图.excalidraw 的反向链接列表"
             }
           },
           {
@@ -301,20 +309,21 @@
             }
           },
           {
-            "id": "0a97343c8a56ad80",
+            "id": "f002c677c2313596",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "claudian-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,73 +337,72 @@
       "daily-notes:打开/创建今天的日记": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
       "obsidian-language-learner:单词列表": false,
       "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Chat": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "9eba0d89dcbda34a",
+  "active": "2b33007e5b891f25",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/cc.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/四五六阶段.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/梳理整理.md",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md",
-    "1.工作流/10.日记文件/2026-05-15 周五.md",
+    "核心插件地图.excalidraw.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
-    "assets/image/880-1778836988870.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md",
-    "assets/image/880-1778836619851.jpeg",
-    "assets/image/880-1778836273969.jpeg",
-    "assets/image/880-1778835184011.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/Drawing 2026-02-11 16.34.18.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/ART.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/线程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/同步与互斥.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/进程，进程的调度.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/上下文及切换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/进程的通信.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/读者优先.md",
-    "assets/image/03 880-1778827802442.jpeg",
-    "assets/image/03 880-1778816870626.jpeg",
-    "assets/image/03 880-1778816868269.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/01笔记.md",
-    "assets/image/03 880-1778813709898.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/笔记.md",
-    "assets/image/近似解-1778811319807.jpeg",
-    "assets/image/近似解-1778811311875.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片/assets",
-    "1.工作流/10.日记文件/周报",
-    "1.工作流/10.日记文件/26年上半年/26年5月",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片",
+    "生日追踪.md",
+    "未命名.canvas",
+    "Drawing 2026-05-16 14.05.54.excalidraw.md",
+    "Drawing 2026-05-16 14.01.14.excalidraw.md",
+    "Drawing 2026-05-16 14.00.48.excalidraw.md",
+    "_temp_plugins.json",
+    "copilot/memory/vault_structure.md",
+    "1.工作流/10.日记文件/2026-05-15 周五.md",
+    "4.不常用/vpn.md",
+    "4.不常用/未命名.md",
+    "4.不常用/唱歌.md",
+    "Readme.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md",
+    "_attachments/image",
+    "_attachments/image/1998-1778910462666.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "8FUhJkzw",
+    "xrAbqh0U",
+    "Excalidraw/DNdF5wGU",
+    "Excalidraw/1hgsuLU1",
+    "Excalidraw/VxBMzgNJ",
+    "4.不常用/44.联系人文件/朋友/iua3nm4B",
+    "4.不常用/43.模板文件/ddWlA4w6",
+    "4.不常用/43.模板文件/pU3qVqGu",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md",
+    "3.创造物/30.输出文章/AI/MLDL/线性分类.md",
+    "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md",
+    "3.创造物/30.输出文章/AI/MLDL/认识梯度.md",
+    "3.创造物/30.输出文章/AI/MLDL/机器学习基石--如何诞生一个“机器”.md",
+    "3.创造物/30.输出文章/AI/MLDL/贝叶斯的详细讲解.md",
+    "3.创造物/30.输出文章/数学/看见矩阵（二）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
+    "_attachments/统计建模选题第二版-1742911647161.jpeg",
+    "_attachments/统计建模选题第二版-1742911768973.jpeg",
+    "_attachments/统计建模选题第二版-1742911784243.jpeg",
+    "_attachments/统计建模选题第二版-1742912763703.jpeg",
+    "_attachments/统计建模选题第二版-1742913131417.jpeg",
+    "_attachments/系统-1744531359838.jpeg",
+    "_attachments/系统-1744531364715.jpeg",
+    "_attachments/系统-1744531406700.jpeg",
+    "_attachments/系统函数-1747916450077.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/02随机变量/卡片",
-    "3.创造物/31. 我的项目/项目五，面向文档版面理解的视觉语言建模/new",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/assets",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/assets",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/05特征值特征向量/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas"
   ]
 }

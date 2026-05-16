@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778905873969-sg4vszub9",
+  "providerId": "claude",
+  "title": "Answer what AI model I am",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778905873969,
+  "updatedAt": 1778911825447,
+  "lastResponseAt": 1778911825447,
+  "sessionId": "c3292625-60e4-4a38-b574-709da99bf33a",
+  "providerState": {
+    "providerSessionId": "c3292625-60e4-4a38-b574-709da99bf33a"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 899,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42240,
+    "contextWindow": 200000,
+    "contextTokens": 43139,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

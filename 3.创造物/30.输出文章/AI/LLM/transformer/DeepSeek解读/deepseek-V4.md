@@ -3,7 +3,7 @@ moe
 
 To enhance long context efficiency, we design a hybrid attention mechanism combining Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA). CSA compresses the KV caches along the sequence dimension and then performs DeepSeek Sparse Attention (DSA) (DeepSeek AI, 2025), whereas HCA applies more aggressive compression to the KV caches but keeps dense attention.
 
-![](../../../../../../assets/image/deepseek-V4-1777117712930.jpeg)
+![[deepseek-V4-1777117712930.jpeg]]
 
 
 传统注意力介绍
@@ -11,7 +11,7 @@ To enhance long context efficiency, we design a hybrid attention mechanism combi
 
 # CSA (Compressed Sparse Attention) = 压缩稀疏注意力介绍，详细介绍，并绘制简图
 
-![](../../../../../../assets/image/deepseek-V4-1777118012082.jpeg)
+![[deepseek-V4-1777118012082.jpeg]]
 
 
 
@@ -331,7 +331,7 @@ $$o_{t,i} = \text{CoreAttn} \left( \text{query}=q_{t,i}, \text{key}=C^{\text{Spr
 
 
 
-![](../../../../../../assets/image/deepseek-V4-1777118098317.jpeg)
+![[deepseek-V4-1777118098317.jpeg]]
 
 
 

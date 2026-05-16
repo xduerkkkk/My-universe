@@ -175,4 +175,4 @@ $$\Gamma\left(\frac{1}{2}\right) = 2 \times I = 2 \times \frac{\sqrt{\pi}}{2} = 
 
 
 例：
-![](../../../../../../assets/image/记忆--gamma函数-1773372302006.jpeg)
+![[记忆--gamma函数-1773372302006.jpeg]]

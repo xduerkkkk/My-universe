@@ -75,4 +75,4 @@ $$P(x_5 | x_1, \mathbf{x_2}, x_3, \mathbf{x_4}) \approx P(x_5 | x_1, x_3)$$
 
 
 
-![](../../../../../assets1/image/AI对齐-1763782739692.jpeg)
+![[AI对齐-1763782739692.jpeg]]

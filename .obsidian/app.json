@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "_attachments/",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -11,6 +11,6 @@
   },
   "promptDelete": false,
   "uriCallbacks": true,
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
 }
