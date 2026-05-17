@@ -4,20 +4,20 @@
   "title": "Debug Excalidraw rendering issue",
   "titleGenerationStatus": "success",
   "createdAt": 1778938166159,
-  "updatedAt": 1778986887555,
-  "lastResponseAt": 1778986887555,
+  "updatedAt": 1778990452764,
+  "lastResponseAt": 1778990452764,
   "sessionId": "2a457350-a6ce-410c-82eb-553f8ef0dc55",
   "providerState": {
     "providerSessionId": "2a457350-a6ce-410c-82eb-553f8ef0dc55"
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 124,
+    "inputTokens": 2385,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 85376,
+    "cacheReadInputTokens": 113408,
     "contextWindow": 200000,
-    "contextTokens": 85500,
-    "percentage": 43,
+    "contextTokens": 115793,
+    "percentage": 58,
     "contextWindowIsAuthoritative": true
   }
 }

@@ -1,20 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md"
+      "basename": "规划概览",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md"
+    },
+    {
+      "basename": "我的bedrock",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/我的bedrock.md"
+    },
+    {
+      "basename": "01记录补足点",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/01记录补足点.md"
+    },
+    {
+      "basename": "00强化规划",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00强化规划.md"
+    },
+    {
+      "basename": "bedrock后半程",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/bedrock后半程.md"
+    },
+    {
+      "basename": "bedrock寒假阶段",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/bedrock寒假阶段.md"
+    },
+    {
+      "basename": "Bed-Rock 毕业思考",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/Bed-Rock 毕业思考.md"
+    },
+    {
+      "basename": "资金管理",
+      "path": "0.核心/00.规划(Plan)/5.生活管理/资金管理.md"
+    },
+    {
+      "basename": "数学",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/数学.md"
+    },
+    {
+      "basename": "408",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/408.md"
+    },
+    {
+      "basename": "03-AI",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "我的序言",
+      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/我的序言.md"
+    },
+    {
+      "basename": "强化阶段？基础过渡？",
+      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/强化阶段？基础过渡？.md"
+    },
+    {
+      "basename": "01导师信息收集",
+      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/01导师信息收集.md"
+    },
+    {
+      "basename": "0000关于我",
+      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/0000关于我.md"
+    },
+    {
+      "basename": "00-整个考研",
+      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md"
     },
     {
       "basename": "03 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md"
     },
     {
-      "basename": "2026-05-17 周日",
-      "path": "1.工作流/10.日记文件/2026-05-17 周日.md"
-    },
-    {
       "basename": "2000",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
+    },
+    {
+      "basename": "BedRock实验",
+      "path": "0.核心/00.规划(Plan)/1.阶段性规划/BedRock实验.md"
+    },
+    {
+      "basename": "vault_structure",
+      "path": "copilot/memory/vault_structure.md"
+    },
+    {
+      "basename": "习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/概率论/03多维随机变量/01视频笔记.md"
+    },
+    {
+      "basename": "2026-05-17 周日",
+      "path": "1.工作流/10.日记文件/2026-05-17 周日.md"
     },
     {
       "basename": "02习题",
@@ -115,90 +199,6 @@
     {
       "basename": "Drawing 2026-03-28 14.56.21.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md"
-    },
-    {
-      "basename": "问题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/问题记录.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas"
-    },
-    {
-      "basename": "思维导图-存储",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
-    },
-    {
-      "basename": "存储系统概述",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
-    },
-    {
-      "basename": "记忆--变量的字节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md"
-    },
-    {
-      "basename": "内存映射文件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
-    },
-    {
-      "basename": "生日追踪",
-      "path": "生日追踪.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
-      "basename": "Drawing 2026-05-16 14.05.54.excalidraw",
-      "path": "Drawing 2026-05-16 14.05.54.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2026-05-16 14.01.14.excalidraw",
-      "path": "Drawing 2026-05-16 14.01.14.excalidraw.md"
-    },
-    {
-      "basename": "vault_structure",
-      "path": "copilot/memory/vault_structure.md"
-    },
-    {
-      "basename": "vpn",
-      "path": "4.不常用/vpn.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "4.不常用/未命名.md"
-    },
-    {
-      "basename": "唱歌",
-      "path": "4.不常用/唱歌.md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
-      "basename": "1998",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1998.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
-    },
-    {
-      "basename": "背单词相近词辨析5",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析5.md"
-    },
-    {
-      "basename": "1999",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/1999.md"
-    },
-    {
-      "basename": "线性分类",
-      "path": "3.创造物/30.输出文章/AI/MLDL/线性分类.md"
-    },
-    {
-      "basename": "文章01大纲",
-      "path": "3.创造物/30.输出文章/AI/MLDL/文章01大纲.md"
     }
   ],
   "omittedPaths": [
