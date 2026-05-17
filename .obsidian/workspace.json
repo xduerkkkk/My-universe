@@ -264,6 +264,25 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "0da9b82d50ce95c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-15 周五.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-05-15 周五 的反向链接列表"
+            }
           }
         ]
       }
