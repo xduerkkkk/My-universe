@@ -104,17 +104,35 @@
             }
           },
           {
-            "id": "45ee8158217812da",
+            "id": "3d688575fe120acf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "规划概览"
+              "title": "880"
+            }
+          },
+          {
+            "id": "ed9703f2b64a5a9d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/final.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "final"
             }
           }
         ],
@@ -211,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "规划概览 的大纲"
+              "title": "880 的大纲"
             }
           },
           {
@@ -251,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "规划概览 的出链列表"
+              "title": "880 的出链列表"
             }
           },
           {
@@ -285,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,15 +313,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "规划概览 的反向链接列表"
+              "title": "880 的反向链接列表"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,45 +344,45 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f002c677c2313596",
+  "active": "3d688575fe120acf",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/我的bedrock.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/规划概览.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01记录补足点.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/00强化规划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/bedrock后半程.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/bedrock寒假阶段.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结/Bed-Rock 毕业思考.md",
-    "0.核心/00.规划(Plan)/5.生活管理/资金管理.md",
-    "0.核心/00.规划(Plan)/2.当前项目/数学.md",
-    "0.核心/00.规划(Plan)/2.当前项目/408.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/我的序言.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/强化阶段？基础过渡？.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/01导师信息收集.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/0000关于我.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
+    "1.工作流/10.日记文件/2026-05-17 周日.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/final.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/最终报告.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片/近似解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片/正交化.md",
     "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/历史规划/寒假规划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/历史规划/3月后.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/历史规划/01-BedRock Log 150天计划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/梳理整理.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/七阶段.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/四五六阶段.md",
+    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md.tmp.24624.4f90bf9cd70f",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/cc.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/梳理.md",
+    "3.创造物/31.我的项目/项目二，agent+mcp/项目架构.md",
+    "3.创造物/31.我的项目/项目二，agent+mcp/项目代码.md",
+    "0.核心/00.规划(Plan)/3.未来探索/06-决策模型--选择城市为例.md",
+    "0.核心/00.规划(Plan)/3.未来探索/05-企业.md",
+    "0.核心/00.规划(Plan)/3.未来探索/03-求职规划.md",
+    "0.核心/00.规划(Plan)/3.未来探索/04-简历.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock阶段",
     "0.核心/00.规划(Plan)/5.生活管理",
     "0.核心/00.规划(Plan)/1.阶段性规划/历史规划",
     "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/考研英语时间线.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/我的bedrock.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/bedrock后半程.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/bedrock寒假阶段.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/Bed-Rock 毕业思考.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar",
     "_attachments/image/880-1778984708405.jpeg",
     "_temp_lzstring.js",
     "_temp_working_decoded.bin",
-    "_temp_b64url_decoded.bin",
-    "_temp_b64url.b64",
-    "_temp_orig_b64.b64",
-    "_temp_decoded.bin",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",

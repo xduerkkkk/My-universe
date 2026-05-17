@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779000697290-ku2qdvo50",
+  "providerId": "claude",
+  "title": "Fix markdown heading order in files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779000697290,
+  "updatedAt": 1779000823163,
+  "lastResponseAt": 1779000823163,
+  "sessionId": "129fde60-ef19-4ed7-8f23-7ff7a3b4751a",
+  "providerState": {
+    "providerSessionId": "129fde60-ef19-4ed7-8f23-7ff7a3b4751a"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 11739,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40064,
+    "contextWindow": 200000,
+    "contextTokens": 51803,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}
