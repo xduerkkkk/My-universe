@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/高等数学/05二重积分/880.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,7 +90,6 @@
           {
             "id": "be5f5b917b425cfd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -98,43 +97,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-05-17 周日"
             }
-          },
-          {
-            "id": "4beec9d0f4d295fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/最终报告.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "最终报告"
-            }
-          },
-          {
-            "id": "df92846bad165802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000最终报告"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
+                "file": "1.工作流/10.日记文件/2026-05-17 周日.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "000最终报告 的大纲"
+              "title": "2026-05-17 周日 的大纲"
             }
           },
           {
@@ -267,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
+                "file": "1.工作流/10.日记文件/2026-05-17 周日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "000最终报告 的出链列表"
+              "title": "2026-05-17 周日 的出链列表"
             }
           },
           {
@@ -301,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
+                "file": "1.工作流/10.日记文件/2026-05-17 周日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +279,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "000最终报告 的反向链接列表"
+              "title": "2026-05-17 周日 的反向链接列表"
             }
           }
         ]
@@ -342,12 +310,34 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "df92846bad165802",
+  "active": "be5f5b917b425cfd",
   "lastOpenFiles": [
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/报告版本1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "_attachments/image/03 880-1779026259500.jpeg",
+    "_attachments/image/03 880-1779025779811.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md",
+    "1.工作流/10.日记文件/2026-05-17 周日.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/英语六级冲刺.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/寒假规划.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/3月后.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/复习4.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/复习2.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/复习1.md",
+    "2.知识库/24.工程实践/AI应用.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/最终报告.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/报告版本1.md",
+    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
     "_attachments/image/000最终报告-1779009374168.jpeg",
     "_attachments/image/000最终报告-1779009374045.jpeg",
     "_attachments/image/000最终报告-1779009245240.jpeg",
@@ -355,26 +345,7 @@
     "_attachments/image/最终报告-1779008476785.jpeg",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/Drawing 2026-05-17 16.44.45.excalidraw.md",
     "_attachments/image/最终报告-1779007906614.jpeg",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/880.md",
-    "1.工作流/10.日记文件/2026-05-17 周日.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片/近似解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/卡片/正交化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/01笔记.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/梳理整理.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/七阶段.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/四五六阶段.md",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/03向量组/习题与1000题.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md.tmp.24624.4f90bf9cd70f",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/cc.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock阶段",
@@ -390,14 +361,12 @@
     "未命名.canvas",
     "_attachments/image/1998-1778910462666.jpeg",
     "_attachments/统计建模选题第二版-1742911647161.jpeg",
-    "_attachments/统计建模选题第二版-1742911768973.jpeg",
-    "_attachments/统计建模选题第二版-1742911784243.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/高等数学/03积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/概率论/前三章思维导图.canvas"
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas"
   ]
 }
