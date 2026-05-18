@@ -88,17 +88,33 @@
             }
           },
           {
-            "id": "02c801a171c7f1ea",
+            "id": "73de68bf3314475a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-18 周一.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-18 周一"
+            }
+          },
+          {
+            "id": "0c4b096580264c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/基础强化过渡阶段（15-20） Week3.md",
+                "file": "3.创造物/31.我的项目/项目六，opd/项目记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础强化过渡阶段（15-20） Week3"
+              "title": "项目记录"
             }
           }
         ],
@@ -195,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/基础强化过渡阶段（15-20） Week3.md",
+                "file": "1.工作流/10.日记文件/2026-05-18 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础强化过渡阶段（15-20） Week3 的大纲"
+              "title": "2026-05-18 周一 的大纲"
             }
           },
           {
@@ -310,10 +326,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "02c801a171c7f1ea",
+  "active": "73de68bf3314475a",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/基础强化过渡阶段（8-14） Week2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "3.创造物/31.我的项目/项目六，opd/项目记录.md",
+    "1.工作流/10.日记文件/2026-05-18 周一.md",
+    "3.创造物/31.我的项目/项目六，opd",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md",
+    "_attachments/image/880-1779071523777.jpeg",
+    "_attachments/image/880-1779069863904.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
+    "2.知识库/24.工程实践/AI应用.md",
+    "2.知识库/24.工程实践/代理.md",
     "1.工作流/10.日记文件/基础强化过渡阶段（15-20） Week3.md",
+    "1.工作流/10.日记文件/基础强化过渡阶段（8-14） Week2.md",
     "1.工作流/10.日记文件/2026-05-17 周日.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
@@ -321,7 +347,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/背单词相近词辨析6.md",
     "2.知识库/24.工程实践/Prompt大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
     "_attachments/image/03 880-1779026259500.jpeg",
     "_attachments/image/03 880-1779025779811.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md",
@@ -334,12 +359,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/英语六级冲刺.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/寒假规划.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档/3月后.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习4.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习2.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习1.md",
     "_attachments/image/000最终报告-1779009374168.jpeg",
     "_attachments/image/000最终报告-1779009374045.jpeg",
     "_attachments/image/000最终报告-1779009245240.jpeg",
@@ -355,12 +374,9 @@
     "0.核心/00.规划(Plan)/0.北极星_NorthStar",
     "_attachments/image/880-1778984708405.jpeg",
     "_temp_lzstring.js",
-    "_temp_working_decoded.bin",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",
-    "_attachments/image/1998-1778910462666.jpeg",
-    "_attachments/统计建模选题第二版-1742911647161.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
