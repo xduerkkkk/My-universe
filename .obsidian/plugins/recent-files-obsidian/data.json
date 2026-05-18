@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-18 周一",
+      "path": "1.工作流/10.日记文件/2026-05-18 周一.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md"
+    },
+    {
+      "basename": "2000",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md"
+    },
+    {
+      "basename": "关于感情受挫经历-给当时的自己一封信",
+      "path": "4.不常用/41.随想文件/人际关系认知/亲密关系/关于感情受挫经历-给当时的自己一封信.md"
+    },
+    {
+      "basename": "存在即共振",
+      "path": "4.不常用/41.随想文件/人际关系认知/亲密关系/存在即共振.md"
+    },
+    {
       "basename": "2026-05-15 周五",
       "path": "1.工作流/10.日记文件/2026-05-15 周五.md"
     },
     {
       "basename": "2026-05-17 周日",
       "path": "1.工作流/10.日记文件/2026-05-17 周日.md"
-    },
-    {
-      "basename": "2026-05-18 周一",
-      "path": "1.工作流/10.日记文件/2026-05-18 周一.md"
     },
     {
       "basename": "00-整个考研",
@@ -25,14 +49,6 @@
       "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md"
     },
     {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md"
-    },
-    {
       "basename": "01视频笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "项目记录",
       "path": "3.创造物/31.我的项目/项目六，opd/项目记录.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md"
     },
     {
       "basename": "AI应用",
@@ -83,10 +95,6 @@
     {
       "basename": "Prompt大全",
       "path": "2.知识库/24.工程实践/Prompt大全.md"
-    },
-    {
-      "basename": "2000",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
     },
     {
       "basename": "01笔记",
@@ -191,14 +199,6 @@
     {
       "basename": "Clip YouTube Transcript",
       "path": "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/880.md"
-    },
-    {
-      "basename": "近似解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/卡片/近似解.md"
     }
   ],
   "omittedPaths": [
