@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "复习2",
-      "path": "2.知识库/21.AI世界/02深度学习/NLP/复习2.md"
+      "basename": "简单积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md"
+    },
+    {
+      "basename": "换元法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md"
+    },
+    {
+      "basename": "2000",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
     },
     {
       "basename": "自己整理",
       "path": "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md"
+    },
+    {
+      "basename": "2026-05-18 周一",
+      "path": "1.工作流/10.日记文件/2026-05-18 周一.md"
+    },
+    {
+      "basename": "2026-05-19 周二",
+      "path": "1.工作流/10.日记文件/2026-05-19 周二.md"
+    },
+    {
+      "basename": "复习2",
+      "path": "2.知识库/21.AI世界/02深度学习/NLP/复习2.md"
     },
     {
       "basename": "复习3",
@@ -21,24 +45,12 @@
       "path": "2.知识库/21.AI世界/02深度学习/NLP/复习1.md"
     },
     {
-      "basename": "2026-05-18 周一",
-      "path": "1.工作流/10.日记文件/2026-05-18 周一.md"
-    },
-    {
       "basename": "880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md"
     },
     {
-      "basename": "2000",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md"
-    },
-    {
       "basename": "03 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md"
     },
     {
       "basename": "关于感情受挫经历-给当时的自己一封信",
@@ -187,18 +199,6 @@
     {
       "basename": "Drawing 2026-05-17 16.44.45.excalidraw",
       "path": "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/Drawing 2026-05-17 16.44.45.excalidraw.md"
-    },
-    {
-      "basename": "Remove URLs",
-      "path": "copilot/copilot-custom-prompts/Remove URLs.md"
-    },
-    {
-      "basename": "Make shorter",
-      "path": "copilot/copilot-custom-prompts/Make shorter.md"
-    },
-    {
-      "basename": "Clip YouTube Transcript",
-      "path": "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
     }
   ],
   "omittedPaths": [
