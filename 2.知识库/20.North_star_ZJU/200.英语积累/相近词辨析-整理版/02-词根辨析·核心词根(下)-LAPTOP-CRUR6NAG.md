@@ -8,14 +8,14 @@
 
 词根 `pel/puls` = push, drive（推动，驱动）。**方向前缀 + pel = 完全不同的动作。**
 
-| 词 | 核心义 | 词根拆解 | 考研要点 |
-|---|---|---|---|
-| **expel** | 开除；驱逐；排出 | ex(向外) + pel(推) | 由内而外的剧烈动作。`expel from school` |
-| **impel** | 驱使；迫使（心理驱动） | im(向内) + pel | 某种责任感/恐惧"推"着你行动。不同于 compel |
-| **compel** | 强迫；迫使 | com(一起) + pel | 压力来自四面八方，不得不做 |
-| **propel** | 推进；驱动 | pro(向前) + pel | 如螺旋桨 propeller |
-| **repel** | 击退；使厌恶 | re(回) + pel | "推回去" |
-| **impulse** | 冲动；脉冲 | im + puls | 内心的"推力"。`on impulse` 冲动之下 |
+| 词           | 核心义         | 词根拆解            | 考研要点                          |
+| ----------- | ----------- | --------------- | ----------------------------- |
+| **expel**   | 开除；驱逐；排出    | ex(向外) + pel(推) | 由内而外的剧烈动作。`expel from school` |
+| **impel**   | 驱使；迫使（心理驱动） | im(向内) + pel    | 某种责任感/恐惧"推"着你行动。不同于 compel    |
+| **compel**  | 强迫；迫使       | com(一起) + pel   | 压力来自四面八方，不得不做                 |
+| **propel**  | 推进；驱动       | pro(向前) + pel   | 如螺旋桨 propeller                |
+| **repel**   | 击退；使厌恶      | re(回) + pel     | "推回去"                         |
+| **impulse** | 冲动；脉冲       | im + puls       | 内心的"推力"。`on impulse` 冲动之下     |
 
 ---
 
@@ -138,16 +138,16 @@
 
 词根 `vers/vert` = turn（转动）。
 
-| 词                 | 核心义       | 词根拆解                          | 搭配                  |
-| ----------------- | --------- | ----------------------------- | ------------------- |
-| **versatile**     | 多才多艺的；万能的 | vers(转) + atile → 随时转身处理不同任务  | 像瑞士军刀               |
-| **reverse**       | 反转；相反的    | re(回) + verse(转) → 转回去        | —                   |
-| **diverse**       | 多样的       | di(分开) + verse → 转到各个方向       | `diverse opinions`  |
-| **convert**       | 转换；改变信仰   | con(一起) + vert → 一起转          | —                   |
-| **controversy**   | 争议        | contro(反) + vers(转) + y → ， ， | 🔥 考研超高频。侧重"公众意见不一" |
-| **controversial** | 有争议的      | 同上                            | —                   |
-| **versus**        | 对阵；对      | vs. 的全称                       | —                   |
-| **anniversary**   | 周年纪念日     | anni(年) + vers(转) → 一年转回来     | —                   |
+| 词 | 核心义 | 词根拆解 | 搭配 |
+|---|---|---|---|
+| **versatile** | 多才多艺的；万能的 | vers(转) + atile → 随时转身处理不同任务 | 像瑞士军刀 |
+| **reverse** | 反转；相反的 | re(回) + verse(转) → 转回去 | — |
+| **diverse** | 多样的 | di(分开) + verse → 转到各个方向 | `diverse opinions` |
+| **convert** | 转换；改变信仰 | con(一起) + vert → 一起转 | — |
+| **controversy** | 争议 | contro(反) + vers(转) + y → 转身对着干 | 🔥 考研超高频。侧重"公众意见不一" |
+| **controversial** | 有争议的 | 同上 | — |
+| **versus** | 对阵；对 | vs. 的全称 | — |
+| **anniversary** | 周年纪念日 | anni(年) + vers(转) → 一年转回来 | — |
 
 > 📌 **controversy vs dispute vs debate vs conflict** → 见 [[05-主题场景·考研高频语境词]]
 
