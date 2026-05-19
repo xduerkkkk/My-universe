@@ -88,22 +88,6 @@
             }
           },
           {
-            "id": "1b11e61a31706cd1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "自己整理"
-            }
-          },
-          {
             "id": "19739a2a2471ab5d",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +104,37 @@
             }
           },
           {
-            "id": "f1512a229e4c8552",
+            "id": "b3b1fd14743c2760",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "自己整理"
+            }
+          },
+          {
+            "id": "d7c7c8941751f9a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+                "file": "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单积分"
+              "title": "复习3"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.50384521484375
+    "width": 245.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+                "file": "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "简单积分 的大纲"
+              "title": "自己整理 的大纲"
             }
           },
           {
@@ -342,22 +342,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f1512a229e4c8552",
+  "active": "b3b1fd14743c2760",
   "lastOpenFiles": [
+    "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/复习2.md",
+    "_attachments/image/自己整理-1779161810386.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "1.工作流/10.日记文件/2026-05-19 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/880.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
     "_attachments/image/880-1779156227854.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
     "1.工作流/10.日记文件/2026-05-18 周一.md",
-    "1.工作流/10.日记文件/2026-05-19 周二.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习2.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
     "2.知识库/21.AI世界/02深度学习/NLP/复习4.md",
     "2.知识库/21.AI世界/02深度学习/NLP/复习1.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md",
     "_attachments/image/880-1779109215665.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
     "4.不常用/41.随想文件/人际关系认知/亲密关系/关于感情受挫经历-给当时的自己一封信.md",
     "4.不常用/41.随想文件/人际关系认知/亲密关系/存在即共振.md",
     "1.工作流/10.日记文件/2026-05-15 周五.md",
@@ -365,22 +372,14 @@
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md",
-    "3.创造物/31.我的项目/项目六，opd/项目记录.md",
     "3.创造物/31.我的项目/项目六，opd",
     "_attachments/image/880-1779071523777.jpeg",
     "_attachments/image/880-1779069863904.jpeg",
-    "2.知识库/24.工程实践/AI应用.md",
-    "2.知识库/24.工程实践/代理.md",
-    "1.工作流/10.日记文件/基础强化过渡阶段（15-20） Week3.md",
-    "1.工作流/10.日记文件/基础强化过渡阶段（8-14） Week2.md",
     "_attachments/image/03 880-1779026259500.jpeg",
     "_attachments/image/03 880-1779025779811.jpeg",
     "_attachments/image/000最终报告-1779009374168.jpeg",
     "_attachments/image/000最终报告-1779009374045.jpeg",
     "_attachments/image/000最终报告-1779009245240.jpeg",
-    "_attachments/image/最终报告-1779008476785.jpeg",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md.tmp.24624.4f90bf9cd70f",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化",
