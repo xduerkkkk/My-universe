@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "68637e39738934e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "880"
-            }
-          },
-          {
             "id": "28af59fb0ddb1867",
             "type": "leaf",
             "pinned": true,
@@ -120,17 +104,33 @@
             }
           },
           {
-            "id": "a7067f141636becd",
+            "id": "7ffb07207d682bbc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "880"
+            }
+          },
+          {
+            "id": "1e90ae40a2cbb915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "2000"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "2000 的大纲"
             }
           },
           {
@@ -342,23 +342,33 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a7067f141636becd",
+  "active": "1e90ae40a2cbb915",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/核心语境库1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
+    "1.工作流/10.日记文件/2026-05-20 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/卡片/03 880.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "_attachments/image/03 880-1779277726910.jpeg",
+    "_attachments/image/03 880-1779277685030.jpeg",
+    "_attachments/image/03 880-1779277654747.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/02习题与1000题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/记忆--初始化.md",
     "2.知识库/24.工程实践/API使用.md",
-    "1.工作流/10.日记文件/2026-05-20 周三.md",
     "_attachments/image/API使用-1779266856649.jpeg",
     "_attachments/image/API使用-1779266834051.jpeg",
     "_attachments/image/API使用-1779266808579.jpeg",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/001最终报告.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/报告版本1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
     "_attachments/assets/Pasted Image 20260507150814_063.png",
     "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
     "2.知识库/21.AI世界/02深度学习/NLP/自己总结.md",
@@ -366,22 +376,13 @@
     "_attachments/image/自己总结-1779250739001.jpeg",
     "_attachments/image/自己总结-1779250722167.jpeg",
     "1.工作流/10.日记文件/2026-05-19 周二.md",
-    "_attachments/image/自己总结-1779241757390.jpeg",
     "2.知识库/21.AI世界/02深度学习/NLP/复习4.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下).md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/01-词根辨析·核心词根(上).md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习3.md",
-    "_attachments/image/自己整理-1779177710864.jpeg",
-    "2.知识库/21.AI世界/02深度学习/NLP/复习2.md",
-    "CLAUDE.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
-    "_attachments/image/自己整理-1779161810386.jpeg",
     "3.创造物/31.我的项目/项目六，opd",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md.tmp.24624.4f90bf9cd70f",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档",
@@ -396,7 +397,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas"

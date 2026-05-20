@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "_attachments/",
+  "attachmentFolderPath": "_attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
