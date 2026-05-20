@@ -88,22 +88,6 @@
             }
           },
           {
-            "id": "19739a2a2471ab5d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-05-19 周二.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-05-19 周二"
-            }
-          },
-          {
             "id": "0543a066186060d1",
             "type": "leaf",
             "pinned": true,
@@ -118,9 +102,23 @@
               "icon": "lucide-file",
               "title": "自己整理"
             }
+          },
+          {
+            "id": "919fb76e12d71a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/21.AI世界/02深度学习/NLP/自己总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自己总结"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -330,9 +328,11 @@
   },
   "active": "0543a066186060d1",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-05-19 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "2.知识库/21.AI世界/02深度学习/NLP/自己总结.md",
     "2.知识库/21.AI世界/02深度学习/NLP/自己整理.md",
+    "1.工作流/10.日记文件/2026-05-19 周二.md",
+    "_attachments/image/自己总结-1779241757390.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
     "2.知识库/21.AI世界/02深度学习/NLP/复习4.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
@@ -358,9 +358,7 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/880.md",
     "_attachments/image/880-1779156227854.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "_attachments/image/880-1779109215665.jpeg",
     "3.创造物/31.我的项目/项目六，opd",
     "_attachments/image/880-1779071523777.jpeg",
@@ -368,7 +366,6 @@
     "_attachments/image/03 880-1779026259500.jpeg",
     "_attachments/image/03 880-1779025779811.jpeg",
     "_attachments/image/000最终报告-1779009374168.jpeg",
-    "_attachments/image/000最终报告-1779009374045.jpeg",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/一，二，三阶段.md.tmp.24624.4f90bf9cd70f",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-历史归档",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化",
