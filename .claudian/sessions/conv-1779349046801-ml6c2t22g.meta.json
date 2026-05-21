@@ -4,8 +4,8 @@
   "title": "我现在在执行408 感觉特别好  知识也明显不断强化，且有更深的理解。 这让我对408愈发自信。但对...",
   "titleGenerationStatus": "failed",
   "createdAt": 1779349046802,
-  "updatedAt": 1779350535532,
-  "lastResponseAt": 1779350535532,
+  "updatedAt": 1779354329731,
+  "lastResponseAt": 1779354329731,
   "sessionId": "7bfb0155-959d-4979-91fa-377355827a45",
   "providerState": {
     "providerSessionId": "7bfb0155-959d-4979-91fa-377355827a45"
@@ -13,12 +13,12 @@
   "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 12107,
-    "cacheCreationInputTokens": 8071,
+    "inputTokens": 23424,
+    "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 20178,
-    "percentage": 10,
+    "contextTokens": 23424,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }
