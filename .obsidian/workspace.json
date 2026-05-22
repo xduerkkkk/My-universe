@@ -102,41 +102,9 @@
               "icon": "lucide-file",
               "title": "880"
             }
-          },
-          {
-            "id": "c9a677c56b6b295b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-05-21 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-05-21 周四"
-            }
-          },
-          {
-            "id": "c0b863964c2619b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-21 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-21 周四 的大纲"
+              "title": "880 的大纲"
             }
           },
           {
@@ -320,7 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,23 +312,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c9a677c56b6b295b",
+  "active": "7ffb07207d682bbc",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "_attachments/image/880-1779376791834.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/习题与1000题.md",
-    "1.工作流/10.日记文件/2026-05-21 周四.md",
+    "_attachments/image/880-1779418466245.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+    "_attachments/image/880-1779415151800.jpeg",
+    "_attachments/image/880-1779415147534.jpeg",
+    "1.工作流/10.日记文件/2026-05-22 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--不定积分和变限积分的转换.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
+    "1.工作流/10.日记文件/2026-05-21 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "_attachments/image/880-1779376791834.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/卡片/性质记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/卡片/03 880.md",
@@ -377,12 +349,8 @@
     "1.工作流/10.日记文件/2026-05-20 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "1.工作流/10.日记文件/2026-05-19 周二.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "_attachments/image/03 880-1779277726910.jpeg",
     "_attachments/image/03 880-1779277685030.jpeg",
-    "_attachments/image/03 880-1779277654747.jpeg",
-    "_attachments/image/API使用-1779266856649.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "3.创造物/31.我的项目/项目六，opd",
