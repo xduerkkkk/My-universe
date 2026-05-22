@@ -72,7 +72,39 @@
             }
           },
           {
-            "id": "8541d357cf812bd2",
+            "id": "7ffb07207d682bbc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "880"
+            }
+          },
+          {
+            "id": "6792a8678ab2cc89",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-05-22 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-05-22 周五"
+            }
+          },
+          {
+            "id": "19de864ebbe5d3aa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -88,23 +120,21 @@
             }
           },
           {
-            "id": "7ffb07207d682bbc",
+            "id": "a2d253e0ed502222",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "880"
+              "title": "CLAUDE"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+                "file": "CLAUDE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "880 的大纲"
+              "title": "CLAUDE 的大纲"
             }
           },
           {
@@ -288,7 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,14 +342,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ffb07207d682bbc",
+  "active": "a2d253e0ed502222",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/memory/vault_structure.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
+    "1.工作流/10.日记文件/2026-05-22 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
+    "_attachments/image/中断和异常-1779437319059.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/Drawing 2026-05-22 15.22.47.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
     "_attachments/image/880-1779418466245.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
     "_attachments/image/880-1779415151800.jpeg",
     "_attachments/image/880-1779415147534.jpeg",
-    "1.工作流/10.日记文件/2026-05-22 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/习题与1000题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/题目--已知特解反推方程.md",
@@ -328,29 +371,17 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--不定积分和变限积分的转换.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
     "1.工作流/10.日记文件/2026-05-21 周四.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "_attachments/image/880-1779376791834.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/卡片/性质记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/卡片/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md",
     "_attachments/image/880-1779354934390.jpeg",
     "_attachments/image/880-1779354541991.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
-    "0.核心/01.学习操作系统My_OS/3.具体细化方法/做题时的归因.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "_attachments/image/880-1779331463472.jpeg",
     "_attachments/image/880-1779331461825.jpeg",
     "_attachments/image/880-1779327921837.jpeg",
-    "1.工作流/10.日记文件/2026-05-20 周三.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
-    "1.工作流/10.日记文件/2026-05-19 周二.md",
-    "_attachments/image/03 880-1779277726910.jpeg",
-    "_attachments/image/03 880-1779277685030.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "3.创造物/31.我的项目/项目六，opd",
@@ -360,7 +391,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock阶段",
     "0.核心/00.规划(Plan)/5.生活管理",
     "0.核心/00.规划(Plan)/1.阶段性规划/历史规划",
-    "0.核心/00.规划(Plan)/1.阶段性规划/BedRock总结",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",
