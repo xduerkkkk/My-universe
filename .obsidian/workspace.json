@@ -134,26 +134,9 @@
               "icon": "lucide-file",
               "title": "王道题"
             }
-          },
-          {
-            "id": "0f071cab392e5794",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-                "viewState": {
-                  "x": -61.19902828851667,
-                  "y": 335.3562211526073,
-                  "zoom": -0.3682089298250433
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "思维导图"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -246,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+                "file": "1.工作流/10.日记文件/2026-05-21 周四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "思维导图 的大纲"
+              "title": "2026-05-21 周四 的大纲"
             }
           },
           {
@@ -286,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+                "file": "1.工作流/10.日记文件/2026-05-21 周四.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "思维导图 的出链列表"
+              "title": "2026-05-21 周四 的出链列表"
             }
           },
           {
@@ -361,8 +344,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0f071cab392e5794",
+  "active": "c9a677c56b6b295b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "_attachments/image/880-1779376791834.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/习题与1000题.md",
+    "1.工作流/10.日记文件/2026-05-21 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
@@ -379,12 +369,8 @@
     "_attachments/image/880-1779354934390.jpeg",
     "_attachments/image/880-1779354541991.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
-    "1.工作流/10.日记文件/2026-05-21 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "0.核心/01.学习操作系统My_OS/3.具体细化方法/做题时的归因.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "_attachments/image/880-1779331463472.jpeg",
     "_attachments/image/880-1779331461825.jpeg",
     "_attachments/image/880-1779327921837.jpeg",
@@ -393,13 +379,10 @@
     "1.工作流/10.日记文件/2026-05-19 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "_attachments/image/03 880-1779277726910.jpeg",
     "_attachments/image/03 880-1779277685030.jpeg",
     "_attachments/image/03 880-1779277654747.jpeg",
     "_attachments/image/API使用-1779266856649.jpeg",
-    "_attachments/image/API使用-1779266834051.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "3.创造物/31.我的项目/项目六，opd",
