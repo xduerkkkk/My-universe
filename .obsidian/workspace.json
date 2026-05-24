@@ -72,21 +72,21 @@
             }
           },
           {
-            "id": "fed55aa261d61c9c",
+            "id": "866e5bc4a9f72f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "视频笔记"
+              "title": "00函数--张宇基础30讲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.50384521484375
+    "width": 254.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "03强化-高等数学辅导讲义 的大纲"
             }
           },
           {
@@ -294,37 +294,38 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "19de864ebbe5d3aa",
+  "active": "edc1184fee768e97",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "_attachments/image/03强化-高等数学辅导讲义-1779627281153.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
-    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
     "1.工作流/10.日记文件/2026-05-24 周日.md",
-    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/Drawing 2026-05-24 19.54.21.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
+    "_attachments/Pasted Image 20260524195422_125.png",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
+    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
+    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779593680375.jpeg",
     "_attachments/image/03强化-高等数学辅导讲义-1779587333124.jpeg",
     "4.不常用/43.模板文件/日记模板.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779586392667.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "1.工作流/10.日记文件/2026-05-22 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/闭区间上连续函数的性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/02-考研英语时间线.md",
     "_attachments/image/中断和异常-1779437319059.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "_attachments/image/880-1779418466245.jpeg",
@@ -333,7 +334,6 @@
     "_attachments/image/880-1779415147534.jpeg",
     "_attachments/image/880-1779376791834.jpeg",
     "_attachments/image/880-1779354934390.jpeg",
-    "_attachments/image/880-1779354541991.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "3.创造物/31.我的项目/项目六，opd",
