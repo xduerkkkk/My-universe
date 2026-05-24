@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "28af59fb0ddb1867",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2000"
-            }
-          },
-          {
             "id": "19de864ebbe5d3aa",
             "type": "leaf",
             "pinned": true,
@@ -88,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -299,17 +283,26 @@
   "active": "19de864ebbe5d3aa",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
-    "1.工作流/10.日记文件/2026-05-24 周日.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "_attachments/image/03强化-高等数学辅导讲义-1779593680375.jpeg",
+    "1.工作流/10.日记文件/2026-05-24 周日.md",
+    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
+    "_attachments/image/03强化-高等数学辅导讲义-1779593680375.jpeg",
     "_attachments/image/03强化-高等数学辅导讲义-1779587333124.jpeg",
     "4.不常用/43.模板文件/日记模板.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779586392667.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "1.工作流/10.日记文件/2026-05-22 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md",
@@ -318,14 +311,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/02-考研英语时间线.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
-    "CLAUDE.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/memory/vault_structure.md",
     "_attachments/image/中断和异常-1779437319059.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "_attachments/image/880-1779418466245.jpeg",
