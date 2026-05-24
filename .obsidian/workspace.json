@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03强化-高等数学辅导讲义 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -296,12 +296,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "edc1184fee768e97",
+  "active": "19de864ebbe5d3aa",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "1.工作流/10.日记文件/2026-05-24 周日.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2000.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779593680375.jpeg",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779587333124.jpeg",
