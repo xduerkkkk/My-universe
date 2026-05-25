@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779709286383-900xzz7n4",
+  "providerId": "claude",
+  "title": "Review process mind map for 408 OS",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779709286383,
+  "updatedAt": 1779710178056,
+  "lastResponseAt": 1779710178056,
+  "sessionId": "07fbe4e9-f3a4-4637-aa3c-f7ea94767fb9",
+  "providerState": {
+    "providerSessionId": "07fbe4e9-f3a4-4637-aa3c-f7ea94767fb9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 88,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 120448,
+    "contextWindow": 200000,
+    "contextTokens": 120536,
+    "percentage": 60
+  }
+}

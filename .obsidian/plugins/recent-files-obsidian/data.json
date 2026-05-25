@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "02思维导图-进程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md"
+    },
+    {
+      "basename": "现场",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md"
+    },
+    {
+      "basename": "02思维导图-进程_backup_20260525",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md"
+    },
+    {
+      "basename": "02思维导图-进程-v2.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw.md"
+    },
+    {
       "basename": "03强化-高等数学辅导讲义",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
+    },
+    {
+      "basename": "2026-05-25 周一",
+      "path": "1.工作流/10.日记文件/2026-05-25 周一.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
+    },
+    {
+      "basename": "04强化-严选题，880拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md"
+    },
+    {
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/大纲.md"
+    },
+    {
+      "basename": "03强化课--PV操作",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md"
+    },
+    {
+      "basename": "2026-05-24 周日，强化阶段day1",
+      "path": "1.工作流/10.日记文件/2026-05-24 周日，强化阶段day1.md"
     },
     {
       "basename": "01极限--张宇基础30讲",
@@ -11,18 +59,6 @@
     {
       "basename": "00函数--张宇基础30讲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
-    },
-    {
-      "basename": "04强化-严选题，880拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md"
-    },
-    {
-      "basename": "2026-05-25 周一",
-      "path": "1.工作流/10.日记文件/2026-05-25 周一.md"
     },
     {
       "basename": "02微概计--张宇基础30讲",
@@ -51,10 +87,6 @@
     {
       "basename": "数据",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md"
-    },
-    {
-      "basename": "2026-05-24 周日，强化阶段day1",
-      "path": "1.工作流/10.日记文件/2026-05-24 周日，强化阶段day1.md"
     },
     {
       "basename": "基础强化过渡阶段（21-28） Week4",
@@ -167,38 +199,6 @@
     {
       "basename": "强化阶段？基础过渡？",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md"
-    },
-    {
-      "basename": "03-关于我",
-      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md"
-    },
-    {
-      "basename": "02-考研英语时间线",
-      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/02-考研英语时间线.md"
-    },
-    {
-      "basename": "01-我的序言",
-      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md"
-    },
-    {
-      "basename": "00-整个考研",
-      "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md"
-    },
-    {
-      "basename": "00-规划总览",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Rewrite as tweet",
-      "path": "copilot/copilot-custom-prompts/Rewrite as tweet.md"
-    },
-    {
-      "basename": "Make shorter",
-      "path": "copilot/copilot-custom-prompts/Make shorter.md"
     }
   ],
   "omittedPaths": [
