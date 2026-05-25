@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "03强化-高等数学辅导讲义",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md"
+    },
+    {
+      "basename": "2026-05-25 周一",
+      "path": "1.工作流/10.日记文件/2026-05-25 周一.md"
+    },
+    {
+      "basename": "04强化-严选题，880拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "01书籍对齐",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/01书籍对齐.md"
+    },
+    {
+      "basename": "00函数--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md"
+    },
+    {
+      "basename": "01极限--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
+    },
+    {
+      "basename": "02-880基础篇",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md"
+    },
+    {
+      "basename": "经典反例",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/经典反例.md"
+    },
+    {
+      "basename": "单词，句子记录2002",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md"
+    },
+    {
       "basename": "数据",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md"
     },
@@ -29,16 +73,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
     },
     {
-      "basename": "03强化-高等数学辅导讲义",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md"
-    },
-    {
       "basename": "“硬件”与“软件（OS）”分工",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md"
-    },
-    {
-      "basename": "单词，句子记录2002",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md"
     },
     {
       "basename": "单词，句子记录2000-2001",
@@ -51,10 +87,6 @@
     {
       "basename": "2001",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md"
-    },
-    {
-      "basename": "00函数--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md"
     },
     {
       "basename": "视频笔记",
@@ -125,24 +157,12 @@
       "path": "4.不常用/43.模板文件/日记模板.md"
     },
     {
-      "basename": "01极限--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
-    },
-    {
       "basename": "2026-05-22 周五",
       "path": "1.工作流/10.日记文件/2026-05-22 周五.md"
     },
     {
-      "basename": "04强化-严选题，880拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md"
-    },
-    {
       "basename": "闭区间上连续函数的性质",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/闭区间上连续函数的性质.md"
-    },
-    {
-      "basename": "02-880基础篇",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md"
     },
     {
       "basename": "强化阶段？基础过渡？",
@@ -179,26 +199,6 @@
     {
       "basename": "Make shorter",
       "path": "copilot/copilot-custom-prompts/Make shorter.md"
-    },
-    {
-      "basename": "Make longer",
-      "path": "copilot/copilot-custom-prompts/Make longer.md"
-    },
-    {
-      "basename": "vault_structure",
-      "path": "copilot/memory/vault_structure.md"
-    },
-    {
-      "basename": "Drawing 2026-05-22 15.22.47.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/Drawing 2026-05-22 15.22.47.excalidraw.md"
-    },
-    {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md"
     }
   ],
   "omittedPaths": [

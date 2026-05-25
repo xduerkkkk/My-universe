@@ -72,35 +72,39 @@
             }
           },
           {
-            "id": "91b3dcef7fca55e2",
+            "id": "ac844e8603f7c113",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
+                "file": "1.工作流/10.日记文件/2026-05-25 周一.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "单词，句子记录2002"
+              "title": "2026-05-25 周一"
             }
           },
           {
-            "id": "613dceb1ad2cde6a",
+            "id": "e52250339e8d0560",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "数据"
+              "title": "04强化-严选题，880拓展"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据 的大纲"
+              "title": "03强化-高等数学辅导讲义 的大纲"
             }
           },
           {
@@ -308,36 +312,38 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "613dceb1ad2cde6a",
+  "active": "edc1184fee768e97",
   "lastOpenFiles": [
+    "_attachments/image/03强化-高等数学辅导讲义-1779679188702.jpeg",
+    "1.工作流/10.日记文件/2026-05-25 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-严选题，880拓展.md",
+    "_attachments/image/04强化-严选题，880拓展-1779677207891.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/01书籍对齐.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/经典反例.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md",
     "1.工作流/10.日记文件/2026-05-24 周日，强化阶段day1.md",
     "1.工作流/10.日记文件/基础强化过渡阶段（21-28） Week4.md",
     "1.工作流/10.日记文件/基础强化过渡阶段（15-21） Week3.md",
     "1.工作流/10.日记文件/基础强化过渡阶段（8-14） Week2.md",
     "1.工作流/10.日记文件/基础强化过渡阶段（1-7） Week1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/数据.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779627281153.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/Drawing 2026-05-24 19.54.21.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
     "_attachments/Pasted Image 20260524195422_125.png",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
-    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
-    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779593680375.jpeg",
     "_attachments/image/03强化-高等数学辅导讲义-1779587333124.jpeg",
     "_attachments/image/03强化-高等数学辅导讲义-1779586392667.jpeg",
@@ -347,7 +353,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "_attachments/image/880-1779415151800.jpeg",
     "_attachments/image/880-1779415147534.jpeg",
-    "_attachments/image/880-1779376791834.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "3.创造物/31.我的项目/项目六，opd",
@@ -356,7 +361,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-BedRock阶段",
     "0.核心/00.规划(Plan)/5.生活管理",
-    "0.核心/00.规划(Plan)/1.阶段性规划/历史规划",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",
