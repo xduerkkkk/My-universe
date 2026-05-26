@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "86f7ee2dbb599cee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道题"
-            }
-          },
-          {
             "id": "fb71960b77405d83",
             "type": "leaf",
             "pinned": true,
@@ -88,21 +72,23 @@
             }
           },
           {
-            "id": "ab902ac4262c512a",
+            "id": "9e5b8ad35de193da",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "00视频勘察"
+              "title": "01王道题"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00视频勘察 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -235,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-21 周四.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-21 周四 的出链列表"
+              "title": "01王道题 的出链列表"
             }
           },
           {
@@ -286,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,14 +296,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab902ac4262c512a",
+  "active": "9e5b8ad35de193da",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "1.工作流/10.日记文件/2026-05-26 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
+    "_attachments/Pasted Image 20260526151702_852.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "1.工作流/10.日记文件/2026-05-26 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题，严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "_attachments/image/04强化-辅导讲义例题，严选题-1779766879468.jpeg",
@@ -342,12 +333,8 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
     "CLAUDE.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779679188702.jpeg",
-    "_attachments/image/04强化-严选题，880拓展-1779677207891.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
