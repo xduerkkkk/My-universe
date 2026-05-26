@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779795638910-2wqjyys8v",
+  "providerId": "claude",
+  "title": "阅读这个王道题文件，我有许多题有标注和注释。我二刷的记录只有感叹号，一个感叹号是一刷对但二刷错，两个...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1779795638912,
+  "updatedAt": 1779795874460,
+  "lastResponseAt": 1779795874460,
+  "sessionId": "1acec432-b75f-42de-a607-2d93b3795768",
+  "providerState": {
+    "providerSessionId": "1acec432-b75f-42de-a607-2d93b3795768"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5795,
+    "cacheReadInputTokens": 16772,
+    "contextWindow": 200000,
+    "contextTokens": 22568,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
