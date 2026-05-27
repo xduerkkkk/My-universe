@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "fb71960b77405d83",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-05-26 周二.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-05-26 周二"
-            }
-          },
-          {
             "id": "9e5b8ad35de193da",
             "type": "leaf",
             "pinned": true,
@@ -88,35 +72,23 @@
             }
           },
           {
-            "id": "ccc4e7fa2a8d19b3",
+            "id": "5ce2d87fbde6cf95",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3.创造物/31.我的项目/Drawing 2026-05-26 21.02.45.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-26 21.02.45.excalidraw"
-            }
-          },
-          {
-            "id": "03ecd338e8d9f587",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
+                "file": "1.工作流/10.日记文件/2026-05-27 周三.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "记录补足点"
+              "title": "2026-05-27 周三"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-26 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-26 周二 的大纲"
+              "title": "03强化-高等数学辅导讲义 的大纲"
             }
           },
           {
@@ -249,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-05-26 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-26 周二 的出链列表"
+              "title": "03强化-高等数学辅导讲义 的出链列表"
             }
           },
           {
@@ -300,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,21 +296,33 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fb71960b77405d83",
+  "active": "edc1184fee768e97",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题，严选题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "1.工作流/10.日记文件/2026-05-27 周三.md",
+    "3.创造物/31.我的项目/Drawing 2026-05-26 21.02.45.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+    "1.工作流/10.日记文件/2026-05-26 周二.md",
+    "3.创造物/31.我的项目/Agent 架构与流程报告.md",
+    "_attachments/image/实训-1779848269072.jpeg",
+    "_attachments/image/实训-1779847159670.jpeg",
+    "_attachments/image/实训-1779847138153.jpeg",
+    "_attachments/image/实训-1779847107394.jpeg",
+    "_attachments/image/实训-1779846803080.jpeg",
+    "_attachments/image/实训-1779846756321.jpeg",
+    "_attachments/image/实训-1779846712288.jpeg",
+    "_attachments/image/实训-1779846709928.jpeg",
+    "_attachments/image/实训-1779846672283.jpeg",
+    "3.创造物/31.我的项目/b测代码.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
-    "1.工作流/10.日记文件/2026-05-26 周二.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
     "0.核心/00.规划(Plan)/3.未来探索/03-求职规划.md",
     "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
     "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题，严选题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
-    "3.创造物/31.我的项目/Drawing 2026-05-26 21.02.45.excalidraw.md",
-    "3.创造物/31.我的项目/实训.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
@@ -349,20 +333,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
-    "_attachments/image/04强化-辅导讲义例题，严选题-1779766879468.jpeg",
-    "_attachments/image/常用不等式-1779766732800.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "_attachments/image/04强化-严选题，880拓展-1779765632495.jpeg",
-    "_attachments/image/04强化-严选题，880拓展-1779765506363.jpeg",
-    "_attachments/image/04强化-严选题，880拓展-1779764292018.jpeg",
-    "_attachments/image/04强化-严选题，880拓展-1779762872026.jpeg",
-    "_attachments/image/03强化-高等数学辅导讲义-1779760620254.jpeg",
-    "_attachments/image/04强化-严选题，880拓展-1779759611703.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw",
-    "_attachments/image/03强化-高等数学辅导讲义-1779679188702.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
