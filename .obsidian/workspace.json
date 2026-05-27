@@ -93,16 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-408"
+              "title": "2002"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03强化-高等数学辅导讲义 的大纲"
+              "title": "2002 的大纲"
             }
           },
           {
@@ -235,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "03强化-高等数学辅导讲义 的出链列表"
+              "title": "2002 的出链列表"
             }
           },
           {
@@ -310,18 +310,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "edc1184fee768e97",
+  "active": "4edd833a76302f15",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+    "_attachments/image/03强化-高等数学辅导讲义-1779889086404.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题，严选题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "_attachments/image/03强化-高等数学辅导讲义-1779888319813.jpeg",
+    "_attachments/image/03强化-高等数学辅导讲义-1779888291254.jpeg",
     "_attachments/image/04强化-辅导讲义例题，严选题-1779886876497.jpeg",
     "_attachments/image/04强化-辅导讲义例题，严选题-1779886831904.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "_attachments/image/04强化-辅导讲义例题，严选题-1779886660765.jpeg",
     "1.工作流/10.日记文件/2026-05-27 周三.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
@@ -340,9 +343,6 @@
     "_attachments/image/实训-1779848269072.jpeg",
     "_attachments/image/实训-1779847159670.jpeg",
     "_attachments/image/实训-1779847138153.jpeg",
-    "_attachments/image/实训-1779847107394.jpeg",
-    "_attachments/image/实训-1779846803080.jpeg",
-    "_attachments/image/实训-1779846756321.jpeg",
     "3.创造物/31.我的项目/b测代码.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
