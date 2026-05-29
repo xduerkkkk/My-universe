@@ -88,17 +88,17 @@
             }
           },
           {
-            "id": "865a957721b23bfa",
+            "id": "9203a8efc601b8fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-数学"
+              "title": "000泰勒"
             }
           }
         ],
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-数学 的大纲"
+              "title": "000泰勒 的大纲"
             }
           },
           {
@@ -235,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "00-数学 的出链列表"
+              "title": "000泰勒 的出链列表"
             }
           },
           {
@@ -310,10 +310,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "865a957721b23bfa",
+  "active": "9203a8efc601b8fd",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "1.工作流/10.日记文件/2026-05-29 周五.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "1.工作流/10.日记文件/2026-05-28 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题，严选题.md",
@@ -326,7 +327,6 @@
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779938975169.jpeg",
     "_attachments/image/03强化-高等数学辅导讲义-1779938840043.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "1.工作流/10.日记文件/2026-05-27 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "_attachments/image/03强化-高等数学辅导讲义-1779889086404.jpeg",
