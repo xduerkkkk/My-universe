@@ -70,37 +70,9 @@
               "icon": "lucide-file",
               "title": "06强化-880综合拓展"
             }
-          },
-          {
-            "id": "91ae1e5c7d17db26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一些重要的式子"
-            }
-          },
-          {
-            "id": "d29e6d5eecba6ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03强化-高等数学辅导讲义"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-02 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-02 周二 的大纲"
+              "title": "06强化-880综合拓展 的大纲"
             }
           },
           {
@@ -324,26 +296,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8e93ce42aa27b70a",
+  "active": "89c122b341a92384",
   "lastOpenFiles": [
+    "_attachments/image/06强化-880综合拓展-1780372357210.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780372341910.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780372128882.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780371955444.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780371473537.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780371086018.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780370646679.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780370410724.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
+    "1.工作流/10.日记文件/2026-06-02 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "_attachments/image/06强化-880综合拓展-1780369203196.jpeg",
     "_attachments/image/06强化-880综合拓展-1780369004552.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
     "_attachments/image/06强化-880综合拓展-1780367660947.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780366873225.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780366600356.jpeg",
-    "1.工作流/10.日记文件/2026-06-02 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
-    "_attachments/image/06强化-880综合拓展-1780364618081.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "_attachments/image/06强化-880综合拓展-1780364053475.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780363647264.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
@@ -352,8 +327,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
-    "_attachments/image/05强化-严选题-1780320679911.jpeg",
-    "_attachments/image/05强化-严选题-1780320670703.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
