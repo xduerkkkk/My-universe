@@ -4,21 +4,19 @@
   "title": "王道题整理",
   "titleGenerationStatus": "failed",
   "createdAt": 1779795638912,
-  "updatedAt": 1779850218918,
-  "lastResponseAt": 1779795874460,
+  "updatedAt": 1780391689228,
+  "lastResponseAt": 1780391644613,
   "sessionId": "1acec432-b75f-42de-a607-2d93b3795768",
   "providerState": {
     "providerSessionId": "1acec432-b75f-42de-a607-2d93b3795768"
   },
-  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 5795,
-    "cacheReadInputTokens": 16772,
+    "model": "opus",
+    "inputTokens": 179,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34560,
     "contextWindow": 200000,
-    "contextTokens": 22568,
-    "percentage": 11,
-    "contextWindowIsAuthoritative": true
+    "contextTokens": 34739,
+    "percentage": 17
   }
 }
