@@ -88,19 +88,21 @@
             }
           },
           {
-            "id": "4108afb1ff6800a4",
+            "id": "f72ee10cb1fc1d5a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+                "file": "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "总思维导图"
+              "icon": "lucide-file",
+              "title": "01-408"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总思维导图 的大纲"
+              "title": "06强化-880综合拓展 的大纲"
             }
           },
           {
@@ -324,22 +326,31 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4108afb1ff6800a4",
+  "active": "89c122b341a92384",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
+    "_attachments/image/06强化-880综合拓展-1780406002754.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780405770805.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780405704445.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780405112881.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780403414187.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780403009081.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
+    "_attachments/image/06强化-880综合拓展-1780401282892.jpeg",
+    "_attachments/image/06强化-880综合拓展-1780400424078.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
+    "1.工作流/10.日记文件/2026-06-02 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
-    "1.工作流/10.日记文件/2026-06-02 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/001最终报告.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/报告版本1.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/七阶段.md",
@@ -350,18 +361,9 @@
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/Drawing 2026-05-17 16.44.45.excalidraw.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
     "_attachments/image/06强化-880综合拓展-1780372357210.jpeg",
     "_attachments/image/06强化-880综合拓展-1780372341910.jpeg",
     "_attachments/image/06强化-880综合拓展-1780372128882.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780371955444.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780371473537.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780371086018.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780370646679.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780370410724.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780369203196.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780369004552.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "1.工作流/10.日记文件/26年上半年/26年6月",
