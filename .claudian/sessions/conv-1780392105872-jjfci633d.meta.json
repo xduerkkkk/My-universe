@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780392105872-jjfci633d",
+  "providerId": "claude",
+  "title": "你是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780392105873,
+  "updatedAt": 1780392117962,
+  "lastResponseAt": 1780392117962,
+  "sessionId": "46289377-4893-47b3-a56d-4d0824fec9e7",
+  "providerState": {
+    "providerSessionId": "46289377-4893-47b3-a56d-4d0824fec9e7"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 25163,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 25166,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

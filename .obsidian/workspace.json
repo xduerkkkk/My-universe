@@ -74,6 +74,7 @@
           {
             "id": "0e661b2f0c900ebd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,12 +82,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01视频笔记"
             }
+          },
+          {
+            "id": "4108afb1ff6800a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "总思维导图"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50384521484375
+    "width": 306.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -195,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "总思维导图 的大纲"
             }
           },
           {
@@ -282,12 +296,11 @@
               "title": "基础强化过渡阶段（15-20） Week3 的反向链接列表"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,8 +324,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0e661b2f0c900ebd",
+  "active": "4108afb1ff6800a4",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
@@ -330,8 +352,6 @@
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/草稿.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/技术架构.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/下一步.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/正文.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/final.md",
     "_attachments/image/06强化-880综合拓展-1780372357210.jpeg",
     "_attachments/image/06强化-880综合拓展-1780372341910.jpeg",
     "_attachments/image/06强化-880综合拓展-1780372128882.jpeg",
@@ -340,16 +360,9 @@
     "_attachments/image/06强化-880综合拓展-1780371086018.jpeg",
     "_attachments/image/06强化-880综合拓展-1780370646679.jpeg",
     "_attachments/image/06强化-880综合拓展-1780370410724.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "_attachments/image/06强化-880综合拓展-1780369203196.jpeg",
     "_attachments/image/06强化-880综合拓展-1780369004552.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "1.工作流/10.日记文件/26年上半年/26年6月",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程-v2.excalidraw",
