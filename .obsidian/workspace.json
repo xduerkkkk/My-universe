@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-01 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-01 周一 的大纲"
+              "title": "2002 的大纲"
             }
           },
           {
@@ -326,10 +326,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e68acf7c495ab2af",
+  "active": "850ce2056c791201",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
     "1.工作流/10.日记文件/2026-06-01 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
