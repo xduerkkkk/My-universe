@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89c122b341a92384",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "06强化-880综合拓展"
-            }
-          },
-          {
             "id": "f63a268ed4d24021",
             "type": "leaf",
             "pinned": true,
@@ -104,19 +88,38 @@
             }
           },
           {
-            "id": "51a7645910721d62",
+            "id": "89c122b341a92384",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md"
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "图--多级页表"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "06强化-880综合拓展"
+            }
+          },
+          {
+            "id": "6b114520351c9117",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05强化-严选题"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2003 的大纲"
             }
           },
           {
@@ -340,18 +343,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0d6d83419971af85",
+  "active": "f63a268ed4d24021",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
     "1.工作流/10.日记文件/2026-06-03 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
+    "_attachments/image/06强化-880综合拓展-1780492836917.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "_attachments/image/03 错题记录-1780488771365.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
@@ -361,22 +371,16 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/调度算法适配的相应作业.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--提高抖动降低的CPU利用率.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
     "_attachments/image/05强化-严选题-1780458582279.jpeg",
     "_attachments/image/05强化-严选题-1780457902404.jpeg",
     "_attachments/image/05强化-严选题-1780456956654.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
     "_attachments/image/06强化-880综合拓展-1780452060325.jpeg",
     "_attachments/image/06强化-880综合拓展-1780452000067.jpeg",
     "_attachments/image/06强化-880综合拓展-1780451969664.jpeg",
     "_attachments/image/06强化-880综合拓展-1780451682127.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780451622292.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "1.工作流/10.日记文件/26年上半年/26年6月",
