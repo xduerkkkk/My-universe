@@ -119,7 +119,8 @@
               "title": "05强化-严选题"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+                "file": "1.工作流/10.日记文件/2026-06-03 周三.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2003 的大纲"
+              "title": "2026-06-03 周三 的大纲"
             }
           },
           {
@@ -343,11 +344,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f63a268ed4d24021",
+  "active": "d7cb97888102764a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
     "1.工作流/10.日记文件/2026-06-03 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
