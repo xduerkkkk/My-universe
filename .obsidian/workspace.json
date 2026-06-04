@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "07-强化"
             }
+          },
+          {
+            "id": "f763628633e7d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 错题记录"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -312,11 +326,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0e661b2f0c900ebd",
+  "active": "0d6d83419971af85",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
+    "_attachments/image/03 错题记录-1780567026299.jpeg",
+    "_attachments/image/03 错题记录-1780567016314.jpeg",
+    "_attachments/image/03 错题记录-1780565857291.jpeg",
+    "_attachments/image/03 错题记录-1780565847578.jpeg",
+    "_attachments/image/03 错题记录-1780564160796.jpeg",
+    "_attachments/image/03 错题记录-1780564143009.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/总结--进程从诞生到运行.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "1.工作流/10.日记文件/2026-06-04 周四.md",
     "1.工作流/10.日记文件/2026-06-03 周三.md",
@@ -329,8 +350,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "_attachments/image/07-强化-1780543653856.jpeg",
     "_attachments/image/07-强化-1780542754356.jpeg",
-    "_attachments/image/07-强化-1780542485901.jpeg",
-    "_attachments/image/07-强化-1780538826681.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
@@ -341,15 +360,10 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md",
-    "_attachments/image/06强化-880综合拓展-1780535610203.jpeg",
-    "_attachments/image/06强化-880综合拓展-1780535392420.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
-    "_attachments/image/06强化-880综合拓展-1780492836917.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
-    "_attachments/image/03 错题记录-1780488771365.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "1.工作流/10.日记文件/26年上半年/26年6月",
