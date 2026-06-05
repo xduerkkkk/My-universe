@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "08-辅导讲义例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "04微不等式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md"
     },
     {
       "basename": "07-强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
+    },
+    {
+      "basename": "08-辅导讲义例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
+    },
+    {
+      "basename": "05微分物理，经济应用",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md"
+    },
+    {
+      "basename": "Pasted image 20260309105447",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260309105447.png"
+    },
+    {
+      "basename": "Pasted image 20260202122122",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260202122122.png"
+    },
+    {
+      "basename": "Pasted image 20260129102045",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260129102045.png"
+    },
+    {
+      "basename": "Pasted image 20260119203106",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119203106.png"
+    },
+    {
+      "basename": "Pasted image 20260119192401",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192401.png"
+    },
+    {
+      "basename": "Pasted image 20260119192425",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192425.png"
     },
     {
       "basename": "2026-06-05 周五",
@@ -163,42 +199,6 @@
     {
       "basename": "难点--提高抖动降低的CPU利用率",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--提高抖动降低的CPU利用率.md"
-    },
-    {
-      "basename": "题--计算缺页次数",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md"
-    },
-    {
-      "basename": "记忆--访存次数",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md"
-    },
-    {
-      "basename": "辨析--xx上限",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md"
-    },
-    {
-      "basename": "02-880基础篇",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
-    },
-    {
-      "basename": "2026-06-02 周二",
-      "path": "1.工作流/10.日记文件/2026-06-02 周二.md"
-    },
-    {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
-    },
-    {
-      "basename": "题--页面置换定位",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
-    },
-    {
-      "basename": "Drawing 2026-05-16 21.26.02.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md"
     }
   ],
   "omittedPaths": [
