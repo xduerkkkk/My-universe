@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "难点--时钟置换算法 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -326,20 +326,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d5407d9721f476f0",
+  "active": "0d6d83419971af85",
   "lastOpenFiles": [
-    "_attachments/image/难点--时钟置换算法-1780648155230.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
+    "1.工作流/10.日记文件/2026-06-05 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
+    "_attachments/image/难点--时钟置换算法-1780648155230.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--提高抖动降低的CPU利用率.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
-    "1.工作流/10.日记文件/2026-06-05 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
     "_attachments/image/07-强化-1780630633453.jpeg",
@@ -353,7 +353,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192425.png",
     "_attachments/image/03微几何-1780630118185.jpeg",
     "_attachments/image/08-辅导讲义例题-1780628774129.jpeg",
-    "_attachments/image/08-辅导讲义例题-1780627643838.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/01-词根辨析·核心词根(上).md",
