@@ -72,19 +72,17 @@
             }
           },
           {
-            "id": "83121360e2629f4b",
+            "id": "bba6df0a8191212f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-06 周六.md",
+                "file": "3.创造物/30.输出文章/AI/探索/探索世界模型.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-06-06 周六"
+              "title": "探索世界模型"
             }
           }
         ],
@@ -177,7 +175,8 @@
               "title": "0000随便丢收集箱"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -197,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-06 周六.md",
+                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-06 周六 的大纲"
+              "title": "0000随便丢收集箱 的大纲"
             }
           },
           {
@@ -288,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,10 +311,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "83121360e2629f4b",
+  "active": "f2f11ab526d56a87",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+    "3.创造物/30.输出文章/AI/探索/探索世界模型.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
+    "3.创造物/30.输出文章/AI/探索",
+    "1.工作流/10.日记文件/2026-06-06 周六.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "_attachments/image/07-强化-1780747145576.jpeg",
     "_attachments/image/07-强化-1780747061249.jpeg",
     "_attachments/image/07-强化-1780746884657.jpeg",
@@ -323,7 +325,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "1.工作流/10.日记文件/2026-06-06 周六.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV/秦泽群.md",
     "_attachments/image/03 错题记录-1780736923408.jpeg",
@@ -359,7 +360,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
-    "3.创造物/31.我的项目/项目六，opd",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",
