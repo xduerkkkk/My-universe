@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "01视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
-    },
-    {
-      "basename": "07-强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
-    },
-    {
       "basename": "09-严选题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
     },
     {
       "basename": "2026-06-08 周一",
       "path": "1.工作流/10.日记文件/2026-06-08 周一.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "01视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
+      "basename": "辨析--逻辑索引 vs 物理索引 vs FAT 表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+    },
+    {
+      "basename": "07-强化",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
+    },
+    {
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
     },
     {
       "basename": "外存空闲空间管理",
@@ -195,10 +199,6 @@
     {
       "basename": "难点--减少抖动==提高CPU利用率",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--减少抖动==提高CPU利用率.md"
-    },
-    {
-      "basename": "感悟--程序的链接？进程的链接？",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md"
     }
   ],
   "omittedPaths": [
