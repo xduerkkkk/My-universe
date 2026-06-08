@@ -102,21 +102,9 @@
               "icon": "lucide-file",
               "title": "01视频"
             }
-          },
-          {
-            "id": "1f37231b89f8d568",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -209,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50384521484375
+    "width": 228.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -225,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "01视频 的大纲"
             }
           },
           {
@@ -289,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02王道题 的反向链接列表"
+              "title": "01视频 的反向链接列表"
             }
           },
           {
@@ -316,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,11 +328,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "590789dbd7be3f15",
+  "active": "842a56a9537801fd",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
