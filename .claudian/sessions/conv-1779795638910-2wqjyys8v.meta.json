@@ -4,20 +4,23 @@
   "title": "王道题整理",
   "titleGenerationStatus": "failed",
   "createdAt": 1779795638912,
-  "updatedAt": 1780391912234,
-  "lastResponseAt": 1780391912234,
-  "sessionId": "1acec432-b75f-42de-a607-2d93b3795768",
+  "updatedAt": 1780903341774,
+  "lastResponseAt": 1780903341774,
+  "sessionId": "ba5ba122-91c3-4841-be8f-0261cfbfa111",
   "providerState": {
-    "providerSessionId": "1acec432-b75f-42de-a607-2d93b3795768"
+    "providerSessionId": "ba5ba122-91c3-4841-be8f-0261cfbfa111",
+    "previousProviderSessionIds": [
+      "1acec432-b75f-42de-a607-2d93b3795768"
+    ]
   },
   "usage": {
-    "model": "opus",
-    "inputTokens": 26,
+    "model": "opus[1m]",
+    "inputTokens": 2533,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57472,
+    "cacheReadInputTokens": 90880,
     "contextWindow": 1000000,
-    "contextTokens": 57498,
-    "percentage": 6,
+    "contextTokens": 93413,
+    "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
 }

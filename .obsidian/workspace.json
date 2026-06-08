@@ -24,38 +24,6 @@
             }
           },
           {
-            "id": "0e661b2f0c900ebd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01视频笔记"
-            }
-          },
-          {
-            "id": "0d6d83419971af85",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
             "id": "af0f54fee103df28",
             "type": "leaf",
             "pinned": true,
@@ -104,21 +72,51 @@
             }
           },
           {
-            "id": "20f24019a42e4323",
+            "id": "590789dbd7be3f15",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "辨析--地址相关的概念"
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "842a56a9537801fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01视频"
+            }
+          },
+          {
+            "id": "1f37231b89f8d568",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "辨析--地址相关的概念 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -286,22 +284,12 @@
             }
           },
           {
-            "id": "f002c677c2313596",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "0da9b82d50ce95c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/10.日记文件/基础强化过渡阶段（15-20） Week3.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,14 +299,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基础强化过渡阶段（15-20） Week3 的反向链接列表"
+              "title": "02王道题 的反向链接列表"
+            }
+          },
+          {
+            "id": "3682a8a8364fef4a",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,46 +340,46 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "20f24019a42e4323",
+  "active": "590789dbd7be3f15",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/总结--进程从诞生到运行.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "1.工作流/10.日记文件/2026-06-08 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "_attachments/image/01视频-1780905781364.jpeg",
+    "_attachments/image/01视频-1780905775270.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md",
+    "相关卡片.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
     "_attachments/image/09-严选题-1780887281953.jpeg",
     "_attachments/image/09-严选题-1780886586841.jpeg",
     "_attachments/image/09-严选题-1780886562940.jpeg",
     "_attachments/image/09-严选题-1780886555844.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/09-严选题-1780884792666.jpeg",
     "_attachments/image/09-严选题-1780884129883.jpeg",
     "_attachments/image/08-辅导讲义例题-1780882594433.jpeg",
     "_attachments/image/08-辅导讲义例题-1780882121799.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "1.工作流/10.日记文件/周报/强化阶段8-16.md",
-    "1.工作流/10.日记文件/强化阶段（1-7）.md",
-    "1.工作流/10.日记文件/2026-06-06 周六.md",
-    "3.创造物/30.输出文章/AI/探索/探索世界模型.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "3.创造物/30.输出文章/AI/探索",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
-    "_attachments/image/07-强化-1780747145576.jpeg",
-    "_attachments/image/07-强化-1780747061249.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
-    "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV/秦泽群.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
-    "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV/王驰.md",
-    "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV/彭思达.md",
-    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
@@ -391,7 +389,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/desktop.ini",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "未命名.canvas",

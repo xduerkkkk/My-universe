@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "辨析--地址相关的概念",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md"
-    },
-    {
-      "basename": "总结--进程从诞生到运行",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/总结--进程从诞生到运行.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
-    },
-    {
       "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "01视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+    },
+    {
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
     },
     {
       "basename": "07-强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
     },
     {
       "basename": "09-严选题",
@@ -27,6 +31,78 @@
     {
       "basename": "2026-06-08 周一",
       "path": "1.工作流/10.日记文件/2026-06-08 周一.md"
+    },
+    {
+      "basename": "外存空闲空间管理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md"
+    },
+    {
+      "basename": "相关卡片",
+      "path": "相关卡片.md"
+    },
+    {
+      "basename": "记忆--各个分配方法的优点",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md"
+    },
+    {
+      "basename": "记忆--管程",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
+    },
+    {
+      "basename": "03 错题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md"
+    },
+    {
+      "basename": "02王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md"
+    },
+    {
+      "basename": "内存映射文件",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
+    },
+    {
+      "basename": "题--页面置换定位",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/总思维导图.md"
+    },
+    {
+      "basename": "Drawing 2026-05-16 21.26.02.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md"
+    },
+    {
+      "basename": "期末应试",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
+    },
+    {
+      "basename": "地址及内存分配",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
+    },
+    {
+      "basename": "2003",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md"
+    },
+    {
+      "basename": "01王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "辨析--地址相关的概念",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md"
+    },
+    {
+      "basename": "总结--进程从诞生到运行",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/总结--进程从诞生到运行.md"
     },
     {
       "basename": "08-辅导讲义例题",
@@ -77,16 +153,8 @@
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
-      "basename": "2003",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md"
-    },
-    {
       "basename": "00-数学",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
-    },
-    {
-      "basename": "03 错题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md"
     },
     {
       "basename": "秦泽群",
@@ -131,74 +199,6 @@
     {
       "basename": "感悟--程序的链接？进程的链接？",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md"
-    },
-    {
-      "basename": "记忆--各个分配方法的优点",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md"
-    },
-    {
-      "basename": "记忆--访存次数",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md"
-    },
-    {
-      "basename": "辨析--xx上限",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md"
-    },
-    {
-      "basename": "记忆--变量的字节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md"
-    },
-    {
-      "basename": "05微分物理，经济应用",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md"
-    },
-    {
-      "basename": "Pasted image 20260309105447",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260309105447.png"
-    },
-    {
-      "basename": "Pasted image 20260202122122",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260202122122.png"
-    },
-    {
-      "basename": "Pasted image 20260129102045",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260129102045.png"
-    },
-    {
-      "basename": "Pasted image 20260119203106",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119203106.png"
-    },
-    {
-      "basename": "Pasted image 20260119192401",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192401.png"
-    },
-    {
-      "basename": "Pasted image 20260119192425",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192425.png"
-    },
-    {
-      "basename": "06强化-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md"
-    },
-    {
-      "basename": "01-词根辨析·核心词根(上)",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/01-词根辨析·核心词根(上).md"
-    },
-    {
-      "basename": "00-相近词辨析·总索引",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "01-408",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
-    },
-    {
-      "basename": "05强化-严选题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/05强化-严选题.md"
     }
   ],
   "omittedPaths": [
