@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+                "file": "3.创造物/30.输出文章/AI/探索/探索世界模型.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0000随便丢收集箱 的大纲"
+              "title": "探索世界模型 的大纲"
             }
           },
           {
@@ -311,8 +311,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f2f11ab526d56a87",
+  "active": "bba6df0a8191212f",
   "lastOpenFiles": [
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "3.创造物/30.输出文章/AI/探索/探索世界模型.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "3.创造物/30.输出文章/AI/探索",
@@ -330,7 +331,6 @@
     "_attachments/image/03 错题记录-1780736923408.jpeg",
     "_attachments/image/03 错题记录-1780736504675.jpeg",
     "_attachments/image/03 错题记录-1780736498527.jpeg",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
     "_attachments/image/03 错题记录-1780731108736.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
