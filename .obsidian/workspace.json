@@ -117,8 +117,7 @@
               "title": "10-880综合拓展"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10-880综合拓展 的大纲"
+              "title": "2003 的大纲"
             }
           },
           {
@@ -267,12 +266,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "10-880综合拓展 的出链列表"
+              "title": "2003 的出链列表"
             }
           },
           {
@@ -291,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +300,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "10-880综合拓展 的反向链接列表"
+              "title": "2003 的反向链接列表"
             }
           },
           {
@@ -318,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,8 +341,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0ceec1030c694994",
+  "active": "f63a268ed4d24021",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些小点.md",
+    "_attachments/image/10-880综合拓展-1781012911205.jpeg",
     "_attachments/image/10-880综合拓展-1781010264420.jpeg",
     "_attachments/image/10-880综合拓展-1781009823672.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
@@ -374,13 +376,10 @@
     "_attachments/image/09-严选题-1780976762974.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/09-严选题-1780975019456.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "_attachments/image/09-严选题-1780973962005.jpeg",
     "_attachments/image/09-严选题-1780973444735.jpeg",
     "_attachments/image/09-严选题-1780972866880.jpeg",
     "_attachments/image/09-严选题-1780972852457.jpeg",
-    "_attachments/image/09-严选题-1780971617641.jpeg",
-    "_attachments/image/09-严选题-1780927347864.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "3.创造物/30.输出文章/AI/探索",
