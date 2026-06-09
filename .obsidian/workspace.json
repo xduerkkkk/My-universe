@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频 的大纲"
+              "title": "2026-06-08 周一 的大纲"
             }
           },
           {
@@ -253,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01视频 的出链列表"
+              "title": "2026-06-08 周一 的出链列表"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01视频 的反向链接列表"
+              "title": "2026-06-08 周一 的反向链接列表"
             }
           },
           {
@@ -328,15 +328,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "842a56a9537801fd",
+  "active": "bba6df0a8191212f",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "1.工作流/10.日记文件/2026-06-08 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "_attachments/image/09-严选题-1780927347864.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "CLAUDE.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "_attachments/image/09-严选题-1780927347864.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/大纲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/凸函数.md",
@@ -360,7 +361,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "_attachments/image/09-严选题-1780887281953.jpeg",
