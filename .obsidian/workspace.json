@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "bba6df0a8191212f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-08 周一"
-            }
-          },
-          {
             "id": "b37054975189f561",
             "type": "leaf",
             "pinned": true,
@@ -101,6 +85,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "01视频"
+            }
+          },
+          {
+            "id": "a65c194829222c36",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-09 周二"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-08 周一 的大纲"
+              "title": "09-严选题 的大纲"
             }
           },
           {
@@ -253,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-06-08 周一 的出链列表"
+              "title": "09-严选题 的出链列表"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-08 周一.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-06-08 周一 的反向链接列表"
+              "title": "09-严选题 的反向链接列表"
             }
           },
           {
@@ -328,13 +328,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bba6df0a8191212f",
+  "active": "b37054975189f561",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
-    "1.工作流/10.日记文件/2026-06-08 周一.md",
+    "_attachments/image/09-严选题-1780973962005.jpeg",
+    "_attachments/image/09-严选题-1780973444735.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "1.工作流/10.日记文件/2026-06-09 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "_attachments/image/09-严选题-1780972866880.jpeg",
+    "_attachments/image/09-严选题-1780972852457.jpeg",
+    "_attachments/image/09-严选题-1780971617641.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "1.工作流/10.日记文件/2026-06-08 周一.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "CLAUDE.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "_attachments/image/09-严选题-1780927347864.jpeg",
@@ -350,24 +360,14 @@
     "_attachments/image/09-严选题-1780925414675.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "_attachments/image/01视频-1780905781364.jpeg",
     "_attachments/image/01视频-1780905775270.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md",
-    "相关卡片.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "_attachments/image/09-严选题-1780887281953.jpeg",
-    "_attachments/image/09-严选题-1780886586841.jpeg",
-    "_attachments/image/09-严选题-1780886562940.jpeg",
-    "_attachments/image/09-严选题-1780886555844.jpeg",
-    "_attachments/image/09-严选题-1780884792666.jpeg",
     "3.创造物/30.输出文章/AI/探索",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集",
