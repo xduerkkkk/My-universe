@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "10-880综合拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
+    },
+    {
+      "basename": "09-严选题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
+    },
+    {
+      "basename": "01视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
+      "basename": "Spatial Intelligence is AI’s Next Frontier",
+      "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
+    },
+    {
       "basename": "2026-06-09 周二",
       "path": "1.工作流/10.日记文件/2026-06-09 周二.md"
     },
@@ -9,8 +25,24 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
     },
     {
-      "basename": "01视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+      "basename": "Andrej Karpathy访谈",
+      "path": "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md"
+    },
+    {
+      "basename": "ai知识体系",
+      "path": "2.知识库/21.AI世界/ai知识体系.md"
+    },
+    {
+      "basename": "认知计算",
+      "path": "2.知识库/21.AI世界/认知计算.md"
+    },
+    {
+      "basename": "第三章",
+      "path": "2.知识库/21.AI世界/算法设计/第三章.md"
+    },
+    {
+      "basename": "2003",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md"
     },
     {
       "basename": "感悟--时间线梳理文件",
@@ -49,10 +81,6 @@
       "path": "1.工作流/10.日记文件/2026-06-08 周一.md"
     },
     {
-      "basename": "09-严选题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
-    },
-    {
       "basename": "07-强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
     },
@@ -79,14 +107,6 @@
     {
       "basename": "06强化-880综合拓展",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md"
-    },
-    {
-      "basename": "10-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
-    },
-    {
-      "basename": "2003",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md"
     },
     {
       "basename": "CLAUDE",
@@ -179,26 +199,6 @@
     {
       "basename": "Drawing 2026-05-16 21.26.02.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/Drawing 2026-05-16 21.26.02.excalidraw.md"
-    },
-    {
-      "basename": "期末应试",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末应试.md"
-    },
-    {
-      "basename": "地址及内存分配",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
-    },
-    {
-      "basename": "01王道题-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
-    },
-    {
-      "basename": "辨析--地址相关的概念",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md"
     }
   ],
   "omittedPaths": [

@@ -1,3 +1,5 @@
+https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
+
 首先，空间智能到底是什么？
 我认为，可以用不是空间智能，但现在却很普遍的大语言模型来对比
 为什么大语言模型不是空间智能？ 
