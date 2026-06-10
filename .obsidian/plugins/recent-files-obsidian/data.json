@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
     },
     {
-      "basename": "目录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md"
+      "basename": "09-严选题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
+    },
+    {
+      "basename": "Spatial Intelligence is AI’s Next Frontier",
+      "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
+    },
+    {
+      "basename": "辨析--引用计数器",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md"
+    },
+    {
+      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
+    },
+    {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
+    },
+    {
+      "basename": "01王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md"
     },
     {
       "basename": "01王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "02王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
+    },
+    {
+      "basename": "辨析-目录文件的样子，inode的样子",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md"
+    },
+    {
+      "basename": "2026-06-10 周三",
+      "path": "1.工作流/10.日记文件/2026-06-10 周三.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
+    },
+    {
+      "basename": "辨析--文件的存储管理和内存分配",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md"
+    },
+    {
+      "basename": "目录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md"
     },
     {
       "basename": "00视频勘察",
@@ -97,24 +145,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
-    },
-    {
-      "basename": "2026-06-10 周三",
-      "path": "1.工作流/10.日记文件/2026-06-10 周三.md"
-    },
-    {
       "basename": "10-880综合拓展",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
-    },
-    {
-      "basename": "Spatial Intelligence is AI’s Next Frontier",
-      "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "00-数学",
@@ -123,10 +155,6 @@
     {
       "basename": "01-408",
       "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
-    },
-    {
-      "basename": "09-严选题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
     },
     {
       "basename": "08-辅导讲义例题",
@@ -165,40 +193,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/感悟--时间线梳理文件.md"
     },
     {
-      "basename": "辨析--文件的存储管理和内存分配",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md"
-    },
-    {
       "basename": "记忆--i结点与目录项",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--i结点与目录项.md"
     },
     {
       "basename": "辨析--多级索引思想",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-    },
-    {
-      "basename": "辨析--逻辑索引 vs 物理索引 vs FAT 表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md"
-    },
-    {
-      "basename": "题--多级索引计算题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md"
-    },
-    {
-      "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
-    },
-    {
-      "basename": "2026-06-08 周一",
-      "path": "1.工作流/10.日记文件/2026-06-08 周一.md"
-    },
-    {
-      "basename": "07-强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
     }
   ],
   "omittedPaths": [
