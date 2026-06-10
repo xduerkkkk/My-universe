@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "10-880综合拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
+    },
+    {
+      "basename": "技术收集箱",
+      "path": "1.工作流/11.事件收集箱/技术收集箱.md"
+    },
+    {
+      "basename": "漫步思考灵感",
+      "path": "1.工作流/11.事件收集箱/漫步思考灵感.md"
+    },
+    {
+      "basename": "看不懂分析箱",
+      "path": "1.工作流/11.事件收集箱/看不懂分析箱.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "已知的情报",
+      "path": "2.知识库/21.AI世界/视频，文章/世界模型/已知的情报.md"
+    },
+    {
+      "basename": "2026-06-10 周三",
+      "path": "1.工作流/10.日记文件/2026-06-10 周三.md"
+    },
+    {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
     },
     {
       "basename": "09-严选题",
@@ -11,6 +43,10 @@
     {
       "basename": "Spatial Intelligence is AI’s Next Frontier",
       "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
+    },
+    {
+      "basename": "梳理线路",
+      "path": "2.知识库/21.AI世界/视频，文章/世界模型/梳理线路.md"
     },
     {
       "basename": "辨析--引用计数器",
@@ -23,10 +59,6 @@
     {
       "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
-    },
-    {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
     },
     {
       "basename": "01王道题-知识点整理",
@@ -47,10 +79,6 @@
     {
       "basename": "辨析-目录文件的样子，inode的样子",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md"
-    },
-    {
-      "basename": "2026-06-10 周三",
-      "path": "1.工作流/10.日记文件/2026-06-10 周三.md"
     },
     {
       "basename": "0000随便丢收集箱",
@@ -145,10 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
     },
     {
-      "basename": "10-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
-    },
-    {
       "basename": "00-数学",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Andrej Karpathy访谈",
       "path": "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md"
-    },
-    {
-      "basename": "ai知识体系",
-      "path": "2.知识库/21.AI世界/ai知识体系.md"
-    },
-    {
-      "basename": "认知计算",
-      "path": "2.知识库/21.AI世界/认知计算.md"
-    },
-    {
-      "basename": "第三章",
-      "path": "2.知识库/21.AI世界/算法设计/第三章.md"
-    },
-    {
-      "basename": "感悟--时间线梳理文件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/感悟--时间线梳理文件.md"
-    },
-    {
-      "basename": "记忆--i结点与目录项",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--i结点与目录项.md"
-    },
-    {
-      "basename": "辨析--多级索引思想",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md"
     }
   ],
   "omittedPaths": [
