@@ -1,12 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "10-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "目录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/目录.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
+    },
+    {
+      "basename": "地址及内存分配",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/地址及内存分配.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
+    },
+    {
+      "basename": "01视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
+    },
+    {
+      "basename": "关系数据库",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md"
+    },
+    {
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
+    },
+    {
+      "basename": "002王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+    },
+    {
+      "basename": "ch2软件系统与计算机性能指标和评价",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+    },
+    {
+      "basename": "ch4总线定时与结构+io设备概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch4总线定时与结构+io设备概述.md"
+    },
+    {
+      "basename": "cpu问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
+    },
+    {
+      "basename": "数据通路",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
+    },
+    {
+      "basename": "微指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
+    },
+    {
+      "basename": "思维导图-指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
+    },
+    {
+      "basename": "辨析_大端小端",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md"
+    },
+    {
+      "basename": "思维导图-存储",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
+    },
+    {
+      "basename": "存储系统概述",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
+    },
+    {
+      "basename": "外存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
     },
     {
       "basename": "2026-06-10 周三",
       "path": "1.工作流/10.日记文件/2026-06-10 周三.md"
+    },
+    {
+      "basename": "10-880综合拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
+    },
+    {
+      "basename": "Spatial Intelligence is AI’s Next Frontier",
+      "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
+    },
+    {
+      "basename": "0000随便丢收集箱",
+      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
     {
       "basename": "00-数学",
@@ -23,18 +131,6 @@
     {
       "basename": "08-辅导讲义例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
-    },
-    {
-      "basename": "01视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
-    },
-    {
-      "basename": "Spatial Intelligence is AI’s Next Frontier",
-      "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
     },
     {
       "basename": "2026-06-09 周二",
@@ -103,102 +199,6 @@
     {
       "basename": "07-强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
-    },
-    {
-      "basename": "06-880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
-    },
-    {
-      "basename": "01极限--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
-    },
-    {
-      "basename": "06强化-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "0000随便丢收集箱",
-      "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
-    },
-    {
-      "basename": "一些重要的式子",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/大纲.md"
-    },
-    {
-      "basename": "凸函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/凸函数.md"
-    },
-    {
-      "basename": "常用不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md"
-    },
-    {
-      "basename": "常见的定理条件配置",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常见的定理条件配置.md"
-    },
-    {
-      "basename": "古鲁金定理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/古鲁金定理.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md"
-    },
-    {
-      "basename": "外存空闲空间管理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/外存空闲空间管理.md"
-    },
-    {
-      "basename": "相关卡片",
-      "path": "相关卡片.md"
-    },
-    {
-      "basename": "记忆--各个分配方法的优点",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md"
-    },
-    {
-      "basename": "记忆--管程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md"
-    },
-    {
-      "basename": "03 错题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/03 错题记录.md"
-    },
-    {
-      "basename": "02王道题-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md"
-    },
-    {
-      "basename": "内存映射文件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/内存映射文件.md"
     }
   ],
   "omittedPaths": [
