@@ -117,7 +117,8 @@
               "title": "10-880综合拓展"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2003 的大纲"
+              "title": "2026-06-09 周二 的大纲"
             }
           },
           {
@@ -266,12 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2003 的出链列表"
+              "title": "2026-06-09 周二 的出链列表"
             }
           },
           {
@@ -290,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2003 的反向链接列表"
+              "title": "2026-06-09 周二 的反向链接列表"
             }
           },
           {
@@ -341,8 +342,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f63a268ed4d24021",
+  "active": "a65c194829222c36",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些小点.md",
     "_attachments/image/10-880综合拓展-1781012911205.jpeg",
@@ -358,7 +360,6 @@
     "2.知识库/21.AI世界/ai知识体系.md",
     "2.知识库/21.AI世界/认知计算.md",
     "2.知识库/21.AI世界/算法设计/第三章.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "_attachments/image/2026-06-09 周二-1781003492070.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/感悟--时间线梳理文件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
