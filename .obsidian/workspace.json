@@ -72,24 +72,9 @@
             }
           },
           {
-            "id": "a65c194829222c36",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-09 周二"
-            }
-          },
-          {
             "id": "fe0a763f79139660",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,6 +82,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Spatial Intelligence is AI’s Next Frontier"
             }
@@ -116,9 +102,25 @@
               "icon": "lucide-file",
               "title": "10-880综合拓展"
             }
+          },
+          {
+            "id": "959d6f38ecbe5f8a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-06-10 周三.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-10 周三"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.50384521484375
+    "width": 281.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -227,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-09 周二 的大纲"
+              "title": "10-880综合拓展 的大纲"
             }
           },
           {
@@ -267,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-06-09 周二 的出链列表"
+              "title": "10-880综合拓展 的出链列表"
             }
           },
           {
@@ -291,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-09 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-06-09 周二 的反向链接列表"
+              "title": "10-880综合拓展 的反向链接列表"
             }
           },
           {
@@ -342,19 +344,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a65c194829222c36",
+  "active": "0ceec1030c694994",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+    "_attachments/image/10-880综合拓展-1781058957683.jpeg",
+    "1.工作流/10.日记文件/2026-06-10 周三.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "_attachments/image/10-880综合拓展-1781058132285.jpeg",
+    "_attachments/image/10-880综合拓展-1781056337450.jpeg",
+    "_attachments/image/10-880综合拓展-1781055741943.jpeg",
+    "_attachments/image/10-880综合拓展-1781054667729.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
+    "1.工作流/10.日记文件/2026-06-09 周二.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些小点.md",
     "_attachments/image/10-880综合拓展-1781012911205.jpeg",
     "_attachments/image/10-880综合拓展-1781010264420.jpeg",
     "_attachments/image/10-880综合拓展-1781009823672.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
-    "1.工作流/10.日记文件/2026-06-09 周二.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/21.AI世界/视频，文章/Andrej Karpathy访谈.md",
     "2.知识库/21.AI世界/视频，文章/世界模型",
     "2.知识库/21.AI世界/ai知识体系.md",
@@ -370,17 +381,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
     "1.工作流/10.日记文件/2026-06-08 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
     "_attachments/image/09-严选题-1780976762974.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/09-严选题-1780975019456.jpeg",
-    "_attachments/image/09-严选题-1780973962005.jpeg",
-    "_attachments/image/09-严选题-1780973444735.jpeg",
-    "_attachments/image/09-严选题-1780972866880.jpeg",
-    "_attachments/image/09-严选题-1780972852457.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "3.创造物/30.输出文章/AI/探索",
