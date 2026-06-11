@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "08-辅导讲义例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
+    },
+    {
+      "basename": "09-严选题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
+    },
+    {
+      "basename": "题型--绝对值式子是否可导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/题型--绝对值式子是否可导.md"
+    },
+    {
+      "basename": "02微概计--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md"
+    },
+    {
+      "basename": "03微几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
+    },
+    {
+      "basename": "10-880综合拓展",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
+    },
+    {
+      "basename": "2026-06-11 周四",
+      "path": "1.工作流/10.日记文件/2026-06-11 周四.md"
+    },
+    {
       "basename": "03大题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "07-强化",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
+    },
+    {
+      "basename": "06-880基础",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md"
     },
     {
       "basename": "2026-06-10 周三",
@@ -21,24 +65,8 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md"
     },
     {
-      "basename": "10-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
-    },
-    {
       "basename": "Spatial Intelligence is AI’s Next Frontier",
       "path": "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md"
-    },
-    {
-      "basename": "06-880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
     },
     {
       "basename": "04微不等式",
@@ -61,16 +89,8 @@
       "path": "1.工作流/11.事件收集箱/看不懂分析箱.md"
     },
     {
-      "basename": "02微概计--张宇基础30讲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md"
-    },
-    {
       "basename": "已知的情报",
       "path": "2.知识库/21.AI世界/视频，文章/世界模型/已知的情报.md"
-    },
-    {
-      "basename": "09-严选题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
     },
     {
       "basename": "梳理线路",
@@ -179,26 +199,6 @@
     {
       "basename": "思维导图-指令",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
-    },
-    {
-      "basename": "辨析_大端小端",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md"
-    },
-    {
-      "basename": "思维导图-存储",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
-    },
-    {
-      "basename": "存储系统概述",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储系统概述.md"
-    },
-    {
-      "basename": "外存",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
     }
   ],
   "omittedPaths": [
