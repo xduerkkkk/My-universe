@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "b37054975189f561",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09-严选题"
-            }
-          },
-          {
             "id": "fe0a763f79139660",
             "type": "leaf",
             "pinned": true,
@@ -53,38 +37,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Spatial Intelligence is AI’s Next Frontier"
-            }
-          },
-          {
-            "id": "a2547861ac1abfe3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03大题"
-            }
-          },
-          {
-            "id": "005e2830c4a0eac1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
             }
           },
           {
@@ -120,6 +72,22 @@
             }
           },
           {
+            "id": "b37054975189f561",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09-严选题"
+            }
+          },
+          {
             "id": "415131b84f6e4556",
             "type": "leaf",
             "pinned": true,
@@ -136,21 +104,23 @@
             }
           },
           {
-            "id": "343849eeced789c8",
+            "id": "005e2830c4a0eac1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/辨析--两种泰勒公式.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "辨析--两种泰勒公式"
+              "title": "02王道题"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -259,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-辅导讲义例题 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -299,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "08-辅导讲义例题 的出链列表"
+              "title": "02王道题 的出链列表"
             }
           },
           {
@@ -323,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "08-辅导讲义例题 的反向链接列表"
+              "title": "02王道题 的反向链接列表"
             }
           },
           {
@@ -374,10 +344,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "415131b84f6e4556",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/辨析--两种泰勒公式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--四种外存空闲空间管理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--文件系统架构.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--i结点与目录项.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/感悟--时间线梳理文件.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
+    "1.工作流/10.日记文件/2026-06-11 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "_attachments/image/03大题-1781161384945.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/辨析--两种泰勒公式.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/题型--绝对值式子是否可导.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/保号性的脱帽.md",
@@ -386,33 +373,16 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "1.工作流/10.日记文件/2026-06-11 周四.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "CLAUDE.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "_attachments/image/10-880综合拓展-1781143507811.jpeg",
     "_attachments/image/10-880综合拓展-1781143312567.jpeg",
     "_attachments/image/10-880综合拓展-1781143048174.jpeg",
     "_attachments/image/10-880综合拓展-1781141474489.jpeg",
-    "1.工作流/10.日记文件/2026-06-10 周三.md",
     "_attachments/image/10-880综合拓展-1781140111838.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
-    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
     "_attachments/image/10-880综合拓展-1781098992942.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md",
     "_attachments/image/10-880综合拓展-1781096662342.jpeg",
     "_attachments/image/10-880综合拓展-1781096466884.jpeg",
     "_attachments/image/10-880综合拓展-1781096038165.jpeg",
-    "_attachments/image/10-880综合拓展-1781096031833.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/21.AI世界/视频，文章/世界模型",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
