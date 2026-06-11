@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10-880综合拓展 的大纲"
+              "title": "03大题 的大纲"
             }
           },
           {
@@ -269,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "10-880综合拓展 的出链列表"
+              "title": "03大题 的出链列表"
             }
           },
           {
@@ -293,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "10-880综合拓展 的反向链接列表"
+              "title": "03大题 的反向链接列表"
             }
           },
           {
@@ -344,15 +344,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0ceec1030c694994",
+  "active": "a2547861ac1abfe3",
   "lastOpenFiles": [
-    "_attachments/image/10-880综合拓展-1781098992942.jpeg",
+    "1.工作流/10.日记文件/2026-06-10 周三.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
+    "_attachments/image/10-880综合拓展-1781098992942.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "_attachments/image/10-880综合拓展-1781096662342.jpeg",
     "_attachments/image/10-880综合拓展-1781096466884.jpeg",
     "_attachments/image/10-880综合拓展-1781096038165.jpeg",
@@ -365,10 +370,8 @@
     "_attachments/image/10-880综合拓展-1781093047862.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
     "2.知识库/21.AI世界/视频，文章/世界模型/已知的情报.md",
-    "1.工作流/10.日记文件/2026-06-10 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
     "2.知识库/21.AI世界/视频，文章/世界模型/梳理线路.md",
     "_attachments/image/未命名-1781088928144.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md",
@@ -379,9 +382,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "_attachments/image/03大题-1781082370630.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
-    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
-    "_attachments/image/03大题-1781081393698.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/21.AI世界/视频，文章/世界模型",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
