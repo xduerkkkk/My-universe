@@ -5,12 +5,48 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
     },
     {
-      "basename": "09-严选题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
+      "basename": "辨析--两种泰勒公式",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/辨析--两种泰勒公式.md"
     },
     {
       "basename": "题型--绝对值式子是否可导",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/题型--绝对值式子是否可导.md"
+    },
+    {
+      "basename": "01极限--张宇基础30讲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md"
+    },
+    {
+      "basename": "保号性的脱帽",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/保号性的脱帽.md"
+    },
+    {
+      "basename": "单词，句子记录2002",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md"
+    },
+    {
+      "basename": "2002",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md"
+    },
+    {
+      "basename": "单词，句子记录2003",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md"
+    },
+    {
+      "basename": "单词，句子记录2000-2001",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md"
+    },
+    {
+      "basename": "语境库",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
+    },
+    {
+      "basename": "地道表达与核心概念枢纽",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md"
+    },
+    {
+      "basename": "09-严选题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
     },
     {
       "basename": "02微概计--张宇基础30讲",
@@ -55,14 +91,6 @@
     {
       "basename": "2003",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md"
-    },
-    {
-      "basename": "单词，句子记录2003",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2003.md"
-    },
-    {
-      "basename": "单词，句子记录2002",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2002.md"
     },
     {
       "basename": "Spatial Intelligence is AI’s Next Frontier",
@@ -171,34 +199,6 @@
     {
       "basename": "ch2软件系统与计算机性能指标和评价",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
-    },
-    {
-      "basename": "ch1计算机硬件构成",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
-    },
-    {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
-    },
-    {
-      "basename": "ch4总线定时与结构+io设备概述",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch4总线定时与结构+io设备概述.md"
-    },
-    {
-      "basename": "cpu问题记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/cpu问题记录.md"
-    },
-    {
-      "basename": "数据通路",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/数据通路.md"
-    },
-    {
-      "basename": "微指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md"
-    },
-    {
-      "basename": "思维导图-指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
     }
   ],
   "omittedPaths": [
