@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "记忆--各缓冲区图解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
+    },
+    {
+      "basename": "000最终报告-1779009245240",
+      "path": "_attachments/image/000最终报告-1779009245240.jpeg"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
     },
     {
+      "basename": "Drawing 2026-03-14 16.38.31.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
+    },
+    {
       "basename": "记忆--DMA",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md"
+    },
+    {
+      "basename": "2026-06-12 周五",
+      "path": "1.工作流/10.日记文件/2026-06-12 周五.md"
     },
     {
       "basename": "辨析--“查表翻译”和“设备分配”",
@@ -33,10 +57,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md"
     },
     {
-      "basename": "记忆--各缓冲区图解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
-    },
-    {
       "basename": "记忆--固态硬盘考点",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md"
     },
@@ -49,28 +69,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md"
     },
     {
-      "basename": "00.视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
-    },
-    {
-      "basename": "Drawing 2026-03-14 16.38.31.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
-    },
-    {
-      "basename": "2026-06-12 周五",
-      "path": "1.工作流/10.日记文件/2026-06-12 周五.md"
-    },
-    {
       "basename": "10-880综合拓展",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
     },
     {
       "basename": "1.IO设备",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md"
-    },
-    {
-      "basename": "01.对齐书籍",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md"
     },
     {
       "basename": "08-880强化",
@@ -195,10 +199,6 @@
     {
       "basename": "09-严选题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
-    },
-    {
-      "basename": "辨析--逻辑索引 vs 物理索引 vs FAT 表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md"
     }
   ],
   "omittedPaths": [

@@ -104,33 +104,23 @@
             }
           },
           {
-            "id": "d79fad74056880dc",
+            "id": "45f60aa68f5a7587",
             "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-14 16.38.31.excalidraw"
-            }
-          },
-          {
-            "id": "a62dfdcde5874f68",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "记忆--DMA"
+              "title": "记忆--各缓冲区图解"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -239,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "记忆--各缓冲区图解 的大纲"
             }
           },
           {
@@ -279,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02王道题 的出链列表"
+              "title": "记忆--各缓冲区图解 的出链列表"
             }
           },
           {
@@ -303,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02王道题 的反向链接列表"
+              "title": "记忆--各缓冲区图解 的反向链接列表"
             }
           },
           {
@@ -354,26 +344,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "007a691cadbf0813",
+  "active": "45f60aa68f5a7587",
   "lastOpenFiles": [
+    "_attachments/image/000最终报告-1779009245240.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md",
+    "1.工作流/10.日记文件/2026-06-12 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--随机与直接访问.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
-    "1.工作流/10.日记文件/2026-06-12 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "_attachments/image/08-880强化-1781234154123.jpeg",
     "_attachments/image/08-880强化-1781234132275.jpeg",
@@ -383,7 +374,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--特殊图形.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
     "_attachments/image/理解--表格积分法的本质-1781229268480.jpeg",
     "_attachments/image/03大题-1781168753777.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
