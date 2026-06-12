@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-06-12 周五.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-06-12 周五 的大纲"
             }
           },
           {
@@ -269,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-06-12 周五.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02王道题 的出链列表"
+              "title": "2026-06-12 周五 的出链列表"
             }
           },
           {
@@ -293,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-06-12 周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02王道题 的反向链接列表"
+              "title": "2026-06-12 周五 的反向链接列表"
             }
           },
           {
@@ -344,12 +344,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "007a691cadbf0813",
+  "active": "61bce299bb352463",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "1.工作流/10.日记文件/2026-06-12 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "_attachments/image/000最终报告-1779009245240.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
