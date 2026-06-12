@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "20eb51eaa78d9fad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-11 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-11 周四"
-            }
-          },
-          {
             "id": "0ceec1030c694994",
             "type": "leaf",
             "pinned": true,
@@ -72,22 +56,6 @@
             }
           },
           {
-            "id": "b37054975189f561",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09-严选题"
-            }
-          },
-          {
             "id": "415131b84f6e4556",
             "type": "leaf",
             "pinned": true,
@@ -101,6 +69,36 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "08-辅导讲义例题"
+            }
+          },
+          {
+            "id": "61bce299bb352463",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-06-12 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-12 周五"
+            }
+          },
+          {
+            "id": "cd92c6291c48588b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆--gamma函数"
             }
           }
         ],
@@ -213,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-辅导讲义例题 的大纲"
+              "title": "记忆--gamma函数 的大纲"
             }
           },
           {
@@ -253,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "08-辅导讲义例题 的出链列表"
+              "title": "记忆--gamma函数 的出链列表"
             }
           },
           {
@@ -277,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +285,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "08-辅导讲义例题 的反向链接列表"
+              "title": "记忆--gamma函数 的反向链接列表"
             }
           },
           {
@@ -328,18 +326,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "415131b84f6e4556",
+  "active": "cd92c6291c48588b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--特殊图形.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--表格积分法的本质.md",
+    "_attachments/image/理解--表格积分法的本质-1781229268480.jpeg",
+    "1.工作流/10.日记文件/2026-06-12 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片/题型--绝对值式子是否可导.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/01-词根辨析·核心词根(上).md",
     "1.工作流/10.日记文件/2026-06-10 周三.md",
     "1.工作流/10.日记文件/2026-06-09 周二.md",
     "1.工作流/10.日记文件/2026-06-08 周一.md",
     "1.工作流/10.日记文件/2026-06-06 周六.md",
     "1.工作流/10.日记文件/2026-06-11 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
@@ -351,12 +356,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
     "_attachments/image/03大题-1781168753777.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--虚拟文件系统.md",
-    "2.知识库/21.AI世界/视频，文章/世界模型/Spatial Intelligence is AI’s Next Frontier.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "_attachments/image/03大题-1781161384945.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
@@ -367,7 +366,6 @@
     "_attachments/image/10-880综合拓展-1781140111838.jpeg",
     "_attachments/image/10-880综合拓展-1781098992942.jpeg",
     "_attachments/image/10-880综合拓展-1781096662342.jpeg",
-    "_attachments/image/10-880综合拓展-1781096466884.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/21.AI世界/视频，文章/世界模型",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
