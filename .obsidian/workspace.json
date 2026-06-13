@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-相近词辨析·总索引"
+              "title": "04-形近易混·字母级辨析"
             }
           }
         ],
@@ -259,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-相近词辨析·总索引 的大纲"
+              "title": "04-形近易混·字母级辨析 的大纲"
             }
           },
           {
@@ -376,6 +376,8 @@
   },
   "active": "a0ec8a28c5b3c157",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/001最终报告.md",
@@ -404,8 +406,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--随机与直接访问.md",
     "_attachments/image/08-880强化-1781234154123.jpeg",
     "_attachments/image/08-880强化-1781234132275.jpeg",
     "_attachments/image/理解--表格积分法的本质-1781229268480.jpeg",
