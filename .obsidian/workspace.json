@@ -104,31 +104,31 @@
             }
           },
           {
-            "id": "bd89c3b32a63843a",
+            "id": "b65d736a045b62aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辨析--设备名的转换"
+              "title": "单词，句子记录2000-2001"
             }
           },
           {
-            "id": "fc491ac41bd1d808",
+            "id": "da29de32b6bf7fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绪论+关系数据库"
+              "title": "02-english"
             }
           }
         ],
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "绪论+关系数据库 的大纲"
+              "title": "02-english 的大纲"
             }
           },
           {
@@ -328,11 +328,12 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,44 +357,44 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fc491ac41bd1d808",
+  "active": "da29de32b6bf7fa6",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
+    "_attachments/image/09 大观题型-1781444790839.jpeg",
+    "_attachments/image/09 大观题型-1781444643686.jpeg",
+    "_attachments/image/09 大观题型-1781444271343.jpeg",
+    "_attachments/image/09 大观题型-1781443940976.jpeg",
+    "_attachments/image/09 大观题型-1781443814795.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
+    "_attachments/image/10 重刷记录笔记-1781443572055.jpeg",
+    "_attachments/image/09 大观题型-1781443466913.jpeg",
+    "_attachments/image/09 大观题型-1781443296585.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "1.工作流/10.日记文件/2026-06-14 周日.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/凸函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
     "_attachments/image/绪论+关系数据库-1781439049011.jpeg",
     "_attachments/image/绪论+关系数据库-1781438658657.jpeg",
-    "_attachments/image/绪论+关系数据库-1781438326647.jpeg",
-    "_attachments/image/绪论+关系数据库-1781438071971.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "1.工作流/10.日记文件/2026-06-14 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
-    "_attachments/image/辨析--设备名的转换-1781428305319.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
-    "_attachments/image/辨析--“查表翻译”和“设备分配”-1781418756290.jpeg",
-    "_attachments/image/辨析--“查表翻译”和“设备分配”-1781418704762.jpeg",
-    "_attachments/image/辨析--“查表翻译”和“设备分配”-1781418553864.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--空闲区管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--随机与直接访问.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--gamma函数.md",
-    "_attachments/image/记忆--gamma函数-1781409028398.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
-    "_attachments/image/09 大观题型-1781408685674.jpeg",
-    "_attachments/image/09 大观题型-1781408653422.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
