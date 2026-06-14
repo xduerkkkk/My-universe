@@ -40,38 +40,6 @@
             }
           },
           {
-            "id": "0ceec1030c694994",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10-880综合拓展"
-            }
-          },
-          {
-            "id": "415131b84f6e4556",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "08-辅导讲义例题"
-            }
-          },
-          {
             "id": "007a691cadbf0813",
             "type": "leaf",
             "pinned": true,
@@ -104,22 +72,6 @@
             }
           },
           {
-            "id": "3fb2dbabde203647",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-11 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-11 周四"
-            }
-          },
-          {
             "id": "8f33379f926df426",
             "type": "leaf",
             "pinned": true,
@@ -134,9 +86,39 @@
               "icon": "lucide-file",
               "title": "2026-06-14 周日"
             }
+          },
+          {
+            "id": "8cd0fd5ea37bccc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09 大观题型"
+            }
+          },
+          {
+            "id": "c022093580b04130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-880强化"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.50384521484375
+    "width": 265.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -245,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-14 周日.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-14 周日 的大纲"
+              "title": "09 大观题型 的大纲"
             }
           },
           {
@@ -360,46 +342,46 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8f33379f926df426",
+  "active": "8cd0fd5ea37bccc9",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
+    "_attachments/image/09 大观题型-1781404454979.jpeg",
+    "_attachments/image/09 大观题型-1781404204846.jpeg",
+    "_attachments/image/09 大观题型-1781404143075.jpeg",
+    "_attachments/image/09 大观题型-1781403740098.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "_attachments/image/08-880强化-1781403459726.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
+    "_attachments/image/01积分概+计-1781402617073.jpeg",
+    "_attachments/image/01积分概+计-1781402603322.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/证明无原函数的情况.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+    "_attachments/image/09 大观题型-1781402237062.jpeg",
+    "_attachments/image/09 大观题型-1781402079643.jpeg",
+    "_attachments/image/09 大观题型-1781401995420.jpeg",
+    "_attachments/image/09 大观题型-1781401637267.jpeg",
     "1.工作流/10.日记文件/2026-06-14 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "1.工作流/10.日记文件/2026-06-11 周四.md",
-    "4.不常用/43.模板文件/日记模板.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常见的定理条件配置.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
-    "CLAUDE.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "1.工作流/10.日记文件/2026-06-12 周五.md",
-    "1.工作流/10.日记文件/2026-06-13 周六.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/001最终报告.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/000最终报告.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/Drawing 2026-05-17 16.44.45.excalidraw.md",
-    "_attachments/image/001最终报告-1781328812185.jpeg",
-    "_attachments/image/001最终报告-1781328811846.jpeg",
-    "_attachments/image/001最终报告-1781328684187.jpeg",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/最终报告.md",
-    "3.创造物/31.我的项目/项目五，面向文档版面理解的视觉语言建模/new/四五六阶段.md",
-    "_attachments/image/000最终报告-1779009245240.jpeg",
-    "_attachments/image/08-880强化-1781234154123.jpeg",
-    "_attachments/image/08-880强化-1781234132275.jpeg",
-    "_attachments/image/理解--表格积分法的本质-1781229268480.jpeg",
-    "_attachments/image/03大题-1781168753777.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "1.工作流/10.日记文件/2026-06-11 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
-    "_attachments/image/03大题-1781161384945.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
-    "_attachments/image/10-880综合拓展-1781143507811.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/21.AI世界/视频，文章/世界模型",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/期末",
