@@ -104,37 +104,21 @@
             }
           },
           {
-            "id": "1728088d11d4de81",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "000最终背记表"
-            }
-          },
-          {
-            "id": "2f5d1eeac080206c",
+            "id": "519d161d9453f1cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/未命名.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "10 重刷记录笔记"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/未命名.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "09 大观题型 的大纲"
             }
           },
           {
@@ -358,11 +342,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2f5d1eeac080206c",
+  "active": "8cd0fd5ea37bccc9",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/SQL.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/未命名.md",
+    "_attachments/image/09 大观题型-1781531313669.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+    "_attachments/image/10 重刷记录笔记-1781530933221.jpeg",
+    "_attachments/image/10 重刷记录笔记-1781530663277.jpeg",
+    "_attachments/image/09 大观题型-1781529899883.jpeg",
+    "_attachments/image/09 大观题型-1781528175717.jpeg",
+    "_attachments/image/09 大观题型-1781528110533.jpeg",
+    "_attachments/image/09 大观题型-1781527801796.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/SQL.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
     "_attachments/image/000最终背记表-1781526022873.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--磁盘初始化.md",
@@ -372,7 +365,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "1.工作流/10.日记文件/2026-06-15 周一.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--随机与直接访问.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
@@ -386,16 +378,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/感悟--时间线梳理文件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/记忆--虚拟文件系统.md",
     "_attachments/image/记忆--磁盘初始化-1781511858050.jpeg",
     "_attachments/image/02王道题-1781507796668.jpeg",
-    "_attachments/image/10 重刷记录笔记-1781495628981.jpeg",
-    "_attachments/image/09 大观题型-1781494785290.jpeg",
-    "_attachments/image/10 重刷记录笔记-1781494727741.jpeg",
-    "_attachments/image/09 大观题型-1781491802278.jpeg",
-    "_attachments/image/09 大观题型-1781491135259.jpeg",
-    "_attachments/image/10 重刷记录笔记-1781490305265.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
