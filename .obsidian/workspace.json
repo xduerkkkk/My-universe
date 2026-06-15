@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "8f33379f926df426",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-14 周日.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-14 周日"
-            }
-          },
-          {
             "id": "8cd0fd5ea37bccc9",
             "type": "leaf",
             "pinned": true,
@@ -104,35 +88,37 @@
             }
           },
           {
-            "id": "b65d736a045b62aa",
+            "id": "8f33379f926df426",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
+                "file": "1.工作流/10.日记文件/2026-06-14 周日.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "单词，句子记录2000-2001"
+              "title": "2026-06-14 周日"
             }
           },
           {
-            "id": "da29de32b6bf7fa6",
+            "id": "c2154c5bdad992bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-english"
+              "title": "辨析--设备名的转换"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+                "file": "1.工作流/10.日记文件/2026-06-14 周日.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-english 的大纲"
+              "title": "2026-06-14 周日 的大纲"
             }
           },
           {
@@ -328,8 +314,7 @@
               "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -357,12 +342,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "da29de32b6bf7fa6",
+  "active": "8f33379f926df426",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
+    "1.工作流/10.日记文件/2026-06-14 周日.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
     "_attachments/image/09 大观题型-1781444790839.jpeg",
     "_attachments/image/09 大观题型-1781444643686.jpeg",
@@ -374,27 +366,20 @@
     "_attachments/image/09 大观题型-1781443466913.jpeg",
     "_attachments/image/09 大观题型-1781443296585.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-    "1.工作流/10.日记文件/2026-06-14 周日.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/凸函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--设备名的转换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
     "_attachments/image/绪论+关系数据库-1781439049011.jpeg",
     "_attachments/image/绪论+关系数据库-1781438658657.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件四层作用.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--IO软件与硬件对照.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--DMA.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--固态硬盘考点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--多道程序设计考点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
