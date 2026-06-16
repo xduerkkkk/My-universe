@@ -102,6 +102,20 @@
               "icon": "lucide-file",
               "title": "2026-06-16 周二"
             }
+          },
+          {
+            "id": "18501b43ddf35885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.视频勘察"
+            }
           }
         ],
         "currentTab": 1
@@ -330,6 +344,16 @@
   },
   "active": "007a691cadbf0813",
   "lastOpenFiles": [
+    "_attachments/image/02王道题-1781599350479.jpeg",
+    "_attachments/image/02王道题-1781598080731.jpeg",
+    "_attachments/image/02王道题-1781598077570.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/01.对齐书籍.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/1.IO设备.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "_attachments/image/02王道题-1781593192507.jpeg",
+    "_attachments/image/02王道题-1781592625754.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
     "1.工作流/10.日记文件/2026-06-16 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
@@ -351,20 +375,11 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "_attachments/image/09 大观题型-1781572101200.jpeg",
-    "_attachments/image/09 大观题型-1781572088283.jpeg",
-    "_attachments/image/09 大观题型-1781571382255.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003单词，句子记录.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002单词，句子记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "_attachments/image/2004-1781534614832.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003.md",
-    "_attachments/image/09 大观题型-1781531313669.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
