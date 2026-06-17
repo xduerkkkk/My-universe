@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-17 周三.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-17 周三 的大纲"
+              "title": "10 反常积分大观 的大纲"
             }
           },
           {
@@ -358,8 +358,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e723faf621723773",
+  "active": "c65dcafa7d8084e2",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-06-17 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
@@ -379,7 +380,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "0.核心/00.规划(Plan)/2.当前项目/未命名.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "1.工作流/10.日记文件/2026-06-17 周三.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
