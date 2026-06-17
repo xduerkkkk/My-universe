@@ -62,13 +62,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "09 大观题型"
+              "title": "09 积分计算大观题型"
             }
           },
           {
@@ -104,35 +104,37 @@
             }
           },
           {
-            "id": "f5670fd9914317ea",
+            "id": "9ed143e99ff9849c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "07 严选题"
+              "title": "10 反常积分大观"
             }
           },
           {
-            "id": "9ed143e99ff9849c",
+            "id": "c65dcafa7d8084e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-数学"
+              "title": "10 反常积分大观"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+                "file": "1.工作流/10.日记文件/2026-06-17 周三.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-数学 的大纲"
+              "title": "2026-06-17 周三 的大纲"
             }
           },
           {
@@ -356,44 +358,44 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9ed143e99ff9849c",
+  "active": "e723faf621723773",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
+    "_attachments/image/10 反常积分大观-1781680855040.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
+    "_attachments/image/10 反常积分大观-1781680315552.jpeg",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
+    "0.核心/00.规划(Plan)/2.当前项目/未命名.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "1.工作流/10.日记文件/2026-06-17 周三.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
     "_attachments/image/06 辅导讲义例题-1781667538186.jpeg",
     "_attachments/image/06 辅导讲义例题-1781667367441.jpeg",
     "_attachments/image/06 辅导讲义例题-1781665769848.jpeg",
     "_attachments/image/06 辅导讲义例题-1781665755166.jpeg",
-    "1.工作流/10.日记文件/2026-06-17 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 大观题型.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "_attachments/image/06 辅导讲义例题-1781661212940.jpeg",
     "_attachments/image/06 辅导讲义例题-1781660919886.jpeg",
     "_attachments/image/06 辅导讲义例题-1781660625168.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
     "_attachments/image/06 辅导讲义例题-1781659143822.jpeg",
     "1.工作流/10.日记文件/2026-06-16 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "1.工作流/10.日记文件/2026-06-15 周一.md",
-    "_attachments/image/06 辅导讲义例题-1781617448661.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781617443282.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/安全性完整性，关系数据理论.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/SQL.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/绪论+关系数据库.md",
-    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/000梳理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
@@ -412,7 +414,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas"
   ]
 }
