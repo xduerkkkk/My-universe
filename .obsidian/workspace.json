@@ -120,21 +120,23 @@
             }
           },
           {
-            "id": "c65dcafa7d8084e2",
+            "id": "d421f5b347d74179",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "10 反常积分大观"
+              "title": "000最终背记表"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -358,11 +360,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c65dcafa7d8084e2",
+  "active": "9ed143e99ff9849c",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/002SQL.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/001绪论+关系数据库.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/004数据库最后三大章.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/003安全性完整性，关系数据理论.md",
+    "_attachments/image/000最终背记表-1781696875473.jpeg",
+    "_attachments/image/004数据库最后三大章-1781694337777.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "1.工作流/10.日记文件/2026-06-17 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
@@ -382,20 +392,12 @@
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
     "_attachments/image/06 辅导讲义例题-1781667538186.jpeg",
     "_attachments/image/06 辅导讲义例题-1781667367441.jpeg",
     "_attachments/image/06 辅导讲义例题-1781665769848.jpeg",
     "_attachments/image/06 辅导讲义例题-1781665755166.jpeg",
     "_attachments/image/06 辅导讲义例题-1781661212940.jpeg",
     "_attachments/image/06 辅导讲义例题-1781660919886.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781660625168.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781659143822.jpeg",
-    "1.工作流/10.日记文件/2026-06-16 周二.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "1.工作流/10.日记文件/2026-06-15 周一.md",
-    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
