@@ -88,38 +88,6 @@
             }
           },
           {
-            "id": "6eb788fe20e5b831",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "06 辅导讲义例题"
-            }
-          },
-          {
-            "id": "9ed143e99ff9849c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10 反常积分大观"
-            }
-          },
-          {
             "id": "d421f5b347d74179",
             "type": "leaf",
             "pinned": true,
@@ -134,9 +102,41 @@
               "icon": "lucide-file",
               "title": "000最终背记表"
             }
+          },
+          {
+            "id": "d01cbfefc21c12d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-06-18 周四.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-18 周四"
+            }
+          },
+          {
+            "id": "3a3fba41a88f46ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "07 严选题"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -362,12 +362,22 @@
   },
   "active": "d421f5b347d74179",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "1.工作流/10.日记文件/2026-06-17 周三.md",
+    "1.工作流/10.日记文件/2026-06-18 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "_attachments/image/07 严选题-1781749322598.jpeg",
+    "_attachments/image/07 严选题-1781749306231.jpeg",
+    "_attachments/image/07 严选题-1781749297818.jpeg",
+    "_attachments/image/07 严选题-1781747116714.jpeg",
+    "_attachments/image/07 严选题-1781745885548.jpeg",
+    "_attachments/image/07 严选题-1781745374611.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "1.工作流/10.日记文件/2026-06-17 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--几何应用基础知识.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--表格积分法的本质.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/难--创建两阶导.md",
@@ -384,21 +394,10 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
     "_attachments/image/10 反常积分大观-1781680855040.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
     "_attachments/image/10 反常积分大观-1781680315552.jpeg",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
-    "0.核心/00.规划(Plan)/2.当前项目/未命名.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "_attachments/image/06 辅导讲义例题-1781667538186.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781667367441.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781665769848.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781665755166.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781661212940.jpeg",
-    "_attachments/image/06 辅导讲义例题-1781660919886.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
