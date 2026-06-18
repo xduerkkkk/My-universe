@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "d82ec51a6bf7cb72",
+            "id": "46ece593a37dae6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-880综合拓展"
+              "title": "06 辅导讲义例题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07 严选题 的大纲"
+              "title": "06 辅导讲义例题 的大纲"
             }
           },
           {
@@ -358,12 +358,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3a3fba41a88f46ce",
+  "active": "46ece593a37dae6f",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-06-18 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
+    "_attachments/image/07 严选题-1781782625174.jpeg",
+    "_attachments/image/07 严选题-1781782609818.jpeg",
+    "_attachments/image/07 严选题-1781782265509.jpeg",
+    "_attachments/image/07 严选题-1781782256134.jpeg",
+    "_attachments/image/07 严选题-1781781738168.jpeg",
+    "_attachments/image/07 严选题-1781781578752.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md",
     "_attachments/image/07 严选题-1781773280401.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "_attachments/image/07 严选题-1781772937137.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引 (conflict 2026-06-18-15-22-53).md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md",
@@ -372,31 +388,15 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/003安全性完整性，关系数据理论.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/001绪论+关系数据库.md",
-    "1.工作流/10.日记文件/2026-06-18 周四.md",
     "_attachments/image/07 严选题-1781749322598.jpeg",
     "_attachments/image/07 严选题-1781749306231.jpeg",
-    "_attachments/image/07 严选题-1781749297818.jpeg",
-    "_attachments/image/07 严选题-1781747116714.jpeg",
-    "_attachments/image/07 严选题-1781745885548.jpeg",
-    "_attachments/image/07 严选题-1781745374611.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
     "1.工作流/10.日记文件/2026-06-17 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--几何应用基础知识.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--表格积分法的本质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/难--创建两阶导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "_attachments/image/000最终背记表-1781696875473.jpeg",
-    "_attachments/image/004数据库最后三大章-1781694337777.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "_attachments/image/10 反常积分大观-1781680855040.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
