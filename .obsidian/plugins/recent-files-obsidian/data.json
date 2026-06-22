@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
+    },
+    {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
+      "basename": "记忆--中断分类",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "2026-06-22 周一",
+      "path": "1.工作流/10.日记文件/2026-06-22 周一.md"
+    },
+    {
+      "basename": "辨析--xx指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
     },
     {
       "basename": "ch1计算机硬件构成",
@@ -53,10 +73,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
     },
     {
-      "basename": "视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
-    },
-    {
       "basename": "题--计算占比",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md"
     },
@@ -65,16 +81,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md"
     },
     {
-      "basename": "记忆--中断分类",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md"
-    },
-    {
       "basename": "辨析--xx周期",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
-    },
-    {
-      "basename": "辨析--xx指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
     },
     {
       "basename": "辨析--单中断和多重中断的区别",
@@ -83,10 +91,6 @@
     {
       "basename": "Pasted image 20260310195958",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png"
-    },
-    {
-      "basename": "2026-06-22 周一",
-      "path": "1.工作流/10.日记文件/2026-06-22 周一.md"
     },
     {
       "basename": "08-880强化",
@@ -195,10 +199,6 @@
     {
       "basename": "08-辅导讲义例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md"
-    },
-    {
-      "basename": "07-强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
     }
   ],
   "omittedPaths": [
