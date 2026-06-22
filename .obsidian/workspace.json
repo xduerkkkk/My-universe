@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "视频 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -358,10 +358,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2b782607d6f01b15",
+  "active": "f151300effa0dcc4",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
     "1.工作流/10.日记文件/2026-06-22 周一.md",
