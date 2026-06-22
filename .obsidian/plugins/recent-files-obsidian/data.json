@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
+      "basename": "作业（ch7-ch10）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
+    },
+    {
+      "basename": "作业（ch2-ch6）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md"
+    },
+    {
+      "basename": "困惑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md"
+    },
+    {
+      "basename": "第二套卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md"
+    },
+    {
+      "basename": "第三套",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md"
+    },
+    {
+      "basename": "第一套卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md"
+    },
+    {
+      "basename": "康凯23009200942",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md"
+    },
+    {
+      "basename": "思维导图-指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
+    },
+    {
+      "basename": "辨析_大端小端",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+    },
+    {
+      "basename": "视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
+    },
+    {
+      "basename": "题--计算占比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md"
+    },
+    {
+      "basename": "记忆--IO时序",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md"
+    },
+    {
+      "basename": "记忆--中断分类",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md"
+    },
+    {
+      "basename": "辨析--xx周期",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
+    },
+    {
+      "basename": "辨析--xx指令",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md"
+    },
+    {
+      "basename": "辨析--单中断和多重中断的区别",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md"
+    },
+    {
+      "basename": "Pasted image 20260310195958",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png"
+    },
+    {
+      "basename": "2026-06-22 周一",
+      "path": "1.工作流/10.日记文件/2026-06-22 周一.md"
+    },
+    {
       "basename": "08-880强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md"
     },
     {
       "basename": "06 辅导讲义例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md"
-    },
-    {
-      "basename": "2026-06-22 周一",
-      "path": "1.工作流/10.日记文件/2026-06-22 周一.md"
     },
     {
       "basename": "09-严选题",
@@ -115,90 +199,6 @@
     {
       "basename": "07-强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
-    },
-    {
-      "basename": "06-880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md"
-    },
-    {
-      "basename": "03微几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md"
-    },
-    {
-      "basename": "05微分物理，经济应用",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md"
-    },
-    {
-      "basename": "10-880综合拓展",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md"
-    },
-    {
-      "basename": "000最终背记表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/000最终背记表.md"
-    },
-    {
-      "basename": "002SQL",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/002SQL.md"
-    },
-    {
-      "basename": "004数据库最后三大章",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/004数据库最后三大章.md"
-    },
-    {
-      "basename": "003安全性完整性，关系数据理论",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/003安全性完整性，关系数据理论.md"
-    },
-    {
-      "basename": "关系数据库",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/关系数据库.md"
-    },
-    {
-      "basename": "001绪论+关系数据库",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据库/001绪论+关系数据库.md"
-    },
-    {
-      "basename": "10 重刷记录笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md"
-    },
-    {
-      "basename": "理解--几何应用基础知识",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--几何应用基础知识.md"
-    },
-    {
-      "basename": "理解--表格积分法的本质",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/理解--表格积分法的本质.md"
-    },
-    {
-      "basename": "难--创建两阶导",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/难--创建两阶导.md"
-    },
-    {
-      "basename": "02积分几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md"
-    },
-    {
-      "basename": "积分思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas"
-    },
-    {
-      "basename": "00 我的模糊处",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md"
-    },
-    {
-      "basename": "强化规划",
-      "path": "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/未命名.md"
-    },
-    {
-      "basename": "00-数学",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
     }
   ],
   "omittedPaths": [

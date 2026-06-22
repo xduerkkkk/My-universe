@@ -104,21 +104,37 @@
             }
           },
           {
-            "id": "0a753ca110a0be6c",
+            "id": "f151300effa0dcc4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "0b07b8dcf20510d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-880强化"
+              "title": "王道题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -227,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-880强化 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -342,8 +358,31 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0a753ca110a0be6c",
+  "active": "0b07b8dcf20510d9",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/困惑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第二套卷.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第三套.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/康凯23009200942.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/题--计算占比.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--IO时序.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png",
+    "1.工作流/10.日记文件/2026-06-22 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "_attachments/image/08-880强化-1782100464893.jpeg",
     "_attachments/image/08-880强化-1782100452388.jpeg",
     "_attachments/image/08-880强化-1782099939971.jpeg",
@@ -353,33 +392,10 @@
     "_attachments/image/08-880强化-1782097017770.jpeg",
     "_attachments/image/08-880强化-1782095367081.jpeg",
     "_attachments/image/08-880强化-1782095316905.jpeg",
-    "_attachments/image/08-880强化-1782092783804.jpeg",
-    "_attachments/image/08-880强化-1782092434960.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "1.工作流/10.日记文件/2026-06-22 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "1.工作流/10.日记文件/2026-06-18 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2003单词，句子记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "1.工作流/10.日记文件/2026-06-17 周三.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
