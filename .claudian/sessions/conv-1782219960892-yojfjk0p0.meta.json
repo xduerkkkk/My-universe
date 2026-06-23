@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782219960892-yojfjk0p0",
+  "providerId": "claude",
+  "title": "Summarize research and explain key terms",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782219960893,
+  "updatedAt": 1782220000711,
+  "lastResponseAt": 1782220000711,
+  "sessionId": "68415199-e74c-4642-8225-4ec0bd3ad554",
+  "providerState": {
+    "providerSessionId": "68415199-e74c-4642-8225-4ec0bd3ad554"
+  },
+  "currentNote": "Clippings/2026北京智源大会丨多模态.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 5382,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25728,
+    "contextWindow": 1000000,
+    "contextTokens": 31110,
+    "percentage": 3
+  }
+}
