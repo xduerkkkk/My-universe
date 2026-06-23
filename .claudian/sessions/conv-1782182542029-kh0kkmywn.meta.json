@@ -4,6 +4,19 @@
   "title": "Diagnose missing images in advanced math notes",
   "titleGenerationStatus": "success",
   "createdAt": 1782182542029,
-  "updatedAt": 1782182564715,
-  "sessionId": null
+  "updatedAt": 1782183177618,
+  "lastResponseAt": 1782183177618,
+  "sessionId": "fc5562f6-ec6d-470a-a701-c875301922a4",
+  "providerState": {
+    "providerSessionId": "fc5562f6-ec6d-470a-a701-c875301922a4"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 219,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65024,
+    "contextWindow": 1000000,
+    "contextTokens": 65243,
+    "percentage": 7
+  }
 }
