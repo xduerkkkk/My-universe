@@ -104,21 +104,20 @@
             }
           },
           {
-            "id": "fa93cd72e11409fb",
+            "id": "0409db421d7012b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/2026北京智源大会丨多模态.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026北京智源大会丨多模态"
+              "title": "01书籍与例题"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/2026北京智源大会丨多模态.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026北京智源大会丨多模态 的大纲"
+              "title": "2004 的大纲"
             }
           },
           {
@@ -302,12 +301,11 @@
               "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 707.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,21 +329,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "ad13589ae3b40444",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "1.工作流/10.日记文件/2026-06-23 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "_attachments/image/04大观习题-1782220676617.jpeg",
+    "_attachments/image/04大观习题-1782220419707.jpeg",
+    "Clippings/2026北京智源大会丨多模态.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
     "_attachments/image/09-严选题-1782213907665.jpeg",
     "_attachments/image/09-严选题-1782213365542.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "_attachments/image/王道题-1782207915266.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/中断屏蔽.excalidraw.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
-    "Clippings/2026北京智源大会丨多模态.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
@@ -361,11 +366,8 @@
     "CLAUDE.md",
     "Readme.md",
     "1.工作流/10.日记文件/2026-06-22 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782186792878.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
     "_attachments/image/04大观习题-1782184974015.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
     "_attachments/题--积分计算-1773458737757.jpeg~RF358efab.TMP",
     "_attachments/链表part02-1747494066086.jpeg~RF358e730.TMP",
@@ -376,10 +378,6 @@
     "_attachments/绪论-1765953645557.jpeg~RF358d85b.TMP",
     "_attachments/绪论-1765953627899.jpeg~RF358d81c.TMP",
     "_attachments/线性分类-1770092981707.jpeg~RF358d58c.TMP",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "_attachments/线性分类-1769740594587.jpeg",
-    "_attachments/线性分类-1770092097674.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",

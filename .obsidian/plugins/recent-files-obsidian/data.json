@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2026北京智源大会丨多模态",
-      "path": "Clippings/2026北京智源大会丨多模态.md"
+      "basename": "2004",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
+    },
+    {
+      "basename": "记忆--各缓冲区图解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
     },
     {
       "basename": "2026-06-23 周二",
       "path": "1.工作流/10.日记文件/2026-06-23 周二.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
+      "basename": "01书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md"
+    },
+    {
+      "basename": "思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas"
+    },
+    {
+      "basename": "04大观习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
+    },
+    {
+      "basename": "2026北京智源大会丨多模态",
+      "path": "Clippings/2026北京智源大会丨多模态.md"
     },
     {
       "basename": "07 严选题",
@@ -23,10 +51,6 @@
     {
       "basename": "09-严选题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
     },
     {
       "basename": "中断屏蔽.excalidraw",
@@ -69,10 +93,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
     },
     {
-      "basename": "2004",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md"
-    },
-    {
       "basename": "0000随便丢收集箱",
       "path": "1.工作流/11.事件收集箱/0000随便丢收集箱.md"
     },
@@ -89,24 +109,12 @@
       "path": "1.工作流/10.日记文件/2026-06-22 周一.md"
     },
     {
-      "basename": "04大观习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
-    },
-    {
-      "basename": "01书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md"
-    },
-    {
       "basename": "03 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md"
     },
     {
       "basename": "02习题与1000题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md"
-    },
-    {
-      "basename": "思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas"
     },
     {
       "basename": "线性分类-1769740594587",
@@ -191,14 +199,6 @@
     {
       "basename": "笔记-1774837752323",
       "path": "_attachments/笔记-1774837752323.jpeg"
-    },
-    {
-      "basename": "笔记-1774842669010",
-      "path": "_attachments/笔记-1774842669010.jpeg"
-    },
-    {
-      "basename": "笔记-1774926445081",
-      "path": "_attachments/笔记-1774926445081.jpeg"
     }
   ],
   "omittedPaths": [
