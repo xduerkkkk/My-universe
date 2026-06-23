@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "6419b4945dbe7ed8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-22 周一.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-22 周一"
-            }
-          },
-          {
             "id": "f151300effa0dcc4",
             "type": "leaf",
             "pinned": true,
@@ -118,37 +102,9 @@
               "icon": "lucide-file",
               "title": "2026-06-23 周二"
             }
-          },
-          {
-            "id": "333ec7ae58fa1ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04大观习题"
-            }
-          },
-          {
-            "id": "23254616088e7cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04大观习题"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,19 +168,8 @@
             }
           },
           {
-            "id": "10af3c063cb790d4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent files"
-            }
-          },
-          {
             "id": "f2f11ab526d56a87",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -232,7 +177,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "0000随便丢收集箱"
             }
@@ -257,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "1.工作流/10.日记文件/2026-06-23 周二.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04大观习题 的大纲"
+              "title": "2026-06-23 周二 的大纲"
             }
           },
           {
@@ -372,14 +316,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "23254616088e7cbe",
+  "active": "370f8633260ad0d7",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "1.工作流/10.日记文件/2026-06-23 周二.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "CLAUDE.md",
+    "Readme.md",
+    "1.工作流/10.日记文件/2026-06-22 周一.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782186792878.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782184974015.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
-    "1.工作流/10.日记文件/2026-06-23 周二.md",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
     "_attachments/题--积分计算-1773458737757.jpeg~RF358efab.TMP",
     "_attachments/链表part02-1747494066086.jpeg~RF358e730.TMP",
@@ -400,7 +350,6 @@
     "_attachments/绪论-1765953621105.jpeg",
     "_attachments/书籍勘察-1766807216882.jpeg",
     "_attachments/书籍勘察-1765027396018.jpeg",
-    "_attachments/书籍对齐-1765769453466.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
@@ -417,11 +366,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
