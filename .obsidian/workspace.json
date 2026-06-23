@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "2026-06-23 周二"
             }
+          },
+          {
+            "id": "c39451297779706b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-23 16.54.19.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -201,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-23 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-23 周二 的大纲"
+              "title": "Drawing 2026-06-23 16.54.19.excalidraw 的大纲"
             }
           },
           {
@@ -316,10 +328,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "370f8633260ad0d7",
+  "active": "c39451297779706b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "1.工作流/10.日记文件/2026-06-23 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
+    "Clippings/2026北京智源大会丨多模态.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--单中断和多重中断的区别.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md",
+    "_attachments/image/辨析--xx周期-1782201665931.jpeg",
+    "_attachments/image/辨析--xx周期-1782201464846.jpeg",
+    "_attachments/image/辨析--xx周期-1782200058532.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "CLAUDE.md",
@@ -347,25 +374,10 @@
     "_attachments/线性分类-1770108827938.jpeg",
     "_attachments/线性分类-1770108677930.jpeg",
     "_attachments/信息记录-1750652946724.jpeg",
-    "_attachments/绪论-1765953621105.jpeg",
-    "_attachments/书籍勘察-1766807216882.jpeg",
-    "_attachments/书籍勘察-1765027396018.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/概念--f'.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
