@@ -104,19 +104,21 @@
             }
           },
           {
-            "id": "c39451297779706b",
+            "id": "13ccb756c8992802",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md"
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-23 16.54.19.excalidraw"
+              "icon": "lucide-file",
+              "title": "视频"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-06-23 16.54.19.excalidraw 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -328,13 +330,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c39451297779706b",
+  "active": "f151300effa0dcc4",
   "lastOpenFiles": [
+    "_attachments/image/王道题-1782207915266.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/Drawing 2026-06-23 16.54.19.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "1.工作流/10.日记文件/2026-06-23 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/中断屏蔽.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
     "Clippings/2026北京智源大会丨多模态.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
@@ -376,7 +379,6 @@
     "_attachments/信息记录-1750652946724.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
