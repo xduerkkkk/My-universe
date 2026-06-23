@@ -102,9 +102,53 @@
               "icon": "lucide-file",
               "title": "王道题"
             }
+          },
+          {
+            "id": "370f8633260ad0d7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-06-23 周二.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-23 周二"
+            }
+          },
+          {
+            "id": "6f4d278ef00a31f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-880强化"
+            }
+          },
+          {
+            "id": "921e3143d4bde2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02微概计--张宇基础30讲"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "02微概计--张宇基础30讲 的大纲"
             }
           },
           {
@@ -300,11 +344,12 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,45 +373,47 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f151300effa0dcc4",
+  "active": "921e3143d4bde2bf",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/书籍与例题.md",
+    "_attachments/00-整个考研-1764488210271.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/0 880.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "_attachments/image/08-880强化-1782180471111.jpeg",
+    "_attachments/image/08-880强化-1782180450380.jpeg",
+    "1.工作流/10.日记文件/2026-06-23 周二.md",
+    "1.工作流/10.日记文件/2026-06-22 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
+    "_attachments/image/08-880强化-1782179712026.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "Clippings/2026北京智源大会丨多模态.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "Clippings",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "_attachments/image/08-880强化-1782135341431.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "1.工作流/10.日记文件/2026-06-22 周一.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "4.不常用/43.模板文件/日记模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/记忆--中断分类.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/00.视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch2-ch6）.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/assets/Pasted image 20260310195958.png",
     "_attachments/image/08-880强化-1782100464893.jpeg",
     "_attachments/image/08-880强化-1782100452388.jpeg",
     "_attachments/image/08-880强化-1782099939971.jpeg",
     "_attachments/image/08-880强化-1782099922618.jpeg",
-    "_attachments/image/08-880强化-1782097934345.jpeg",
-    "_attachments/image/08-880强化-1782097171718.jpeg",
-    "_attachments/image/08-880强化-1782097017770.jpeg",
-    "_attachments/image/08-880强化-1782095367081.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md.tmp.71296.84e7076880d3",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/卡片",
@@ -377,14 +424,12 @@
     "3.创造物/30.输出文章/AI/探索",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集/前沿CV",
     "0.核心/00.规划(Plan)/3.未来探索/导师信息收集",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版",
     "1.工作流/10.日记文件/26年上半年/26年6月",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas"
   ]
 }
