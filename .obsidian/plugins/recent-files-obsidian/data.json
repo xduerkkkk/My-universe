@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
       "basename": "04大观习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
     },
     {
       "basename": "2026-06-24 周三",
       "path": "1.工作流/10.日记文件/2026-06-24 周三.md"
+    },
+    {
+      "basename": "ch2软件系统与计算机性能指标和评价",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+    },
+    {
+      "basename": "ch1计算机硬件构成",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
+    },
+    {
+      "basename": "01-408",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
+    },
+    {
+      "basename": "09 积分计算大观题型",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md"
     },
     {
       "basename": "00 我的模糊处",
@@ -35,10 +55,6 @@
     {
       "basename": "01书籍与例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
     },
     {
       "basename": "2026-06-23 周二",
@@ -95,10 +111,6 @@
     {
       "basename": "中断屏蔽.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/中断屏蔽.excalidraw.md"
-    },
-    {
-      "basename": "09 积分计算大观题型",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md"
     },
     {
       "basename": "ch5 io接口",
@@ -187,18 +199,6 @@
     {
       "basename": "书籍勘察-1765027396018",
       "path": "_attachments/书籍勘察-1765027396018.jpeg"
-    },
-    {
-      "basename": "书籍对齐-1765769453466",
-      "path": "_attachments/书籍对齐-1765769453466.jpeg"
-    },
-    {
-      "basename": "书籍对齐-1764301714399",
-      "path": "_attachments/书籍对齐-1764301714399.jpeg"
-    },
-    {
-      "basename": "书籍对齐-1765769001019",
-      "path": "_attachments/书籍对齐-1765769001019.jpeg"
     }
   ],
   "omittedPaths": [

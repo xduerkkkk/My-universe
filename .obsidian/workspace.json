@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "2026-06-24 周三"
             }
+          },
+          {
+            "id": "892f684919d60cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ch2软件系统与计算机性能指标和评价"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04大观习题 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -332,14 +346,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a7478fd6e60ec8e2",
+  "active": "f151300effa0dcc4",
   "lastOpenFiles": [
+    "_attachments/image/王道题-1782288207676.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "1.工作流/10.日记文件/2026-06-24 周三.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "_attachments/image/王道题-1782285460248.jpeg",
+    "_attachments/image/王道题-1782285440795.jpeg",
+    "_attachments/image/王道题-1782285340967.jpeg",
+    "_attachments/image/王道题-1782283592353.jpeg",
+    "_attachments/image/王道题-1782283344418.jpeg",
+    "_attachments/image/王道题-1782283336906.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "_attachments/image/04大观习题-1782273714412.jpeg",
     "_attachments/image/04大观习题-1782273705610.jpeg",
     "_attachments/image/04大观习题-1782273693408.jpeg",
     "_attachments/image/04大观习题-1782273679704.jpeg",
-    "1.工作流/10.日记文件/2026-06-24 周三.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--不定积分和变限积分的转换.md",
@@ -347,10 +373,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/理解--复指数理解微分方程.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
     "1.工作流/10.日记文件/2026-06-23 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "_attachments/image/04大观习题-1782263592587.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
@@ -358,19 +382,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "_attachments/image/04大观习题-1782220676617.jpeg",
-    "_attachments/image/04大观习题-1782220419707.jpeg",
     "Clippings/2026北京智源大会丨多模态.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "_attachments/image/09-严选题-1782213907665.jpeg",
-    "_attachments/image/09-严选题-1782213365542.jpeg",
-    "_attachments/image/王道题-1782207915266.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/中断屏蔽.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/ch5 io接口.md",
-    "_attachments/image/辨析--xx周期-1782201665931.jpeg",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
     "_attachments/题--积分计算-1773458737757.jpeg~RF358efab.TMP",
     "_attachments/链表part02-1747494066086.jpeg~RF358e730.TMP",
