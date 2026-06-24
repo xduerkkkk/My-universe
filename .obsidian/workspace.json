@@ -102,22 +102,9 @@
               "icon": "lucide-file",
               "title": "2026-06-23 周二"
             }
-          },
-          {
-            "id": "0409db421d7012b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01书籍与例题"
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+                "file": "1.工作流/10.日记文件/2026-06-23 周二.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2004 的大纲"
+              "title": "2026-06-23 周二 的大纲"
             }
           },
           {
@@ -329,13 +316,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ad13589ae3b40444",
+  "active": "370f8633260ad0d7",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "1.工作流/10.日记文件/2026-06-23 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782220676617.jpeg",
@@ -361,11 +351,8 @@
     "_attachments/image/辨析--xx周期-1782201665931.jpeg",
     "_attachments/image/辨析--xx周期-1782201464846.jpeg",
     "_attachments/image/辨析--xx周期-1782200058532.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
     "CLAUDE.md",
-    "Readme.md",
-    "1.工作流/10.日记文件/2026-06-22 周一.md",
     "_attachments/image/04大观习题-1782186792878.jpeg",
     "_attachments/image/04大观习题-1782184974015.jpeg",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
