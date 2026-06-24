@@ -24,70 +24,6 @@
             }
           },
           {
-            "id": "007a691cadbf0813",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "45f60aa68f5a7587",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "记忆--各缓冲区图解"
-            }
-          },
-          {
-            "id": "8cd0fd5ea37bccc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09 积分计算大观题型"
-            }
-          },
-          {
-            "id": "f151300effa0dcc4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "a7478fd6e60ec8e2",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +56,37 @@
             }
           },
           {
-            "id": "892f684919d60cc7",
+            "id": "e71b17b8155d6b7a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "0b9ccc383dede2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch2软件系统与计算机性能指标和评价"
+              "title": "ch1计算机硬件构成"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -271,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-06-12 周五.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-06-12 周五 的出链列表"
+              "title": "王道题 的出链列表"
             }
           },
           {
@@ -322,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,14 +298,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f151300effa0dcc4",
+  "active": "e71b17b8155d6b7a",
   "lastOpenFiles": [
-    "_attachments/image/王道题-1782288207676.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
-    "1.工作流/10.日记文件/2026-06-24 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+    "1.工作流/10.日记文件/2026-06-24 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.91b71fb756e8",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
+    "_attachments/image/王道题-1782289160468.jpeg",
+    "_attachments/image/王道题-1782288207676.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
     "_attachments/image/王道题-1782285460248.jpeg",
     "_attachments/image/王道题-1782285440795.jpeg",
     "_attachments/image/王道题-1782285340967.jpeg",
@@ -361,11 +325,8 @@
     "_attachments/image/王道题-1782283344418.jpeg",
     "_attachments/image/王道题-1782283336906.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "_attachments/image/04大观习题-1782273714412.jpeg",
     "_attachments/image/04大观习题-1782273705610.jpeg",
-    "_attachments/image/04大观习题-1782273693408.jpeg",
-    "_attachments/image/04大观习题-1782273679704.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--构造变上限积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--不定积分和变限积分的转换.md",
@@ -377,14 +338,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "Clippings/2026北京智源大会丨多模态.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
     "_attachments/题--积分计算-1773458737757.jpeg~RF358efab.TMP",
     "_attachments/链表part02-1747494066086.jpeg~RF358e730.TMP",
@@ -393,8 +347,6 @@
     "_attachments/认识梯度-1765424254820.jpeg~RF358e1d1.TMP",
     "_attachments/视频勘察-1767430862283.jpeg~RF358dd7b.TMP",
     "_attachments/绪论-1765953645557.jpeg~RF358d85b.TMP",
-    "_attachments/绪论-1765953627899.jpeg~RF358d81c.TMP",
-    "_attachments/线性分类-1770092981707.jpeg~RF358d58c.TMP",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",

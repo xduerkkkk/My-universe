@@ -2,31 +2,63 @@
   "recentFiles": [
     {
       "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
-    },
-    {
-      "basename": "04大观习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
-    },
-    {
-      "basename": "2026-06-24 周三",
-      "path": "1.工作流/10.日记文件/2026-06-24 周三.md"
-    },
-    {
-      "basename": "ch2软件系统与计算机性能指标和评价",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md"
     },
     {
       "basename": "ch1计算机硬件构成",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md"
     },
     {
-      "basename": "01-408",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
+      "basename": "2026-06-24 周三",
+      "path": "1.工作流/10.日记文件/2026-06-24 周三.md"
+    },
+    {
+      "basename": "04大观习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
     },
     {
       "basename": "09 积分计算大观题型",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
+    },
+    {
+      "basename": "王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md"
+    },
+    {
+      "basename": "记忆--各缓冲区图解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
+    },
+    {
+      "basename": "02王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md"
+    },
+    {
+      "basename": "外存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md"
+    },
+    {
+      "basename": "视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
+    },
+    {
+      "basename": "ch2软件系统与计算机性能指标和评价",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md"
+    },
+    {
+      "basename": "01-408",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
     },
     {
       "basename": "00 我的模糊处",
@@ -81,14 +113,6 @@
       "path": "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md"
     },
     {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md"
-    },
-    {
-      "basename": "记忆--各缓冲区图解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/卡片/记忆--各缓冲区图解.md"
-    },
-    {
       "basename": "思维导图",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas"
     },
@@ -99,10 +123,6 @@
     {
       "basename": "06 辅导讲义例题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md"
-    },
-    {
-      "basename": "视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md"
     },
     {
       "basename": "09-严选题",
@@ -179,26 +199,6 @@
     {
       "basename": "线性分类-1770108827938",
       "path": "_attachments/线性分类-1770108827938.jpeg"
-    },
-    {
-      "basename": "线性分类-1770108677930",
-      "path": "_attachments/线性分类-1770108677930.jpeg"
-    },
-    {
-      "basename": "信息记录-1750652946724",
-      "path": "_attachments/信息记录-1750652946724.jpeg"
-    },
-    {
-      "basename": "绪论-1765953621105",
-      "path": "_attachments/绪论-1765953621105.jpeg"
-    },
-    {
-      "basename": "书籍勘察-1766807216882",
-      "path": "_attachments/书籍勘察-1766807216882.jpeg"
-    },
-    {
-      "basename": "书籍勘察-1765027396018",
-      "path": "_attachments/书籍勘察-1765027396018.jpeg"
     }
   ],
   "omittedPaths": [

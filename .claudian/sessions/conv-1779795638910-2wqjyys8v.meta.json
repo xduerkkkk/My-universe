@@ -4,8 +4,8 @@
   "title": "王道题整理",
   "titleGenerationStatus": "failed",
   "createdAt": 1779795638912,
-  "updatedAt": 1781600363755,
-  "lastResponseAt": 1781600363755,
+  "updatedAt": 1782293705034,
+  "lastResponseAt": 1782291426937,
   "sessionId": "ba5ba122-91c3-4841-be8f-0261cfbfa111",
   "providerState": {
     "providerSessionId": "ba5ba122-91c3-4841-be8f-0261cfbfa111",
@@ -15,11 +15,11 @@
   },
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 529,
+    "inputTokens": 154374,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 144768,
+    "cacheReadInputTokens": 0,
     "contextWindow": 1000000,
-    "contextTokens": 145297,
+    "contextTokens": 154374,
     "percentage": 15,
     "contextWindowIsAuthoritative": true
   }
