@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "f53f3e057f7a9079",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-06-24 周三.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-24 周三"
-            }
-          },
-          {
             "id": "e71b17b8155d6b7a",
             "type": "leaf",
             "pinned": true,
@@ -88,21 +72,23 @@
             }
           },
           {
-            "id": "95f053121c1c51f9",
+            "id": "8aca143ac94b91b5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
+                "file": "1.工作流/10.日记文件/2026-06-25 周四.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "01书籍与例题"
+              "title": "2026-06-25 周四"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04大观习题 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -239,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "04大观习题 的出链列表"
+              "title": "王道题 的出链列表"
             }
           },
           {
@@ -290,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,13 +300,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bcdd23ee3b70cae0",
+  "active": "e71b17b8155d6b7a",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-06-25 周四.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+    "1.工作流/10.日记文件/2026-06-24 周三.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
+    "_attachments/image/ch1计算机硬件构成-1782369873944.jpeg",
     "_attachments/image/04大观习题-1782360262549.jpeg",
     "_attachments/image/04大观习题-1782360116853.jpeg",
     "_attachments/image/04大观习题-1782360109728.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782356075491.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
@@ -333,14 +324,9 @@
     "_attachments/image/04大观习题-1782354055536.jpeg",
     "_attachments/image/04大观习题-1782353361592.jpeg",
     "_attachments/image/04大观习题-1782353323526.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "_attachments/image/04大观习题-1782351291974.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "1.工作流/10.日记文件/2026-06-25 周四.md",
-    "1.工作流/10.日记文件/2026-06-24 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
@@ -352,7 +338,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/视频.md",
-    "_attachments/image/王道题-1782289160468.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch2软件系统与计算机性能指标和评价.md",
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
