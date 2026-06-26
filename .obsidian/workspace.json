@@ -104,24 +104,21 @@
             }
           },
           {
-            "id": "f47a38747b883162",
+            "id": "9330080c67c49bbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-                "viewState": {
-                  "x": -276.6738553522252,
-                  "y": 394.19790790939305,
-                  "zoom": -0.8687259460034031
-                }
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "08-880强化"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -218,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王道题 的大纲"
+              "title": "08-880强化 的大纲"
             }
           },
           {
@@ -258,12 +255,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "王道题 的出链列表"
+              "title": "08-880强化 的出链列表"
             }
           },
           {
@@ -333,44 +330,45 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6afabb7a710c80da",
+  "active": "9330080c67c49bbb",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/调度算法适配的相应作业.md",
     "1.工作流/10.日记文件/2026-06-26 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "1.工作流/10.日记文件/2026-06-25 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/02 题眼--触发.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "_attachments/image/08-880强化-1782476632532.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/经常的错误.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/保号性的脱帽.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/调度算法适配的相应作业.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/问题记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--四种外存空闲空间管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/04大观习题-1782445788872.jpeg",
     "_attachments/image/04大观习题-1782445758620.jpeg",
     "_attachments/image/04大观习题-1782443769015.jpeg",
     "_attachments/image/04大观习题-1782443343293.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
-    "1.工作流/10.日记文件/2026-06-25 周四.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
     "_attachments/image/04大观习题-1782440369984.jpeg",
     "_attachments/image/04大观习题-1782440195832.jpeg",
     "_attachments/image/04大观习题-1782438624515.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "_attachments/image/04大观习题-1782395515929.jpeg",
     "_attachments/image/04大观习题-1782395505653.jpeg",
-    "_attachments/image/04大观习题-1782394423204.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.91b71fb756e8",
