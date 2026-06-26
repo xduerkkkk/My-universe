@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "e71b17b8155d6b7a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "bcdd23ee3b70cae0",
             "type": "leaf",
             "pinned": true,
@@ -104,21 +88,40 @@
             }
           },
           {
-            "id": "45ad3ff0240f91df",
+            "id": "b95ad852fecaff47",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "06强化-880综合拓展"
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "f47a38747b883162",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
+                "viewState": {
+                  "x": -276.6738553522252,
+                  "y": 394.19790790939305,
+                  "zoom": -0.8687259460034031
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04大观习题 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -255,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "04大观习题 的出链列表"
+              "title": "王道题 的出链列表"
             }
           },
           {
@@ -306,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,12 +333,31 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bcdd23ee3b70cae0",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "_attachments/image/04大观习题-1782445788872.jpeg",
-    "_attachments/image/04大观习题-1782445758620.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/调度算法适配的相应作业.md",
+    "1.工作流/10.日记文件/2026-06-26 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/Drawing 2026-03-28 14.56.21.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/问题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据运算/加减乘除.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--四种外存空闲空间管理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "_attachments/image/04大观习题-1782445788872.jpeg",
+    "_attachments/image/04大观习题-1782445758620.jpeg",
     "_attachments/image/04大观习题-1782443769015.jpeg",
     "_attachments/image/04大观习题-1782443343293.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
@@ -345,29 +367,10 @@
     "_attachments/image/04大观习题-1782440369984.jpeg",
     "_attachments/image/04大观习题-1782440195832.jpeg",
     "_attachments/image/04大观习题-1782438624515.jpeg",
-    "1.工作流/10.日记文件/2026-06-26 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/记录补足点.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
     "_attachments/image/04大观习题-1782395515929.jpeg",
     "_attachments/image/04大观习题-1782395505653.jpeg",
     "_attachments/image/04大观习题-1782394423204.jpeg",
-    "_attachments/image/04大观习题-1782394374751.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些重要的式子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/一些小点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
-    "1.工作流/10.日记文件/2026-06-24 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/ch1计算机硬件构成.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.91b71fb756e8",
@@ -383,7 +386,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",

@@ -4,20 +4,20 @@
   "title": "阅读这个王道题文件，我有许多题有标注和注释。我二刷的记录只有感叹号，一个感叹号是一刷对但二刷错，两个...",
   "titleGenerationStatus": "failed",
   "createdAt": 1782291700529,
-  "updatedAt": 1782293889762,
-  "lastResponseAt": 1782293889762,
+  "updatedAt": 1782460631944,
+  "lastResponseAt": 1782460631944,
   "sessionId": "6e2febdf-a4b7-46bd-893f-7e93f2e8cf0c",
   "providerState": {
     "providerSessionId": "6e2febdf-a4b7-46bd-893f-7e93f2e8cf0c"
   },
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 156,
+    "inputTokens": 199,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 89856,
+    "cacheReadInputTokens": 95616,
     "contextWindow": 1000000,
-    "contextTokens": 90012,
-    "percentage": 9,
+    "contextTokens": 95815,
+    "percentage": 10,
     "contextWindowIsAuthoritative": true
   }
 }
