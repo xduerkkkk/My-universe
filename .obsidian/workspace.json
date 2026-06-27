@@ -117,7 +117,8 @@
               "title": "2004单词，句子总结"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -214,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2004 的大纲"
+              "title": "2004单词，句子总结 的大纲"
             }
           },
           {
@@ -329,10 +330,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ad13589ae3b40444",
+  "active": "94e147ed2c652382",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/2.当前项目/未命名.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
@@ -353,12 +359,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/“硬件”与“软件（OS）”分工.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/调度算法适配的相应作业.md",
     "_attachments/image/04大观习题-1782445788872.jpeg",
     "_attachments/image/04大观习题-1782445758620.jpeg",
     "_attachments/image/04大观习题-1782443769015.jpeg",
