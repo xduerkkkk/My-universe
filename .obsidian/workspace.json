@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍与例题 的大纲"
+              "title": "大观 的大纲"
             }
           },
           {
@@ -330,11 +330,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "64b67774bfb6a041",
+  "active": "c64a671d2a907a56",
   "lastOpenFiles": [
+    "_attachments/image/大观-1782619093407.jpeg",
+    "_attachments/image/大观-1782616202410.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "_attachments/image/大观-1782614000394.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
     "_attachments/image/大观-1782613832086.jpeg",
     "_attachments/image/大观-1782612986707.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
@@ -368,7 +370,6 @@
     "_attachments/image/08-880强化-1782476632532.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "_attachments/image/04大观习题-1782445788872.jpeg",
-    "_attachments/image/04大观习题-1782445758620.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.91b71fb756e8",
