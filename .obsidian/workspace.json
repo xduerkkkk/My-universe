@@ -88,36 +88,9 @@
             }
           },
           {
-            "id": "91fc664ac3a49cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
-            "id": "2f023195e6e245b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
             "id": "f505ba623c23bfa4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -125,8 +98,37 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "大观"
+            }
+          },
+          {
+            "id": "8e951174150da962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "两类溢出"
+            }
+          },
+          {
+            "id": "e277caf5fa403374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "笔记"
             }
           }
         ],
@@ -227,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大观 的大纲"
+              "title": "笔记 的大纲"
             }
           },
           {
@@ -342,13 +344,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f505ba623c23bfa4",
+  "active": "e277caf5fa403374",
   "lastOpenFiles": [
+    "_attachments/image/笔记-1782721698479.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "_attachments/image/大观-1782705362377.jpeg",
     "_attachments/image/大观-1782704781926.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "1.工作流/10.日记文件/2026-06-29 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
@@ -367,24 +375,18 @@
     "2. 知识库/20. North_star_ZJU",
     "2. 知识库",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "_attachments/image/大观-1782650915463.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/两类溢出.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/笔记.md",
     "_attachments/image/08-880强化-1782649589810.jpeg",
     "_attachments/image/08-880强化-1782649383327.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/乘法电路图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
     "_attachments/image/大观-1782619093407.jpeg",
     "_attachments/image/大观-1782616202410.jpeg",
     "_attachments/image/大观-1782614000394.jpeg",
     "_attachments/image/大观-1782613832086.jpeg",
-    "_attachments/image/大观-1782612986707.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
