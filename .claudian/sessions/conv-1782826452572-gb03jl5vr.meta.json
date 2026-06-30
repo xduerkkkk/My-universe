@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782826452572-gb03jl5vr",
+  "providerId": "claude",
+  "title": "Suggest better tools for markdown mind maps",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782826452572,
+  "updatedAt": 1782827548358,
+  "lastResponseAt": 1782827548358,
+  "sessionId": "eaf9e585-2d9f-4edc-8ecb-8d1642520144",
+  "providerState": {
+    "providerSessionId": "eaf9e585-2d9f-4edc-8ecb-8d1642520144"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 155008,
+    "contextWindow": 1000000,
+    "contextTokens": 155129,
+    "percentage": 16
+  }
+}

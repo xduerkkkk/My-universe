@@ -104,31 +104,33 @@
             }
           },
           {
-            "id": "da494ec25b774aa8",
+            "id": "651ee2bc37ac8950",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "04大观习题"
+              "title": "最终导图"
             }
           },
           {
-            "id": "68fdd33ab04e09cd",
+            "id": "0a435726f3779b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-880强化"
+              "title": "最终导图"
             }
           }
         ],
@@ -229,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-880强化 的大纲"
+              "title": "最终导图 的大纲"
             }
           },
           {
@@ -320,7 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,17 +346,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "68fdd33ab04e09cd",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/Drawing 2026-05-22 15.22.47.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw.tmp.36380.b5915cfd8fc5",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
     "1.工作流/10.日记文件/2026-06-30 周二.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化阶段？基础过渡？.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/01-我的序言.md",
@@ -366,11 +375,8 @@
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/阶码为什么要是移码.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/有符号无符号互相转换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/卡片/阶码为什么要做移码.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/记忆--变量的字节.md",
     "_attachments/image/大观-1782791649848.jpeg",
     "_attachments/image/大观-1782790448447.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
     "_attachments/image/大观-1782789618999.jpeg",
     "_attachments/image/大观-1782789604783.jpeg",
     "_attachments/image/大观-1782788471840.jpeg",
@@ -379,9 +385,6 @@
     "_attachments/image/大观-1782785320154.jpeg",
     "_attachments/image/大观-1782784955316.jpeg",
     "_attachments/image/大观-1782782242363.jpeg",
-    "1.工作流/10.日记文件/2026-06-29 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--可微可导.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/高数--极限.pdf",
     "2. 知识库/20. North_star_ZJU/202. 计算机知识/操作系统",
@@ -393,8 +396,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.91b71fb756e8",
     "_attachments/题--积分计算-1773488821655.jpeg~RF358f077.TMP",
-    "_attachments/题--积分计算-1773458737757.jpeg~RF358efab.TMP",
-    "_attachments/链表part02-1747494066086.jpeg~RF358e730.TMP",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",

@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "最终导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md"
+    },
+    {
+      "basename": "OS综述总览图.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw.md"
+    },
+    {
+      "basename": "OS综述总览图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw"
+    },
+    {
+      "basename": "Drawing 2026-05-22 15.22.47.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/Drawing 2026-05-22 15.22.47.excalidraw.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
+    },
+    {
+      "basename": "视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md"
+    },
+    {
+      "basename": "2026-06-30 周二",
+      "path": "1.工作流/10.日记文件/2026-06-30 周二.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md"
+    },
+    {
+      "basename": "大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
+    },
+    {
+      "basename": "04大观习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
+    },
+    {
       "basename": "08-880强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md"
     },
@@ -9,20 +49,8 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md"
     },
     {
-      "basename": "04大观习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
-    },
-    {
-      "basename": "2026-06-30 周二",
-      "path": "1.工作流/10.日记文件/2026-06-30 周二.md"
-    },
-    {
       "basename": "记忆--初始化",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md"
-    },
-    {
-      "basename": "大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
     },
     {
       "basename": "书籍与例题",
@@ -31,10 +59,6 @@
     {
       "basename": "强化冲刺时间表",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md"
     },
     {
       "basename": "强化阶段？基础过渡？",
@@ -133,18 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/期末试卷2.md"
     },
     {
-      "basename": "视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题.md"
-    },
-    {
-      "basename": "超",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/超.md"
-    },
-    {
       "basename": "中断和异常",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/中断和异常.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "掌握的标准",
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/掌握的标准.md"
-    },
-    {
-      "basename": "英语方法",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/英语方法.md"
-    },
-    {
-      "basename": "学习方法（bedrock期间）",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/学习方法（bedrock期间）.md"
-    },
-    {
-      "basename": "408学习框架",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/408学习框架.md"
     }
   ],
   "omittedPaths": [
