@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2005",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md"
+    },
+    {
       "basename": "最终导图",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/最终导图.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "03-AI",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
     },
     {
       "basename": "OS综述总览图.excalidraw",
@@ -43,10 +55,6 @@
     {
       "basename": "08-880强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md"
-    },
-    {
-      "basename": "2005",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md"
     },
     {
       "basename": "记忆--初始化",
@@ -191,14 +199,6 @@
     {
       "basename": "数学学习",
       "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/数学学习.md"
-    },
-    {
-      "basename": "做题时的归因",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/做题时的归因.md"
-    },
-    {
-      "basename": "掌握的标准",
-      "path": "0.核心/01.学习操作系统My_OS/3.具体细化方法/掌握的标准.md"
     }
   ],
   "omittedPaths": [
