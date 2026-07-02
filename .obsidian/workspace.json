@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "9011669fc03a4c73",
+            "id": "5cbb259560c70642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "难点--隐函数存在定理"
+              "title": "01王道题-知识点整理"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大观 的大纲"
+              "title": "01王道题-知识点整理 的大纲"
             }
           },
           {
@@ -346,14 +346,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f505ba623c23bfa4",
+  "active": "5cbb259560c70642",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
+    "1.工作流/10.日记文件/2026-07-02 周四.md",
+    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
+    "1.工作流/11.事件收集箱/0000随便丢收集箱.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/01笔记.md",
     "_attachments/image/大观-1782962488025.jpeg",
     "_attachments/image/大观-1782960404102.jpeg",
     "_attachments/image/大观-1782958945842.jpeg",
-    "1.工作流/10.日记文件/2026-07-02 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "_attachments/image/大观-1782957128435.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/概念--f'.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
@@ -362,15 +367,12 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/题--能练习多个方法.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md",
     "_attachments/image/大观-1782955508101.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/01笔记.md",
     "1.工作流/10.日记文件/2026-07-01 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
     "_attachments/image/大观-1782914032817.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
     "_attachments/image/大观-1782913021062.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/视频笔记.md",
@@ -379,11 +381,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
     "_attachments/image/大观-1782878875012.jpeg",
     "_attachments/image/大观-1782878862100.jpeg",
     "_attachments/image/大观-1782878314874.jpeg",
-    "_attachments/image/大观-1782876007899.jpeg",
     "1.工作流/10.日记文件/26年下半年/6月·",
     "1.工作流/10.日记文件/26年下半年",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw",
