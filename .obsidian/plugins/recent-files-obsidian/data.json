@@ -5,8 +5,28 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md"
     },
     {
+      "basename": "主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md"
+    },
+    {
+      "basename": "行缓冲器",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/行缓冲器.md"
+    },
+    {
+      "basename": "透明",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/透明.md"
+    },
+    {
       "basename": "01存储系统概述",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md"
+    },
+    {
+      "basename": "辨析--xx周期",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
+    },
+    {
+      "basename": "模糊卡片",
+      "path": "2.知识库/20.North_star_ZJU/模糊卡片.md"
     },
     {
       "basename": "问题记录",
@@ -23,10 +43,6 @@
     {
       "basename": "cache",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md"
-    },
-    {
-      "basename": "主存",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md"
     },
     {
       "basename": "2026-07-02 周四",
@@ -183,22 +199,6 @@
     {
       "basename": "题--能练习多个方法",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/题--能练习多个方法.md"
-    },
-    {
-      "basename": "2026-07-01 周三",
-      "path": "1.工作流/10.日记文件/2026-07-01 周三.md"
-    },
-    {
-      "basename": "2005单词，句子总结",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005单词，句子总结.md"
-    },
-    {
-      "basename": "习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/习题与1000题.md"
-    },
-    {
-      "basename": "王道题-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题-知识点整理.md"
     }
   ],
   "omittedPaths": [
