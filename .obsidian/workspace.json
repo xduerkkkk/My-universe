@@ -24,86 +24,6 @@
             }
           },
           {
-            "id": "a7478fd6e60ec8e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04大观习题"
-            }
-          },
-          {
-            "id": "b95ad852fecaff47",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "f505ba623c23bfa4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
-            "id": "e2bc4dbb94ad41d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "记忆--初始化"
-            }
-          },
-          {
-            "id": "69004952a7b69759",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/01笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01笔记"
-            }
-          },
-          {
             "id": "6fc172ccbe635d2c",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +40,37 @@
             }
           },
           {
-            "id": "bc8d44501c02d72c",
+            "id": "52e7e444a0e74019",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "e47eb0ce320da7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-记录补足点"
+              "title": "02王道题"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-记录补足点 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -332,35 +268,35 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bc8d44501c02d72c",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/问题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/主存.md",
+    "1.工作流/10.日记文件/2026-07-02 周四.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/00-整个考研.md",
-    "1.工作流/10.日记文件/2026-07-02 周四.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/卡片/记忆--初始化.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "1.工作流/10.日记文件/2026-07-03 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "0.核心/00.规划(Plan)/2.当前项目/答疑.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "_attachments/image/大观-1783003485781.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/09-严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/10-880综合拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/大观-1782962488025.jpeg",
     "_attachments/image/大观-1782960404102.jpeg",
     "_attachments/image/大观-1782958945842.jpeg",
@@ -384,7 +320,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md.tmp.32996.e0ccbeae48da",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
