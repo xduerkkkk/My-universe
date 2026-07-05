@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md"
+    },
+    {
+      "basename": "辨析--同时启动和轮流启动",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/辨析--同时启动和轮流启动.md"
+    },
+    {
+      "basename": "大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md"
+    },
+    {
+      "basename": "02王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md"
     },
     {
       "basename": "08-880强化",
@@ -11,10 +27,6 @@
     {
       "basename": "2026-07-03 周五",
       "path": "1.工作流/10.日记文件/2026-07-03 周五.md"
-    },
-    {
-      "basename": "02王道题-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md"
     },
     {
       "basename": "期末应试",
@@ -27,10 +39,6 @@
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md"
-    },
-    {
-      "basename": "大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md"
     },
     {
       "basename": "书籍与例题",
@@ -191,14 +199,6 @@
     {
       "basename": "透明",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/透明.md"
-    },
-    {
-      "basename": "01存储系统概述",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md"
-    },
-    {
-      "basename": "辨析--xx周期",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/卡片/辨析--xx周期.md"
     }
   ],
   "omittedPaths": [
