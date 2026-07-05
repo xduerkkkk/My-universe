@@ -88,35 +88,21 @@
             }
           },
           {
-            "id": "cf87f1bef33e293f",
+            "id": "c78ab9b65222f38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/辨析--同时启动和轮流启动.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辨析--同时启动和轮流启动"
-            }
-          },
-          {
-            "id": "a2186b2e6b6de237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03大题"
+              "title": "感悟--程序的链接？进程的链接？"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,12 +164,26 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "3b54e81a71923da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-记录补足点"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.50384521484375
+    "width": 312.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/感悟--程序的链接？进程的链接？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03大题 的大纲"
+              "title": "感悟--程序的链接？进程的链接？ 的大纲"
             }
           },
           {
@@ -314,17 +314,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a2186b2e6b6de237",
+  "active": "c78ab9b65222f38b",
   "lastOpenFiles": [
-    "_attachments/image/03大题-1783243316941.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/辨析--同时启动和轮流启动.md",
-    "_attachments/image/辨析--同时启动和轮流启动-1783242151153.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+    "_attachments/image/03大题-1783252507517.jpeg",
+    "_attachments/image/03大题-1783252498407.jpeg",
+    "_attachments/image/03大题-1783252275321.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "1.工作流/10.日记文件/2026-07-05 周日.md",
     "1.工作流/10.日记文件/2026-07-03 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/辨析--同时启动和轮流启动.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "_attachments/image/03大题-1783243316941.jpeg",
+    "_attachments/image/辨析--同时启动和轮流启动-1783242151153.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
@@ -339,24 +347,16 @@
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "4.不常用/43.模板文件/日记模板.md",
     "4.不常用/43.模板文件/联系人模板.md",
-    "1.工作流/10.日记文件/2026-07-05 周日.md",
     "1.工作流/10.日记文件/强化阶段(6.14--7.3）.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
     "1.工作流/10.日记文件/26年下半年/6月·/2026-06-14 周日.md",
     "1.工作流/10.日记文件/强化阶段（8-16）.md.tmp.48976.15f9a416d880",
     "1.工作流/10.日记文件/26年下半年/6月·/2026-06-13 周六.md",
-    "1.工作流/10.日记文件/26年下半年/6月·/2026-06-12 周五.md",
-    "1.工作流/10.日记文件/26年下半年/6月·/2026-06-10 周三.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "_attachments/image/大观-1783003485781.jpeg",
     "_attachments/image/大观-1782962488025.jpeg",
-    "_attachments/image/大观-1782960404102.jpeg",
-    "_attachments/image/大观-1782958945842.jpeg",
-    "_attachments/image/大观-1782957128435.jpeg",
-    "_attachments/image/大观-1782955508101.jpeg",
     "1.工作流/10.日记文件/26年下半年/6月·",
     "1.工作流/10.日记文件/26年下半年",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw",
