@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783172930640-tjjzzob7d",
+  "providerId": "claude",
+  "title": "Consolidate daily journals into weekly reports",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783172930640,
+  "updatedAt": 1783173154698,
+  "lastResponseAt": 1783173154698,
+  "sessionId": "4f95cbef-fa00-44dc-953d-9e7e71458d66",
+  "providerState": {
+    "providerSessionId": "4f95cbef-fa00-44dc-953d-9e7e71458d66"
+  },
+  "currentNote": "1.工作流/10.日记文件/26年下半年/6月·/2026-06-14 周日.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 64,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52096,
+    "contextWindow": 1000000,
+    "contextTokens": 52160,
+    "percentage": 5
+  }
+}
