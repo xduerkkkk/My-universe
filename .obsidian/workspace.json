@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "书籍与例题 的大纲"
+              "title": "大观 的大纲"
             }
           },
           {
@@ -300,8 +300,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c0872289420c8dbf",
+  "active": "6f8b9670547fab2b",
   "lastOpenFiles": [
+    "_attachments/image/大观-1783222163163.jpeg",
+    "_attachments/image/大观-1783222151178.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "_attachments/image/大观-1783215710151.jpeg",
     "1.工作流/10.日记文件/2026-07-03 周五.md",
@@ -328,7 +331,6 @@
     "1.工作流/10.日记文件/周报第__周.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
     "1.工作流/10.日记文件/2026-07-02 周四.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片",
@@ -341,7 +343,6 @@
     "_attachments/image/大观-1782955508101.jpeg",
     "_attachments/image/大观-1782914032817.jpeg",
     "_attachments/image/大观-1782913021062.jpeg",
-    "_attachments/image/大观-1782878875012.jpeg",
     "1.工作流/10.日记文件/26年下半年/6月·",
     "1.工作流/10.日记文件/26年下半年",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw",
