@@ -100,9 +100,22 @@
               "icon": "lucide-file",
               "title": "880"
             }
+          },
+          {
+            "id": "5e69d644adf119bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外存"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +181,26 @@
               "icon": "lucide-file",
               "title": "01-记录补足点"
             }
+          },
+          {
+            "id": "b0539ce4d6ca75f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/2.当前项目/000.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.50384521484375
+    "width": 264.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -189,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大观 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -304,8 +331,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6f8b9670547fab2b",
+  "active": "52e7e444a0e74019",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/外存.md",
+    "_attachments/image/外存-1783325087555.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "1.工作流/10.日记文件/2026-07-06 周一.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "_attachments/image/大观-1783310133693.jpeg",
     "_attachments/image/大观-1783309624808.jpeg",
     "_attachments/image/大观-1783309149367.jpeg",
@@ -315,19 +353,12 @@
     "_attachments/image/大观-1783307102770.jpeg",
     "_attachments/image/大观-1783306619741.jpeg",
     "_attachments/image/大观-1783306507027.jpeg",
-    "_attachments/image/大观-1783304076401.jpeg",
-    "_attachments/image/大观-1783304065472.jpeg",
     "1.工作流/10.日记文件/2026-07-03 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
-    "1.工作流/10.日记文件/2026-07-06 周一.md",
     "1.工作流/10.日记文件/2026-07-05 周日.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "4.不常用/43.模板文件/日记模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
@@ -338,10 +369,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片/辨析--同时启动和轮流启动.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/期末应试.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/书籍与例题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004单词，句子总结.md",
     "1.工作流/10.日记文件/强化阶段（8-16）.md.tmp.48976.15f9a416d880",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
