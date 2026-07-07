@@ -88,49 +88,37 @@
             }
           },
           {
-            "id": "34ed76a9e76f5ebc",
+            "id": "a707510636b30653",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
+                "file": "1.工作流/10.日记文件/2026-07-07 周二.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "880"
+              "title": "2026-07-07 周二"
             }
           },
           {
-            "id": "d6c7145792c2cd6e",
+            "id": "dda4ab5e5cd7e028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "好例子"
-            }
-          },
-          {
-            "id": "d0e945627d0f7a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02-english"
+              "title": "01积分概+计"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-english 的大纲"
+              "title": "大观 的大纲"
             }
           },
           {
@@ -346,16 +334,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d0e945627d0f7a1e",
+  "active": "6f8b9670547fab2b",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "_attachments/image/大观-1783390692399.jpeg",
+    "_attachments/image/大观-1783390674444.jpeg",
+    "1.工作流/10.日记文件/2026-07-07 周二.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+    "_attachments/image/大观-1783388003012.jpeg",
+    "_attachments/image/大观-1783387877908.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "1.工作流/10.日记文件/2026-07-06 周一.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
     "_attachments/image/2026-07-06 周一-1783348399034.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--访存次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
@@ -375,15 +372,7 @@
     "_attachments/image/大观-1783309624808.jpeg",
     "_attachments/image/大观-1783309149367.jpeg",
     "_attachments/image/大观-1783309081245.jpeg",
-    "_attachments/image/大观-1783308571685.jpeg",
-    "_attachments/image/大观-1783307611932.jpeg",
-    "_attachments/image/大观-1783307102770.jpeg",
     "1.工作流/10.日记文件/2026-07-03 周五.md",
-    "1.工作流/10.日记文件/2026-07-05 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "4.不常用/43.模板文件/日记模板.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2005.md",
     "1.工作流/10.日记文件/强化阶段（8-16）.md.tmp.48976.15f9a416d880",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
