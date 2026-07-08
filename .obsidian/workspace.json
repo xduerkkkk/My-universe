@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "8de590c10b29c4be",
+            "id": "babc70e19e9b0fab",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "08-880强化"
+              "title": "大观"
             }
           },
           {
@@ -104,35 +104,21 @@
             }
           },
           {
-            "id": "58a8e7959f9da735",
+            "id": "a42636c0c982efcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "880"
-            }
-          },
-          {
-            "id": "9bc16bee7e1f1c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大观"
+              "title": "2006单词、句子"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50384521484375
+    "width": 213.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -233,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+                "file": "1.工作流/10.日记文件/2026-07-07 周二.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2006 的大纲"
+              "title": "2026-07-07 周二 的大纲"
             }
           },
           {
@@ -348,18 +334,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9cb3fb4f3a62dcdc",
+  "active": "a707510636b30653",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-07-06 周一.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
     "1.工作流/10.日记文件/2026-07-07 周二.md",
-    "1.工作流/10.日记文件/2026-07-06 周一.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
     "_attachments/image/02王道题-1783417762836.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
@@ -368,7 +356,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
     "_attachments/image/02王道题-1783407054333.jpeg",
     "_attachments/image/02王道题-1783407019320.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "_attachments/image/大观-1783396669409.jpeg",
     "_attachments/image/大观-1783395624534.jpeg",
     "_attachments/image/大观-1783395605770.jpeg",
