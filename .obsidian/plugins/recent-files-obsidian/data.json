@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "02大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md"
-    },
-    {
       "basename": "01王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
     },
     {
       "basename": "思维导图-指令",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
+    },
+    {
+      "basename": "难点_标志位判断逻辑",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md"
+    },
+    {
+      "basename": "判断--是否是xx",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md"
+    },
+    {
+      "basename": "02大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md"
     },
     {
       "basename": "00视频勘察",
@@ -191,14 +199,6 @@
     {
       "basename": "02-english",
       "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "好例子",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md"
-    },
-    {
-      "basename": "辨析--程序的链接？进程的链接？",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md"
     }
   ],
   "omittedPaths": [
