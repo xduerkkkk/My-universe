@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52e7e444a0e74019",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
             "id": "babc70e19e9b0fab",
             "type": "leaf",
             "pinned": true,
@@ -88,35 +72,65 @@
             }
           },
           {
-            "id": "dd62be8e5f538154",
+            "id": "3f2f2de22bc39c91",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/880.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "880"
+              "title": "01王道题"
             }
           },
           {
-            "id": "a0c0a8e92a0b2baf",
+            "id": "46ca3d4d01fd79dd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "思维导图-指令"
+            }
+          },
+          {
+            "id": "97087d09b1980538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01笔记"
+              "title": "00视频勘察"
+            }
+          },
+          {
+            "id": "cbfbbded3e63777f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02大题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01笔记 的大纲"
+              "title": "02大题 的大纲"
             }
           },
           {
@@ -332,8 +346,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a0c0a8e92a0b2baf",
+  "active": "cbfbbded3e63777f",
   "lastOpenFiles": [
+    "_attachments/image/02大题-1783584198085.jpeg",
+    "_attachments/image/02大题-1783583797902.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_四大字长与指令关系.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "1.工作流/10.日记文件/2026-07-08 周三.md",
+    "1.工作流/10.日记文件/2026-07-09 周四.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
     "_attachments/image/01笔记-1783569347414.jpeg",
     "_attachments/image/01笔记-1783569338872.jpeg",
     "_attachments/image/01笔记-1783569324866.jpeg",
@@ -342,7 +371,6 @@
     "_attachments/image/01笔记-1783568633009.jpeg",
     "_attachments/image/01笔记-1783568028192.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片/关于×积的疑惑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何",
@@ -356,22 +384,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "_attachments/image/大观-1783564518762.jpeg",
-    "_attachments/image/大观-1783563987935.jpeg",
-    "_attachments/image/大观-1783563980450.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "1.工作流/10.日记文件/2026-07-09 周四.md",
-    "1.工作流/10.日记文件/2026-07-07 周二.md",
-    "1.工作流/10.日记文件/2026-07-06 周一.md",
-    "1.工作流/10.日记文件/2026-07-08 周三.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
-    "0.核心/00.规划(Plan)/2.当前项目/答疑.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/04 虚拟存储.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "1.工作流/10.日记文件/强化阶段（8-16）.md.tmp.48976.15f9a416d880",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
