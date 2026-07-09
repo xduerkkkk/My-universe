@@ -104,35 +104,21 @@
             }
           },
           {
-            "id": "745a349ef5529dac",
+            "id": "cafdd074a49e8f4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+                "file": "1.工作流/10.日记文件/2026-07-08 周三.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03大题"
-            }
-          },
-          {
-            "id": "30a3810f4e255e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02王道题"
+              "title": "2026-07-08 周三"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50384521484375
+    "width": 245.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -233,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+                "file": "1.工作流/10.日记文件/2026-07-08 周三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "2026-07-08 周三 的大纲"
             }
           },
           {
@@ -348,13 +334,22 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "cafdd074a49e8f4b",
   "lastOpenFiles": [
     "1.工作流/10.日记文件/2026-07-07 周二.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "1.工作流/10.日记文件/2026-07-08 周三.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+    "1.工作流/10.日记文件/2026-07-06 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/答疑.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/04 虚拟存储.md",
     "_attachments/image/01-记录补足点-1783496585160.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/io/王道题-知识点整理.md",
@@ -363,12 +358,8 @@
     "_attachments/image/02王道题-1783494244507.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
     "_attachments/image/02王道题-1783492563649.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "_attachments/image/大观-1783480339188.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
-    "1.工作流/10.日记文件/2026-07-06 周一.md",
     "_attachments/image/大观-1783473533818.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
@@ -380,13 +371,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/cache.md",
     "_attachments/image/02王道题-1783407054333.jpeg",
     "_attachments/image/02王道题-1783407019320.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "1.工作流/10.日记文件/强化阶段（8-16）.md.tmp.48976.15f9a416d880",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/未命名",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
