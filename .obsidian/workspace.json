@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "cafdd074a49e8f4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-07-09 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-07-09 周四"
-            }
-          },
-          {
             "id": "3f2f2de22bc39c91",
             "type": "leaf",
             "pinned": true,
@@ -120,21 +104,39 @@
             }
           },
           {
-            "id": "2937a096ae4696f3",
+            "id": "e3d5ad4d4682fe0a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
+                "file": "1.工作流/10.日记文件/2026-07-10 周五.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02大题"
+              "title": "2026-07-10 周五"
+            }
+          },
+          {
+            "id": "2e3dd0a855adcccc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "大观"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "拉格朗日",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -219,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.50384521484375
+    "width": 311.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -235,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "大观 的大纲"
             }
           },
           {
@@ -326,7 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,44 +352,43 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3f2f2de22bc39c91",
+  "active": "2e3dd0a855adcccc",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "_attachments/image/10 反常积分大观-1783687664423.jpeg",
+    "_attachments/image/10 反常积分大观-1783687655574.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/啊对.md",
+    "_attachments/image/10 反常积分大观-1783687645630.jpeg",
+    "_attachments/image/啊对-1783687632145.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--减少抖动==提高CPU利用率.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md",
+    "1.工作流/10.日记文件/2026-07-10 周五.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "_attachments/Pasted image 20260710155216.png",
     "_attachments/image/02大题-1783669132261.jpeg",
     "_attachments/image/02大题-1783667924613.jpeg",
     "_attachments/image/02大题-1783667412838.jpeg",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "0.核心/00.规划(Plan)/2.当前项目/000.md",
-    "1.工作流/10.日记文件/2026-07-09 周四.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
     "_attachments/image/02习题-1783654468006.jpeg",
     "_attachments/image/02习题-1783651260682.jpeg",
-    "_attachments/image/02习题-1783651250106.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-    "_attachments/image/02习题-1783649962343.jpeg",
-    "_attachments/image/02习题-1783649952906.jpeg",
-    "_attachments/image/02习题-1783649600464.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "1.工作流/10.日记文件/2026-07-10 周五.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片/关于×积的疑惑.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
