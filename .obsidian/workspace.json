@@ -118,6 +118,20 @@
               "icon": "lucide-file",
               "title": "02习题"
             }
+          },
+          {
+            "id": "865f4a56506c25db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 反常积分大观"
+            }
           }
         ],
         "currentTab": 6
@@ -201,11 +215,12 @@
               "title": "000"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 259.50384521484375
+    "width": 419.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -221,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/000.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题 的大纲"
+              "title": "000 的大纲"
             }
           },
           {
@@ -336,39 +351,38 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "cd32c2b75a90190c",
+  "active": "b0539ce4d6ca75f8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+    "_attachments/image/02习题-1783654468006.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "_attachments/image/02习题-1783651260682.jpeg",
     "_attachments/image/02习题-1783651250106.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
     "_attachments/image/02习题-1783649962343.jpeg",
     "_attachments/image/02习题-1783649952906.jpeg",
     "_attachments/image/02习题-1783649600464.jpeg",
     "_attachments/image/02习题-1783649188950.jpeg",
     "_attachments/image/02习题-1783649179416.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
     "1.工作流/10.日记文件/2026-07-10 周五.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "1.工作流/10.日记文件/2026-07-09 周四.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
     "_attachments/image/01笔记-1783602690187.jpeg",
     "_attachments/image/01笔记-1783602666471.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "_attachments/image/01笔记-1783601477356.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片/关于×积的疑惑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/难点_标志位判断逻辑.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
-    "_attachments/image/02大题-1783584198085.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_大端小端.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/辨析_四大字长与指令关系.md",
