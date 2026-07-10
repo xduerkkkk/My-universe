@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
+    },
+    {
       "basename": "02大题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md"
     },
     {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+    },
+    {
+      "basename": "ch2、ch3、ch4",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch2、ch3、ch4.md"
+    },
+    {
+      "basename": "ch9 ch10",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch9 ch10.md"
+    },
+    {
+      "basename": "ch7 ch8",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch7 ch8.md"
+    },
+    {
+      "basename": "ch5 ch6",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/ch5 ch6.md"
+    },
+    {
+      "basename": "作业（ch7-ch10）",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/作业（ch7-ch10）.md"
+    },
+    {
+      "basename": "第一套卷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/微机原理/第一套卷.md"
     },
     {
       "basename": "01-记录补足点",
@@ -35,10 +63,6 @@
     {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
     },
     {
       "basename": "大观",
@@ -175,30 +199,6 @@
     {
       "basename": "07 严选题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md"
-    },
-    {
-      "basename": "08-880强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md"
-    },
-    {
-      "basename": "06 辅导讲义例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md"
-    },
-    {
-      "basename": "05 880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md"
-    },
-    {
-      "basename": "01积分概+计",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md"
-    },
-    {
-      "basename": "思维导图-存储",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas"
     }
   ],
   "omittedPaths": [
