@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "babc70e19e9b0fab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
-            "id": "6f8b9670547fab2b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
             "id": "9cb3fb4f3a62dcdc",
             "type": "leaf",
             "pinned": true,
@@ -88,22 +56,6 @@
             }
           },
           {
-            "id": "cd32c2b75a90190c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02习题"
-            }
-          },
-          {
             "id": "e3d5ad4d4682fe0a",
             "type": "leaf",
             "pinned": true,
@@ -134,9 +86,25 @@
               "icon": "lucide-file",
               "title": "大观"
             }
+          },
+          {
+            "id": "936dac9db2577a4d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2007"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拉格朗日",
+                "query": "psych",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.50384521484375
+    "width": 225.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -237,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大观 的大纲"
+              "title": "2007 的大纲"
             }
           },
           {
@@ -352,8 +320,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2e3dd0a855adcccc",
+  "active": "936dac9db2577a4d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引 (conflict 2026-06-18-15-22-53).md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+    "1.工作流/10.日记文件/2026-07-10 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "_attachments/image/10 反常积分大观-1783687664423.jpeg",
     "_attachments/image/10 反常积分大观-1783687655574.jpeg",
@@ -361,7 +344,6 @@
     "_attachments/image/10 反常积分大观-1783687645630.jpeg",
     "_attachments/image/啊对-1783687632145.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
@@ -370,19 +352,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--减少抖动==提高CPU利用率.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md",
-    "1.工作流/10.日记文件/2026-07-10 周五.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "_attachments/Pasted image 20260710155216.png",
     "_attachments/image/02大题-1783669132261.jpeg",
     "_attachments/image/02大题-1783667924613.jpeg",
