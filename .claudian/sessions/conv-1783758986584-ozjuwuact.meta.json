@@ -1,0 +1,25 @@
+{
+  "id": "conv-1783758986584-ozjuwuact",
+  "providerId": "codex",
+  "title": "总结学习卡点与下周规划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783758986584,
+  "updatedAt": 1783759294894,
+  "lastResponseAt": 1783759294894,
+  "sessionId": "019f5052-1ddf-7f63-b14d-f63f2461d036",
+  "providerState": {
+    "threadId": "019f5052-1ddf-7f63-b14d-f63f2461d036",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\11\\rollout-2026-07-11T16-36-31-019f5052-1ddf-7f63-b14d-f63f2461d036.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 20722,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 20722,
+    "percentage": 8,
+    "model": "gpt-5.5"
+  }
+}

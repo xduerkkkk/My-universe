@@ -102,9 +102,23 @@
               "icon": "lucide-file",
               "title": "2007"
             }
+          },
+          {
+            "id": "cedfec6b0075edda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01王道题"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50384521484375
+    "width": 326.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -205,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2007 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -292,12 +306,11 @@
               "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,38 +334,40 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "cedfec6b0075edda",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2002.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2001.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/00-相近词辨析·总索引 (conflict 2026-06-18-15-22-53).md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/02-词根辨析·核心词根(下)-LAPTOP-CRUR6NAG.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006单词、句子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题-注释分类整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "1.工作流/10.日记文件/周报/强化阶段.md",
     "1.工作流/10.日记文件/2026-07-10 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "1.工作流/10.日记文件/2026-07-09 周四.md",
+    "1.工作流/10.日记文件/2026-07-05 周日.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2004-2005 精华总结.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "unicode_test_tmp.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2004-2005阅读总结.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+    "CLAUDIAN.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+    "_make_wangdao_review.py",
+    "_test_unicode.md",
+    "_test_script.py",
+    "_tmp_annotated_extract.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/01存储系统概述.md",
+    "Readme.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
     "_attachments/image/10 反常积分大观-1783687664423.jpeg",
     "_attachments/image/10 反常积分大观-1783687655574.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/啊对.md",
     "_attachments/image/10 反常积分大观-1783687645630.jpeg",
     "_attachments/image/啊对-1783687632145.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/现场.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--计算缺页次数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/难点--减少抖动==提高CPU利用率.md",
     "_attachments/Pasted image 20260710155216.png",
     "_attachments/image/02大题-1783669132261.jpeg",
     "_attachments/image/02大题-1783667924613.jpeg",
@@ -368,8 +383,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片",
     "1.工作流/10.日记文件/26年下半年/6月·",
     "1.工作流/10.日记文件/26年下半年",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/OS综述总览图.excalidraw.tmp.36380.b5915cfd8fc5",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",

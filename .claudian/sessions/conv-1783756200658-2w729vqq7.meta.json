@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783756200658-2w729vqq7",
+  "providerId": "codex",
+  "title": "精简冲刺复习笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783756200658,
+  "updatedAt": 1783756574246,
+  "lastResponseAt": 1783756574246,
+  "sessionId": "019f5027-9b62-7823-8fe5-155ae5b8441d",
+  "providerState": {
+    "threadId": "019f5027-9b62-7823-8fe5-155ae5b8441d",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\11\\rollout-2026-07-11T15-50-05-019f5027-9b62-7823-8fe5-155ae5b8441d.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题-注释分类整理.md",
+  "usage": {
+    "inputTokens": 26624,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25856,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26624,
+    "percentage": 10,
+    "model": "gpt-5.5"
+  }
+}

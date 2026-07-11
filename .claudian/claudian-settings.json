@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "opus[1m]",
   "thinkingBudget": "medium",
-  "effortLevel": "high",
+  "effortLevel": "xhigh",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -72,11 +72,11 @@
     "codex": "gpt-5.5"
   },
   "savedProviderEffort": {
-    "claude": "high",
-    "codex": "medium"
+    "claude": "xhigh",
+    "codex": "xhigh"
   },
   "savedProviderServiceTier": {
-    "codex": "default"
+    "codex": "fast"
   },
   "savedProviderThinkingBudget": {
     "claude": "medium",

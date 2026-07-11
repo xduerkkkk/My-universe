@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783755315570-u9yp1kgj0",
+  "providerId": "claude",
+  "title": "仿照此文件，去C:\\Users\\kkkkkk\\OneDrive\\OneSyncFiles\\unive...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783755315570,
+  "updatedAt": 1783756687357,
+  "lastResponseAt": 1783755476369,
+  "sessionId": "3e93af42-0a5e-4246-b5d6-b2acaac17294",
+  "providerState": {
+    "providerSessionId": "3e93af42-0a5e-4246-b5d6-b2acaac17294"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 106,
+    "cacheCreationInputTokens": 23219,
+    "cacheReadInputTokens": 55605,
+    "contextWindow": 1000000,
+    "contextTokens": 78930,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

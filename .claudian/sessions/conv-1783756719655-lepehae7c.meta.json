@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783756719655-lepehae7c",
+  "providerId": "codex",
+  "title": "Summarize 2004–2005 English reading files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783756719655,
+  "updatedAt": 1783758895122,
+  "lastResponseAt": 1783757306985,
+  "sessionId": "019f502f-86a9-7272-a044-2d36dd08cf8c",
+  "providerState": {
+    "threadId": "019f502f-86a9-7272-a044-2d36dd08cf8c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\11\\rollout-2026-07-11T15-58-44-019f502f-86a9-7272-a044-2d36dd08cf8c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
+  "usage": {
+    "inputTokens": 45158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 45158,
+    "percentage": 17,
+    "model": "gpt-5.5"
+  }
+}

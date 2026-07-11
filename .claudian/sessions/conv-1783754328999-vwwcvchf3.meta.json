@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783754328999-vwwcvchf3",
+  "providerId": "codex",
+  "title": "整理王道题注释与错题盲区",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783754328999,
+  "updatedAt": 1783756143159,
+  "lastResponseAt": 1783756123784,
+  "sessionId": "019f500b-0c53-7e23-bef7-afa1015448cf",
+  "providerState": {
+    "threadId": "019f500b-0c53-7e23-bef7-afa1015448cf",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\11\\rollout-2026-07-11T15-18-54-019f500b-0c53-7e23-bef7-afa1015448cf.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+  "usage": {
+    "inputTokens": 65726,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65280,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65726,
+    "percentage": 25,
+    "model": "gpt-5.5"
+  }
+}
