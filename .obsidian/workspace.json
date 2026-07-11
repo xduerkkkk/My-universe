@@ -292,11 +292,12 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
