@@ -4,8 +4,8 @@
   "title": "总结学习卡点与下周规划",
   "titleGenerationStatus": "success",
   "createdAt": 1783758986584,
-  "updatedAt": 1783759294894,
-  "lastResponseAt": 1783759294894,
+  "updatedAt": 1783777958468,
+  "lastResponseAt": 1783777958468,
   "sessionId": "019f5052-1ddf-7f63-b14d-f63f2461d036",
   "providerState": {
     "threadId": "019f5052-1ddf-7f63-b14d-f63f2461d036",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 20722,
+    "inputTokens": 27750,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20096,
+    "cacheReadInputTokens": 25216,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 20722,
-    "percentage": 8,
+    "contextTokens": 27750,
+    "percentage": 11,
     "model": "gpt-5.5"
   }
 }
