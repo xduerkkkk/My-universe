@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分/01笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02王道题-知识点整理"
+              "title": "01笔记"
             }
           }
         ],
@@ -199,7 +199,8 @@
               "title": "000"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
+                "file": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题-知识点整理 的大纲"
+              "title": "01-记录补足点 的大纲"
             }
           },
           {
@@ -306,12 +307,11 @@
               "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,10 +335,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f5ac666d65981e5e",
+  "active": "3b54e81a71923da9",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分/01笔记.md",
+    "_attachments/image/01笔记-1783817683556.jpeg",
+    "_attachments/image/01笔记-1783817649003.jpeg",
+    "_attachments/image/01笔记-1783817638355.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分",
+    "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/02-过渡与强化/强化冲刺时间表.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
@@ -364,17 +372,9 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2004-2005阅读总结.md",
-    "CLAUDIAN.md",
-    "CLAUDE.md",
-    "AGENTS.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
     "_make_wangdao_review.py",
-    "_test_unicode.md",
     "_test_script.py",
     "_attachments/image/10 反常积分大观-1783687664423.jpeg",
-    "_attachments/image/10 反常积分大观-1783687655574.jpeg",
-    "_attachments/image/10 反常积分大观-1783687645630.jpeg",
-    "_attachments/image/啊对-1783687632145.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
@@ -383,7 +383,6 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/卡片",
     "1.工作流/10.日记文件/26年下半年/6月·",
-    "1.工作流/10.日记文件/26年下半年",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
