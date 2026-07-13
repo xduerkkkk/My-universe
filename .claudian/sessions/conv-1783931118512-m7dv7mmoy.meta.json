@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783931118512-m7dv7mmoy",
+  "providerId": "codex",
+  "title": "整理王道错题复盘流程",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783931118512,
+  "updatedAt": 1783931656479,
+  "lastResponseAt": 1783931656479,
+  "sessionId": "019f5a94-a4ce-7c93-95df-4e09fae172d8",
+  "providerState": {
+    "threadId": "019f5a94-a4ce-7c93-95df-4e09fae172d8",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\13\\rollout-2026-07-13T16-25-23-019f5a94-a4ce-7c93-95df-4e09fae172d8.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+  "usage": {
+    "inputTokens": 36299,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36299,
+    "percentage": 14,
+    "model": "gpt-5.5"
+  }
+}

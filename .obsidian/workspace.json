@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f2f2de22bc39c91",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道题"
-            }
-          },
-          {
             "id": "46ca3d4d01fd79dd",
             "type": "leaf",
             "pinned": true,
@@ -86,8 +70,55 @@
               "icon": "lucide-file",
               "title": "2026-07-12 周日"
             }
+          },
+          {
+            "id": "9756182ae1e695df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "002王道题"
+            }
+          },
+          {
+            "id": "25c412d955a0e735",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "001视频"
+            }
+          },
+          {
+            "id": "811b71c283dcd54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道错题复盘索引.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "存储王道错题复盘索引"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "002王道题 的大纲"
             }
           },
           {
@@ -285,7 +316,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -313,45 +345,46 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3f2f2de22bc39c91",
+  "active": "9756182ae1e695df",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-07-12 周日.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道错题复盘索引.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题-注释分类整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道高危错题复盘卡.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "_attachments/image/001视频-1783931413001.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--管程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/记忆--各个分配方法的优点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
     "_attachments/image/02习题-1783914475546.jpeg",
     "_attachments/image/02习题-1783914465210.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/000.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "_attachments/image/01笔记-1783910203961.jpeg",
     "_attachments/image/02习题-1783909647743.jpeg",
     "_attachments/image/02习题-1783909644912.jpeg",
     "_attachments/image/02习题-1783909644773.jpeg",
     "_attachments/image/02习题-1783907886751.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
-    "1.工作流/10.日记文件/2026-07-13 周一.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
     "_attachments/image/2007单词、句子-1783866853102.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md",
-    "1.工作流/10.日记文件/2026-07-10 周五.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/英文全称.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--大题中的硬件.md",
     "_attachments/image/记忆--大题中的硬件-1783846226488.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/卡片/记忆--函数调用.md",
-    "_attachments/image/02习题-1783827350133.jpeg",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
-    "2.知识库/20.North_star_ZJU/203.政治/习概期末.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
     "_make_wangdao_review.py",
     "_test_script.py",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/卡片",
