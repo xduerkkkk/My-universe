@@ -116,9 +116,23 @@
               "icon": "lucide-file",
               "title": "存储王道错题复盘索引"
             }
+          },
+          {
+            "id": "8fd10707769b6b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-形近易混·字母级辨析"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psych",
+                "query": "paddle",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -199,7 +213,8 @@
               "title": "000"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002王道题 的大纲"
+              "title": "04-形近易混·字母级辨析 的大纲"
             }
           },
           {
@@ -345,8 +360,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9756182ae1e695df",
+  "active": "8fd10707769b6b50",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-未整理版/背单词相近词辨析7.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道错题复盘索引.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题-注释分类整理.md",
@@ -357,7 +374,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
@@ -373,7 +389,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--重定位、MMU等名词.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
     "_attachments/image/02习题-1783914475546.jpeg",
     "_attachments/image/02习题-1783914465210.jpeg",
     "_attachments/image/01笔记-1783910203961.jpeg",
