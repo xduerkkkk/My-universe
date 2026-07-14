@@ -104,19 +104,21 @@
             }
           },
           {
-            "id": "96c8fdc4de136510",
+            "id": "83d458d82e1a0455",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "总思维导图"
+              "icon": "lucide-file",
+              "title": "03大题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,11 +199,12 @@
               "title": "000"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 295.50384521484375
+    "width": 200
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -217,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总思维导图 的大纲"
+              "title": "002王道题 的大纲"
             }
           },
           {
@@ -318,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,22 +345,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "96c8fdc4de136510",
+  "active": "9756182ae1e695df",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/000.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+    "_attachments/image/03大题-1784019864896.jpeg",
+    "_attachments/image/03大题-1784019863380.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--大题中的硬件.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/辨析--不同通路下的ALU.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
     "1.工作流/10.日记文件/2026-07-13 周一.md",
     "1.工作流/10.日记文件/2026-07-14 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
-    "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "1.工作流/10.日记文件/2026-07-12 周日.md",
@@ -372,15 +379,10 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "_attachments/image/01笔记-1783993874010.jpeg",
     "_attachments/image/01笔记-1783989172118.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道知识点分类地图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道错题复盘索引.md",
     "_attachments/image/02习题-1783949426529.jpeg",
     "_attachments/image/01笔记-1783948116335.jpeg",
     "_attachments/image/02习题-1783946584917.jpeg",
     "_attachments/image/02习题-1783946530433.jpeg",
-    "_attachments/image/02习题-1783946524312.jpeg",
-    "_attachments/image/001视频-1783931413001.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
     "_make_wangdao_review.py",
