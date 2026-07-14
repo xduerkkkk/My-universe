@@ -104,17 +104,15 @@
             }
           },
           {
-            "id": "40fc01df7ec397bb",
+            "id": "96c8fdc4de136510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
-                "mode": "source",
-                "source": false
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
               },
-              "icon": "lucide-file",
-              "title": "04-形近易混·字母级辨析"
+              "icon": "excalidraw-icon",
+              "title": "总思维导图"
             }
           }
         ],
@@ -199,8 +197,7 @@
               "title": "000"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04-形近易混·字母级辨析 的大纲"
+              "title": "总思维导图 的大纲"
             }
           },
           {
@@ -345,18 +342,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "40fc01df7ec397bb",
+  "active": "96c8fdc4de136510",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--微程序流程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--大题中的硬件.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/辨析--不同通路下的ALU.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--CPU宏观结构.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
+    "1.工作流/10.日记文件/2026-07-13 周一.md",
+    "1.工作流/10.日记文件/2026-07-14 周二.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "1.工作流/10.日记文件/2026-07-13 周一.md",
     "1.工作流/10.日记文件/2026-07-12 周日.md",
-    "1.工作流/10.日记文件/2026-07-14 周二.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
@@ -373,16 +377,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/存储王道错题复盘索引.md",
     "_attachments/image/02习题-1783949426529.jpeg",
     "_attachments/image/01笔记-1783948116335.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
     "_attachments/image/02习题-1783946584917.jpeg",
     "_attachments/image/02习题-1783946530433.jpeg",
     "_attachments/image/02习题-1783946524312.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/理解--xx的内容.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/父子进程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "_attachments/image/001视频-1783931413001.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
