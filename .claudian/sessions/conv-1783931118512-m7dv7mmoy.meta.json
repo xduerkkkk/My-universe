@@ -4,8 +4,8 @@
   "title": "整理王道错题复盘流程",
   "titleGenerationStatus": "success",
   "createdAt": 1783931118512,
-  "updatedAt": 1783931656479,
-  "lastResponseAt": 1783931656479,
+  "updatedAt": 1783952152749,
+  "lastResponseAt": 1783952152749,
   "sessionId": "019f5a94-a4ce-7c93-95df-4e09fae172d8",
   "providerState": {
     "threadId": "019f5a94-a4ce-7c93-95df-4e09fae172d8",
@@ -14,13 +14,13 @@
   },
   "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/02王道题.md",
   "usage": {
-    "inputTokens": 36299,
+    "inputTokens": 51195,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35456,
+    "cacheReadInputTokens": 49792,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 36299,
-    "percentage": 14,
+    "contextTokens": 51195,
+    "percentage": 20,
     "model": "gpt-5.5"
   }
 }

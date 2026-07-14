@@ -1,0 +1,25 @@
+{
+  "id": "conv-1783951972584-s6gmh2vq2",
+  "providerId": "codex",
+  "title": "Analyze the value of pursuing a master's degree",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783951972585,
+  "updatedAt": 1783952373261,
+  "lastResponseAt": 1783952373261,
+  "sessionId": "019f5bd2-da3e-7ac1-970e-bde445f3e203",
+  "providerState": {
+    "threadId": "019f5bd2-da3e-7ac1-970e-bde445f3e203",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\13\\rollout-2026-07-13T22-12-57-019f5bd2-da3e-7ac1-970e-bde445f3e203.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 18429,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18048,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 18429,
+    "percentage": 7,
+    "model": "gpt-5.5"
+  }
+}
