@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784125141378-fuq9okvie",
+  "providerId": "codex",
+  "title": "Analyze English study workflow issues",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784125141378,
+  "updatedAt": 1784125369591,
+  "lastResponseAt": 1784125369591,
+  "sessionId": "019f6625-383d-71c3-89a7-b8967056826f",
+  "providerState": {
+    "threadId": "019f6625-383d-71c3-89a7-b8967056826f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\15\\rollout-2026-07-15T22-19-08-019f6625-383d-71c3-89a7-b8967056826f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+  "usage": {
+    "inputTokens": 37116,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33920,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 37116,
+    "percentage": 14,
+    "model": "gpt-5.5"
+  }
+}
