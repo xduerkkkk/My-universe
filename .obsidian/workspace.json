@@ -88,19 +88,21 @@
             }
           },
           {
-            "id": "d3c27c00ac8abb7d",
+            "id": "82c8df73f47fbd79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "总思维导图"
+              "icon": "lucide-file",
+              "title": "03-前缀辨析·方向决定词义"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002王道题 的大纲"
+              "title": "03-前缀辨析·方向决定词义 的大纲"
             }
           },
           {
@@ -326,20 +328,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9756182ae1e695df",
+  "active": "82c8df73f47fbd79",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+    "_attachments/image/03大题-1784108173810.jpeg",
+    "_attachments/image/03大题-1784108173685.jpeg",
+    "_attachments/image/03大题-1784107473584.jpeg",
+    "_attachments/image/03大题-1784107466071.jpeg",
+    "_attachments/image/03大题-1784107328309.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/微指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
     "0.核心/00.规划(Plan)/2.当前项目/000.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
     "_attachments/image/03大题-1784098561160.jpeg",
     "_attachments/image/03大题-1784098559828.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--数据通路中的信号.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--大题中的硬件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
     "1.工作流/10.日记文件/2026-07-15 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
@@ -348,11 +355,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "_attachments/image/02习题-1784081339925.jpeg",
     "_attachments/image/01笔记-1784081322026.jpeg",
-    "_attachments/image/01笔记-1784080009723.jpeg",
-    "_attachments/image/01笔记-1784080001858.jpeg",
-    "_attachments/image/01笔记-1784080001728.jpeg",
-    "_attachments/image/02习题-1784079936152.jpeg",
-    "_attachments/image/02习题-1784079936006.jpeg",
     "1.工作流/10.日记文件/2026-07-14 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的作文素材句.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
@@ -363,7 +365,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2002-2003 精华总结.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/02思维导图-进程_backup_20260525.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "03-前缀辨析·方向决定词义",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/03-前缀辨析·方向决定词义.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
+    },
+    {
       "basename": "002王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
+    },
+    {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md"
     },
     {
       "basename": "001视频",
@@ -25,20 +37,12 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/000.md"
     },
     {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md"
-    },
-    {
       "basename": "记忆--数据通路中的信号",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--数据通路中的信号.md"
     },
     {
       "basename": "记忆--大题中的硬件",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--大题中的硬件.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
     },
     {
       "basename": "2007",
@@ -195,10 +199,6 @@
     {
       "basename": "父子进程",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/卡片/父子进程.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/00视频勘察.md"
     }
   ],
   "omittedPaths": [
