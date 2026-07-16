@@ -4,8 +4,8 @@
   "title": "Analyze English study workflow issues",
   "titleGenerationStatus": "success",
   "createdAt": 1784125141378,
-  "updatedAt": 1784127053299,
-  "lastResponseAt": 1784127053299,
+  "updatedAt": 1784163910794,
+  "lastResponseAt": 1784163910794,
   "sessionId": "019f6625-383d-71c3-89a7-b8967056826f",
   "providerState": {
     "threadId": "019f6625-383d-71c3-89a7-b8967056826f",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 68436,
+    "inputTokens": 101406,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 67200,
+    "cacheReadInputTokens": 100480,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 68436,
-    "percentage": 26,
+    "contextTokens": 101406,
+    "percentage": 39,
     "model": "gpt-5.5"
   }
 }
