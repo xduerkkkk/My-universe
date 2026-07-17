@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002王道题 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -277,12 +277,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2004.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2004 的出链列表"
+              "title": "01王道题 的出链列表"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "002王道题 的反向链接列表"
+              "title": "01王道题 的反向链接列表"
             }
           },
           {
@@ -334,11 +334,12 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,21 +363,32 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9756182ae1e695df",
+  "active": "206190cc61962b6e",
   "lastOpenFiles": [
-    "_attachments/image/002王道题-1784276505055.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/03指令错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/04指令知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md",
+    "王道提示词.md",
+    "unicode_test_tmp.md",
+    "AGENTS.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/05知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/04错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch4总线定时与结构+io设备概述.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "1.工作流/10.日记文件/2026-07-17 周五.md",
+    "_attachments/image/002王道题-1784276505055.jpeg",
     "_attachments/image/03大题-1784273095936.jpeg",
     "_attachments/image/03大题-1784271178554.jpeg",
     "_attachments/image/03大题-1784271170261.jpeg",
-    "1.工作流/10.日记文件/2026-07-17 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/03做题框架-1784257769414.jpeg",
     "_attachments/image/03做题框架-1784257757046.jpeg",
@@ -387,20 +399,9 @@
     "1.工作流/10.日记文件/2026-07-16 周四.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/真题语境辨义卡片 2007-2009.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读中的相近词1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片 2000-2006.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读错因台账.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年",
     "_attachments/image/03大题-1784195476495.jpeg",
     "_attachments/image/002王道题-1784193085692.jpeg",
-    "_attachments/image/03做题框架-1784173309477.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784279907164-70d4u3xjq",
+  "providerId": "codex",
+  "title": "整理计组指令大题复盘笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784279907165,
+  "updatedAt": 1784280898366,
+  "lastResponseAt": 1784280898366,
+  "sessionId": "019f6f5e-bbfb-7671-98e9-f2f7e3377d60",
+  "providerState": {
+    "threadId": "019f6f5e-bbfb-7671-98e9-f2f7e3377d60",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\17\\rollout-2026-07-17T17-18-32-019f6f5e-bbfb-7671-98e9-f2f7e3377d60.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md",
+  "usage": {
+    "inputTokens": 85943,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85376,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 85943,
+    "percentage": 71,
+    "model": "gpt-5.6-sol"
+  }
+}

@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md"
+    },
+    {
+      "basename": "03指令错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/03指令错题复盘.md"
+    },
+    {
+      "basename": "04指令知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/04指令知识点整理.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/01王道题.md"
+    },
+    {
+      "basename": "指令问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/指令问题记录.md"
+    },
+    {
+      "basename": "王道提示词",
+      "path": "王道提示词.md"
+    },
+    {
+      "basename": "unicode_test_tmp",
+      "path": "unicode_test_tmp.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
+      "basename": "02大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/02大题.md"
+    },
+    {
+      "basename": "05知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/05知识点整理.md"
+    },
+    {
+      "basename": "04错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/04错题复盘.md"
+    },
+    {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md"
+    },
+    {
       "basename": "002王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md"
     },
     {
-      "basename": "001视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "01王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md"
+      "basename": "王道题-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/王道题-知识点整理.md"
     },
     {
       "basename": "ch4总线定时与结构+io设备概述",
@@ -25,16 +65,20 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md"
     },
     {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md"
+      "basename": "03做题框架",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md"
     },
     {
       "basename": "2026-07-17 周五",
       "path": "1.工作流/10.日记文件/2026-07-17 周五.md"
-    },
-    {
-      "basename": "03做题框架",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md"
     },
     {
       "basename": "03微几何",
@@ -155,50 +199,6 @@
     {
       "basename": "理解--控制冒险",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/理解--控制冒险.md"
-    },
-    {
-      "basename": "单词，句子记录2000-2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/单词，句子记录2000-2001.md"
-    },
-    {
-      "basename": "05-主题场景·考研高频语境词",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md"
-    },
-    {
-      "basename": "记忆--五段流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--五段流水线.md"
-    },
-    {
-      "basename": "记忆--数据通路中的信号",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/记忆--数据通路中的信号.md"
-    },
-    {
-      "basename": "单周期处理器与多周期处理器区别",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/单周期处理器与多周期处理器区别.md"
-    },
-    {
-      "basename": "辨析--不同通路下的ALU",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/辨析--不同通路下的ALU.md"
-    },
-    {
-      "basename": "2001",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2001.md"
-    },
-    {
-      "basename": "图--五段指令流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/00卡片/图--五段指令流水线.md"
-    },
-    {
-      "basename": "总思维导图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/总思维导图.md"
-    },
-    {
-      "basename": "2002单词，句子记录",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2002单词，句子记录.md"
     }
   ],
   "omittedPaths": [
