@@ -120,21 +120,23 @@
             }
           },
           {
-            "id": "bfa157a49503ba74",
+            "id": "206190cc61962b6e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "03微几何"
+              "title": "01王道题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03做题框架 的大纲"
+              "title": "002王道题 的大纲"
             }
           },
           {
@@ -299,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +311,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03做题框架 的反向链接列表"
+              "title": "002王道题 的反向链接列表"
             }
           },
           {
@@ -360,17 +362,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0259dce1c734a7e6",
+  "active": "9756182ae1e695df",
   "lastOpenFiles": [
+    "_attachments/image/002王道题-1784276505055.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch4总线定时与结构+io设备概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/ch3总线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/03大题.md",
+    "_attachments/image/03大题-1784273095936.jpeg",
+    "_attachments/image/03大题-1784271178554.jpeg",
+    "_attachments/image/03大题-1784271170261.jpeg",
+    "1.工作流/10.日记文件/2026-07-17 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "_attachments/image/03做题框架-1784257769414.jpeg",
     "_attachments/image/03做题框架-1784257757046.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "_attachments/image/01-记录补足点-1784256215700.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "_attachments/image/03做题框架-1784255486067.jpeg",
-    "1.工作流/10.日记文件/2026-07-17 周五.md",
     "1.工作流/10.日记文件/2026-07-16 周四.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
@@ -381,24 +394,13 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/002王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/001视频.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/地道表达与核心概念枢纽.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007单词、句子.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年",
-    "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
     "_attachments/image/03大题-1784195476495.jpeg",
     "_attachments/image/002王道题-1784193085692.jpeg",
     "_attachments/image/03做题框架-1784173309477.jpeg",
-    "_attachments/image/03做题框架-1784173302851.jpeg",
-    "_attachments/image/03大题-1784108173810.jpeg",
-    "_attachments/image/03大题-1784108173685.jpeg",
-    "_attachments/image/03大题-1784107473584.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
