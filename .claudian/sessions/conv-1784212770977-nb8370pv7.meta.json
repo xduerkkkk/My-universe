@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784212770977-nb8370pv7",
+  "providerId": "codex",
+  "title": "Summarize compliance vocabulary passage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784212770978,
+  "updatedAt": 1784212865444,
+  "lastResponseAt": 1784212817152,
+  "sessionId": "019f6b5e-51de-73c0-b33f-717ffc4fbeb1",
+  "providerState": {
+    "threadId": "019f6b5e-51de-73c0-b33f-717ffc4fbeb1",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\16\\rollout-2026-07-16T22-39-36-019f6b5e-51de-73c0-b33f-717ffc4fbeb1.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+  "usage": {
+    "inputTokens": 11597,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 2688,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 11597,
+    "percentage": 4,
+    "model": "gpt-5.5"
+  }
+}
