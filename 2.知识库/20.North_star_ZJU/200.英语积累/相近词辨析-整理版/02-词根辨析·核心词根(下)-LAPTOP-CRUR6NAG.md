@@ -194,24 +194,24 @@
 
 ### cred —「信任」
 
-| 词 | 核心义 | 辨析 |
-|---|---|---|
-| **credential** | (n.) 资质；资格证书 | 证明你"值得被信任"的实体材料。常用复数 `credentials` |
-| **credence** | (n.) 信任；相信 | 抽象的心理状态。`give credence to a rumor` |
-| **credible** | (adj.) 可靠的；可信的 | — |
-| **credulous** | (adj.) 轻信的；耳根子软的 | ⚠️ 注意区别于 credible！ |
+| 词              | 核心义              | 辨析                                 |
+| -------------- | ---------------- | ---------------------------------- |
+| **credential** | (n.) 资质；资格证书     | 证明你"值得被信任"的实体材料。常用复数 `credentials` |
+| **credence**   | (n.) 信任；相信       | 抽象的心理状态。`give credence to a rumor` |
+| **credible**   | (adj.) 可靠的；可信的   | —                                  |
+| **credulous**  | (adj.) 轻信的；耳根子软的 | ⚠️ 注意区别于 credible！                 |
 
 ### jur / jus —「法」「正义」
 
-| 词 | 核心义 | 搭配 |
-|---|---|---|
-| **jurisdiction** | (n.) 司法权；管辖权 | juris(法) + dict(说) + ion → "法律说了算的地方" |
-| **jury** | (n.) 陪审团 | `the jury finds sb. guilty` |
-| **judicial** | (adj.) 法庭的；司法的；公正的 | — |
-| **justice** | (n.) 正义；司法；法官 | `bring sb. to justice` |
-| **justify** | (v.) 证明…是正当的；辩护 | 🔥 写作高频。`justify the cost` |
-| **justification** | (n.) 正当理由 | — |
-| **testify** | (v.) 作证；证明 | ⚠️ 不是 jur 家族，但常混淆。`testify in court` |
+| 词                 | 核心义                | 搭配                                    |
+| ----------------- | ------------------ | ------------------------------------- |
+| **jurisdiction**  | (n.) 司法权；管辖权       | juris(法) + dict(说) + ion → "法律说了算的地方" |
+| **jury**          | (n.) 陪审团           | `the jury finds sb. guilty`           |
+| **judicial**      | (adj.) 法庭的；司法的；公正的 | —                                     |
+| **justice**       | (n.) 正义；司法；法官      | `bring sb. to justice`                |
+| **justify**       | (v.) 证明…是正当的；辩护    | 🔥 写作高频。`justify the cost`            |
+| **justification** | (n.) 正当理由          | —                                     |
+| **testify**       | (v.) 作证；证明         | ⚠️ 不是 jur 家族，但常混淆。`testify in court`  |
 
 ### fract / frag —「破碎」
 
