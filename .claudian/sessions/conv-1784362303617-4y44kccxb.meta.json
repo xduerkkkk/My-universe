@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784362303617-4y44kccxb",
+  "providerId": "codex",
+  "title": "梳理考研英语笔记并优化学习体系",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784362303617,
+  "updatedAt": 1784364408448,
+  "lastResponseAt": 1784364408448,
+  "sessionId": "019f7448-0112-7c00-9b08-e2c87590e970",
+  "providerState": {
+    "threadId": "019f7448-0112-7c00-9b08-e2c87590e970",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\18\\rollout-2026-07-18T16-11-48-019f7448-0112-7c00-9b08-e2c87590e970.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0,
+    "model": "gpt-5.6-sol"
+  }
+}

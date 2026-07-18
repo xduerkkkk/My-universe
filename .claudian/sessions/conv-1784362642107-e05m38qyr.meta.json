@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784362642107-e05m38qyr",
+  "providerId": "codex",
+  "title": "评估浙大软件学院考研择校分析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784362642107,
+  "updatedAt": 1784363858833,
+  "lastResponseAt": 1784363794829,
+  "sessionId": "019f744d-2b46-7da3-a53f-1e3d23a41927",
+  "providerState": {
+    "threadId": "019f744d-2b46-7da3-a53f-1e3d23a41927",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\18\\rollout-2026-07-18T16-17-27-019f744d-2b46-7da3-a53f-1e3d23a41927.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 126340,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24192,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 126340,
+    "percentage": 100,
+    "model": "gpt-5.6-sol"
+  }
+}
