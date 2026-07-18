@@ -199,7 +199,8 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2008 的大纲"
+              "title": "00-规划一览 的大纲"
             }
           },
           {
@@ -345,8 +346,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "75a1dc0125f4a014",
+  "active": "b0539ce4d6ca75f8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/真题语境辨义卡片 2007-2009.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2004-2005 精华总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04阅读中的作文素材句.md",
@@ -355,7 +357,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读错因台账.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
