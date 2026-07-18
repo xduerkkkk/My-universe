@@ -4,8 +4,8 @@
   "title": "梳理考研英语笔记并优化学习体系",
   "titleGenerationStatus": "success",
   "createdAt": 1784362303617,
-  "updatedAt": 1784366969984,
-  "lastResponseAt": 1784366969984,
+  "updatedAt": 1784378998059,
+  "lastResponseAt": 1784378998059,
   "sessionId": "019f7448-0112-7c00-9b08-e2c87590e970",
   "providerState": {
     "threadId": "019f7448-0112-7c00-9b08-e2c87590e970",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 34133,
+    "inputTokens": 42941,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 26240,
+    "cacheReadInputTokens": 42624,
     "contextWindow": 121600,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 34133,
-    "percentage": 28,
+    "contextTokens": 42941,
+    "percentage": 35,
     "model": "gpt-5.6-sol"
   }
 }
