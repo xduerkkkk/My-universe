@@ -56,38 +56,6 @@
             }
           },
           {
-            "id": "a9be97cf935f5b61",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-07-17 周五.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-07-17 周五"
-            }
-          },
-          {
-            "id": "206190cc61962b6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01王道题"
-            }
-          },
-          {
             "id": "0259dce1c734a7e6",
             "type": "leaf",
             "pinned": true,
@@ -118,9 +86,39 @@
               "icon": "lucide-file",
               "title": "2026-07-19 周日"
             }
+          },
+          {
+            "id": "49d98053e3ca9f06",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "王道题"
+            }
+          },
+          {
+            "id": "a4b2f86fe4b455b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01王道笔记"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01王道题 的大纲"
+              "title": "王道题 的大纲"
             }
           },
           {
@@ -346,15 +344,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "206190cc61962b6e",
+  "active": "49d98053e3ca9f06",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-07-19 周日.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "1.工作流/10.日记文件/2026-07-17 周五.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+    "1.工作流/10.日记文件/2026-07-19 周日.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "_attachments/image/02习题-1784442794547.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "_attachments/image/02习题-1784429076682.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
@@ -372,10 +375,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用/阅读中的相近词1（参考）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用/搭配-句模库（已合并）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用/04阅读中的作文素材句（空）.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2007单词、句子.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2005单词，句子总结.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2006单词、句子.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2004单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用",
