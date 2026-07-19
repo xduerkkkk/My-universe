@@ -72,22 +72,6 @@
             }
           },
           {
-            "id": "0259dce1c734a7e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03做题框架"
-            }
-          },
-          {
             "id": "206190cc61962b6e",
             "type": "leaf",
             "pinned": true,
@@ -101,6 +85,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "01王道题"
+            }
+          },
+          {
+            "id": "0259dce1c734a7e6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03做题框架"
             }
           },
           {
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01笔记 的大纲"
+              "title": "03做题框架 的大纲"
             }
           },
           {
@@ -344,14 +344,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "067b21d4d55990ce",
+  "active": "0259dce1c734a7e6",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
