@@ -104,21 +104,23 @@
             }
           },
           {
-            "id": "067b21d4d55990ce",
+            "id": "e0808897c22a8bb3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+                "file": "1.工作流/10.日记文件/2026-07-19 周日.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02习题"
+              "title": "2026-07-19 周日"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题 的大纲"
+              "title": "01王道题 的大纲"
             }
           },
           {
@@ -344,14 +346,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "067b21d4d55990ce",
+  "active": "206190cc61962b6e",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-07-19 周日.md",
+    "1.工作流/10.日记文件/2026-07-17 周五.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
+    "未命名 1.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+    "_attachments/image/02习题-1784442794547.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "_attachments/image/02习题-1784429076682.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
@@ -370,8 +376,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2005单词，句子总结.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2006单词、句子.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2004单词，句子总结.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理/2003单词，句子记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结/单词，句子记录2000-2001.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用",
@@ -386,8 +390,6 @@
     "_attachments/image/01-记录补足点-1784256215700.jpeg",
     "_attachments/image/03做题框架-1784255486067.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年",
-    "_attachments/image/03大题-1784195476495.jpeg",
-    "_attachments/image/002王道题-1784193085692.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
@@ -400,7 +402,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas"
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas"
   ]
 }
