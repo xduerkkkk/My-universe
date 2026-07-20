@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
+    },
+    {
+      "basename": "04算法重刷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md"
     },
     {
       "basename": "01王道笔记",
@@ -11,10 +19,6 @@
     {
       "basename": "01大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md"
-    },
-    {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md"
     },
     {
       "basename": "2026-07-20 周一",
@@ -195,10 +199,6 @@
     {
       "basename": "输出枢纽",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md"
-    },
-    {
-      "basename": "语境库",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/语境库.md"
     }
   ],
   "omittedPaths": [
