@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784556665595-jw7yfp8dy",
+  "providerId": "codex",
+  "title": "Review TEXT3 English reading notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784556665595,
+  "updatedAt": 1784557164221,
+  "lastResponseAt": 1784557164221,
+  "sessionId": "019f7fdd-c211-77d0-bf49-e6c402b4ce49",
+  "providerState": {
+    "threadId": "019f7fdd-c211-77d0-bf49-e6c402b4ce49",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\20\\rollout-2026-07-20T22-11-12-019f7fdd-c211-77d0-bf49-e6c402b4ce49.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+  "usage": {
+    "inputTokens": 46916,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45696,
+    "contextWindow": 9500000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46916,
+    "percentage": 0,
+    "model": "gpt-5.6-sol"
+  }
+}
