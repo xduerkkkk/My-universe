@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "936dac9db2577a4d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2007"
-            }
-          },
-          {
             "id": "0259dce1c734a7e6",
             "type": "leaf",
             "pinned": true,
@@ -69,22 +53,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "03做题框架"
-            }
-          },
-          {
-            "id": "e0808897c22a8bb3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-07-19 周日.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-07-19 周日"
             }
           },
           {
@@ -104,21 +72,53 @@
             }
           },
           {
-            "id": "ac96ddb00318d43c",
+            "id": "3cf317abca9d6f09",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2008"
+            }
+          },
+          {
+            "id": "7c1eb26f8a181bae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-07-19 周日.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-07-19 周日"
+            }
+          },
+          {
+            "id": "d81c00328cb1f278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频"
+              "title": "01笔记"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+                "file": "1.工作流/10.日记文件/2026-07-19 周日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频 的大纲"
+              "title": "2026-07-19 周日 的大纲"
             }
           },
           {
@@ -344,37 +344,41 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ac96ddb00318d43c",
+  "active": "7c1eb26f8a181bae",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "1.工作流/10.日记文件/2026-07-19 周日.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
+    "1.工作流/10.日记文件/2026-07-17 周五.md",
+    "_attachments/image/02习题-1784471642511.jpeg",
+    "_attachments/image/02习题-1784471526788.jpeg",
+    "_attachments/image/02习题-1784471361863.jpeg",
+    "_attachments/image/02习题-1784471225912.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/00视频勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
-    "1.工作流/10.日记文件/2026-07-17 周五.md",
-    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/总线/01王道题.md",
     "未命名 1.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "_attachments/image/02习题-1784442794547.jpeg",
     "_attachments/image/02习题-1784429076682.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片 2000-2006.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/已合并与停用",
@@ -384,10 +388,6 @@
     "_attachments/image/03大题-1784273095936.jpeg",
     "_attachments/image/03大题-1784271178554.jpeg",
     "_attachments/image/03大题-1784271170261.jpeg",
-    "_attachments/image/03做题框架-1784257769414.jpeg",
-    "_attachments/image/03做题框架-1784257757046.jpeg",
-    "_attachments/image/01-记录补足点-1784256215700.jpeg",
-    "_attachments/image/03做题框架-1784255486067.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",

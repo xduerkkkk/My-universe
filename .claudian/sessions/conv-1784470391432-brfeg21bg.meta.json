@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784470391432-brfeg21bg",
+  "providerId": "codex",
+  "title": "解析英语阅读选择题疑惑",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784470391432,
+  "updatedAt": 1784470952232,
+  "lastResponseAt": 1784470952232,
+  "sessionId": "019f7ab9-4bcf-7d53-a87a-e7545df3e078",
+  "providerState": {
+    "threadId": "019f7ab9-4bcf-7d53-a87a-e7545df3e078",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\19\\rollout-2026-07-19T22-13-16-019f7ab9-4bcf-7d53-a87a-e7545df3e078.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+  "usage": {
+    "inputTokens": 47606,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45696,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47606,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}
