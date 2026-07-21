@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "10 反常积分大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
+      "basename": "03大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md"
+    },
+    {
+      "basename": "回溯",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/回溯.md"
+    },
+    {
+      "basename": "核心语法",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/核心语法.md"
+    },
+    {
+      "basename": "2026-07-21 周二",
+      "path": "1.工作流/10.日记文件/2026-07-21 周二.md"
     },
     {
       "basename": "01大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md"
+    },
+    {
+      "basename": "第二章",
+      "path": "2.知识库/21.AI世界/算法设计/第二章.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "2.知识库/21.AI世界/算法设计/第一章.md"
+    },
+    {
+      "basename": "第五章",
+      "path": "2.知识库/21.AI世界/算法设计/第五章.md"
+    },
+    {
+      "basename": "第三章",
+      "path": "2.知识库/21.AI世界/算法设计/第三章.md"
+    },
+    {
+      "basename": "第四章",
+      "path": "2.知识库/21.AI世界/算法设计/第四章.md"
+    },
+    {
+      "basename": "04算法重刷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md"
+    },
+    {
+      "basename": "10 反常积分大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
     },
     {
       "basename": "000泰勒",
@@ -53,16 +93,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md"
     },
     {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md"
-    },
-    {
       "basename": "Pasted image 20260721090241.png",
       "path": "_attachments/Pasted image 20260721090241.png.md"
-    },
-    {
-      "basename": "2026-07-21 周二",
-      "path": "1.工作流/10.日记文件/2026-07-21 周二.md"
     },
     {
       "basename": "2026-07-20 周一",
@@ -125,10 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
     },
     {
-      "basename": "04算法重刷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md"
-    },
-    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2026-07-19 周日",
       "path": "1.工作流/10.日记文件/2026-07-19 周日.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "2026-07-17 周五",
-      "path": "1.工作流/10.日记文件/2026-07-17 周五.md"
-    },
-    {
-      "basename": "04真题语境辨义卡片 2007-2009",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md"
-    },
-    {
-      "basename": "英语阅读辅助提示词",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md"
-    },
-    {
-      "basename": "00阅读方法论",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-    },
-    {
-      "basename": "01视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md"
     }
   ],
   "omittedPaths": [
