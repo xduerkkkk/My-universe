@@ -93,16 +93,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02习题"
+              "title": "000泰勒"
+            }
+          },
+          {
+            "id": "dd7413d685959348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 反常积分大观"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -203,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01大观 的大纲"
+              "title": "10 反常积分大观 的大纲"
             }
           },
           {
@@ -304,7 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,10 +342,22 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "725fd34e41d373c1",
+  "active": "dd7413d685959348",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/n次方.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+    "_attachments/image/02习题-1784603899517.jpeg",
+    "_attachments/image/02习题-1784603011344.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
     "_attachments/image/02习题-1784601368357.jpeg",
     "_attachments/image/02习题-1784601360156.jpeg",
@@ -341,8 +367,6 @@
     "_attachments/image/01大观-1784597924208.jpeg",
     "_attachments/image/01大观-1784597823924.jpeg",
     "_attachments/image/01大观-1784597720237.jpeg",
-    "_attachments/image/01大观-1784597578097.jpeg",
-    "_attachments/image/01大观-1784597357683.jpeg",
     "_attachments/Pasted image 20260721090241.png.md",
     "1.工作流/10.日记文件/2026-07-21 周二.md",
     "1.工作流/10.日记文件/2026-07-20 周一.md",
@@ -356,15 +380,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/数组.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/双指针.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/顺序表.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
