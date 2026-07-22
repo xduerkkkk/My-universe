@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49d98053e3ca9f06",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "王道题"
-            }
-          },
-          {
             "id": "3cf317abca9d6f09",
             "type": "leaf",
             "pinned": true,
@@ -104,17 +88,19 @@
             }
           },
           {
-            "id": "d00ac028b2ba8942",
+            "id": "c0c70be00632de4c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "10 反常积分大观"
+              "title": "02王道题"
             }
           }
         ],
@@ -219,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02习题 的大纲"
+              "title": "02王道题 的大纲"
             }
           },
           {
@@ -316,7 +302,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -344,12 +331,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d7f154f4b339133b",
+  "active": "c0c70be00632de4c",
   "lastOpenFiles": [
-    "_attachments/image/02习题-1784692756000.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+    "_attachments/image/02王道题-1784701466922.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md",
+    "_attachments/image/02习题-1784692756000.jpeg",
     "1.工作流/10.日记文件/2026-07-21 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
@@ -362,13 +356,10 @@
     "_attachments/image/02习题-1784685827779.jpeg",
     "_attachments/image/02习题-1784683542166.jpeg",
     "_attachments/image/02习题-1784682956539.jpeg",
-    "_attachments/image/02习题-1784682604649.jpeg",
-    "_attachments/image/02习题-1784681508414.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/回溯.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/核心语法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/代码简洁.md",
@@ -378,10 +369,6 @@
     "2.知识库/21.AI世界/算法设计/第三章.md",
     "2.知识库/21.AI世界/算法设计/第四章.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/换元法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/简单积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/n次方.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",

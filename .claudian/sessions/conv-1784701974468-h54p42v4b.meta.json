@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784701974468-h54p42v4b",
+  "providerId": "claude",
+  "title": "Summarize linked list problems for second review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784701974468,
+  "updatedAt": 1784701994163,
+  "lastResponseAt": 1784701994163,
+  "sessionId": "d1186e80-6f5b-4269-b8de-9b70fbc3177b",
+  "providerState": {
+    "providerSessionId": "d1186e80-6f5b-4269-b8de-9b70fbc3177b"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1363,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27008,
+    "contextWindow": 1000000,
+    "contextTokens": 28371,
+    "percentage": 3
+  }
+}

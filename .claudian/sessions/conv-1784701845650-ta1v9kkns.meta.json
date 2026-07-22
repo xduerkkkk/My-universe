@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784701845650-ta1v9kkns",
+  "providerId": "codex",
+  "title": "总结链表二刷题号",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784701845651,
+  "updatedAt": 1784701958771,
+  "lastResponseAt": 1784701951628,
+  "sessionId": "019f8885-0765-7353-8bd5-a15cb7c921e4",
+  "providerState": {
+    "threadId": "019f8885-0765-7353-8bd5-a15cb7c921e4",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\22\\rollout-2026-07-22T14-30-52-019f8885-0765-7353-8bd5-a15cb7c921e4.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+  "usage": {
+    "inputTokens": 18572,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3712,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 18572,
+    "percentage": 2,
+    "model": "gpt-5.6-sol"
+  }
+}
