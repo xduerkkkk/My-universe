@@ -88,21 +88,21 @@
             }
           },
           {
-            "id": "b6ad6d76c993f701",
+            "id": "24a8db1760bb25bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大观"
+              "title": "02搭配-句模库"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-07-21 周二.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-21 周二 的大纲"
+              "title": "2008 的大纲"
             }
           },
           {
@@ -328,12 +328,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "dad0babe1fa7349c",
+  "active": "3cf317abca9d6f09",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
+    "1.工作流/10.日记文件/2026-07-21 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
-    "1.工作流/10.日记文件/2026-07-21 周二.md",
     "_attachments/image/04算法重刷-1784633072026.jpeg",
     "_attachments/image/04算法重刷-1784633062048.jpeg",
     "_attachments/image/04算法重刷-1784632919718.jpeg",
@@ -363,9 +366,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/01极限--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/00函数--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
