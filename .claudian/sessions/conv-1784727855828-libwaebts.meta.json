@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784727855828-libwaebts",
+  "providerId": "codex",
+  "title": "优化考研英语TEXT1复盘流程",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784727855828,
+  "updatedAt": 1784728593159,
+  "lastResponseAt": 1784728593159,
+  "sessionId": "019f8a11-e368-7282-a2b2-66efdaec75a5",
+  "providerState": {
+    "threadId": "019f8a11-e368-7282-a2b2-66efdaec75a5",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\22\\rollout-2026-07-22T21-44-20-019f8a11-e368-7282-a2b2-66efdaec75a5.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+  "usage": {
+    "inputTokens": 51464,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50816,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 51464,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}

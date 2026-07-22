@@ -4,8 +4,8 @@
   "title": "Review TEXT3 English reading notes",
   "titleGenerationStatus": "success",
   "createdAt": 1784556665595,
-  "updatedAt": 1784557164221,
-  "lastResponseAt": 1784557164221,
+  "updatedAt": 1784725008145,
+  "lastResponseAt": 1784724608109,
   "sessionId": "019f7fdd-c211-77d0-bf49-e6c402b4ce49",
   "providerState": {
     "threadId": "019f7fdd-c211-77d0-bf49-e6c402b4ce49",
@@ -14,13 +14,13 @@
   },
   "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
   "usage": {
-    "inputTokens": 46916,
+    "inputTokens": 59009,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 45696,
-    "contextWindow": 9500000,
+    "cacheReadInputTokens": 57984,
+    "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 46916,
-    "percentage": 0,
+    "contextTokens": 59009,
+    "percentage": 6,
     "model": "gpt-5.6-sol"
   }
 }

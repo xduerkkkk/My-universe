@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cf317abca9d6f09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2008"
-            }
-          },
-          {
             "id": "f93446add6d6a9e4",
             "type": "leaf",
             "pinned": true,
@@ -104,19 +88,35 @@
             }
           },
           {
-            "id": "1aa201e342a8a328",
+            "id": "0ad26b8763413fda",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "00阅读方法论"
+            }
+          },
+          {
+            "id": "203e5356db7a3f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02搭配-句模库"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw 的大纲"
+              "title": "02习题 的大纲"
             }
           },
           {
@@ -257,12 +257,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Drawing 2026-03-19 14.41.13.excalidraw 的出链列表"
+              "title": "02习题 的出链列表"
             }
           },
           {
@@ -318,7 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,16 +342,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1aa201e342a8a328",
+  "active": "d7f154f4b339133b",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/03 880.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
@@ -366,20 +374,12 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/04-形近易混·字母级辨析.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md",
     "_attachments/image/02习题-1784692756000.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
     "_attachments/image/02习题-1784690232905.jpeg",
     "_attachments/image/02习题-1784690187452.jpeg",
     "_attachments/image/02习题-1784688050545.jpeg",
     "_attachments/image/02习题-1784686265514.jpeg",
     "_attachments/image/02习题-1784685986462.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
