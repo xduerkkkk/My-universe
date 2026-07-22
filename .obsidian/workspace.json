@@ -40,19 +40,19 @@
             }
           },
           {
-            "id": "dad0babe1fa7349c",
+            "id": "f516d0b4fd34ff8b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.工作流/10.日记文件/2026-07-21 周二.md",
+                "file": "1.工作流/10.日记文件/2026-07-22 周三.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-07-21 周二"
+              "title": "2026-07-22 周三"
             }
           },
           {
@@ -104,17 +104,15 @@
             }
           },
           {
-            "id": "ef4c1796fa15d264",
+            "id": "1aa201e342a8a328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
-                "mode": "source",
-                "source": false
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "基础概念"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
             }
           }
         ],
@@ -219,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础概念 的大纲"
+              "title": "Drawing 2026-03-19 14.41.13.excalidraw 的大纲"
             }
           },
           {
@@ -259,12 +257,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基础概念 的出链列表"
+              "title": "Drawing 2026-03-19 14.41.13.excalidraw 的出链列表"
             }
           },
           {
@@ -344,16 +342,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ef4c1796fa15d264",
+  "active": "1aa201e342a8a328",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+    "1.工作流/10.日记文件/2026-07-22 周三.md",
+    "1.工作流/10.日记文件/2026-07-21 周二.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
     "_attachments/image/04算法重刷-1784709528146.jpeg",
     "_attachments/image/04算法重刷-1784708110748.jpeg",
     "_attachments/image/04算法重刷-1784708107944.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md",
     "_attachments/image/02王道题-1784701466922.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
@@ -362,7 +370,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md",
     "_attachments/image/02习题-1784692756000.jpeg",
-    "1.工作流/10.日记文件/2026-07-21 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
     "_attachments/image/02习题-1784690232905.jpeg",
@@ -373,14 +380,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/回溯.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/核心语法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/代码简洁.md",
-    "2.知识库/21.AI世界/算法设计/第二章.md",
-    "2.知识库/21.AI世界/算法设计/第一章.md",
-    "2.知识库/21.AI世界/算法设计/第五章.md",
-    "2.知识库/21.AI世界/算法设计/第三章.md",
-    "2.知识库/21.AI世界/算法设计/第四章.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",

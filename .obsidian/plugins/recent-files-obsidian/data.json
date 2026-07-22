@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "基础概念",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md"
+      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+    },
+    {
+      "basename": "辨析--引用计数器",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md"
+    },
+    {
+      "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
+    },
+    {
+      "basename": "ART",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
     },
     {
       "basename": "03大题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md"
-    },
-    {
-      "basename": "04算法重刷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
     },
     {
       "basename": "01大观",
@@ -23,6 +27,38 @@
     {
       "basename": "02习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02习题.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/03 880.md"
+    },
+    {
+      "basename": "01笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md"
+    },
+    {
+      "basename": "2026-07-22 周三",
+      "path": "1.工作流/10.日记文件/2026-07-22 周三.md"
+    },
+    {
+      "basename": "2026-07-21 周二",
+      "path": "1.工作流/10.日记文件/2026-07-21 周二.md"
+    },
+    {
+      "basename": "基础概念",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/链表/基础概念.md"
+    },
+    {
+      "basename": "04算法重刷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md"
     },
     {
       "basename": "王道题",
@@ -47,10 +83,6 @@
     {
       "basename": "06-字母音似词·快速区分",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/06-字母音似词·快速区分.md"
-    },
-    {
-      "basename": "2026-07-21 周二",
-      "path": "1.工作流/10.日记文件/2026-07-21 周二.md"
     },
     {
       "basename": "2008",
@@ -167,38 +199,6 @@
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md"
-    },
-    {
-      "basename": "题--多级索引计算题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/题--多级索引计算题.md"
-    },
-    {
-      "basename": "辨析--多级索引思想",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--多级索引思想.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
-    },
-    {
-      "basename": "数组",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/数组.md"
-    },
-    {
-      "basename": "双指针",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/双指针.md"
-    },
-    {
-      "basename": "顺序表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/顺序表.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/未命名.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/01王道笔记.md"
     }
   ],
   "omittedPaths": [
