@@ -90,19 +90,49 @@
           {
             "id": "17fe3ded5a929816",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03 强化"
+            }
+          },
+          {
+            "id": "7cd3ab61089d5090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 笔记"
+              "title": "笔记"
+            }
+          },
+          {
+            "id": "0236eb2f22536592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 强化"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -203,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01 笔记 的大纲"
+              "title": "03 强化 的大纲"
             }
           },
           {
@@ -243,12 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01 笔记 的出链列表"
+              "title": "03 强化 的出链列表"
             }
           },
           {
@@ -328,11 +358,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "17fe3ded5a929816",
+  "active": "0236eb2f22536592",
   "lastOpenFiles": [
+    "_attachments/image/03 强化-1784778776905.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md",
+    "_attachments/image/03 强化-1784775712763.jpeg",
+    "_attachments/image/03 强化-1784775704403.jpeg",
+    "_attachments/image/03 强化-1784774880498.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
+    "_attachments/image/03 强化-1784773467823.jpeg",
+    "_attachments/image/03 强化-1784773410227.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
     "_attachments/image/02具体审敛-1784769374604.jpeg",
@@ -348,7 +387,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常见的定理条件配置.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
-    "_attachments/image/02习题-1784728999438.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语阅读辅助提示词.md",
@@ -358,14 +396,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
-    "_attachments/image/04算法重刷-1784709528146.jpeg",
-    "_attachments/image/04算法重刷-1784708110748.jpeg",
-    "_attachments/image/04算法重刷-1784708107944.jpeg",
-    "_attachments/image/02王道题-1784701466922.jpeg",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",

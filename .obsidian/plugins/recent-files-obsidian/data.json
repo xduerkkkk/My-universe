@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "01 笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
-    },
-    {
       "basename": "03 强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md"
     },
     {
+      "basename": "伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系.md"
+    },
+    {
+      "basename": "01 笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
+    },
+    {
       "basename": "02习题，1000题，880基础",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
+    },
+    {
+      "basename": "记忆--逆操作的理解",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/记忆--逆操作的理解.md"
     },
     {
       "basename": "02具体审敛",
@@ -187,18 +199,6 @@
     {
       "basename": "总结",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/积分/总结.md"
-    },
-    {
-      "basename": "n次方",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/n次方.md"
-    },
-    {
-      "basename": "e的积分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md"
-    },
-    {
-      "basename": "三角代换的坑",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md"
     }
   ],
   "omittedPaths": [
