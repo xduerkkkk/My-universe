@@ -1,0 +1,14 @@
+{
+  "id": "conv-1784816370385-y819yoafb",
+  "providerId": "claude",
+  "title": "用skill总结下线性表王道题",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784816370385,
+  "updatedAt": 1784816376758,
+  "lastResponseAt": 1784816373263,
+  "sessionId": "6faec67a-66ec-4980-a13b-7b129caa2284",
+  "providerState": {
+    "providerSessionId": "6faec67a-66ec-4980-a13b-7b129caa2284"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md"
+}
