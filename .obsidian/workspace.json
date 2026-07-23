@@ -56,35 +56,23 @@
             }
           },
           {
-            "id": "0236eb2f22536592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 强化"
-            }
-          },
-          {
             "id": "fc99103fc4747e13",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "02王道题"
+              "title": "2009"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compliance",
+                "query": "hamper",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -165,11 +153,12 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.50384521484375
+    "width": 374.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -185,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "00-规划一览 的大纲"
             }
           },
           {
@@ -225,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02王道题 的出链列表"
+              "title": "00-规划一览 的出链列表"
             }
           },
           {
@@ -249,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02王道题 的反向链接列表"
+              "title": "00-规划一览 的反向链接列表"
             }
           },
           {
@@ -286,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,20 +299,30 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fc99103fc4747e13",
+  "active": "b0539ce4d6ca75f8",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "1.工作流/10.日记文件/2026-07-23 周四.md",
-    "1.工作流/10.日记文件/2026-07-22 周三.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
+    "_attachments/image/04 大观题-1784816075948.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2008.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子2：汇编、编译+链接.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/计算机系统概述/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/01视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/000总卡片/判断--是否是xx.md",
+    "1.工作流/10.日记文件/2026-07-22 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01大观.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
     "_attachments/image/04算法重刷-1784794007513.jpeg",
@@ -333,21 +332,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题.md",
     "_attachments/image/03 强化-1784778776905.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md",
     "_attachments/image/03 强化-1784775712763.jpeg",
     "_attachments/image/03 强化-1784775704403.jpeg",
     "_attachments/image/03 强化-1784774880498.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
     "_attachments/image/03 强化-1784773467823.jpeg",
-    "_attachments/image/03 强化-1784773410227.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/相近词辨析-整理版/05-主题场景·考研高频语境词.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常见的定理条件配置.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
