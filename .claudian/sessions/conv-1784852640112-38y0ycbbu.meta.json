@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784852640112-38y0ycbbu",
+  "providerId": "codex",
+  "title": "建立考研英语熟词生义与近义词笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784852640113,
+  "updatedAt": 1784854568016,
+  "lastResponseAt": 1784854568016,
+  "sessionId": "019f9181-f245-74c0-ae03-e69f2e31848b",
+  "providerState": {
+    "threadId": "019f9181-f245-74c0-ae03-e69f2e31848b",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\24\\rollout-2026-07-24T08-24-05-019f9181-f245-74c0-ae03-e69f2e31848b.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 67630,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 66176,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 67630,
+    "percentage": 7,
+    "model": "gpt-5.6-sol"
+  }
+}

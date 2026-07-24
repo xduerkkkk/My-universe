@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784855528824-f0hdg00we",
+  "providerId": "codex",
+  "title": "重构操作系统第02至04章笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784855528824,
+  "updatedAt": 1784858302027,
+  "lastResponseAt": 1784858275845,
+  "sessionId": "019f91ae-0621-76c1-8dd4-73d783e4fb7f",
+  "providerState": {
+    "threadId": "019f91ae-0621-76c1-8dd4-73d783e4fb7f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\24\\rollout-2026-07-24T09-12-14-019f91ae-0621-76c1-8dd4-73d783e4fb7f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 148795,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 146048,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 148795,
+    "percentage": 16,
+    "model": "gpt-5.6-sol"
+  }
+}

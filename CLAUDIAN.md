@@ -15,6 +15,17 @@
 - If a note embeds local images and they matter, inspect the images too.
 - Preserve YAML frontmatter, Dataview blocks, wiki-links, and existing note style.
 
+### Obsidian 原生语法优先
+
+- 创建或改写 Obsidian Markdown 时，尽量优先使用 Obsidian 原生语法，避免使用可能无法正确渲染的通用 HTML。
+- 需要可折叠的答案、提示或核对内容时，使用 Obsidian Callout，例如：
+
+  > [!faq]- 核对
+  > - 答案内容
+
+- 不使用 HTML `<details>` / `<summary>` 作为 Obsidian 笔记的默认折叠方案；只有用户明确要求或已确认当前环境支持时才使用。
+- 表格、列表等内容放入 Callout 时，每一行都要添加 `>` 引用前缀，确保 Obsidian 正确渲染。
+
 
 
 ### Windows/中文 vault 编码注意

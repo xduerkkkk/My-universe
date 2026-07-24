@@ -4,8 +4,8 @@
   "title": "使用 Skill 总结内容",
   "titleGenerationStatus": "success",
   "createdAt": 1784816387860,
-  "updatedAt": 1784818347033,
-  "lastResponseAt": 1784818347033,
+  "updatedAt": 1784855484834,
+  "lastResponseAt": 1784853312997,
   "sessionId": "019f8f58-c893-70d1-b6c6-01966a7c001e",
   "providerState": {
     "threadId": "019f8f58-c893-70d1-b6c6-01966a7c001e",
@@ -13,12 +13,12 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 125168,
+    "inputTokens": 127980,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 124544,
+    "cacheReadInputTokens": 127872,
     "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 125168,
+    "contextTokens": 127980,
     "percentage": 13,
     "model": "gpt-5.6-sol"
   }
