@@ -72,52 +72,33 @@
             }
           },
           {
-            "id": "c00a2f41b3dcd6ff",
+            "id": "4622a564958d33c4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04 大观题"
+              "title": "02大观题"
             }
           },
           {
-            "id": "45b9fca07db0126f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-                "viewState": {
-                  "x": -227.1168418426319,
-                  "y": 664.3760725544392,
-                  "zoom": -0.5083036737680833
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "行列式矩阵思维导图"
-            }
-          },
-          {
-            "id": "44277774651e6c75",
+            "id": "20e7da431b59397e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "02大观题"
             }
           }
         ],
@@ -222,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "行列式矩阵思维导图 的大纲"
+              "title": "02大观题 的大纲"
             }
           },
           {
@@ -262,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "行列式矩阵思维导图 的出链列表"
+              "title": "02大观题 的出链列表"
             }
           },
           {
@@ -286,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +277,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "行列式矩阵思维导图 的反向链接列表"
+              "title": "02大观题 的反向链接列表"
             }
           },
           {
@@ -319,12 +300,11 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,46 +328,47 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "45b9fca07db0126f",
+  "active": "20e7da431b59397e",
   "lastOpenFiles": [
+    "_attachments/image/02大观题-1784865533327.jpeg",
+    "_attachments/image/02大观题-1784865525851.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/习题与1000题与880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
+    "1.工作流/10.日记文件/2026-07-23 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/总结.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+    "_attachments/image/笔记-1784863172191.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+    "_attachments/image/00式子-1784863142098.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/记忆--逆操作的理解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/习题与1000题与880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
+    "_attachments/image/01不熟悉-1784861406786.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/02-近义词·精准辨析版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/总结.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
     "_attachments/image/04 大观题-1784858256743.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
-    "1.工作流/10.日记文件/2026-07-23 周四.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/cpu工作/04错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/指令/03指令错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00式子.md",
     "_attachments/image/04 大观题-1784854554449.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/02-近义词·精准辨析版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/00归档说明.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚",
     "_attachments/image/04 大观题-1784817378478.jpeg",
     "_attachments/image/04 大观题-1784817361932.jpeg",
     "_attachments/image/04 大观题-1784816644236.jpeg",
     "_attachments/image/04 大观题-1784816075948.jpeg",
-    "_attachments/image/04算法重刷-1784794007513.jpeg",
-    "_attachments/image/04算法重刷-1784793985827.jpeg",
-    "_attachments/image/04算法重刷-1784790825302.jpeg",
-    "_attachments/image/04算法重刷-1784790815618.jpeg",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
@@ -397,7 +378,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/数据表示/未命名.canvas",
