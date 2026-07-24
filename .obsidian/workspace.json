@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "82f96ce60b540955",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.工作流/10.日记文件/2026-07-23 周四.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-07-23 周四"
-            }
-          },
-          {
             "id": "d7f154f4b339133b",
             "type": "leaf",
             "pinned": true,
@@ -118,9 +102,53 @@
               "icon": "lucide-file",
               "title": "02王道题"
             }
+          },
+          {
+            "id": "ce9b3f7f33a6c4ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.工作流/10.日记文件/2026-07-24 周五.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-07-24 周五"
+            }
+          },
+          {
+            "id": "df59d9f647725458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02习题"
+            }
+          },
+          {
+            "id": "42e2de8d6e792526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 重刷记录笔记"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02王道题 的大纲"
+              "title": "02习题 的大纲"
             }
           },
           {
@@ -261,12 +289,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02王道题 的出链列表"
+              "title": "02习题 的出链列表"
             }
           },
           {
@@ -285,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +323,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02王道题 的反向链接列表"
+              "title": "02习题 的反向链接列表"
             }
           },
           {
@@ -318,8 +346,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -347,10 +374,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e5e567b0cbcc949e",
+  "active": "df59d9f647725458",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "1.工作流/10.日记文件/2026-07-24 周五.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "_attachments/image/02王道题-1784892707046.jpeg",
+    "1.工作流/10.日记文件/2026-07-23 周四.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题·.md",
     "_attachments/image/03应用题·-1784883306113.jpeg",
@@ -368,14 +405,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-错题复盘-重构版-v2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-知识点整理-重构版-v2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-知识点整理-重构版-v2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题-知识点整理-重构版-v2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/06总线/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/01计算机系统概述/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/01计算机系统概述/ch1计算机硬件构成.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
     "_attachments/image/02大观题-1784865533327.jpeg",
     "_attachments/image/02大观题-1784865525851.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
@@ -386,7 +415,6 @@
     "_attachments/image/04 大观题-1784858256743.jpeg",
     "_attachments/image/04 大观题-1784854554449.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚",
-    "_attachments/image/04 大观题-1784817378478.jpeg",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
