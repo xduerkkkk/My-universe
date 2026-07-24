@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784876556204-fg48qhca5",
+  "providerId": "codex",
+  "title": "整理计组02、03、07章王道题记录",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784876556204,
+  "updatedAt": 1784877442845,
+  "lastResponseAt": 1784877011021,
+  "sessionId": "019f92ee-e05f-77c3-9e57-72b76b4ce775",
+  "providerState": {
+    "threadId": "019f92ee-e05f-77c3-9e57-72b76b4ce775",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\24\\rollout-2026-07-24T15-02-41-019f92ee-e05f-77c3-9e57-72b76b4ce775.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 93729,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 92800,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 93729,
+    "percentage": 10,
+    "model": "gpt-5.6-sol"
+  }
+}
