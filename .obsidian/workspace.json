@@ -106,6 +106,7 @@
           {
             "id": "e5e567b0cbcc949e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -113,6 +114,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "02王道题"
             }
@@ -321,7 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,9 +349,11 @@
   },
   "active": "e5e567b0cbcc949e",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题·.md",
+    "_attachments/image/03应用题·-1784883306113.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-注释分类整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-错题复盘-重构版.md",
@@ -374,7 +378,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/推导--结点高度，log公式.md",
     "_attachments/image/02大观题-1784865533327.jpeg",
     "_attachments/image/02大观题-1784865525851.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "_attachments/image/笔记-1784863172191.jpeg",
     "_attachments/image/00式子-1784863142098.jpeg",
@@ -384,7 +387,6 @@
     "_attachments/image/04 大观题-1784854554449.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚",
     "_attachments/image/04 大观题-1784817378478.jpeg",
-    "_attachments/image/04 大观题-1784817361932.jpeg",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/逐年Agent整理",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/归档/年度总结",
