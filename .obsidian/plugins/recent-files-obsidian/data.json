@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道题-知识点整理-重构版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理-重构版.md"
+    },
+    {
+      "basename": "01王道题-错题复盘-重构版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md"
+    },
+    {
       "basename": "01王道题-知识点整理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-知识点整理.md"
+    },
+    {
+      "basename": "王道题-错题复盘-重构版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题-错题复盘-重构版.md"
+    },
+    {
+      "basename": "王道题-知识点整理-重构版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/00OS综述/王道题-知识点整理-重构版.md"
     },
     {
       "basename": "王道题-知识点整理",
@@ -183,22 +199,6 @@
     {
       "basename": "01阅读错因台账",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-    },
-    {
-      "basename": "辨析--引用计数器",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/辨析--引用计数器.md"
-    },
-    {
-      "basename": "Drawing 2026-03-16 19.52.17.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md"
-    },
-    {
-      "basename": "ART",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md"
     }
   ],
   "omittedPaths": [
