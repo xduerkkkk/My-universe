@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "2026-07-24 周五"
             }
+          },
+          {
+            "id": "40d3f3bb9f4c246a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2005.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2005"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,12 +215,11 @@
               "title": "00-规划一览"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.50384521484375
+    "width": 320.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -324,7 +337,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 820.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,11 +361,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f1c609e190887cf1",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-07-24 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md.tmp.18884.f6e84d0acbe9",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2003.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2004.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2002.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2001.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2006.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2007.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "1.工作流/10.日记文件/2026-07-24 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/01-词根辨析·核心词根(上).md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/00-相近词辨析·总索引.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/02王道题-知识点整理.md",
@@ -362,23 +385,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/11 重刷记录笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
     "_attachments/image/02王道题-1784892707046.jpeg",
     "1.工作流/10.日记文件/2026-07-23 周四.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题·.md",
     "_attachments/image/03应用题·-1784883306113.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-注释分类整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-知识点整理-重构版.md",
     "_attachments/image/解题--技巧大全-1784877736339.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/07io/王道题-错题复盘-重构版-v2.md",
     "_attachments/image/02大观题-1784865533327.jpeg",
     "_attachments/image/02大观题-1784865525851.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",

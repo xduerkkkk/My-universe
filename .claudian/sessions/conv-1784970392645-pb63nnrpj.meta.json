@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784970392645-pb63nnrpj",
+  "providerId": "claude",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784970392645,
+  "updatedAt": 1784971106088,
+  "lastResponseAt": 1784971106088,
+  "sessionId": "6b13c7d1-acce-44de-ac05-c102e84094c9",
+  "providerState": {
+    "providerSessionId": "6b13c7d1-acce-44de-ac05-c102e84094c9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 171,
+    "cacheCreationInputTokens": 48147,
+    "cacheReadInputTokens": 56062,
+    "contextWindow": 1000000,
+    "contextTokens": 104380,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

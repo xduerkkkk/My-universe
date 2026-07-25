@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784967249111-mgk1gonoo",
+  "providerId": "codex",
+  "title": "分析持续学习与 Agent 行业前景",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784967249111,
+  "updatedAt": 1784968002917,
+  "lastResponseAt": 1784967505552,
+  "sessionId": "019f9856-bd63-78a0-be13-40454a65745f",
+  "providerState": {
+    "threadId": "019f9856-bd63-78a0-be13-40454a65745f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\25\\rollout-2026-07-25T16-14-14-019f9856-bd63-78a0-be13-40454a65745f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 86284,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12928,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 86284,
+    "percentage": 9,
+    "model": "gpt-5.6-sol"
+  }
+}

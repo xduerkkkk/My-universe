@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784966940388-d3fhh1k7v",
+  "providerId": "codex",
+  "title": "整理考研英语阅读 TEXT3",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784966940388,
+  "updatedAt": 1784969599367,
+  "lastResponseAt": 1784967642922,
+  "sessionId": "019f9852-0776-73f0-81b8-0c440494edfc",
+  "providerState": {
+    "threadId": "019f9852-0776-73f0-81b8-0c440494edfc",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\25\\rollout-2026-07-25T16-09-05-019f9852-0776-73f0-81b8-0c440494edfc.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+  "usage": {
+    "inputTokens": 50677,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 49792,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 50677,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}
