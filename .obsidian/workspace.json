@@ -72,17 +72,36 @@
             }
           },
           {
-            "id": "27ab3d5a9d2d8bc8",
+            "id": "0fbbe81321927b9c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "04 大观题"
+            }
+          },
+          {
+            "id": "6c25020564f706f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+                "viewState": {
+                  "x": -1354.9040879627967,
+                  "y": 1142.035488712319,
+                  "zoom": 0.0877597300013408
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "行列式矩阵思维导图"
             }
           }
         ],
@@ -187,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01视频笔记 的大纲"
+              "title": "04 大观题 的大纲"
             }
           },
           {
@@ -326,8 +345,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "27ab3d5a9d2d8bc8",
+  "active": "0fbbe81321927b9c",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
+    "_attachments/image/04 大观题-1785038210003.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
+    "_attachments/image/04 大观题-1785038137521.jpeg",
+    "_attachments/image/04 大观题-1785036972165.jpeg",
+    "_attachments/image/04 大观题-1785036936995.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/总结.md",
+    "1.工作流/10.日记文件/2026-07-26 周日.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 小tips.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "_attachments/image/01视频笔记-1785032870303.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
     "_attachments/image/01视频笔记-1785031975456.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md",
     "_attachments/image/01笔记-1785031163040.jpeg",
@@ -335,12 +371,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
     "_attachments/image/笔记-1785027982222.jpeg",
     "_attachments/image/笔记-1785027538719.jpeg",
-    "1.工作流/10.日记文件/2026-07-26 周日.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
-    "_attachments/image/01不熟悉-1785026832175.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/卡片/解题--技巧大全.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
@@ -353,28 +385,14 @@
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.24992.0a5cf3c5c88f",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.24992.0a13a622d46e",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md",
-    "1.工作流/未命名.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.24992.ba956d8e3ac9",
-    "1.工作流/10.日记文件/周报/强化 (7.11-7.25).md",
-    "1.工作流/10.日记文件/周报/强化 W2 (D8-D16).md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.24992.24ea75d90881",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.24992.4281977aecfb",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md.tmp.24992.9f6a598ae091",
-    "1.工作流/10.日记文件/周报/强化 W1 (D1-D7).md",
     "1.工作流/10.日记文件/26年下半年/6月",
     "4.不常用/43.模板文件/日记模板.md.tmp.24992.1ea46ffe19f4",
     "1.工作流/10.日记文件/周报/强化阶段(7.11-7.25).md.tmp.24992.b000852709a0",
     "1.工作流/10.日记文件/26年下半年/7月",
-    "_attachments/image/02王道题-1784892707046.jpeg",
-    "_attachments/image/03应用题·-1784883306113.jpeg",
-    "_attachments/image/解题--技巧大全-1784877736339.jpeg",
-    "_attachments/image/02大观题-1784865533327.jpeg",
-    "_attachments/image/02大观题-1784865525851.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/多元微分思维导图.canvas",
