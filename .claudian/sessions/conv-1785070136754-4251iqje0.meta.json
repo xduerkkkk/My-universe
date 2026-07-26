@@ -1,0 +1,26 @@
+{
+  "id": "conv-1785070136754-4251iqje0",
+  "providerId": "codex",
+  "title": "完善润色内容并添加表格",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785070136754,
+  "updatedAt": 1785072117924,
+  "lastResponseAt": 1785072100586,
+  "sessionId": "019f9e78-b721-72d3-9c0f-b5eec797aaa0",
+  "providerState": {
+    "threadId": "019f9e78-b721-72d3-9c0f-b5eec797aaa0",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\26\\rollout-2026-07-26T20-49-04-019f9e78-b721-72d3-9c0f-b5eec797aaa0.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/「四类积分：微元 → 方向 → 投影，参数化」转换表.md",
+  "usage": {
+    "inputTokens": 83875,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 82560,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 83875,
+    "percentage": 9,
+    "model": "gpt-5.6-sol"
+  }
+}
