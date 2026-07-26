@@ -4,20 +4,20 @@
   "title": "从7月5开始 我的日总好像再没记录周报了",
   "titleGenerationStatus": "failed",
   "createdAt": 1784987407938,
-  "updatedAt": 1784991126015,
-  "lastResponseAt": 1784991126015,
+  "updatedAt": 1785025846549,
+  "lastResponseAt": 1785025724366,
   "sessionId": "ac6f2425-96de-4f43-b400-83ceb9cb25db",
   "providerState": {
     "providerSessionId": "ac6f2425-96de-4f43-b400-83ceb9cb25db"
   },
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 138,
-    "cacheCreationInputTokens": 17308,
-    "cacheReadInputTokens": 124433,
+    "inputTokens": 24,
+    "cacheCreationInputTokens": 514,
+    "cacheReadInputTokens": 171189,
     "contextWindow": 1000000,
-    "contextTokens": 141879,
-    "percentage": 14,
+    "contextTokens": 171727,
+    "percentage": 17,
     "contextWindowIsAuthoritative": true
   }
 }
