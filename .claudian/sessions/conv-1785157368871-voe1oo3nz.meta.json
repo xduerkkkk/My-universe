@@ -1,0 +1,26 @@
+{
+  "id": "conv-1785157368871-voe1oo3nz",
+  "providerId": "codex",
+  "title": "制定408真题前复习与记忆标准",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785157368872,
+  "updatedAt": 1785159159016,
+  "lastResponseAt": 1785158085943,
+  "sessionId": "019fa3ab-bcbc-7aa3-8cf9-ba418b3a99df",
+  "providerState": {
+    "threadId": "019fa3ab-bcbc-7aa3-8cf9-ba418b3a99df",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\27\\rollout-2026-07-27T21-02-54-019fa3ab-bcbc-7aa3-8cf9-ba418b3a99df.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "inputTokens": 58306,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57984,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58306,
+    "percentage": 6,
+    "model": "gpt-5.6-sol"
+  }
+}
