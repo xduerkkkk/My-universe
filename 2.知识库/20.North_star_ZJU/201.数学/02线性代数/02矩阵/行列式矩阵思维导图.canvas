@@ -14,7 +14,7 @@
 		{"id":"0e347460bd64a36e","type":"text","text":"几何视角","x":1060,"y":-303,"width":250,"height":60},
 		{"id":"f441a66971d153ed","type":"text","text":"当如此定义一个矩阵时\n![](2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/assets/Pasted%20image%2020260328111600.png)\n我们发现 A 乘此矩阵为|A|E，\n于是我们构造出了求 A^-1 的方法\n只是与 A* 差了一个倍数而已。倍数为 A 的行列式分之一","x":-374,"y":660,"width":544,"height":340},
 		{"id":"7155d05602d0e54a","type":"text","text":"# 秩\n用初等行变换或初等列变换，\n可以化简矩阵，找到矩阵的“秩”\n\n“矩阵的秩（Rank）的终极定义是：矩阵中不为零的子式的最高阶数。”","x":75,"y":285,"width":299,"height":195},
-		{"id":"a24b20cfce29512e","type":"text","text":"$r (A)<=min{m, n}$\n$r (A) r (B)<=min(r(A), r(B))$\n$r (A+B)<=r (A)+r (B)$\n\n若，AB=O，则 $r (A)+r (B)<=n$\n","x":374,"y":572,"width":304,"height":236},
+		{"id":"a24b20cfce29512e","type":"text","text":"$r (A)<=min{\\{m, n\\}}$\n$r (AB)<=min(r(A), r(B))$\n$r (A+B)<=r (A)+r (B)$\n\n若，AB=O，则 $r (A)+r (B)<=n$\n","x":374,"y":572,"width":304,"height":236},
 		{"id":"6d03db1524c996d0","type":"text","text":"# 可逆矩阵 ：\n满秩矩阵，假设为 A。\nPQ 为单位矩阵的变换\nPA 或 AQ一定能将 A 化为 E。\n\n记 P 或 Q 为 A 的逆\n\n","x":-509,"y":240,"width":270,"height":227},
 		{"id":"024f33a4e9bd6257","type":"text","text":"# 点积视角","x":553,"y":-303,"width":250,"height":60},
 		{"id":"edb823badbd1e85a","type":"text","text":"信息的匹配/相关性","x":553,"y":-173,"width":250,"height":60},
