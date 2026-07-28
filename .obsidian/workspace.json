@@ -72,31 +72,31 @@
             }
           },
           {
-            "id": "082fbb2f5bb6d3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "记忆--边与顶点"
-            }
-          },
-          {
             "id": "2732edc28da14fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05认知画像"
+              "title": "W1 2026-07-27~08-02"
+            }
+          },
+          {
+            "id": "b9d6c227c5a57294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02习题"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05认知画像 的大纲"
+              "title": "02习题 的大纲"
             }
           },
           {
@@ -317,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 649.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,40 +341,41 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "b9d6c227c5a57294",
   "lastOpenFiles": [
+    "1.工作流/10.日记文件/2026-07-28 周二.md",
+    "2. 知识库/desktop.ini",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
+    "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学/08 三重积分，曲线面积分/02 习题.md",
+    "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学/08 三重积分，曲线面积分",
+    "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学",
+    "2. 知识库/20. North_star_ZJU/201. 数学",
+    "2. 知识库/20. North_star_ZJU",
+    "2. 知识库",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md",
+    "1.工作流/回滚台账.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "1.工作流/10.日记文件/周报/强化 (7.11-7.25).md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.0465eaa42aa8",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.7f9e36f0f6bc",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.79820afe55e4",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.435862a7c5bc",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md.tmp.42516.ee281443219d",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.c91374699ea2",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.160731618094",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.6d3ff3813c21",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md.tmp.42516.1662abaefcac",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md.tmp.42516.9c1bff331245",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md.tmp.42516.25d3c9bea5d1",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/卡片/记忆--边与顶点.md",
-    "1.工作流/10.日记文件/2026-07-28 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2010.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS题解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/DFS模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片 2000-2006.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00阅读方法论.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02搭配-句模库.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04真题语境辨义卡片 2007-2009.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
-    "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2010.md",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md",
     "_attachments/image/02大观题-1785210812428.jpeg",
@@ -383,8 +384,6 @@
     "_attachments/image/02大观题-1785209107814.jpeg",
     "_attachments/image/02大观题-1785208436269.jpeg",
     "_attachments/image/02大观题-1785207947472.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
     "_attachments/image/04 大观题-1785200280922.jpeg",
     "_attachments/image/04 大观题-1785199260765.jpeg",
     "_attachments/image/04算法重刷-1785145628750.jpeg",

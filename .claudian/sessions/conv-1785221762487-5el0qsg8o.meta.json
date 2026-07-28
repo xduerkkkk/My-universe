@@ -4,8 +4,8 @@
   "title": "2",
   "titleGenerationStatus": "failed",
   "createdAt": 1785221762487,
-  "updatedAt": 1785231174851,
-  "lastResponseAt": 1785231174851,
+  "updatedAt": 1785240899982,
+  "lastResponseAt": 1785240899981,
   "sessionId": "117cea44-b05a-4794-9f80-8da070345f44",
   "providerState": {
     "providerSessionId": "117cea44-b05a-4794-9f80-8da070345f44",
@@ -598,11 +598,12 @@
   },
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 314,
-    "cacheCreationInputTokens": 19178,
-    "cacheReadInputTokens": 63515,
+    "inputTokens": 22,
+    "cacheCreationInputTokens": 1222,
+    "cacheReadInputTokens": 159124,
     "contextWindow": 1000000,
-    "contextTokens": 83007,
-    "percentage": 8
+    "contextTokens": 160368,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
   }
 }
