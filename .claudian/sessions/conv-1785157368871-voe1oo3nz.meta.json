@@ -4,8 +4,8 @@
   "title": "制定408真题前复习与记忆标准",
   "titleGenerationStatus": "success",
   "createdAt": 1785157368872,
-  "updatedAt": 1785159159016,
-  "lastResponseAt": 1785158085943,
+  "updatedAt": 1785198532287,
+  "lastResponseAt": 1785198532287,
   "sessionId": "019fa3ab-bcbc-7aa3-8cf9-ba418b3a99df",
   "providerState": {
     "threadId": "019fa3ab-bcbc-7aa3-8cf9-ba418b3a99df",
@@ -14,12 +14,12 @@
   },
   "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
   "usage": {
-    "inputTokens": 58306,
+    "inputTokens": 59928,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57984,
+    "cacheReadInputTokens": 3712,
     "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 58306,
+    "contextTokens": 59928,
     "percentage": 6,
     "model": "gpt-5.6-sol"
   }
