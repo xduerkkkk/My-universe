@@ -4,8 +4,8 @@
   "title": "用阅读skill 帮我复盘TEXT1",
   "titleGenerationStatus": "failed",
   "createdAt": 1785161542944,
-  "updatedAt": 1785198379857,
-  "lastResponseAt": 1785198379857,
+  "updatedAt": 1785221410185,
+  "lastResponseAt": 1785221410185,
   "sessionId": "a35d56a2-1fb0-4393-be1e-584bf852e743",
   "providerState": {
     "providerSessionId": "a35d56a2-1fb0-4393-be1e-584bf852e743"
@@ -13,12 +13,12 @@
   "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2010.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 24,
-    "cacheCreationInputTokens": 47810,
-    "cacheReadInputTokens": 30625,
+    "inputTokens": 23,
+    "cacheCreationInputTokens": 1081,
+    "cacheReadInputTokens": 116453,
     "contextWindow": 1000000,
-    "contextTokens": 78459,
-    "percentage": 8,
+    "contextTokens": 117557,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }

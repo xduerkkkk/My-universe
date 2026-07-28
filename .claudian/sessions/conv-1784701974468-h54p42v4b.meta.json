@@ -4,19 +4,20 @@
   "title": "Summarize linked list problems for second review",
   "titleGenerationStatus": "success",
   "createdAt": 1784701974468,
-  "updatedAt": 1784966455942,
-  "lastResponseAt": 1784880699022,
+  "updatedAt": 1785220371176,
+  "lastResponseAt": 1785220371176,
   "sessionId": "d1186e80-6f5b-4269-b8de-9b70fbc3177b",
   "providerState": {
     "providerSessionId": "d1186e80-6f5b-4269-b8de-9b70fbc3177b"
   },
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 76,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 39040,
+    "inputTokens": 21,
+    "cacheCreationInputTokens": 5279,
+    "cacheReadInputTokens": 61724,
     "contextWindow": 1000000,
-    "contextTokens": 39116,
-    "percentage": 4
+    "contextTokens": 67024,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
   }
 }
