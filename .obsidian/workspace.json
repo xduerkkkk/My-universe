@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "0fbbe81321927b9c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04 大观题"
-            }
-          },
-          {
             "id": "b4dfc871d204a9fc",
             "type": "leaf",
             "pinned": true,
@@ -100,9 +84,25 @@
               "icon": "lucide-file",
               "title": "00式子"
             }
+          },
+          {
+            "id": "f05baadb00a2bdf7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02大观题"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,8 @@
               "title": "04-过关标准"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04 大观题 的大纲"
+              "title": "02大观题 的大纲"
             }
           },
           {
@@ -342,13 +343,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0fbbe81321927b9c",
+  "active": "f05baadb00a2bdf7",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
+    "_attachments/image/02大观题-1785210812428.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "_attachments/image/02大观题-1785210321753.jpeg",
+    "_attachments/image/02大观题-1785209433318.jpeg",
+    "_attachments/image/02大观题-1785209107814.jpeg",
+    "_attachments/image/02大观题-1785208436269.jpeg",
+    "_attachments/image/02大观题-1785207947472.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
     "1.工作流/10.日记文件/2026-07-28 周二.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
     "_attachments/image/04 大观题-1785200280922.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "1.工作流/10.日记文件/2026-07-27 周一.md",
@@ -365,21 +374,13 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/02-近义词·精准辨析版.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01阅读错因台账.md",
-    "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/01笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题.md",
     "_attachments/image/04算法重刷-1785145628750.jpeg",
     "_attachments/image/04算法重刷-1785145615269.jpeg",
     "_attachments/image/04算法重刷-1785143375195.jpeg",
-    "_attachments/image/04算法重刷-1785142267209.jpeg",
-    "_attachments/image/04算法重刷-1785142244680.jpeg",
-    "_attachments/image/04算法重刷-1785138581164.jpeg",
-    "_attachments/image/04算法重刷-1785138574981.jpeg",
-    "_attachments/image/04 大观题-1785124972355.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/未命名",
     "0.核心/00.规划(Plan)/2.当前项目/sedUFJADH",
