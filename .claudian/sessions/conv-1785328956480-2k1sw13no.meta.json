@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785328956480-2k1sw13no",
+  "providerId": "codex",
+  "title": "评改英语表达辨析练习",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785328956483,
+  "updatedAt": 1785329077376,
+  "lastResponseAt": 1785329057486,
+  "sessionId": "019fade6-0079-7d22-be76-876b479fc1e4",
+  "providerState": {
+    "threadId": "019fade6-0079-7d22-be76-876b479fc1e4",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\07\\29\\rollout-2026-07-29T20-42-44-019fade6-0079-7d22-be76-876b479fc1e4.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 22995,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19072,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 22995,
+    "percentage": 2,
+    "model": "gpt-5.6-sol"
+  }
+}
