@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,8 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01不熟悉 的大纲"
+              "title": "02大观题 的大纲"
             }
           },
           {
@@ -267,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01不熟悉 的出链列表"
+              "title": "02大观题 的出链列表"
             }
           },
           {
@@ -342,19 +343,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "da7c5622b89702ad",
+  "active": "f05baadb00a2bdf7",
   "lastOpenFiles": [
+    "_attachments/image/02大观题-1785297514433.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
-    "_attachments/image/02大观题-1785289829256.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
+    "_attachments/image/02大观题-1785296060132.jpeg",
+    "_attachments/image/02大观题-1785295988574.jpeg",
+    "_attachments/image/02大观题-1785295982624.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
+    "1.工作流/10.日记文件/2026-07-29 周三.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
+    "_attachments/image/02大观题-1785292388743.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
+    "_attachments/image/02大观题-1785292357796.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/总结.md",
+    "_attachments/image/02大观题-1785289829256.jpeg",
     "_attachments/image/02大观题-1785288277686.jpeg",
     "_attachments/image/02大观题-1785288102832.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/总结.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/习题与1000题与880.md",
-    "1.工作流/10.日记文件/2026-07-29 周三.md",
     "1.工作流/回滚台账.md",
     "1.工作流/10.日记文件/2026-07-28 周二.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
@@ -367,7 +375,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/00-规划总览.md",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md",
@@ -384,11 +391,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03真题语境辨义卡片.md.tmp.42516.435862a7c5bc",
     "_attachments/image/02大观题-1785210812428.jpeg",
     "_attachments/image/02大观题-1785210321753.jpeg",
-    "_attachments/image/02大观题-1785209433318.jpeg",
-    "_attachments/image/02大观题-1785209107814.jpeg",
-    "_attachments/image/02大观题-1785208436269.jpeg",
-    "_attachments/image/02大观题-1785207947472.jpeg",
-    "_attachments/image/04 大观题-1785200280922.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "未命名 1.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/思维导图-存储.canvas",
