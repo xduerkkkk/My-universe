@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "04算法重刷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md"
+    },
+    {
+      "basename": "03算法题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/03算法题.md"
+    },
+    {
+      "basename": "BFS模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md"
+    },
+    {
+      "basename": "图的IO",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
+    },
+    {
       "basename": "02大观题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md"
     },
     {
       "basename": "W1 2026-07-27~08-02",
@@ -129,24 +145,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
     },
     {
-      "basename": "04算法重刷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md"
-    },
-    {
-      "basename": "03算法题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/03算法题.md"
-    },
-    {
       "basename": "01-记录补足点",
       "path": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md"
-    },
-    {
-      "basename": "BFS模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md"
-    },
-    {
-      "basename": "图的IO",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md"
     },
     {
       "basename": "数学归纳法",
