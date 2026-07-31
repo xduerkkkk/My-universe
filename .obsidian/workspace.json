@@ -93,16 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04算法重刷"
+              "title": "算法题题单"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04算法重刷 的大纲"
+              "title": "W1 2026-07-27~08-02 的大纲"
             }
           },
           {
@@ -267,12 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "04算法重刷 的出链列表"
+              "title": "W1 2026-07-27~08-02 的出链列表"
             }
           },
           {
@@ -342,11 +342,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6afabb7a710c80da",
+  "active": "f192f54d7ede2b02",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/回溯.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/核心语法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/大纲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
     "_attachments/image/04算法重刷-1785482125482.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/03算法题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
@@ -368,7 +373,6 @@
     "_attachments/image/02大观题-1785465131511.jpeg",
     "_attachments/image/02大观题-1785464220969.jpeg",
     "_attachments/image/02大观题-1785463596189.jpeg",
-    "_attachments/image/02大观题-1785461713171.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
     "1.工作流/回滚台账.md",
@@ -376,10 +380,6 @@
     "1.工作流/10.日记文件/2026-07-30 周四.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/00-相近词辨析·总索引.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/00-相近词辨析·总索引 (conflict 2026-06-18-15-22-53).md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2. 知识库/desktop.ini",
     "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学/08 三重积分，曲线面积分",
