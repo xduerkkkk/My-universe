@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.96539306640625
+    "width": 328.2115478515625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -328,7 +328,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -356,7 +357,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f192f54d7ede2b02",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
     "Drawing 2026-05-16 14.01.14.excalidraw.md",
     "相关卡片.md",
