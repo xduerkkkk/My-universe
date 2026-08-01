@@ -88,47 +88,33 @@
             }
           },
           {
-            "id": "1d2fed857527ba76",
+            "id": "843c4d2731540e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/大纲.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大纲"
+              "title": "01-熟词生义·真题语境版"
             }
           },
           {
-            "id": "7c0be467be404e05",
+            "id": "c7776cdf11b5c632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2026-05-16 14.01.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "大观"
-            }
-          },
-          {
-            "id": "7dca05e89b660c0e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-16 14.01.14.excalidraw"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,12 +197,11 @@
               "title": "00-规划一览"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.50384521484375
+    "width": 311.96539306640625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -232,6 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -370,42 +356,42 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7dca05e89b660c0e",
+  "active": "f192f54d7ede2b02",
   "lastOpenFiles": [
+    "Drawing 2026-05-16 14.01.14.excalidraw.md",
+    "相关卡片.md",
+    "CLAUDE.md",
+    "CLAUDIAN.md",
+    "AGENTS.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
+    "1.工作流/10.日记文件/2026-07-31 周五.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2010.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/02-近义词·精准辨析版.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/02-词根辨析·核心词根(下).md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02相近词辨析-整理版/01-词根辨析·核心词根(上).md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
-    "1.工作流/10.日记文件/2026-07-31 周五.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/大纲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/10概念题",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/重要公式.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/凸函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/未命名.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/回溯.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/核心语法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/大纲.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/04算法重刷.md",
     "_attachments/image/04算法重刷-1785482125482.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/03算法题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/BFS模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/图的IO.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/02王道题.md",
     "_attachments/image/04算法重刷-1785481290925.jpeg",
     "_attachments/image/04算法重刷-1785479422710.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "_attachments/image/02大观题-1785469102148.jpeg",
     "_attachments/image/02大观题-1785468288293.jpeg",
     "_attachments/image/02大观题-1785468264554.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 小tips.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 分块矩阵.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
     "_attachments/image/02大观题-1785467243035.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/07 严选题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
     "_attachments/image/02大观题-1785465131511.jpeg",
     "_attachments/image/02大观题-1785464220969.jpeg",
     "_attachments/image/02大观题-1785463596189.jpeg",
