@@ -114,9 +114,21 @@
               "icon": "lucide-file",
               "title": "大观"
             }
+          },
+          {
+            "id": "7dca05e89b660c0e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -218,13 +232,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/05二重积分/大观.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大观 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -357,7 +370,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7c0be467be404e05",
+  "active": "7dca05e89b660c0e",
   "lastOpenFiles": [
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
