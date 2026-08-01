@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785584451576-42eleuk04",
+  "providerId": "claude",
+  "title": "这是我这一周阅读训练的痕迹。  你整理一下。 **命题压缩**  我觉得我不知道怎么用。  所谓“对...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785584451577,
+  "updatedAt": 1785584880891,
+  "lastResponseAt": 1785584874329,
+  "sessionId": "0d2b340a-f07c-4987-bbc5-24a31ff6c2a9",
+  "providerState": {
+    "providerSessionId": "0d2b340a-f07c-4987-bbc5-24a31ff6c2a9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 65,
+    "cacheCreationInputTokens": 5935,
+    "cacheReadInputTokens": 48141,
+    "contextWindow": 1000000,
+    "contextTokens": 54141,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

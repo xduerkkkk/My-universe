@@ -1,0 +1,26 @@
+{
+  "id": "conv-1785589278987-qvc07vvji",
+  "providerId": "codex",
+  "title": "整理矩阵秩笔记并生成自测题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785589278987,
+  "updatedAt": 1785589373924,
+  "lastResponseAt": 1785589358363,
+  "sessionId": "019fbd6a-3a63-7540-a79d-f08595d855bf",
+  "providerState": {
+    "threadId": "019fbd6a-3a63-7540-a79d-f08595d855bf",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\01\\rollout-2026-08-01T21-01-28-019fbd6a-3a63-7540-a79d-f08595d855bf.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
+  "usage": {
+    "inputTokens": 13067,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3840,
+    "contextWindow": 353400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13067,
+    "percentage": 4,
+    "model": "gpt-5.6-sol"
+  }
+}

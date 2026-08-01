@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785585020633-t8tvjnutq",
+  "providerId": "claude",
+  "title": "重构英语阅读病灶画像与下周任务模板",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785585020634,
+  "updatedAt": 1785585628206,
+  "lastResponseAt": 1785585375133,
+  "sessionId": "e1e9046a-9644-4c89-8d83-514081de3c0e",
+  "providerState": {
+    "providerSessionId": "e1e9046a-9644-4c89-8d83-514081de3c0e"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W1 2026-07-27~08-02.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 118,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59264,
+    "contextWindow": 1000000,
+    "contextTokens": 59382,
+    "percentage": 6
+  }
+}

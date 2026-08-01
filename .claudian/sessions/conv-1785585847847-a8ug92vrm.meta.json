@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785585847847-a8ug92vrm",
+  "providerId": "claude",
+  "title": "这是我这一周阅读训练的痕迹。 你整理一下（我不小心已经调用了另一个agent，未触发skill就写入...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785585847847,
+  "updatedAt": 1785589899824,
+  "lastResponseAt": 1785589899824,
+  "sessionId": "d39e9678-9caa-4519-b3e3-8f1476f7c368",
+  "providerState": {
+    "providerSessionId": "d39e9678-9caa-4519-b3e3-8f1476f7c368"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 44,
+    "cacheCreationInputTokens": 15192,
+    "cacheReadInputTokens": 175681,
+    "contextWindow": 1000000,
+    "contextTokens": 190917,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}
