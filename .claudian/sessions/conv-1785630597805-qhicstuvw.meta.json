@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785630597805-qhicstuvw",
+  "providerId": "claude",
+  "title": "我创建日记显示未找到日记模板 你能检查插件有啥问题吗（应该是模板插件吧）",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1785630597805,
+  "updatedAt": 1785630963511,
+  "lastResponseAt": 1785630884761,
+  "sessionId": "5fb7380a-f8d5-44ac-842b-42f0f659ba5c",
+  "providerState": {
+    "providerSessionId": "5fb7380a-f8d5-44ac-842b-42f0f659ba5c"
+  },
+  "currentNote": "4.不常用/43.模板文件/日记模板.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 169,
+    "cacheCreationInputTokens": 3639,
+    "cacheReadInputTokens": 43527,
+    "contextWindow": 1000000,
+    "contextTokens": 47335,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
