@@ -1,0 +1,26 @@
+{
+  "id": "conv-1785595007526-w67c5ysyo",
+  "providerId": "codex",
+  "title": "评估英语词汇电子资料售卖可行性",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785595007527,
+  "updatedAt": 1785595787094,
+  "lastResponseAt": 1785595787094,
+  "sessionId": "019fbdc1-93e6-78a3-a116-2b69c5e8ede3",
+  "providerState": {
+    "threadId": "019fbdc1-93e6-78a3-a116-2b69c5e8ede3",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\01\\rollout-2026-08-01T22-36-52-019fbdc1-93e6-78a3-a116-2b69c5e8ede3.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
+  "usage": {
+    "inputTokens": 64632,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48768,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 64632,
+    "percentage": 7,
+    "model": "gpt-5.6-sol"
+  }
+}

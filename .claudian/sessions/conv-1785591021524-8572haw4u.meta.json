@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785591021524-8572haw4u",
+  "providerId": "codex",
+  "title": "整理周报、回滚台账与下周计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785591021524,
+  "updatedAt": 1785594266531,
+  "lastResponseAt": 1785594266531,
+  "sessionId": "019fbd84-c06c-7fb0-80fb-522fbfcce7ec",
+  "providerState": {
+    "threadId": "019fbd84-c06c-7fb0-80fb-522fbfcce7ec",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\01\\rollout-2026-08-01T21-30-26-019fbd84-c06c-7fb0-80fb-522fbfcce7ec.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 115088,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 114304,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 115088,
+    "percentage": 12,
+    "model": "gpt-5.6-sol"
+  }
+}

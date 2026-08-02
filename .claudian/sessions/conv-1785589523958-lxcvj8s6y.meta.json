@@ -4,6 +4,23 @@
   "title": "整理矩阵秩笔记并生成自测题",
   "titleGenerationStatus": "success",
   "createdAt": 1785589523958,
-  "updatedAt": 1785589539139,
-  "sessionId": null
+  "updatedAt": 1785590961201,
+  "lastResponseAt": 1785590747849,
+  "sessionId": "019fbd6d-e68a-7e51-965c-bd5bf3d8b94c",
+  "providerState": {
+    "threadId": "019fbd6d-e68a-7e51-965c-bd5bf3d8b94c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\01\\rollout-2026-08-01T21-05-29-019fbd6d-e68a-7e51-965c-bd5bf3d8b94c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
+  "usage": {
+    "inputTokens": 90122,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 88704,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 90122,
+    "percentage": 9,
+    "model": "gpt-5.6-sol"
+  }
 }
