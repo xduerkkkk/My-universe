@@ -72,49 +72,20 @@
             }
           },
           {
-            "id": "8087cd3f8c8d02da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01王道题"
-            }
-          },
-          {
-            "id": "638e3f00b2a61046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "算法题题单"
-            }
-          },
-          {
             "id": "5785b7dc49048783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04自测题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04自测题"
+              "title": "笔记"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04自测题.md",
+                "file": "1.工作流/10.日记文件/2026-08-02 周日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -359,10 +330,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5785b7dc49048783",
+  "active": "97cb120e59169e09",
   "lastOpenFiles": [
-    "1.工作流/10.日记文件/2026-08-02 周日.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04自测题.md",
+    "1.工作流/10.日记文件/2026-08-02 周日.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
@@ -387,10 +361,7 @@
     "_attachments/image/02大观题-1785640454278.jpeg",
     "_attachments/image/02大观题-1785639269679.jpeg",
     "_attachments/image/02大观题-1785638991300.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/00-六周背诵总表.md",
     "_attachments/image/02大观题-1785636857751.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
     "_attachments/Pasted image 20260802095507.png",
     "_attachments/image/不熟悉的式子-1785634097152.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/卡片",
