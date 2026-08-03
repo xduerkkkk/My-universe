@@ -109,16 +109,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 大观题"
+              "title": "06 不熟悉2.0"
+            }
+          },
+          {
+            "id": "f02e12436f1098c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03强化课--PV操作"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -363,20 +376,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "129334be0aa310fb",
+  "active": "5e9e3d87f669d036",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
+    "1.工作流/10.日记文件/2026-08-03 周一.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
     "_attachments/image/04 大观题-1785759588571.jpeg",
     "_attachments/image/04 大观题-1785759155849.jpeg",
     "_attachments/image/04 大观题-1785758782755.jpeg",
     "_attachments/image/04 大观题-1785758678175.jpeg",
     "_attachments/image/04 大观题-1785758484683.jpeg",
     "_attachments/image/04 大观题-1785758410648.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
-    "1.工作流/10.日记文件/2026-08-03 周一.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/06查找/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/大纲.md",
     "_attachments/image/02王道题-1785744674945.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
@@ -393,15 +409,12 @@
     "_attachments/image/01王道笔记-1785739442740.jpeg",
     "_attachments/image/04 大观题-1785729433368.jpeg",
     "_attachments/image/04 大观题-1785728704464.jpeg",
-    "_attachments/image/04 大观题-1785728696322.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/02习题与1000题.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/卡片/不熟悉的式子.md",
-    "1.工作流/10.日记文件/2026-08-02 周日.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/卡片",
     "未命名 2.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.11684.e98a89cbf418",
