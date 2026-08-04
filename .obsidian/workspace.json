@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 大观题"
+              "title": "03应用题"
             }
           }
         ],
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -335,11 +335,12 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.9923095703125
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,8 +364,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5b75d7bcff2673fe",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
     "_attachments/image/04 大观题-1785816019409.jpeg",
     "_attachments/image/04 大观题-1785816001915.jpeg",
     "_attachments/image/04 大观题-1785815981534.jpeg",
@@ -377,14 +383,11 @@
     "_attachments/image/02大观题-1785812749915.jpeg",
     "_attachments/image/02大观题-1785812542572.jpeg",
     "_attachments/image/02大观题-1785812518259.jpeg",
-    "_attachments/image/02大观题-1785809653764.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
     "1.工作流/回滚台账.md",
     "1.工作流/10.日记文件/2026-08-03 周一.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/03强化课--PV操作.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
@@ -399,8 +402,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04自测题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 分块矩阵.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 小tips.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/卡片",
     "未命名 2.canvas",
