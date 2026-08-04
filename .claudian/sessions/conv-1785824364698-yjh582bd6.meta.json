@@ -4,8 +4,8 @@
   "title": "整理王道数据结构树图查找章节笔记",
   "titleGenerationStatus": "success",
   "createdAt": 1785824364700,
-  "updatedAt": 1785824706271,
-  "lastResponseAt": 1785824706271,
+  "updatedAt": 1785825564384,
+  "lastResponseAt": 1785825564384,
   "sessionId": "019fcb6d-4fa0-7c13-8e40-2c515fcf5d9e",
   "providerState": {
     "threadId": "019fcb6d-4fa0-7c13-8e40-2c515fcf5d9e",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 51497,
+    "inputTokens": 116301,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 49792,
+    "cacheReadInputTokens": 114304,
     "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 51497,
-    "percentage": 5,
+    "contextTokens": 116301,
+    "percentage": 12,
     "model": "gpt-5.6-sol"
   }
 }
