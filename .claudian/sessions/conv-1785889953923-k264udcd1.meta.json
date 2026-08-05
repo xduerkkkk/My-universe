@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785889953923-k264udcd1",
+  "providerId": "claude",
+  "title": "现在是开启新文件体系的第二周，按道理我周六才调用你，但这周写最简单的11年，比最难的上周10年都错这...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785889953923,
+  "updatedAt": 1785894675544,
+  "lastResponseAt": 1785894675544,
+  "sessionId": "3c1d43e5-6eab-47f7-b2f2-9e9cd0bdd511",
+  "providerState": {
+    "providerSessionId": "3c1d43e5-6eab-47f7-b2f2-9e9cd0bdd511"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 142,
+    "cacheCreationInputTokens": 28411,
+    "cacheReadInputTokens": 60049,
+    "contextWindow": 1000000,
+    "contextTokens": 88602,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}
