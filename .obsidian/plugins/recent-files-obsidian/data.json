@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "回滚台账",
+      "path": "1.工作流/回滚台账.md"
+    },
+    {
+      "basename": "04 大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md"
+    },
+    {
+      "basename": "03 强化",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md"
+    },
+    {
+      "basename": "几何直观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/几何直观.md"
+    },
+    {
+      "basename": "二次型",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/二次型.md"
+    },
+    {
+      "basename": "2026-08-06 周四",
+      "path": "1.工作流/10.日记文件/2026-08-06 周四.md"
+    },
+    {
+      "basename": "03大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md"
+    },
+    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md"
     },
@@ -9,16 +37,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
     },
     {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
-    },
-    {
-      "basename": "2026-08-06 周四",
-      "path": "1.工作流/10.日记文件/2026-08-06 周四.md"
-    },
-    {
       "basename": "topk",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/topk.md"
+    },
+    {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "04算法重刷",
@@ -45,10 +69,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/王道题.md"
     },
     {
-      "basename": "03大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md"
     },
@@ -63,10 +83,6 @@
     {
       "basename": "Pasted image 20260806111708.png",
       "path": "_attachments/Pasted image 20260806111708.png.md"
-    },
-    {
-      "basename": "回滚台账",
-      "path": "1.工作流/回滚台账.md"
     },
     {
       "basename": "2026-08-05 周三",
@@ -87,10 +103,6 @@
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题.md"
-    },
-    {
-      "basename": "04 大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md"
     },
     {
       "basename": "大观",
@@ -187,18 +199,6 @@
     {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/01笔记.md"
-    },
-    {
-      "basename": "王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道笔记.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03串/王道题.md"
-    },
-    {
-      "basename": "02王道题-错题复盘-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-错题复盘-重构版.md"
     }
   ],
   "omittedPaths": [
