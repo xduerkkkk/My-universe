@@ -4,8 +4,8 @@
   "title": "现在是开启新文件体系的第二周，按道理我周六才调用你，但这周写最简单的11年，比最难的上周10年都错这...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785889953923,
-  "updatedAt": 1785935095476,
-  "lastResponseAt": 1785935095476,
+  "updatedAt": 1786022195405,
+  "lastResponseAt": 1786022195405,
   "sessionId": "3c1d43e5-6eab-47f7-b2f2-9e9cd0bdd511",
   "providerState": {
     "providerSessionId": "3c1d43e5-6eab-47f7-b2f2-9e9cd0bdd511"
@@ -13,12 +13,12 @@
   "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 17,
-    "cacheCreationInputTokens": 1269,
-    "cacheReadInputTokens": 103559,
+    "inputTokens": 23,
+    "cacheCreationInputTokens": 355,
+    "cacheReadInputTokens": 153588,
     "contextWindow": 1000000,
-    "contextTokens": 104845,
-    "percentage": 10,
+    "contextTokens": 153966,
+    "percentage": 15,
     "contextWindowIsAuthoritative": true
   }
 }
