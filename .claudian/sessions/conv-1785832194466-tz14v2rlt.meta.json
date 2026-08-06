@@ -4,21 +4,20 @@
   "title": "阅读链表部分 我只想二刷我注释的以及错的（红色)或者”？，",
   "titleGenerationStatus": "failed",
   "createdAt": 1785832194466,
-  "updatedAt": 1785832384278,
-  "lastResponseAt": 1785832261309,
+  "updatedAt": 1785997537373,
+  "lastResponseAt": 1785997537373,
   "sessionId": "d801cdc6-403c-480a-86bc-d678fe92888f",
   "providerState": {
     "providerSessionId": "d801cdc6-403c-480a-86bc-d678fe92888f"
   },
-  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
   "usage": {
-    "model": "sonnet[1m]",
-    "inputTokens": 23,
-    "cacheCreationInputTokens": 136,
-    "cacheReadInputTokens": 51960,
+    "model": "opus[1m]",
+    "inputTokens": 17,
+    "cacheCreationInputTokens": 5826,
+    "cacheReadInputTokens": 35978,
     "contextWindow": 1000000,
-    "contextTokens": 52119,
-    "percentage": 5,
+    "contextTokens": 41821,
+    "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
 }
