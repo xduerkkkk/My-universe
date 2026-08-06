@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "03大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md"
-    },
-    {
       "basename": "04 大观题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md"
     },
     {
+      "basename": "03大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md"
+    },
+    {
       "basename": "2026-08-06 周四",
       "path": "1.工作流/10.日记文件/2026-08-06 周四.md"
+    },
+    {
+      "basename": "Pasted image 20260806111708.png",
+      "path": "_attachments/Pasted image 20260806111708.png.md"
     },
     {
       "basename": "回滚台账",
@@ -195,10 +199,6 @@
     {
       "basename": "03应用题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/03应用题.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/04树/02王道题.md"
     }
   ],
   "omittedPaths": [

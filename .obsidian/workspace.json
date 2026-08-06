@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "2026-08-06 周四"
             }
+          },
+          {
+            "id": "1d5e426efabff35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 大观题"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -333,21 +347,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a2ef99fa0acc5ffa",
+  "active": "1d5e426efabff35b",
   "lastOpenFiles": [
+    "_attachments/image/04 大观题-1785988630958.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
+    "_attachments/image/03大观题-1785986244137.jpeg",
+    "1.工作流/10.日记文件/2026-08-06 周四.md",
+    "_attachments/Pasted image 20260806111708.png.md",
+    "_attachments/image/03大观题-1785986228341.jpeg",
+    "_attachments/image/03大观题-1785985388303.jpeg",
+    "_attachments/image/03大观题-1785984017578.jpeg",
+    "_attachments/image/03大观题-1785983720707.jpeg",
+    "_attachments/image/03大观题-1785983712100.jpeg",
+    "_attachments/image/03大观题-1785983183462.jpeg",
+    "_attachments/image/03大观题-1785983159825.jpeg",
     "_attachments/image/03大观题-1785981008226.jpeg",
     "_attachments/image/03大观题-1785980232392.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
-    "_attachments/image/04 大观题-1785980108682.jpeg",
-    "_attachments/image/04 大观题-1785979758478.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
-    "1.工作流/10.日记文件/2026-08-06 周四.md",
-    "_attachments/image/03大观题-1785978978430.jpeg",
-    "_attachments/image/03大观题-1785978522557.jpeg",
-    "_attachments/image/03大观题-1785978241792.jpeg",
-    "_attachments/image/03大观题-1785978232205.jpeg",
     "1.工作流/回滚台账.md",
-    "_attachments/image/03大观题-1785977723664.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/02王道题.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "1.工作流/10.日记文件/2026-08-05 周三.md",
@@ -358,8 +375,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.98eecaf86382",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.17aaa2065b53",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.f934d09d1265",
-    "_attachments/image/02王道题-错题复盘-重构版-1785933578642.jpeg",
-    "_attachments/image/02王道题-错题复盘-重构版-1785933387851.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/02数据表示/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
@@ -380,7 +395,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02栈与队列/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01不熟悉.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
     "未命名 2.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
