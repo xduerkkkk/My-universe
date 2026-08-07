@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "组合排序",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/组合排序.md"
+      "basename": "堆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/堆.md"
+    },
+    {
+      "basename": "01算法题题单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/01算法题题单.md"
+    },
+    {
+      "basename": "03算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/03算法题重刷清单.md"
     },
     {
       "basename": "02王道题",
@@ -11,6 +19,10 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md"
+    },
+    {
+      "basename": "组合排序",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/组合排序.md"
     },
     {
       "basename": "对logn的理解",
@@ -47,14 +59,6 @@
     {
       "basename": "日常生活",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/主题素材库/日常生活.md"
-    },
-    {
-      "basename": "03算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/03算法题重刷清单.md"
-    },
-    {
-      "basename": "01算法题题单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01算法题题单.md"
     },
     {
       "basename": "03大观题",
@@ -195,10 +199,6 @@
     {
       "basename": "02 题眼--触发",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/02 题眼--触发.md"
-    },
-    {
-      "basename": "01定理的使用条件",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md"
     }
   ],
   "omittedPaths": [
