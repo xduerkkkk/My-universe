@@ -74,6 +74,38 @@
           {
             "id": "9463dbe0a3961649",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04 做题笔记"
+            }
+          },
+          {
+            "id": "b0db9b32c584c2f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05不熟悉的记录"
+            }
+          },
+          {
+            "id": "a1b934762485edab",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -86,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -331,17 +363,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9463dbe0a3961649",
+  "active": "d8145c96f7ff51df",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
+    "_attachments/image/03大观题-1786075399202.jpeg",
+    "_attachments/image/03大观题-1786075394561.jpeg",
+    "_attachments/image/03大观题-1786075387600.jpeg",
+    "_attachments/image/03大观题-1786075369706.jpeg",
+    "_attachments/image/03大观题-1786075008805.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
+    "_attachments/image/05不熟悉的记录-1786074446923.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
+    "_attachments/image/03大观题-1786073611305.jpeg",
+    "_attachments/image/03大观题-1786073600504.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
     "_attachments/image/03大观题-1786067765872.jpeg",
     "_attachments/image/03大观题-1786067754848.jpeg",
     "_attachments/image/03大观题-1786066191899.jpeg",
-    "_attachments/image/03大观题-1786065847982.jpeg",
-    "_attachments/image/03大观题-1786065836471.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
     "1.工作流/10.日记文件/2026-08-07 周五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
@@ -356,23 +395,16 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/03存储/卡片/透明.md",
-    "_attachments/image/02王道题-错题复盘-重构版-1786019574794.jpeg",
-    "_attachments/image/02王道题-错题复盘-重构版-1786019547056.jpeg",
-    "_attachments/image/02王道题-错题复盘-重构版-1786019520907.jpeg",
-    "_attachments/image/02王道题-错题复盘-重构版-1786019455429.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/几何直观.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/二次型.md",
-    "_attachments/image/04 大观题-1786016706809.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/topk.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/04算法重刷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/03大题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/01线性表/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/02技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/00绪论/笔记.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.bfb528a2acd8",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.229f69d1ca91",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.98eecaf86382",
