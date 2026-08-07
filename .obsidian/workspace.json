@@ -350,8 +350,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -379,10 +378,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5e9e3d87f669d036",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "1.工作流/回滚台账.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
@@ -411,7 +411,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
     "_attachments/image/02王道题-1786093995591.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/组合排序.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "_attachments/image/01王道笔记-1786085975795.jpeg",
     "_attachments/image/03算法题重刷清单-1786084902619.jpeg",
