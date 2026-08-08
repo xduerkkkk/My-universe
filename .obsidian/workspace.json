@@ -337,7 +337,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -365,10 +366,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b0db9b32c584c2f8",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
-    "_attachments/image/05不熟悉的记录-1786161316303.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "_attachments/image/05不熟悉的记录-1786161316303.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
     "_attachments/image/03大观题-1786160722649.jpeg",
     "_attachments/image/03大观题-1786158730797.jpeg",
@@ -376,13 +380,9 @@
     "_attachments/image/03大观题-1786158120876.jpeg",
     "_attachments/image/03大观题-1786158117516.jpeg",
     "_attachments/image/03大观题-1786158108184.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
     "_attachments/image/05不熟悉的记录-1786157756000.jpeg",
     "_attachments/image/05不熟悉的记录-1786155628644.jpeg",
     "_attachments/image/05不熟悉的记录-1786155065960.jpeg",
-    "_attachments/image/05不熟悉的记录-1786154743969.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
     "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
