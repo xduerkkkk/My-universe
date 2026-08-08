@@ -1,0 +1,93 @@
+127| 
+128| ### ① 检测抽查（5 分钟）
+129| 
+130| 只答**差在哪一维**：`等价 / 程度 / 时态 / 主体 / 范围 / 方向`。A（3 秒说出维度）／B（说得出词义、说不出差异）／C（答错或答不出）。
+131| 
+132| | # | 原文表达 | 改写 | 差在哪一维 | 判定 |
+133| |---|---|---|---|---|
+134| | 1 | in the grip of a recession | affected by a recession | | |
+135| | 2 | squeeze profits | reduce profits | | |
+136| | 3 | the nature of the difference | the cause of the difference | | |
+137| | 4 | shield workers from the shock | protect workers against the shock | | |
+138| | 5 | follows the reform | results from the reform | | |
+139| | 6 | a lean organization | a small organization | | |
+140| 
+141| > 1、2 是 W2 高危（grip C→C，squeeze B→B）。3 是 `nature` 第三次。5 是方向桶第三次——**这条再错就单独立卡。** 4 是等价正例。
+142| 
+143| ### ② 新单元（15 分钟）｜**多词结构为主**
+144| 
+145| **A. 回收测（5 分钟）**：昨天那五条，遮住义自己说一遍，写下来。
+146| 
+147| `cling to` ＝　　　　｜`get the nod` ＝　　　　｜`jump without a net` ＝　　　　｜`take a page from` ＝　　　　｜`self-centered` ＝
+148| 
+149| **B. 新结构（7 分钟）**：先说义 + 触发器，再核对
+150| 
+151| `in the wake of` ／ `be subject to` ／ `give rise to` ／ `at the expense of`
+152| 
+153| <details><summary>核对</summary>
+154| 
+155| - `in the wake of` → 在……之后、紧随其后（**常含因果暗示**，不只是时间）。触发：后接事件名词
+156| - `be subject to` → 受……支配 / 有可能遭受（`subject to approval` 需经批准；`subject to criticism` 可能受批评）。**不是「主题」**
+157| - `give rise to` → 引起、导致（**A 是原因，B 是结果**——和 `result from` 方向相反，别混）
+158| - `at the expense of` → 以……为代价（**牺牲后者**，选项常把牺牲方向说反）
+159| </details>
+160| 
+161| **C. 近义组（3 分钟）**：`assess / evaluate / estimate / measure`（W2 判 C）
+162| 
+163| - **Q1**：`assess the risk` → 换 `measure` 行不行？为什么？
+164|   →
+165| - **Q2**：原文 `assess the impact`，选项写 `measure the impact`，这是升级还是降级？
+166|   →
+167| 
+168| <details><summary>核对</summary>
+169| 
+170| Q1 不行。`assess` 是综合判断，不必量化；`measure` 要有单位／指标。风险通常无法直接实测。
+171| Q2 **升级**——从「综合判断」升到「按指标实测」，选项给了原文没有的精确度。这是程度类偷换的标准形状。
+172| </details>
+173| 
+174| ### ③ 真题（35 分钟）
+175| 
+207| ## 08-11 周二　D2
+208| 
+209| ### ① 检测抽查
+210| 
+211| | # | 原文表达 | 改写 | 差在哪一维 | 判定 |
+212| |---|---|---|---|---|
+213| | 1 | patents are issued | patents are examined | | |
+214| | 2 | frame the debate | join the debate | | |
+215| | 3 | retreat from its dominance | lose some influence | | |
+216| | 4 | an effective policy | a beneficial policy | | |
+217| | 5 | in the wake of the crisis | because of the crisis | | |
+218| | 6 | narrow the gap | reduce the gap | | |
+219| 
+220| > 1—4 是 W2 高危四项（issue、frame、retreat、effective/beneficial）。5 测昨天新学的（**`in the wake of` 含因果暗示但不等于 because of，注意程度**）。6 是等价正例。
+221| 
+222| ### ② 新单元｜**因果 / 让步类结构**
+223| 
+224| **A. 昨天四条回收**：`in the wake of` ／ `be subject to` ／ `give rise to` ／ `at the expense of` — 遮住自己说
+225| 
+226| **B. 新结构**：`stem from` ／ `be attributed to` ／ `if anything` ／ `let alone`
+227| 
+228| <details><summary>核对</summary>
+229| 
+230| - `stem from` → 源自、由……引起（**A 是结果，B 是原因**——同 `result from`，与 `give rise to` 反向）
+231| - `be attributed to` → 被归因于（**归因动作可能是别人做的**，不等于事实成立）
+232| - `if anything` → 要说有什么区别的话，反倒是……（**转折信号，常出现在态度题裁决位**）
+233| - `let alone` → 更不用说（**后面那个更强／更难**，方向别读反）
+234| </details>
+235| 
+236| **C. 近义组**：`recognize / realize / appreciate / acknowledge`（W2 判 B）
+237| 
+238| - **Q1**：`acknowledge the problem` → 换 `appreciate` 行不行？
+239|   →
+240| - **Q2**：原文 `acknowledged the risk`，选项写 `agreed with the plan`，方向对吗？
+241|   →
+242| 
+243| <details><summary>核对</summary>
+244| 
+245| Q1 不行。`acknowledge` 是明确承认事实存在；`appreciate` 是充分理解其价值／重要性。承认问题存在 ≠ 理解问题的价值。
+246| Q2 **不对，这是偷换而非升降级**。`acknowledge` 只承认事实，**不等于赞同**：He acknowledged the problem but opposed the solution.
+247| </details>
+248| 
+249| ### ③ 真题
+250| 
