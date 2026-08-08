@@ -118,22 +118,9 @@
               "icon": "lucide-file",
               "title": "02大观题"
             }
-          },
-          {
-            "id": "e62c61337177785b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00式子"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,11 +365,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6afabb7a710c80da",
+  "active": "d8145c96f7ff51df",
   "lastOpenFiles": [
-    "1.工作流/回滚台账.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "_attachments/image/03大观题-1786158730797.jpeg",
+    "_attachments/image/03大观题-1786158611660.jpeg",
+    "_attachments/image/03大观题-1786158120876.jpeg",
+    "_attachments/image/03大观题-1786158117516.jpeg",
+    "_attachments/image/03大观题-1786158108184.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
+    "_attachments/image/05不熟悉的记录-1786157756000.jpeg",
+    "_attachments/image/05不熟悉的记录-1786155628644.jpeg",
+    "_attachments/image/05不熟悉的记录-1786155065960.jpeg",
+    "_attachments/image/05不熟悉的记录-1786154743969.jpeg",
+    "_attachments/image/05不熟悉的记录-1786154396903.jpeg",
+    "_attachments/image/05不熟悉的记录-1786154385773.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
+    "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 不熟悉2.0.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00式子.md",
@@ -397,28 +398,14 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 小tips.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
-    "_attachments/image/05 计算技巧-1786102316464.jpeg",
-    "_attachments/image/05 计算技巧-1786102299053.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/习题与1000题与880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md",
     "1.工作流/10.日记文件/2026-08-07 周五.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/堆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/01算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/03算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/01王道笔记.md",
-    "_attachments/image/02王道题-1786093995591.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
-    "_attachments/image/01王道笔记-1786085975795.jpeg",
-    "_attachments/image/03算法题重刷清单-1786084902619.jpeg",
-    "_attachments/image/03算法题重刷清单-1786084895904.jpeg",
-    "_attachments/image/03大观题-1786075399202.jpeg",
-    "_attachments/image/03大观题-1786075394561.jpeg",
-    "_attachments/image/03大观题-1786075387600.jpeg",
-    "_attachments/image/03大观题-1786075369706.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.fc5a60007387",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.80178249aa7b",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md.tmp.64464.131a66cf3c22",
