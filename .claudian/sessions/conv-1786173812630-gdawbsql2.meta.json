@@ -4,8 +4,8 @@
   "title": "今天是周六 你整理本文件  再就是感觉AI有些话太冗余了  精简点  我复盘看起来也轻松",
   "titleGenerationStatus": "failed",
   "createdAt": 1786173812630,
-  "updatedAt": 1786179658654,
-  "lastResponseAt": 1786179658654,
+  "updatedAt": 1786189689376,
+  "lastResponseAt": 1786189689375,
   "sessionId": "f0b03307-9fad-41e1-90f5-723bfac3834c",
   "providerState": {
     "providerSessionId": "f0b03307-9fad-41e1-90f5-723bfac3834c"
@@ -13,11 +13,11 @@
   "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 82,
-    "cacheCreationInputTokens": 14805,
-    "cacheReadInputTokens": 177766,
+    "inputTokens": 66,
+    "cacheCreationInputTokens": 7585,
+    "cacheReadInputTokens": 186877,
     "contextWindow": 1000000,
-    "contextTokens": 192653,
+    "contextTokens": 194528,
     "percentage": 19,
     "contextWindowIsAuthoritative": true
   }
