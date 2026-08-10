@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786350419163-2gpnqp8zj",
+  "providerId": "claude",
+  "title": "你可以看到我的规划，现在有几件事情。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786350419164,
+  "updatedAt": 1786350443752,
+  "lastResponseAt": 1786350437745,
+  "sessionId": "e9579173-253b-4e3f-9228-6f23e3d362dc",
+  "providerState": {
+    "providerSessionId": "e9579173-253b-4e3f-9228-6f23e3d362dc"
+  },
+  "currentNote": "1.工作流/10.日记文件/2026-08-10 周一.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2162,
+    "cacheCreationInputTokens": 5142,
+    "cacheReadInputTokens": 30948,
+    "contextWindow": 1000000,
+    "contextTokens": 38252,
+    "percentage": 4
+  }
+}

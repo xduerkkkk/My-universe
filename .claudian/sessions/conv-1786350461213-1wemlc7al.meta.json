@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786350461213-1wemlc7al",
+  "providerId": "claude",
+  "title": "你可以看到我的规划，现在有几件事情。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786350461214,
+  "updatedAt": 1786354906931,
+  "lastResponseAt": 1786354906931,
+  "sessionId": "d058a5f0-e9ad-4140-8366-be59f93bb1f9",
+  "providerState": {
+    "providerSessionId": "d058a5f0-e9ad-4140-8366-be59f93bb1f9"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 94,
+    "cacheCreationInputTokens": 11634,
+    "cacheReadInputTokens": 112053,
+    "contextWindow": 1000000,
+    "contextTokens": 123781,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

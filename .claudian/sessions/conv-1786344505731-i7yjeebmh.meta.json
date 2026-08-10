@@ -4,6 +4,22 @@
   "title": "重构线性代数薄弱知识体系与自测题",
   "titleGenerationStatus": "success",
   "createdAt": 1786344505732,
-  "updatedAt": 1786344531109,
-  "sessionId": null
+  "updatedAt": 1786351080754,
+  "lastResponseAt": 1786351080754,
+  "sessionId": "019fea6e-0a11-7851-bc8b-e582def7456c",
+  "providerState": {
+    "threadId": "019fea6e-0a11-7851-bc8b-e582def7456c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\10\\rollout-2026-08-10T14-48-32-019fea6e-0a11-7851-bc8b-e582def7456c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 134720,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3712,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 134720,
+    "percentage": 14,
+    "model": "gpt-5.6-sol"
+  }
 }
