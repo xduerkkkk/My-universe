@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786344862217-7h8irce4o",
+  "providerId": "claude",
+  "title": "帮我整理一下本文件   然后从1",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786344862217,
+  "updatedAt": 1786349245354,
+  "lastResponseAt": 1786346191459,
+  "sessionId": "5e65e568-9f36-4a73-9f24-26ce54759d6e",
+  "providerState": {
+    "providerSessionId": "5e65e568-9f36-4a73-9f24-26ce54759d6e"
+  },
+  "currentNote": "1.工作流/10.日记文件/2026-08-02 周日.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 85,
+    "cacheCreationInputTokens": 13774,
+    "cacheReadInputTokens": 75784,
+    "contextWindow": 1000000,
+    "contextTokens": 89643,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}
