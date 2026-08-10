@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786361097764-3z0dsm87v",
+  "providerId": "codex",
+  "title": "完成 Obsidian 线性代数知识整理收尾",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786361097764,
+  "updatedAt": 1786361889372,
+  "lastResponseAt": 1786361889372,
+  "sessionId": "019feb6b-2f01-7532-ae5b-a4f6b43914e7",
+  "providerState": {
+    "threadId": "019feb6b-2f01-7532-ae5b-a4f6b43914e7",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\10\\rollout-2026-08-10T19-25-02-019feb6b-2f01-7532-ae5b-a4f6b43914e7.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 83944,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 80512,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 83944,
+    "percentage": 9,
+    "model": "gpt-5.6-sol"
+  }
+}
