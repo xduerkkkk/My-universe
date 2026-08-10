@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1847f37e26de078",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
-            "id": "d8145c96f7ff51df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03大观题"
-            }
-          },
-          {
-            "id": "b0db9b32c584c2f8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05不熟悉的记录"
-            }
-          },
-          {
             "id": "61916fd83721e69a",
             "type": "leaf",
             "pinned": true,
@@ -72,21 +24,22 @@
             }
           },
           {
-            "id": "8d748f36dc1916ed",
+            "id": "4d40a10f8fcce4ef",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "大观"
+              "title": "02大观题"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.1807861328125
+    "width": 278.734619140625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -256,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -303,8 +256,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -332,36 +284,36 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "61916fd83721e69a",
   "lastOpenFiles": [
-    "1.工作流/回滚台账.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01 矩阵运算、逆与伴随.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "1.工作流/回滚台账.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/数学归纳法.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/99 AI原始素材-不熟悉2.0.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.6838a45e28f6",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.9002fb47294d",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/02大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.39836.c9f49c79f907",
     "1.工作流/回滚台账.md.tmp.39836.55f1ecd7484c",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.0231bfc05c6d",
