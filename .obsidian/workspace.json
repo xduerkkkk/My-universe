@@ -38,8 +38,55 @@
               "icon": "lucide-file",
               "title": "02大观题"
             }
+          },
+          {
+            "id": "e3ca346519fb28a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04 强化习题"
+            }
+          },
+          {
+            "id": "50ee5e41ec3b1772",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01笔记"
+            }
+          },
+          {
+            "id": "29c45b1f61138bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 880"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.734619140625
+    "width": 243.2884521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -145,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -284,9 +331,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "61916fd83721e69a",
+  "active": "e3ca346519fb28a6",
   "lastOpenFiles": [
+    "_attachments/image/04 强化习题-1786414556896.jpeg",
+    "_attachments/image/04 强化习题-1786413681787.jpeg",
+    "_attachments/image/04 强化习题-1786413590343.jpeg",
+    "_attachments/image/04 强化习题-1786413542507.jpeg",
+    "_attachments/image/04 强化习题-1786412919136.jpeg",
+    "_attachments/image/04 强化习题-1786412906072.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+    "_attachments/image/04 强化习题-1786411569286.jpeg",
+    "_attachments/image/04 强化习题-1786411213038.jpeg",
+    "_attachments/image/04 强化习题-1786410412434.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "_attachments/image/04 强化习题-1786409681610.jpeg",
+    "_attachments/image/04 强化习题-1786409282463.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01 矩阵运算、逆与伴随.md",
@@ -296,11 +359,9 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05不熟悉的记录.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
     "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
@@ -308,27 +369,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/数学归纳法.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/99 AI原始素材-不熟悉2.0.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W2 2026-08-02~08-08.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.6838a45e28f6",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.9002fb47294d",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.39836.c9f49c79f907",
     "1.工作流/回滚台账.md.tmp.39836.55f1ecd7484c",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.0231bfc05c6d",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.677e0d3b0ea9",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.1d8c4c809393",
-    "_attachments/image/06 不熟悉2.0-1786343153388.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786343145904.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786343136443.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786343134763.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786343076211.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786342942687.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786334172549.jpeg",
-    "_attachments/image/06 不熟悉2.0-1786333695120.jpeg",
-    "_attachments/image/03大观题-1786333233208.jpeg",
-    "_attachments/image/03大观题-1786332738143.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.base",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md.tmp.30968.fad3279334ee",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md.tmp.30968.f1279d6cb314",
