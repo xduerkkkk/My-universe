@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,11 +172,12 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 243.2884521484375
+    "width": 296.45770263671875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -256,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -331,24 +332,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e3ca346519fb28a6",
+  "active": "50ee5e41ec3b1772",
   "lastOpenFiles": [
-    "_attachments/image/04 强化习题-1786414556896.jpeg",
-    "_attachments/image/04 强化习题-1786413681787.jpeg",
-    "_attachments/image/04 强化习题-1786413590343.jpeg",
-    "_attachments/image/04 强化习题-1786413542507.jpeg",
-    "_attachments/image/04 强化习题-1786412919136.jpeg",
-    "_attachments/image/04 强化习题-1786412906072.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+    "_attachments/image/01笔记-1786420701179.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
-    "_attachments/image/04 强化习题-1786411569286.jpeg",
-    "_attachments/image/04 强化习题-1786411213038.jpeg",
-    "_attachments/image/04 强化习题-1786410412434.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
-    "_attachments/image/04 强化习题-1786409681610.jpeg",
-    "_attachments/image/04 强化习题-1786409282463.jpeg",
+    "_attachments/image/04 强化习题-1786420126646.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/01笔记-1786419660980.jpeg",
+    "_attachments/image/01笔记-1786419553535.jpeg",
+    "_attachments/image/04 强化习题-1786419381995.jpeg",
+    "_attachments/image/04 强化习题-1786419214630.jpeg",
+    "_attachments/image/04 强化习题-1786418566601.jpeg",
+    "_attachments/image/04 强化习题-1786418560832.jpeg",
+    "_attachments/image/04 强化习题-1786415382860.jpeg",
+    "_attachments/image/04 强化习题-1786415121557.jpeg",
+    "_attachments/image/04 强化习题-1786415114312.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
