@@ -2,10 +2,10 @@
   "id": "conv-1786450721505-8hk88wdlg",
   "providerId": "claude",
   "title": "### 408 旧科（CO / OS）复习：闭卷单元测（2026-08-10 改版）",
-  "titleGenerationStatus": "pending",
+  "titleGenerationStatus": "failed",
   "createdAt": 1786450721506,
-  "updatedAt": 1786450799752,
-  "lastResponseAt": 1786450799751,
+  "updatedAt": 1786451776625,
+  "lastResponseAt": 1786451736261,
   "sessionId": "fc8956cb-bf83-4c92-ad04-d2e5df78de1a",
   "providerState": {
     "providerSessionId": "fc8956cb-bf83-4c92-ad04-d2e5df78de1a"
@@ -13,12 +13,12 @@
   "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 6174,
-    "cacheCreationInputTokens": 14750,
-    "cacheReadInputTokens": 37825,
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 8029,
+    "cacheReadInputTokens": 89231,
     "contextWindow": 1000000,
-    "contextTokens": 58749,
-    "percentage": 6,
+    "contextTokens": 97411,
+    "percentage": 10,
     "contextWindowIsAuthoritative": true
   }
 }
