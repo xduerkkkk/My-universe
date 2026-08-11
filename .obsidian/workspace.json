@@ -72,21 +72,37 @@
             }
           },
           {
-            "id": "29c45b1f61138bda",
+            "id": "771e2b1d20586250",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "6a0c12bd9fe2ddb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 880"
+              "title": "01王道笔记"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,12 +188,11 @@
               "title": "00-规划一览"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.45770263671875
+    "width": 294.98077392578125
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -193,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -332,13 +347,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "50ee5e41ec3b1772",
+  "active": "6a0c12bd9fe2ddb2",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "_attachments/image/01笔记-1786420701179.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
     "_attachments/image/04 强化习题-1786420126646.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "_attachments/image/01笔记-1786419660980.jpeg",
     "_attachments/image/01笔记-1786419553535.jpeg",
     "_attachments/image/04 强化习题-1786419381995.jpeg",
@@ -347,7 +366,6 @@
     "_attachments/image/04 强化习题-1786418560832.jpeg",
     "_attachments/image/04 强化习题-1786415382860.jpeg",
     "_attachments/image/04 强化习题-1786415121557.jpeg",
-    "_attachments/image/04 强化习题-1786415114312.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
@@ -367,9 +385,6 @@
     "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/数学归纳法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.6838a45e28f6",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.9002fb47294d",
     "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.39836.c9f49c79f907",

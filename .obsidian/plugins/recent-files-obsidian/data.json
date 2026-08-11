@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/01王道笔记.md"
+    },
+    {
+      "basename": "03思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/03思维导图.md"
+    },
+    {
+      "basename": "Drawing 2026-04-16 16.29.10.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/Drawing 2026-04-16 16.29.10.excalidraw.md"
+    },
+    {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md"
     },
     {
-      "basename": "04 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md"
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md"
     },
     {
       "basename": "00-规划一览",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "04 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md"
     },
     {
       "basename": "03 880",
@@ -183,22 +199,6 @@
     {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "05认知画像",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05认知画像.md"
-    },
-    {
-      "basename": "病灶画像",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md"
-    },
-    {
-      "basename": "算法题复盘方法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/算法题复盘方法.md"
-    },
-    {
-      "basename": "05错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/05图论/05错题复盘.md"
     }
   ],
   "omittedPaths": [
