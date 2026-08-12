@@ -319,11 +319,12 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 262.515380859375
+    "width": 368.83843994140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,7 +351,10 @@
   "active": "4c5737aba6995bec",
   "lastOpenFiles": [
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
+    "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/02王道题.md",
+    "_attachments/image/02王道题-1786525569096.jpeg",
+    "_attachments/image/02王道题-1786524651227.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md",
@@ -377,15 +381,12 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
     "_attachments/image/03 强化习题-1786498514428.jpeg",
     "_attachments/image/03 强化习题-1786497967493.jpeg",
-    "_attachments/image/03 强化习题-1786497688880.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
-    "_attachments/image/04 强化习题-1786496713779.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-11-OS内存管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/多级页表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU",
