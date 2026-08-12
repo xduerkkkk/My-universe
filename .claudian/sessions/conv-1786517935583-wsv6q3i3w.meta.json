@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786517935583-wsv6q3i3w",
+  "providerId": "claude",
+  "title": "修改一下 加一个网络层  然后再说OSI和TCP/IP这块的区别",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786517935584,
+  "updatedAt": 1786518119252,
+  "lastResponseAt": 1786518089690,
+  "sessionId": "9729cc30-0ee9-4702-8983-00b5a5d1249e",
+  "providerState": {
+    "providerSessionId": "9729cc30-0ee9-4702-8983-00b5a5d1249e"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 108,
+    "cacheCreationInputTokens": 6673,
+    "cacheReadInputTokens": 45192,
+    "contextWindow": 1000000,
+    "contextTokens": 51973,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
