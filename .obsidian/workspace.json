@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -333,13 +333,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "85cc03b62d0acf94",
+  "active": "771e2b1d20586250",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
     "_attachments/image/03 强化习题-1786507353841.jpeg",
     "_attachments/image/03 强化习题-1786506878906.jpeg",
     "_attachments/image/03 强化习题-1786506826852.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
     "_attachments/image/03 强化习题-1786504648030.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
@@ -361,7 +361,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
     "_attachments/image/04 强化习题-1786496713779.jpeg",
-    "_attachments/image/04 强化习题-1786496431758.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-11-OS内存管理.md",
