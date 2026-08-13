@@ -1,0 +1,16 @@
+{
+  "id": "conv-1786589817642-rm5kjajj8",
+  "providerId": "codex",
+  "title": "你是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786589817642,
+  "updatedAt": 1786589870317,
+  "lastResponseAt": 1786589864229,
+  "sessionId": "019ff90d-2bcd-7f32-987b-b98b3b31b791",
+  "providerState": {
+    "threadId": "019ff90d-2bcd-7f32-987b-b98b3b31b791",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\13\\rollout-2026-08-13T10-57-02-019ff90d-2bcd-7f32-987b-b98b3b31b791.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "未命名/随.md"
+}

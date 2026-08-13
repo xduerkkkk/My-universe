@@ -4,8 +4,8 @@
   "title": "征询意见",
   "titleGenerationStatus": "success",
   "createdAt": 1786587147073,
-  "updatedAt": 1786587703279,
-  "lastResponseAt": 1786587478877,
+  "updatedAt": 1786589811194,
+  "lastResponseAt": 1786588327837,
   "sessionId": "019ff8e4-6d49-73d0-b28d-83a97bb4fe48",
   "providerState": {
     "threadId": "019ff8e4-6d49-73d0-b28d-83a97bb4fe48",
@@ -14,12 +14,12 @@
   },
   "currentNote": "未命名/随.md",
   "usage": {
-    "inputTokens": 24227,
+    "inputTokens": 26205,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20096,
+    "cacheReadInputTokens": 3712,
     "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 24227,
+    "contextTokens": 26205,
     "percentage": 3,
     "model": "gpt-5.6-sol"
   }
