@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "W3 2026-08-09~08-15",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md"
-    },
-    {
       "basename": "回滚台账",
       "path": "1.工作流/回滚台账.md"
     },
@@ -13,12 +9,76 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/02王道题.md"
     },
     {
-      "basename": "04 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md"
+      "basename": "随",
+      "path": "未命名/随.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md"
+    },
+    {
+      "basename": "unicode_test_tmp",
+      "path": "unicode_test_tmp.md"
     },
     {
       "basename": "03 强化习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
+    },
+    {
+      "basename": "正态分布总结",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/卡片/正态分布总结.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md"
+    },
+    {
+      "basename": "04 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md"
+    },
+    {
+      "basename": "连续性随机变量及其概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/连续性随机变量及其概率.md"
+    },
+    {
+      "basename": "随机变量的分布函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/随机变量的分布函数.md"
+    },
+    {
+      "basename": "随机变量分布",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/随机变量分布.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "核心插件地图.excalidraw",
+      "path": "核心插件地图.excalidraw.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "1.工作流/未命名.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
+      "basename": "CLAUDIAN",
+      "path": "CLAUDIAN.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "W3 2026-08-09~08-15",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md"
     },
     {
       "basename": "02大观题",
@@ -43,10 +103,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
     },
     {
       "basename": "02王道题",
@@ -97,14 +153,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/02 题眼--触发.md"
     },
     {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md"
-    },
-    {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md"
-    },
-    {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "题--页面置换定位",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/题--页面置换定位.md"
-    },
-    {
-      "basename": "辨析--xx上限",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--xx上限.md"
-    },
-    {
-      "basename": "好例子",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/好例子.md"
-    },
-    {
-      "basename": "辨析--都有哪些可共享",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/辨析--都有哪些可共享.md"
-    },
-    {
-      "basename": "02王道题-知识点整理-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md"
-    },
-    {
-      "basename": "02王道题-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理.md"
-    },
-    {
-      "basename": "02王道题-错题复盘-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-错题复盘-重构版.md"
-    },
-    {
-      "basename": "【盲写清单】2026-08-18-CO_CPU数据通路",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-18-CO_CPU数据通路.md"
-    },
-    {
-      "basename": "【盲写清单】2026-08-21-CO_流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-21-CO_流水线.md"
-    },
-    {
-      "basename": "【盲写清单】2026-08-25-OS文件系统",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-25-OS文件系统.md"
-    },
-    {
-      "basename": "【盲写清单】2026-08-28-OS同步互斥",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-28-OS同步互斥.md"
-    },
-    {
-      "basename": "【盲写清单】2026-09-01-CO_Cache映射",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-09-01-CO_Cache映射.md"
-    },
-    {
-      "basename": "02王道题-错题复盘-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/04IO/02王道题-错题复盘-重构版.md"
     }
   ],
   "omittedPaths": [

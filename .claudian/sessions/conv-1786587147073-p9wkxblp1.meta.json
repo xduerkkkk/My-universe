@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786587147073-p9wkxblp1",
+  "providerId": "codex",
+  "title": "征询意见",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786587147073,
+  "updatedAt": 1786587703279,
+  "lastResponseAt": 1786587478877,
+  "sessionId": "019ff8e4-6d49-73d0-b28d-83a97bb4fe48",
+  "providerState": {
+    "threadId": "019ff8e4-6d49-73d0-b28d-83a97bb4fe48",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\13\\rollout-2026-08-13T10-12-32-019ff8e4-6d49-73d0-b28d-83a97bb4fe48.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "未命名/随.md",
+  "usage": {
+    "inputTokens": 24227,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 24227,
+    "percentage": 3,
+    "model": "gpt-5.6-sol"
+  }
+}

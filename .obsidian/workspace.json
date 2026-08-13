@@ -86,8 +86,23 @@
               "icon": "lucide-file",
               "title": "02王道题"
             }
+          },
+          {
+            "id": "29b05c34d2f72bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名/随.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+                "file": "1.工作流/回滚台账.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -332,13 +347,38 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "61916fd83721e69a",
+  "active": "6afabb7a710c80da",
   "lastOpenFiles": [
-    "1.工作流/回滚台账.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+    "未命名/随.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+    "unicode_test_tmp.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "未命名",
+    "_attachments/image/03 强化习题-1786586248884.jpeg",
+    "_attachments/image/03 强化习题-1786586241006.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
+    "_attachments/image/03 强化习题-1786585716885.jpeg",
+    "_attachments/image/03 强化习题-1786585710411.jpeg",
+    "_attachments/image/03 强化习题-1786585693529.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/卡片/正态分布总结.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/连续性随机变量及其概率.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/随机变量的分布函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/随机变量分布.md",
+    "_attachments/image/03 强化习题-1786585196217.jpeg",
+    "_attachments/image/03 强化习题-1786583544148.jpeg",
+    "_attachments/image/03 强化习题-1786583478411.jpeg",
+    "Readme.md",
+    "_attachments/image/03 强化习题-1786582360786.jpeg",
+    "核心插件地图.excalidraw.md",
+    "1.工作流/未命名.md",
+    "AGENTS.md",
+    "CLAUDIAN.md",
+    "CLAUDE.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+    "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
@@ -346,31 +386,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/01王道笔记.md",
     "_attachments/image/02王道题-1786525569096.jpeg",
-    "_attachments/image/02王道题-1786524651227.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md.tmp.62020.85b90b0d637c",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/OSI，TCPIP.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【总索引】闭卷单元测排期表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写任务清单模板】闭卷单元测.md",
-    "_attachments/image/03 强化习题-1786507353841.jpeg",
-    "_attachments/image/03 强化习题-1786506878906.jpeg",
-    "_attachments/image/03 强化习题-1786506826852.jpeg",
-    "_attachments/image/03 强化习题-1786504648030.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md",
-    "_attachments/image/03 强化习题-1786502690468.jpeg",
-    "_attachments/image/03 强化习题-1786502594818.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常用不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/常见的定理条件配置.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/01定理的使用条件.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/00 我的模糊处.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/02 题眼--触发.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
-    "_attachments/image/03 强化习题-1786498514428.jpeg",
-    "_attachments/image/03 强化习题-1786497967493.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU",
@@ -379,7 +395,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.6838a45e28f6",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.9002fb47294d",
-    "0.核心/00.规划(Plan)/2.当前项目/04-过关标准.md.tmp.39836.c9f49c79f907",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas",
