@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786678368409-spw440q2f",
+  "providerId": "claude",
+  "title": "你对这篇文章怎么看",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786678368413,
+  "updatedAt": 1786678626530,
+  "lastResponseAt": 1786678622457,
+  "sessionId": "4cfac154-f387-41c1-8d72-20e734ea3bf4",
+  "providerState": {
+    "providerSessionId": "4cfac154-f387-41c1-8d72-20e734ea3bf4"
+  },
+  "currentNote": "Clippings/【超重磅】AI一定会改变世界，但......——【价投小猪仔】我对AI的终极思考 · 全市场最热的话题（从腾讯财报的一角开始谈起）.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
