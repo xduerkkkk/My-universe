@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.734619140625
+    "width": 243.2884521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -331,10 +331,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "48ecc632887963e5",
+  "active": "96cee3081534bd2c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "_attachments/image/03 强化习题-1786679998593.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
@@ -352,7 +353,6 @@
     "_attachments/image/03 强化习题-1786674891900.jpeg",
     "_attachments/image/03 强化习题-1786674870721.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/串联.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/首部对比.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md",
