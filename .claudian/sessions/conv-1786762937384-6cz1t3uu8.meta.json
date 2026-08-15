@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786762937384-6cz1t3uu8",
+  "providerId": "codex",
+  "title": "改编矩阵同类题并生成练习题集",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786762937384,
+  "updatedAt": 1786763630167,
+  "lastResponseAt": 1786763630167,
+  "sessionId": "01a0035e-c6c5-7483-864e-115fbb04ebf0",
+  "providerState": {
+    "threadId": "01a0035e-c6c5-7483-864e-115fbb04ebf0",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\15\\rollout-2026-08-15T11-02-23-01a0035e-c6c5-7483-864e-115fbb04ebf0.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+  "usage": {
+    "inputTokens": 42042,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37760,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42042,
+    "percentage": 4,
+    "model": "gpt-5.6-sol"
+  }
+}
