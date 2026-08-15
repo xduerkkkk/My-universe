@@ -72,27 +72,13 @@
             }
           },
           {
-            "id": "db189fc20ffe177c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02王道题-知识点整理-重构版"
-            }
-          },
-          {
             "id": "a99ecd7eb4dbba31",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
                 "mode": "source",
                 "source": false
               },
@@ -100,23 +86,8 @@
               "icon": "lucide-file",
               "title": "【盲写清单】2026-08-14-OS虚拟内存"
             }
-          },
-          {
-            "id": "7bdde2fc0a3c0e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/多级页表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多级页表"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -361,13 +332,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a99ecd7eb4dbba31",
+  "active": "61916fd83721e69a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/未命名.md",
+    "_attachments/image/未命名-1786711924971.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/多级页表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-11-OS内存管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测/【盲写清单】2026-08-18-CO_CPU数据通路.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-11-OS内存管理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-18-CO_CPU数据通路.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
@@ -394,18 +368,14 @@
     "_attachments/image/03 强化习题-1786675665847.jpeg",
     "_attachments/image/03 强化习题-1786674906600.jpeg",
     "_attachments/image/03 强化习题-1786674891900.jpeg",
-    "_attachments/image/03 强化习题-1786674870721.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/首部对比.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md",
     "未命名",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md.tmp.62020.85b90b0d637c",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.6838a45e28f6",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.39836.9002fb47294d",
