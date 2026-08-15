@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md"
+    },
+    {
+      "basename": "03做题框架",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md"
+    },
+    {
+      "basename": "01笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md"
+    },
+    {
+      "basename": "回滚台账",
+      "path": "1.工作流/回滚台账.md"
+    },
+    {
       "basename": "03 强化习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "03 强化习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md"
-    },
-    {
-      "basename": "回滚台账",
-      "path": "1.工作流/回滚台账.md"
     },
     {
       "basename": "00-规划一览",
@@ -187,18 +199,6 @@
     {
       "basename": "数据链路和传输层",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md"
-    },
-    {
-      "basename": "三种交换",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/三种交换.md"
-    },
-    {
-      "basename": "OSI，TCPIP",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/OSI，TCPIP.md"
-    },
-    {
-      "basename": "介质标识",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/介质标识.md"
     }
   ],
   "omittedPaths": [

@@ -56,6 +56,34 @@
             }
           },
           {
+            "id": "83a8be2e0bed138a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02习题"
+            }
+          },
+          {
+            "id": "4328408913281ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03做题框架"
+            }
+          },
+          {
             "id": "0ace16b79c157456",
             "type": "leaf",
             "pinned": true,
@@ -86,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -331,13 +359,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "83a8be2e0bed138a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+    "1.工作流/回滚台账.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
-    "1.工作流/回滚台账.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/矩阵同类变式题-秩与向量组.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
@@ -357,9 +388,6 @@
     "_attachments/image/未命名-1786711924971.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/图--多级页表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-14-OS虚拟内存.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/02内存管理/00卡片/多级页表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-11-OS内存管理.md",
     "_attachments/image/03 强化习题-1786679998593.jpeg",
     "_attachments/image/01视频笔记-1786678821802.jpeg",
     "_attachments/image/二维正态分布-1786678182740.jpeg",
