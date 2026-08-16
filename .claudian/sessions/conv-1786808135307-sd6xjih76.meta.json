@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786808135307-sd6xjih76",
+  "providerId": "claude",
+  "title": "帮我回顾本周的英语学习。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786808135308,
+  "updatedAt": 1786809797377,
+  "lastResponseAt": 1786809797377,
+  "sessionId": "e93550b9-f3de-4ae1-9852-ef8cd7043374",
+  "providerState": {
+    "providerSessionId": "e93550b9-f3de-4ae1-9852-ef8cd7043374"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 23,
+    "cacheCreationInputTokens": 430,
+    "cacheReadInputTokens": 136823,
+    "contextWindow": 1000000,
+    "contextTokens": 137276,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

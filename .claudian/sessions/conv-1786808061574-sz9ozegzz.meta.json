@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786808061574-sz9ozegzz",
+  "providerId": "claude",
+  "title": "1",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786808061575,
+  "updatedAt": 1786809408825,
+  "lastResponseAt": 1786809408825,
+  "sessionId": "1e99a9cb-401d-4fc3-ab6e-f9a4666a4994",
+  "providerState": {
+    "providerSessionId": "1e99a9cb-401d-4fc3-ab6e-f9a4666a4994"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 24,
+    "cacheCreationInputTokens": 2424,
+    "cacheReadInputTokens": 78590,
+    "contextWindow": 1000000,
+    "contextTokens": 81038,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}
