@@ -72,20 +72,21 @@
             }
           },
           {
-            "id": "041bfd19435bb98f",
+            "id": "0cb8a7e03ce57c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 强化习题"
+              "title": "01视频笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.工作流/回滚台账.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,8 +303,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,10 +331,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2d47b9645484d295",
+  "active": "b0fb1795418d4fc3",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
+    "_attachments/image/03 强化习题-1786846012813.jpeg",
+    "_attachments/image/03 强化习题-1786842838911.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "_attachments/image/03 强化习题-1786841301239.jpeg",
+    "_attachments/image/03 强化习题-1786841295515.jpeg",
     "1.工作流/回滚台账.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.8f50e591985e",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.a556ddda1d0a",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.e81de680f745",
@@ -342,17 +353,12 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/tmp_w3",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W3 2026-08-09~08-15.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/矩阵同类变式题-秩与向量组.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
@@ -362,18 +368,12 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/99 AI原始素材-不熟悉2.0.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/未命名.md",
     "_attachments/image/未命名-1786711924971.jpeg",
     "_attachments/image/03 强化习题-1786679998593.jpeg",
     "_attachments/image/01视频笔记-1786678821802.jpeg",
     "_attachments/image/二维正态分布-1786678182740.jpeg",
     "_attachments/image/03 强化习题-1786677144529.jpeg",
     "_attachments/image/03 强化习题-1786677136327.jpeg",
-    "_attachments/image/03 强化习题-1786675674458.jpeg",
-    "_attachments/image/03 强化习题-1786675665847.jpeg",
-    "_attachments/image/03 强化习题-1786674906600.jpeg",
-    "_attachments/image/03 强化习题-1786674891900.jpeg",
     "未命名",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/卡片/数据链路和传输层.md.tmp.62020.85b90b0d637c",
     "2.知识库/20.North_star_ZJU/202.计算机知识/2.知识库/20.North_star_ZJU/202.计算机知识/00闭卷单元测",
