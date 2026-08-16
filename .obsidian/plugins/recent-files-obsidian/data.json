@@ -9,6 +9,10 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md"
     },
     {
+      "basename": "MAC帧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/MAC帧.md"
+    },
+    {
       "basename": "10 综合自测题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CRC补充",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/CRC补充.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/未命名.md"
     }
   ],
   "omittedPaths": [
