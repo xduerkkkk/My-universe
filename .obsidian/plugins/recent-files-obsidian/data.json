@@ -5,6 +5,14 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md"
     },
     {
+      "basename": "串联",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/串联.md"
+    },
+    {
+      "basename": "MAC帧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/MAC帧.md"
+    },
+    {
       "basename": "00-规划一览",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "梳理逻辑",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md"
-    },
-    {
-      "basename": "MAC帧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/MAC帧.md"
     },
     {
       "basename": "理解：CSMA，CA",
@@ -47,10 +51,6 @@
     {
       "basename": "英文",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md"
-    },
-    {
-      "basename": "串联",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/串联.md"
     },
     {
       "basename": "03 强化习题",
