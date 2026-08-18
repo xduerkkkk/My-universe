@@ -70,8 +70,23 @@
               "icon": "lucide-file",
               "title": "01视频笔记"
             }
+          },
+          {
+            "id": "612a007735421f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "病灶画像"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -316,8 +331,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7100beac1e6b7208",
+  "active": "612a007735421f61",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/05cpu工作/04错题复盘.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/04指令/03指令错题复盘.md",
@@ -347,7 +363,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/MAC帧.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/梳理逻辑.md",
     "_attachments/image/03 强化习题-1786939202577.jpeg",
     "_attachments/image/03 强化习题-1786939196545.jpeg",
     "_attachments/image/03 强化习题-1786938582671.jpeg",
