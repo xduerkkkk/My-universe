@@ -188,11 +188,12 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 257.3192443847656
+    "width": 311.96539306640625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -337,12 +338,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "38444c86eb321ba1",
+  "active": "16d8faaaebfb4cb8",
   "lastOpenFiles": [
-    "_attachments/image/01王道笔记-1787040410230.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--是否是另一子网.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/特殊IP.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md",
+    "_attachments/image/01王道笔记-1787040410230.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/错题复盘.md",
@@ -369,12 +376,6 @@
     "_attachments/image/04 880-1787021223107.jpeg",
     "_attachments/image/04 880-1787020465921.jpeg",
     "_attachments/image/04 880-1787019031704.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
-    "_attachments/image/03 强化习题-1787015450435.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/05cpu工作/04错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/04指令/03指令错题复盘.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.8f50e591985e",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.a556ddda1d0a",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.e81de680f745",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md"
     },
@@ -9,12 +13,32 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md"
     },
     {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
+      "basename": "题--是否是另一子网",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--是否是另一子网.md"
     },
     {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+      "basename": "特殊IP",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/特殊IP.md"
+    },
+    {
+      "basename": "梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/梳理.md"
+    },
+    {
+      "basename": "题--聚合地址",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/题--聚合地址.md"
+    },
+    {
+      "basename": "“冲突域”和“广播域”",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/“冲突域”和“广播域”.md"
+    },
+    {
+      "basename": "判断一个协议属于哪一层",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/卡片/判断一个协议属于哪一层.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md"
     },
     {
       "basename": "03 强化习题",
@@ -175,30 +199,6 @@
     {
       "basename": "IEEE整理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/IEEE整理.md"
-    },
-    {
-      "basename": "CRC补充",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/CRC补充.md"
-    },
-    {
-      "basename": "英文",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/00卡片/英文.md"
-    },
-    {
-      "basename": "Pasted image 20260817091614.png",
-      "path": "_attachments/Pasted image 20260817091614.png.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md"
-    },
-    {
-      "basename": "03 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md"
-    },
-    {
-      "basename": "02-近义词·精准辨析版",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03六周词义辨析攻坚/02-近义词·精准辨析版.md"
     }
   ],
   "omittedPaths": [
