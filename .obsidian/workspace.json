@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "48ecc632887963e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02王道题"
-            }
-          },
-          {
             "id": "ba75bafb44e3b9a8",
             "type": "leaf",
             "pinned": true,
@@ -88,21 +72,37 @@
             }
           },
           {
-            "id": "e751fedc5d966098",
+            "id": "4c34c60ed223f63e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
+          },
+          {
+            "id": "38444c86eb321ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "01王道笔记"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,12 +203,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6afabb7a710c80da",
+            "id": "d821850bab6d9ecb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2009.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,17 +306,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2009 的反向链接列表"
-            }
-          },
-          {
-            "id": "976a5e298b43dd6b",
-            "type": "leaf",
-            "state": {
-              "type": "langr-learn-panel",
-              "state": {},
-              "icon": "reading-glasses",
-              "title": "学习新单词"
+              "title": "反向链接"
             }
           }
         ]
@@ -327,7 +317,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
+      "bases:新建数据库": true,
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:导出为HTML": false,
@@ -347,14 +337,30 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d416f5f06974f5e0",
+  "active": "38444c86eb321ba1",
   "lastOpenFiles": [
+    "_attachments/image/01王道笔记-1787040410230.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/tmp_02_review.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/数据链路层功能.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/01物理层/知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00绪论/知识点整理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/02大观题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
+    "1.工作流/回滚台账.md",
     "_attachments/image/03 强化习题-1787026024549.jpeg",
     "_attachments/image/03 强化习题-1787025368324.jpeg",
     "_attachments/image/03 强化习题-1787024568151.jpeg",
     "_attachments/image/03 强化习题-1787024540516.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
     "_attachments/image/03 强化习题-1787022602122.jpeg",
@@ -364,27 +370,11 @@
     "_attachments/image/04 880-1787020465921.jpeg",
     "_attachments/image/04 880-1787019031704.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/02大观题.md",
     "_attachments/image/03 强化习题-1787015450435.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/05cpu工作/04错题复盘.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计组/04指令/03指令错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/04指令/02大题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-18-CO_CPU数据通路.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/05cpu工作/05知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计组/05cpu工作/001视频.md",
-    "_attachments/image/04 880-1786970969871.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-21-CO_流水线.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-25-OS文件系统.md",
-    "1.工作流/回滚台账.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01 矩阵运算、逆与伴随.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.8f50e591985e",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.a556ddda1d0a",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.e81de680f745",
