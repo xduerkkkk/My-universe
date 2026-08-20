@@ -72,17 +72,33 @@
             }
           },
           {
-            "id": "b38e1c19bec68674",
+            "id": "050a3b0f2f500b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/03 大题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01基础视频"
+              "title": "03 大题"
+            }
+          },
+          {
+            "id": "b2fea7737a76d099",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01王道笔记"
             }
           }
         ],
@@ -176,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.39614868164062
+    "width": 244.02691650390625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/03 大题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -321,13 +337,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "050a3b0f2f500b0e",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
+    "_attachments/image/03 大题-1787213480936.jpeg",
+    "_attachments/image/03 大题-1787210676996.jpeg",
+    "_attachments/image/03 大题-1787209133751.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/入网大礼包.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/从服务器返程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/03 大题.md",
+    "_attachments/image/02王道题-1787207843169.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
     "_attachments/image/02 强化习题-1787197821798.jpeg",
     "_attachments/image/02 强化习题-1787197808266.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "_attachments/image/01基础视频-1787197549341.jpeg",
     "_attachments/image/02 强化习题-1787196359013.jpeg",
     "_attachments/image/01基础视频-1787195980071.jpeg",
@@ -337,11 +363,7 @@
     "_attachments/image/02 强化习题-1787191647396.jpeg",
     "_attachments/image/02 强化习题-1787191639290.jpeg",
     "Clippings/干掉∞人：优绩主义如何击败了所有人？【万字社会分析】.md",
-    "_attachments/image/01基础视频-1787188315506.jpeg",
-    "_attachments/image/02 强化习题-1787187928819.jpeg",
-    "_attachments/image/02 强化习题-1787187578477.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/01王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/02强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片",
@@ -354,11 +376,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
     "1.工作流/回滚台账.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.8f50e591985e",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.a556ddda1d0a",
     "2.知识库/20.North_star_ZJU/200.英语积累/05认知画像/病灶画像.md.tmp.23720.e81de680f745",
