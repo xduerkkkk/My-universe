@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -324,12 +324,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "daca27ff83b96ddd",
+  "active": "4c34c60ed223f63e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "_attachments/image/02 强化习题-1787284779672.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/03网络层/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/04 大观题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md",
     "1.工作流/回滚台账.md",
@@ -349,7 +349,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/01基础知识.md",
     "_attachments/image/01基础知识-1787278511423.jpeg",
-    "_attachments/image/01基础知识-1787278500039.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验",
     "2.知识库/20.North_star_ZJU/模糊卡片.md",
