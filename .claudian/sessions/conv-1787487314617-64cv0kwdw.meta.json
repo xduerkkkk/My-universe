@@ -1,0 +1,26 @@
+{
+  "id": "conv-1787487314617-64cv0kwdw",
+  "providerId": "codex",
+  "title": "重构00-10章节知识点并补充例题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787487314618,
+  "updatedAt": 1787491510072,
+  "lastResponseAt": 1787491510072,
+  "sessionId": "01a02e8b-ed0f-70d2-9fe7-0f473ee823fa",
+  "providerState": {
+    "threadId": "01a02e8b-ed0f-70d2-9fe7-0f473ee823fa",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\23\\rollout-2026-08-23T20-15-22-01a02e8b-ed0f-70d2-9fe7-0f473ee823fa.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
+  "usage": {
+    "inputTokens": 171723,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 170624,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 171723,
+    "percentage": 18,
+    "model": "gpt-5.6-sol"
+  }
+}
