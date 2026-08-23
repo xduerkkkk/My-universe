@@ -12,5 +12,7 @@
   "promptDelete": false,
   "uriCallbacks": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showLineNumber": false,
+  "readableLineLength": true
 }
