@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787471268949-m564036w9",
+  "providerId": "claude",
+  "title": "有人说 connection > match实习+高影响力论文>match实习>高影响力论文>论文数...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787471268949,
+  "updatedAt": 1787471409917,
+  "lastResponseAt": 1787471325904,
+  "sessionId": "e8e5c897-8970-49fd-b000-c6dcb226b91d",
+  "providerState": {
+    "providerSessionId": "e8e5c897-8970-49fd-b000-c6dcb226b91d"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 18,
+    "cacheCreationInputTokens": 4774,
+    "cacheReadInputTokens": 28872,
+    "contextWindow": 1000000,
+    "contextTokens": 33664,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
