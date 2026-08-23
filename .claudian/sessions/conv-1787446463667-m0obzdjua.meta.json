@@ -1,0 +1,26 @@
+{
+  "id": "conv-1787446463667-m0obzdjua",
+  "providerId": "codex",
+  "title": "规划下一步行动方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787446463668,
+  "updatedAt": 1787450506278,
+  "lastResponseAt": 1787450497382,
+  "sessionId": "01a02c1c-9496-75d2-a75c-f308e5b7bb73",
+  "providerState": {
+    "threadId": "01a02c1c-9496-75d2-a75c-f308e5b7bb73",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\23\\rollout-2026-08-23T08-54-30-01a02c1c-9496-75d2-a75c-f308e5b7bb73.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/草稿.md",
+  "usage": {
+    "inputTokens": 147821,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3712,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 147821,
+    "percentage": 16,
+    "model": "gpt-5.6-sol"
+  }
+}
