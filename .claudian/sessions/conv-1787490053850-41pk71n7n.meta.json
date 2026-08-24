@@ -4,13 +4,12 @@
   "title": "对于英语，我接下来一周的想法是，",
   "titleGenerationStatus": "failed",
   "createdAt": 1787490053851,
-  "updatedAt": 1787493755883,
+  "updatedAt": 1787530926993,
   "lastResponseAt": 1787493755883,
   "sessionId": "6b539979-f6ad-4280-8a0b-de8cfb49893c",
   "providerState": {
     "providerSessionId": "6b539979-f6ad-4280-8a0b-de8cfb49893c"
   },
-  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W4 2026-08-16~08-22.md",
   "usage": {
     "model": "opus[1m]",
     "inputTokens": 17,
