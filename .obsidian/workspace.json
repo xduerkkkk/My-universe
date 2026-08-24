@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原函数法"
+              "title": "中值可分离法"
             }
           }
         ],
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,19 +367,19 @@
   },
   "active": "f1c68bb652b9639f",
   "lastOpenFiles": [
-    "_attachments/image/原函数法-1787536767563.jpeg",
-    "_attachments/image/原函数法-1787535973540.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/先有前置转换，再原函数.md",
+    "_attachments/image/中值可分离法-1787544156153.jpeg",
+    "_attachments/image/中值可分离法-1787544096662.jpeg",
+    "_attachments/image/中值可分离法-1787543910538.jpeg",
+    "_attachments/image/中值可分离法-1787543808558.jpeg",
+    "_attachments/image/中值可分离法-1787543797357.jpeg",
+    "_attachments/image/中值可分离法-1787543452164.jpeg",
+    "_attachments/image/中值可分离法-1787543351480.jpeg",
+    "_attachments/image/中值可分离法-1787543053105.jpeg",
+    "_attachments/image/常数k值法-1787542710709.jpeg",
+    "_attachments/image/常数k值法-1787542602860.jpeg",
+    "_attachments/image/常数k值法-1787541872534.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-    "_attachments/image/原函数法-1787535772200.jpeg",
-    "_attachments/image/原函数法-1787534700054.jpeg",
-    "_attachments/image/原函数法-1787534498276.jpeg",
-    "_attachments/image/原函数法-1787533603508.jpeg",
-    "_attachments/image/原函数法-1787533450577.jpeg",
-    "_attachments/image/原函数法-1787533124428.jpeg",
-    "_attachments/image/原函数法-1787532928826.jpeg",
-    "_attachments/image/原函数法-1787532622343.jpeg",
-    "_attachments/image/原函数法-1787532284006.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架/证明题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
