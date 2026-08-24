@@ -88,21 +88,21 @@
             }
           },
           {
-            "id": "6da7f0f7db1cc367",
+            "id": "6293d5066882f9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/记忆--端口.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "记忆--端口"
+              "title": "03大观题"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.41156005859375
+    "width": 299.4115295410156
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -299,7 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.0230712890625
+    "width": 232.546142578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,16 +323,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7fd137e13cbde968",
+  "active": "6293d5066882f9e9",
   "lastOpenFiles": [
-    "_attachments/image/王道题-1787564757555.jpeg",
+    "1.工作流/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/记忆--端口.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/双参数估计.md",
+    "_attachments/image/02 强化习题-1787572466784.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
+    "_attachments/image/王道题-1787564757555.jpeg",
     "_attachments/记忆--端口-1778228070379.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/首部对比.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
     "_attachments/image/王道题-1787563913830.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-    "1.工作流/未命名.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "_attachments/image/王道题-1787561794506.jpeg",
@@ -342,8 +352,6 @@
     "_attachments/image/王道题-1787559461136.jpeg",
     "_attachments/image/王道题-1787557665369.jpeg",
     "_attachments/image/王道题-1787557653873.jpeg",
-    "_attachments/image/王道题-1787557639346.jpeg",
-    "_attachments/image/王道题-1787557631243.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/书籍勘察.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/04强化-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/03强化-高等数学辅导讲义.md",
@@ -355,14 +363,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/多级页表内存.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/输出枢纽.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/数学归纳法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-旧系统/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/02相近词辨析-整理版",
