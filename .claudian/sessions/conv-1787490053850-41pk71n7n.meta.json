@@ -4,8 +4,8 @@
   "title": "对于英语，我接下来一周的想法是，",
   "titleGenerationStatus": "failed",
   "createdAt": 1787490053851,
-  "updatedAt": 1787490630445,
-  "lastResponseAt": 1787490630445,
+  "updatedAt": 1787493755883,
+  "lastResponseAt": 1787493755883,
   "sessionId": "6b539979-f6ad-4280-8a0b-de8cfb49893c",
   "providerState": {
     "providerSessionId": "6b539979-f6ad-4280-8a0b-de8cfb49893c"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus[1m]",
     "inputTokens": 17,
-    "cacheCreationInputTokens": 3334,
-    "cacheReadInputTokens": 96298,
+    "cacheCreationInputTokens": 5413,
+    "cacheReadInputTokens": 117995,
     "contextWindow": 1000000,
-    "contextTokens": 99649,
-    "percentage": 10,
+    "contextTokens": 123425,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }
