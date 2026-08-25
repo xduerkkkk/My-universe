@@ -1,0 +1,26 @@
+{
+  "id": "conv-1787663018687-mjhqte466",
+  "providerId": "codex",
+  "title": "梳理408计网知识并解答草稿疑问",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787663018687,
+  "updatedAt": 1787663575037,
+  "lastResponseAt": 1787663575037,
+  "sessionId": "01a03904-ed49-7351-aefc-746c72c655fd",
+  "providerState": {
+    "threadId": "01a03904-ed49-7351-aefc-746c72c655fd",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\25\\rollout-2026-08-25T21-03-44-01a03904-ed49-7351-aefc-746c72c655fd.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
+  "usage": {
+    "inputTokens": 46147,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44672,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46147,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}
