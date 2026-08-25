@@ -84,9 +84,23 @@
               "icon": "lucide-file",
               "title": "二刷"
             }
+          },
+          {
+            "id": "402eb0354fe0772c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "真正的双中值’"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -307,14 +321,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b437912277018330",
+  "active": "402eb0354fe0772c",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2009.md",
+    "_attachments/image/真正的双中值’-1787623708983.jpeg",
+    "_attachments/image/真正的双中值’-1787623664985.jpeg",
+    "_attachments/image/真正的双中值’-1787623594036.jpeg",
+    "_attachments/image/真正的双中值’-1787623250516.jpeg",
+    "_attachments/image/真正的双中值’-1787622908731.jpeg",
+    "_attachments/image/真正的双中值’-1787622692045.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
+    "_attachments/image/中值可分离法-1787621828828.jpeg",
+    "_attachments/image/中值可分离法-1787620802993.jpeg",
+    "_attachments/image/中值可分离法-1787619145798.jpeg",
+    "_attachments/image/中值可分离法-1787618799368.jpeg",
+    "_attachments/image/中值可分离法-1787618136068.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2009.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/首部对比.md",
     "1.工作流/未命名.md",
@@ -326,28 +355,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/记忆--端口.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/双参数估计.md",
-    "_attachments/image/02 强化习题-1787572466784.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
-    "_attachments/image/王道题-1787564757555.jpeg",
-    "_attachments/记忆--端口-1778228070379.jpeg",
-    "_attachments/image/王道题-1787563913830.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
-    "_attachments/image/王道题-1787561794506.jpeg",
-    "_attachments/image/王道题-1787560484964.jpeg",
-    "_attachments/image/王道题-1787559809204.jpeg",
-    "_attachments/image/王道题-1787559461136.jpeg",
-    "_attachments/image/王道题-1787557665369.jpeg",
-    "_attachments/image/王道题-1787557653873.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-旧系统/desktop.ini",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/02相近词辨析-整理版",
