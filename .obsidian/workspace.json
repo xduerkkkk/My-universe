@@ -88,6 +88,7 @@
           {
             "id": "402eb0354fe0772c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -95,12 +96,41 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "真正的双中值’"
             }
+          },
+          {
+            "id": "19cd7e0f0c6a61d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原函数法"
+            }
+          },
+          {
+            "id": "194c869a965340fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰勒公式解决问题"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.4115295410156
+    "width": 259.53460693359375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -206,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -321,24 +351,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "402eb0354fe0772c",
+  "active": "194c869a965340fb",
   "lastOpenFiles": [
-    "_attachments/image/真正的双中值’-1787623708983.jpeg",
-    "_attachments/image/真正的双中值’-1787623664985.jpeg",
-    "_attachments/image/真正的双中值’-1787623594036.jpeg",
-    "_attachments/image/真正的双中值’-1787623250516.jpeg",
-    "_attachments/image/真正的双中值’-1787622908731.jpeg",
-    "_attachments/image/真正的双中值’-1787622692045.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "_attachments/image/泰勒公式解决问题-1787630095431.jpeg",
+    "_attachments/image/泰勒公式解决问题-1787629829083.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
+    "_attachments/image/真正的双中值’-1787629697869.jpeg",
+    "_attachments/image/真正的双中值’-1787629655451.jpeg",
+    "_attachments/image/真正的双中值’-1787629370222.jpeg",
+    "_attachments/image/真正的双中值’-1787629327336.jpeg",
+    "_attachments/image/真正的双中值’-1787629215561.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/真正的双中值’-1787627693073.jpeg",
+    "_attachments/image/真正的双中值’-1787627565081.jpeg",
+    "_attachments/image/真正的双中值’-1787627557008.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "_attachments/image/真正的双中值’-1787627114043.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
-    "_attachments/image/中值可分离法-1787621828828.jpeg",
-    "_attachments/image/中值可分离法-1787620802993.jpeg",
-    "_attachments/image/中值可分离法-1787619145798.jpeg",
-    "_attachments/image/中值可分离法-1787618799368.jpeg",
-    "_attachments/image/中值可分离法-1787618136068.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2009.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
@@ -358,8 +390,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/04传输层/卡片/记忆--端口.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/双参数估计.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-旧系统/desktop.ini",
