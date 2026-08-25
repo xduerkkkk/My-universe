@@ -216,11 +216,12 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 259.53460693359375
+    "width": 314.91925048828125
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -351,12 +352,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "194c869a965340fb",
+  "active": "16d8faaaebfb4cb8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
     "_attachments/image/泰勒公式解决问题-1787630095431.jpeg",
     "_attachments/image/泰勒公式解决问题-1787629829083.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
     "_attachments/image/真正的双中值’-1787629697869.jpeg",
     "_attachments/image/真正的双中值’-1787629655451.jpeg",
     "_attachments/image/真正的双中值’-1787629370222.jpeg",
@@ -368,7 +369,6 @@
     "_attachments/image/真正的双中值’-1787627557008.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
-    "_attachments/image/真正的双中值’-1787627114043.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/03大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
