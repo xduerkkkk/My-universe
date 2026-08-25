@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787648131972-h767vzbby",
+  "providerId": "claude",
+  "title": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787648131975,
+  "updatedAt": 1787648188808,
+  "lastResponseAt": 1787648160542,
+  "sessionId": "d094d3c0-6978-4a53-806c-bd8330ca32db",
+  "providerState": {
+    "providerSessionId": "d094d3c0-6978-4a53-806c-bd8330ca32db"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/Drawing 2026-08-25 16.54.58.excalidraw.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 233,
+    "cacheCreationInputTokens": 7155,
+    "cacheReadInputTokens": 36112,
+    "contextWindow": 1000000,
+    "contextTokens": 43500,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
