@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787746970658-y61xybd5j",
+  "providerId": "claude",
+  "title": "规划一览的数学稍微改一下，把级数放到高数框架后，周四就开高数框架，第一天数列、函数极限，第二天导数微...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787746970659,
+  "updatedAt": 1787747044045,
+  "lastResponseAt": 1787747044045,
+  "sessionId": "28d53e1e-e67d-47f1-b5e8-654abaa3287f",
+  "providerState": {
+    "providerSessionId": "28d53e1e-e67d-47f1-b5e8-654abaa3287f"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 96,
+    "cacheCreationInputTokens": 13814,
+    "cacheReadInputTokens": 38873,
+    "contextWindow": 1000000,
+    "contextTokens": 52783,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
