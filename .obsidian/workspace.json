@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md",
                 "mode": "source",
                 "source": false
               },
@@ -72,59 +72,40 @@
             }
           },
           {
-            "id": "8f5758d4d182b7d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
-                "viewState": {
-                  "x": 1843.7586290255656,
-                  "y": 403.36622623178243,
-                  "zoom": -0.6666666361490874
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "中值定理与证明"
-            }
-          },
-          {
-            "id": "7fdc8b6e2273d894",
+            "id": "de80b7b11a9aaa97",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "中值可分离法"
+              "title": "粗心记录"
             }
           },
           {
-            "id": "1c58e1b49433bfbd",
+            "id": "44f8f6bd2a715b22",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
                 "viewState": {
-                  "x": 619.2468088192973,
-                  "y": -630.3397335398331,
-                  "zoom": -0.8888890313042568
+                  "x": -242.76365350238626,
+                  "y": 584.5884655543257,
+                  "zoom": -0.3922639059764146
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "中值定理与证明"
+              "title": "数据包旅程-主线骨架"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -322,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.80767822265625
+    "width": 399.82305908203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,63 +327,63 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1c58e1b49433bfbd",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/05应用层/02王道题.md",
+    "_temp_extract.py",
+    "_temp_interesting.py",
+    "_temp_starts.py",
+    "_temp_update_template.py",
+    "_temp_inventory.py",
+    "_temp_update_skill.py",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03基础轮复习.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明-分诊骨架.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/书籍初步勘察.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/流程性薄弱点.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/000梳理.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md.tmp.68148.4752553fc638",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/薄弱点/流程性薄弱点.md.tmp.68148.d6879f152875",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/CN-技巧.md.tmp.68148.561d93f41363",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/03真题阶段",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/_归档-骨架与决策图/决策图/OS-决策图V1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/_归档-骨架与决策图/决策图/CO-决策图V1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/_归档-骨架与决策图/决策图/CN-决策图V1.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/函数极限连续.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/Drawing 2026-08-26 11.19.38.excalidraw.md",
     "_attachments/Pasted image 20260826105108.png",
     "_attachments/Pasted image 20260826105059.png",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-中值定理与证明.md",
-    "CLAUDE.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/未命名 1.md",
     "_attachments/Pasted image 20260826102231.png",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/高数--极限.pdf",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
     "_attachments/Pasted image 20260826101254.png",
     "_attachments/Pasted image 20260826101013.png",
     "_attachments/Pasted image 20260826100957.png",
     "_attachments/Pasted image 20260826100953.png",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图",
     "_attachments/image/泰勒公式解决问题-1787709676961.jpeg",
     "_attachments/image/泰勒公式解决问题-1787709613032.jpeg",
     "_attachments/image/泰勒公式解决问题-1787709534307.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/02微概计--张宇基础30讲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-微分方程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/决策图/CN-决策图V1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-二重积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/线代-矩阵.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/历史周训练/W2 2026-08-02~08-08.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/历史周训练/W1 2026-07-27~08-02.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架/线代-矩阵.md.tmp.54128.fc9cd5e4b78e",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架/高数-函数极限连续.md.tmp.54128.13f28c14ed12",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/OS-骨架.md.tmp.54128.45d8e4742cab",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/决策图",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/00串联/串联计网.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/积分思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-旧系统/desktop.ini",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas"
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas"
   ]
 }

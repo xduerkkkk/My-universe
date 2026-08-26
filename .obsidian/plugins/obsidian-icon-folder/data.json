@@ -49,16 +49,13 @@
   "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第一周/1-26.md": "LiAlarmClock",
   "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第三周/2-12.md": "LiAArrowUp",
   "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第三周/2-14.md": "LiAlarmClockCheck",
-  "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程/‘我想看谷歌的首页’.md": "LiAlarmClockCheck",
   "2.知识库/21.AI世界/01机器学习/线性模型/作业1线性模型.md": "LiAlarmClockCheck",
   "2.知识库/21.AI世界/02深度学习/激活函数.md": "LiAlarmClock",
   "2.知识库/21.AI世界/04大模型/LLM学习记录": "LiAsterisk",
   "2.知识库/21.AI世界/04大模型/LLM学习记录/学习阶段": "LiAlarmClockCheck",
   "2.知识库/22.算法/MOOC.md": "LiActivity",
   "2.知识库/22.算法/代码随想录-算法题/综合算法题": "LiActivity",
-  "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/03文件管理/ART.md": "LiAArrowUp",
   "2.知识库/21.AI世界/01机器学习/01大纲.md": "LiActivitySquare",
-  "2.知识库/20.North_star_ZJU/202.计算机知识/计算机网络/主线流程": "LiAnchor",
   "2.知识库/21.AI世界/01机器学习/PRML": {
     "iconName": "LiAlbum",
     "iconColor": "#a21010"
@@ -74,7 +71,6 @@
   "3.创造物/30.输出文章/AI/MLDL/认识梯度.md": "LiAlbum",
   "3.创造物/30.输出文章/数学/看见矩阵（三）.md": "LiAlbum",
   "3.创造物/30.输出文章/AI/MLDL/DL/神经网络.md": "LiAlbum",
-  "2.知识库/20.North_star_ZJU/202.计算机知识/操作系统/01进程与线程/旧/期末应试.md": "LiAlarmClockPlus",
   "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/困惑.md": {
     "iconName": "LiAccessibility",
     "iconColor": "#ee11b3"
@@ -82,5 +78,9 @@
   "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/SVD分解.md": "LiAlertOctagon",
   "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/对称矩阵.md": "LiAlertOctagon",
   "2.知识库/20.North_star_ZJU/201.数学/02线性代数/其他/协方差矩阵.md": "LiAlertOctagon",
-  "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/01书籍对齐.md": "LiAlignCenter"
+  "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/01书籍对齐.md": "LiAlignCenter",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/ART.md": "LiAArrowUp",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/旧/期末应试.md": "LiAlarmClockPlus",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程": "LiAnchor",
+  "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/‘我想看谷歌的首页’.md": "LiAlarmClockCheck"
 }

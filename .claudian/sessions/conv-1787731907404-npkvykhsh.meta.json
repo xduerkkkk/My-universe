@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787731907404-npkvykhsh",
+  "providerId": "codex",
+  "title": "修改王道整理技能并整理网络层04、05",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787731907409,
+  "updatedAt": 1787732004472,
+  "lastResponseAt": 1787732004472,
+  "sessionId": "01a03d20-1482-79d1-9d64-51aab9aba983",
+  "providerState": {
+    "threadId": "01a03d20-1482-79d1-9d64-51aab9aba983",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\26\\rollout-2026-08-26T16-11-52-01a03d20-1482-79d1-9d64-51aab9aba983.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 16418,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16000,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16418,
+    "percentage": 2,
+    "model": "gpt-5.6-sol"
+  }
+}

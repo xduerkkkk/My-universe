@@ -4,8 +4,8 @@
   "title": "像这个2",
   "titleGenerationStatus": "failed",
   "createdAt": 1787725157218,
-  "updatedAt": 1787725269640,
-  "lastResponseAt": 1787725269640,
+  "updatedAt": 1787730468123,
+  "lastResponseAt": 1787730468123,
   "sessionId": "5c4c68ca-6f22-4299-9c38-0e36f0ae83b8",
   "providerState": {
     "providerSessionId": "5c4c68ca-6f22-4299-9c38-0e36f0ae83b8"
@@ -13,12 +13,12 @@
   "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 2073,
-    "cacheCreationInputTokens": 14645,
-    "cacheReadInputTokens": 38296,
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 17483,
+    "cacheReadInputTokens": 118053,
     "contextWindow": 1000000,
-    "contextTokens": 55014,
-    "percentage": 6,
+    "contextTokens": 135687,
+    "percentage": 14,
     "contextWindowIsAuthoritative": true
   }
 }

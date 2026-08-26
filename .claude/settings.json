@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿\" 2>/dev/null && echo \"=== 草稿目录内容\\(删除前\\) ===\" && ls -la && rm -rf ./* 2>/dev/null && echo \"=== 删除后 ===\" && ls -la\necho \"\"\necho \"########## 408 目录总览 ##########\"\ncd \"2.知识库/20.North_star_ZJU/202.计算机知识\" 2>/dev/null || cd \"/c/Users/kkkkkk/OneDrive/OneSyncFiles/universe/2.知识库/20.North_star_ZJU/202.计算机知识\"\nfind . -maxdepth 2 -type d | sort)"
+    ]
+  }
+}

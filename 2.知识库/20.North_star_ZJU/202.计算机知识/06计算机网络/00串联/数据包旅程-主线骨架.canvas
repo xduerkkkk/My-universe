@@ -1,0 +1,46 @@
+{
+	"nodes":[
+		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n场景：你敲下 google.com 到看见首页。\n**对着骨架自己想每一环该填什么，想不出再翻「答案钥匙」。**","x":-620,"y":-760,"width":580,"height":150,"color":"6"},
+		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-980,"y":-300,"width":300,"height":150},
+		{"id":"dns000000001","type":"text","text":"## DNS 解析\n域名怎么变 IP？\n（想：哪一层？什么传输协议+端口？递归 vs 迭代？缓存在哪几处？）","x":-980,"y":0,"width":300,"height":170},
+		{"id":"srcapp000001","type":"text","text":"## ① 应用层（源）\n浏览器要发 HTTP 请求，先卡在哪？\n（想：要 IP 不要域名→触发谁？HTTP 报文结构？）","x":-560,"y":0,"width":340,"height":170,"color":"4"},
+		{"id":"srctrans0001","type":"text","text":"## ② 传输层（源）\nHTTP 报文交给谁运？\n（想：TCP 还是 UDP 为什么？端口作用？几次握手？封装成什么？）","x":-560,"y":220,"width":340,"height":170,"color":"4"},
+		{"id":"srcnet000001","type":"text","text":"## ③ 网络层（源）\n段要发去哪？\n（想：加什么头？目标同网段吗？怎么判断？不同网段发给谁？只知 IP 不知 MAC 靠谁？）","x":-560,"y":440,"width":340,"height":180,"color":"4"},
+		{"id":"srclink00001","type":"text","text":"## ④ 链路层（源）\n本地这一跳怎么走？\n（想：封装成什么？MAC 作用？交换机凭什么转发？以太网/CSMA？差错检测？）","x":-560,"y":660,"width":340,"height":180,"color":"4"},
+		{"id":"srcphy000001","type":"text","text":"## ⑤ 物理层（源）\n帧变成什么在线上跑？\n（想：比特流？编码？传输介质？）","x":-560,"y":880,"width":340,"height":150,"color":"4"},
+		{"id":"mounttrans01","type":"text","text":"### 🔗 挂：TCP 机制簇\nTCP 靠什么可靠？\n（想：序号/确认/重传？滑动窗口=流控？拥塞控制四阶段？握手挥手）","x":-980,"y":220,"width":300,"height":170,"color":"2"},
+		{"id":"mountnet0001","type":"text","text":"### 🔗 挂：网络层知识簇\n（想：子网划分/CIDR/NAT/IP 首部字段/ICMP/分片重组）","x":-980,"y":440,"width":300,"height":180,"color":"2"},
+		{"id":"mountlink001","type":"text","text":"### 🔗 挂：链路层知识簇\n（想：CRC/海明码/以太网帧/VLAN/交换机自学习/PPP）","x":-980,"y":660,"width":300,"height":180,"color":"2"},
+		{"id":"router000001","type":"text","text":"## 🔀 路由器（逐跳）\n包到路由器，它做什么？\n（想：解封装到第几层就停？查什么表？最长前缀匹配？TTL 怎么变？再重新封装？）\n\n🔗 挂：路由协议\nRIP / OSPF / BGP 区别？","x":-140,"y":440,"width":300,"height":590,"color":"1"},
+		{"id":"dstphy000001","type":"text","text":"## ⑤ 物理层（服务器）\n收到比特流，交给谁？","x":300,"y":880,"width":340,"height":150,"color":"4"},
+		{"id":"dstlink00001","type":"text","text":"## ④ 链路层（服务器）\n拆哪层头？校验什么？交给谁？","x":300,"y":660,"width":340,"height":150,"color":"4"},
+		{"id":"dstnet000001","type":"text","text":"## ③ 网络层（服务器）\n拆 IP 头，怎么确认是发给我的？交给谁？","x":300,"y":440,"width":340,"height":150,"color":"4"},
+		{"id":"dsttrans0001","type":"text","text":"## ② 传输层（服务器）\n拆 TCP 头，按什么交给对的进程？","x":300,"y":220,"width":340,"height":150,"color":"4"},
+		{"id":"dstapp000001","type":"text","text":"## ① 应用层（服务器）\n服务器收到 HTTP 请求，回什么？\n（想：状态码？响应报文？）","x":300,"y":0,"width":340,"height":170,"color":"4"},
+		{"id":"return000001","type":"text","text":"## 🔁 返程\n服务器→你，基本镜像。\n（想：源/目地址互换？TCP 确认？为什么可能分片重组？）","x":-140,"y":1090,"width":360,"height":150,"color":"2"},
+		{"id":"answerkey001","type":"text","text":"## 🗝️ 答案钥匙（想不出再翻）\n→ [[我想看谷歌的首页]]\n→ [[4.不常用/41.随想文件/10.课内/大纲]] ｜ [[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/网络版图]]","x":300,"y":1090,"width":340,"height":150,"color":"3"},
+		{"id":"mind00000001","type":"text","text":"# 🧭 心法\n看到题 → 定位它在旅程哪一环 → 调用那一环的知识簇。\n**图只给骨架，知识你自己填。**","x":-620,"y":1090,"width":420,"height":150,"color":"6"}
+	],
+	"edges":[
+		{"id":"x01","fromNode":"pre000000001","fromSide":"bottom","toNode":"dns000000001","toSide":"top","label":"就绪后"},
+		{"id":"x02","fromNode":"dns000000001","fromSide":"right","toNode":"srcapp000001","toSide":"left","label":"拿到IP"},
+		{"id":"x03","fromNode":"srcapp000001","fromSide":"bottom","toNode":"srctrans0001","toSide":"top","label":"下沉·封装"},
+		{"id":"x04","fromNode":"srctrans0001","fromSide":"bottom","toNode":"srcnet000001","toSide":"top","label":"加TCP头"},
+		{"id":"x05","fromNode":"srcnet000001","fromSide":"bottom","toNode":"srclink00001","toSide":"top","label":"加IP头"},
+		{"id":"x06","fromNode":"srclink00001","fromSide":"bottom","toNode":"srcphy000001","toSide":"top","label":"加帧头尾"},
+		{"id":"x07","fromNode":"srcphy000001","fromSide":"right","toNode":"router000001","toSide":"left","label":"比特流上线"},
+		{"id":"x08","fromNode":"router000001","fromSide":"right","toNode":"dstphy000001","toSide":"left","label":"转发到达"},
+		{"id":"x09","fromNode":"dstphy000001","fromSide":"top","toNode":"dstlink00001","toSide":"bottom","label":"上浮·解封装"},
+		{"id":"x10","fromNode":"dstlink00001","fromSide":"top","toNode":"dstnet000001","toSide":"bottom"},
+		{"id":"x11","fromNode":"dstnet000001","fromSide":"top","toNode":"dsttrans0001","toSide":"bottom"},
+		{"id":"x12","fromNode":"dsttrans0001","fromSide":"top","toNode":"dstapp000001","toSide":"bottom","label":"交给进程"},
+		{"id":"x13","fromNode":"srctrans0001","fromSide":"left","toNode":"mounttrans01","toSide":"right"},
+		{"id":"x14","fromNode":"srcnet000001","fromSide":"left","toNode":"mountnet0001","toSide":"right"},
+		{"id":"x15","fromNode":"srclink00001","fromSide":"left","toNode":"mountlink001","toSide":"right"},
+		{"id":"x16","fromNode":"dstapp000001","fromSide":"bottom","toNode":"return000001","toSide":"right","label":"回程"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
