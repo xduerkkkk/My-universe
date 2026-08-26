@@ -5,44 +5,96 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas"
     },
     {
-      "basename": "英文缩写",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md"
-    },
-    {
-      "basename": "串联计网",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas"
-    },
-    {
       "basename": "串联",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md"
-    },
-    {
-      "basename": "02图的细节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md"
     },
     {
       "basename": "03基础轮复习",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03基础轮复习.md"
     },
     {
-      "basename": "01全程梳理图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md"
+      "basename": "首部对比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/首部对比.md"
     },
     {
-      "basename": "00再次梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md"
+      "basename": "口述草稿",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/口述草稿.md"
+    },
+    {
+      "basename": "英文缩写",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md"
+    },
+    {
+      "basename": "04错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/04错题复盘.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/01王道笔记.md"
     },
     {
       "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md"
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/02王道题.md"
+    },
+    {
+      "basename": "03错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/03错题复盘.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md"
+    },
+    {
+      "basename": "传输层-错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-错题复盘.md"
+    },
+    {
+      "basename": "传输层-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-知识点整理.md"
+    },
+    {
+      "basename": "视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/视频勘察.md"
+    },
+    {
+      "basename": "00-数学",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
+    },
+    {
+      "basename": "02 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md"
+    },
+    {
+      "basename": "W5 2026-08-23~08-29",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md"
     },
     {
       "basename": "二刷",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md"
     },
     {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md"
+    },
+    {
       "basename": "粗心记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "02图的细节",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md"
+    },
+    {
+      "basename": "01全程梳理图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md"
+    },
+    {
+      "basename": "串联计网",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas"
+    },
+    {
+      "basename": "00再次梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md"
     },
     {
       "basename": "中值定理与证明-分诊骨架",
@@ -67,10 +119,6 @@
     {
       "basename": "00-规划一览",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
-    },
-    {
-      "basename": "00-数学",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
     },
     {
       "basename": "中值定理与证明",
@@ -151,54 +199,6 @@
     {
       "basename": "泰勒公式解决问题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md"
-    },
-    {
-      "basename": "粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/粗心记录.md"
-    },
-    {
-      "basename": "重要公式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/重要公式.md"
-    },
-    {
-      "basename": "真正的双中值",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值.md"
-    },
-    {
-      "basename": "真正的双中值",
-      "path": "真正的双中值.md"
-    },
-    {
-      "basename": "函数极限连续",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/函数极限连续.canvas"
-    },
-    {
-      "basename": "Drawing 2026-08-26 11.19.38.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/Drawing 2026-08-26 11.19.38.excalidraw.md"
-    },
-    {
-      "basename": "Pasted image 20260826105108",
-      "path": "_attachments/Pasted image 20260826105108.png"
-    },
-    {
-      "basename": "Pasted image 20260826105059",
-      "path": "_attachments/Pasted image 20260826105059.png"
-    },
-    {
-      "basename": "Pasted image 20260826101254",
-      "path": "_attachments/Pasted image 20260826101254.png"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "07-强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md"
-    },
-    {
-      "basename": "思维导图--导数微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas"
     }
   ],
   "omittedPaths": [
