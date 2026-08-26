@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787711001074-kcm9mbjgw",
+  "providerId": "claude",
+  "title": "我有个疑问2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787711001076,
+  "updatedAt": 1787711209201,
+  "lastResponseAt": 1787711136292,
+  "sessionId": "de0df68c-959e-42ed-8e18-da49b80fa746",
+  "providerState": {
+    "providerSessionId": "de0df68c-959e-42ed-8e18-da49b80fa746"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/函数极限连续.canvas",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 52,
+    "cacheCreationInputTokens": 8248,
+    "cacheReadInputTokens": 36163,
+    "contextWindow": 1000000,
+    "contextTokens": 44463,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

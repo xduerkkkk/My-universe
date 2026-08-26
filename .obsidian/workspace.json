@@ -72,36 +72,38 @@
             }
           },
           {
-            "id": "ea918524c0489897",
+            "id": "8f5758d4d182b7d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/中值定理与证明.canvas",
+                "viewState": {
+                  "x": 1843.7586290255656,
+                  "y": 403.36622623178243,
+                  "zoom": -0.6666666361490874
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "中值定理与证明"
+            }
+          },
+          {
+            "id": "7fdc8b6e2273d894",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-中值定理与证明.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "高数-中值定理与证明"
-            }
-          },
-          {
-            "id": "83fd7b13da7646fa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/函数极限连续.canvas",
-                "viewState": {
-                  "x": 93.57689753077747,
-                  "y": 95.58543384507816,
-                  "zoom": -0.08263236947872504
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "函数极限连续"
+              "title": "中值可分离法"
             }
           }
         ],
@@ -211,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/函数极限连续.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -302,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.1922607421875
+    "width": 352.5615234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,30 +328,36 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "83fd7b13da7646fa",
+  "active": "7fdc8b6e2273d894",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20260826102231.png",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/中值定理与证明.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/Drawing 2026-08-26 11.19.38.excalidraw.md",
+    "_attachments/Pasted image 20260826105108.png",
+    "_attachments/Pasted image 20260826105059.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-中值定理与证明.md",
+    "CLAUDE.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/函数极限连续.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/未命名 1.md",
+    "_attachments/Pasted image 20260826102231.png",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/07-强化.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/高数--极限.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/06强化-880综合拓展.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/02-880基础篇.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/函数极限连续.canvas",
     "_attachments/Pasted image 20260826101254.png",
     "_attachments/Pasted image 20260826101013.png",
     "_attachments/Pasted image 20260826100957.png",
     "_attachments/Pasted image 20260826100953.png",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架",
     "_attachments/image/泰勒公式解决问题-1787709676961.jpeg",
     "_attachments/image/泰勒公式解决问题-1787709613032.jpeg",
     "_attachments/image/泰勒公式解决问题-1787709534307.jpeg",
-    "_attachments/image/泰勒公式解决问题-1787709434849.jpeg",
-    "_attachments/image/泰勒公式解决问题-1787708278880.jpeg",
-    "_attachments/image/泰勒公式解决问题-1787707291839.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/03微几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/06-880基础.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/05微分物理，经济应用.md",
@@ -358,16 +366,10 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/08-辅导讲义例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-微分方程.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/决策图/CN-决策图V1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值’.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/高数-二重积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿/线代-矩阵.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/历史周训练/W2 2026-08-02~08-08.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/历史周训练/W1 2026-07-27~08-02.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/粗心记录.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/CO-骨架.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03真题阶段/CN-骨架.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/多级页表内存.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架草稿",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架/线代-矩阵.md.tmp.54128.fc9cd5e4b78e",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00做题框架/高数-函数极限连续.md.tmp.54128.13f28c14ed12",
@@ -382,7 +384,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/行列式矩阵思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/思维导图（向量组+解方程).canvas"
+    "2.知识库/20.North_star_ZJU/202.计算机知识/数据结构/07排序/未命名.canvas"
   ]
 }
