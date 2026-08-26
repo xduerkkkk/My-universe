@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"85478e0ad103f54b","type":"group","x":-340,"y":-140,"width":760,"height":840,"label":"保号性"},
+		{
+			"id":"376215bd11487b36",
+			"type":"text",
+			"text":"保号性记忆技巧：![[_attachments/Pasted image 20260826100953.png]]\n\n\n![[_attachments/Pasted image 20260826101013.png]]",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-120,
+			"width":400,
+			"height":500
+		},
+		{
+			"id":"491633c203b94270",
+			"type":"text",
+			"text":"基础应用例题\n\n![[_attachments/Pasted image 20260826101254.png]]\n\n\n![[_attachments/Pasted image 20260826102231.png]]",
+			"styleAttributes":{},
+			"x":140,
+			"y":-100,
+			"width":260,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
