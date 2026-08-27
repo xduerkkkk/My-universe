@@ -64,9 +64,9 @@
               "state": {
                 "file": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
                 "viewState": {
-                  "x": -1143.2199406606064,
-                  "y": 543.2998146995918,
-                  "zoom": -2.1111109686957428
+                  "x": 600.6227380094645,
+                  "y": 1085.7494591963696,
+                  "zoom": -2.7777776048448306
                 }
               },
               "pinned": true,
@@ -106,8 +106,7 @@
               "title": "01极限函数"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.3653869628906
+    "width": 302.3653869628906
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,6 +229,18 @@
               "state": {},
               "icon": "bot",
               "title": "Claudian"
+            }
+          },
+          {
+            "id": "912a961bd8cfe6e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-19 14.41.13.excalidraw"
             }
           },
           {
@@ -304,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.42303466796875
+    "width": 275.761474609375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,14 +339,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6c9a5c6e5c56b3e5",
+  "active": "daca27ff83b96ddd",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20260827174300.png",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/矩阵同类变式题-秩与向量组.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/99 AI原始素材-不熟悉2.0.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01 矩阵运算、逆与伴随.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/习题与1000题与880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/Pasted image 20260827174300.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/卡片/辨析--计时器.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/02王道题.md",
     "_attachments/Pasted image 20260827174148.png",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md",
@@ -344,23 +368,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md.tmp.76856.3aeaea12425f",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/卡片/默认网关默认路由.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/卡片/辨析--窗口.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03基础轮复习.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/卡片/记忆--端口.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/视频勘察.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/Drawing 2026-08-27 16.07.29.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/IP协议.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/DNS协议.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/服务器解包.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/从服务器返程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/大纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/‘我想看谷歌的首页’.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/路由协议/RIP协议.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/局域网/路由器的NAT.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
     "_attachments/image/01极限函数-1787802254059.jpeg",
     "_attachments/image/00通用-1787802126559.jpeg",
@@ -370,7 +382,6 @@
     "_attachments/image/01极限函数-1787799601443.jpeg",
     "_attachments/image/01极限函数-1787798719344.jpeg",
     "_attachments/image/01极限函数-1787798712314.jpeg",
-    "_attachments/image/01极限函数-1787798402261.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",

@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"157aeae91bb1dd95","type":"group","x":-1700,"y":670,"width":700,"height":610,"label":"IP协议"},
 		{"id":"c4189a71cafb4da3","type":"group","x":-1930,"y":40,"width":720,"height":480,"label":"TCP"},
 		{"id":"a17a8c0eed6d27f2","type":"group","x":520,"y":1000,"width":700,"height":350,"label":"ARP"},
 		{"id":"15f5acac92013604","type":"group","collapsed":true,"x":-1760,"y":-320,"width":740,"height":320,"label":"DNS"},
@@ -54,10 +55,11 @@
 			"width":140,
 			"height":60
 		},
+		{"id":"27ae67feb5eb8dbf","type":"group","x":520,"y":3720,"width":610,"height":340,"label":"NAT"},
 		{"id":"d75cd8b5d4d7ba32","type":"group","x":-1680,"y":-740,"width":560,"height":290,"label":"DHCP"},
 		{"id":"b7bb85380d1b3a82","type":"group","x":1120,"y":3180,"width":300,"height":480,"label":"流程"},
-		{"id":"2616d18e8aa8479a","type":"group","x":-1680,"y":720,"width":660,"height":210,"label":"分片"},
-		{"id":"7c737f3d06e12e3e","type":"group","x":-1580,"y":1080,"width":610,"height":160,"label":"ICMP"},
+		{"id":"2616d18e8aa8479a","type":"group","x":-1680,"y":780,"width":660,"height":210,"label":"分片"},
+		{"id":"7c737f3d06e12e3e","type":"group","x":-1630,"y":1100,"width":610,"height":160,"label":"ICMP"},
 		{"id":"srcapp000001","type":"text","text":"## ① 应用层（源）\n浏览器要发 HTTP 请求，先卡在哪？\n（想：要 IP 不要域名→触发谁？HTTP 报文结构？）","x":-480,"y":-280,"width":340,"height":330,"color":"4"},
 		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n场景：你敲下 google.com 到看见首页。\n**对着骨架自己想每一环该填什么，想不出再翻「答案钥匙」。**","x":-140,"y":-760,"width":580,"height":150,"color":"6"},
 		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-900,"y":-600,"width":300,"height":150},
@@ -247,26 +249,6 @@
 			"height":60
 		},
 		{
-			"id":"762b99138e5e2bc6",
-			"type":"text",
-			"text":"ICMP 协议格式",
-			"styleAttributes":{},
-			"x":-1560,
-			"y":1120,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"17b02fc348c97335",
-			"type":"text",
-			"text":"什么时候发\n什么时候不发",
-			"styleAttributes":{},
-			"x":-1250,
-			"y":1100,
-			"width":260,
-			"height":120
-		},
-		{
 			"id":"80af8ea8751212a0",
 			"type":"text",
 			"text":"# 维护的窗口：\n\n接收，发送，拥塞\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/卡片/辨析--窗口]]\n\n1. **接收窗口（`rwnd`，Receive Window）**：\n   * **来源**：从接收方发来的 TCP 首部的 16 位 `Window` 字段提取。\n   * **目的**：反映**接收端的接收缓存能力**，实现**流量控制（Flow Control）**，防止发送方发太快把接收方的缓冲区撑爆。\n2. **拥塞窗口（`cwnd`，Congestion Window）**：\n   * **来源**：发送方内核根据网络拥塞算法（慢开始、拥塞避免、快重传、快恢复）在本地动态计算出来的数值。\n   * **目的**：反映**网络本身的拥塞状况**，实现**拥塞控制（Congestion Control）**。\n3. **实际发送窗口（`swnd`，Send Window）**：\n   * 408 绝对核心公式：\n     $$\\text{发送窗口上限 } swnd = \\min(cwnd, rwnd)$$\n   * 发送方在未收到确认（ACK）的情况下，最多只能发送 $swnd$ 字节的数据。\n",
@@ -317,26 +299,6 @@
 			"height":100
 		},
 		{
-			"id":"660ba7f25a171a82",
-			"type":"text",
-			"text":"为什么要分片",
-			"styleAttributes":{},
-			"x":-1340,
-			"y":730,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b1b197f616b1fc81",
-			"type":"text",
-			"text":"分片规则",
-			"styleAttributes":{},
-			"x":-1300,
-			"y":820,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"c01f1e70161abfed",
 			"type":"text",
 			"text":"**在数据平面的转发逻辑和查表规则上，流程与完全一样；核心区别在于路由表的生成方式（控制平面 Control Plane）以及主机的转发开关。**",
@@ -344,7 +306,8 @@
 			"x":720,
 			"y":3180,
 			"width":260,
-			"height":260
+			"height":260,
+			"color":"2"
 		},
 		{"id":"router000001","type":"text","text":"## 🔀 路由器（逐跳）\n包到路由器，它做什么？\n（想：解封装到第几层就停？查什么表？最长前缀匹配？TTL 怎么变？再重新封装？）\n\n🔗 挂：路由协议\nRIP / OSPF / BGP 区别？","x":880,"y":2640,"width":300,"height":400,"color":"1"},
 		{
@@ -409,16 +372,6 @@
 			"height":60
 		},
 		{
-			"id":"8fafda6a568e2006",
-			"type":"text",
-			"text":"唯一由 IP协议栈维护的定时器存在于**接收端终点**：\n 分片重组定时器\n\n- **分片重组定时器（Fragment Reassembly Timer）**：\n    \n    - 当目的主机的 IP 层收到某个 IP 数据报的第一个分片时，启动该定时器。\n        \n    - 若在定时器超时之前，该数据报的所有分片未能全部集齐，接收端内核将**丢弃已收到的所有分片**，并向源端发送 **ICMP 时间超过报文（Time Exceeded，代码 Code = 1：分片重组超时）**。",
-			"styleAttributes":{},
-			"x":-1660,
-			"y":785,
-			"width":290,
-			"height":95
-		},
-		{
 			"id":"b305d118e91244f9",
 			"type":"text",
 			"text":"NAT 协议",
@@ -448,6 +401,56 @@
 			"width":260,
 			"height":180,
 			"color":"5"
+		},
+		{
+			"id":"660ba7f25a171a82",
+			"type":"text",
+			"text":"为什么要分片",
+			"styleAttributes":{},
+			"x":-1340,
+			"y":790,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b1b197f616b1fc81",
+			"type":"text",
+			"text":"分片规则",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":880,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8fafda6a568e2006",
+			"type":"text",
+			"text":"唯一由 IP协议栈维护的定时器存在于**接收端终点**：\n 分片重组定时器\n\n- **分片重组定时器（Fragment Reassembly Timer）**：\n    \n    - 当目的主机的 IP 层收到某个 IP 数据报的第一个分片时，启动该定时器。\n        \n    - 若在定时器超时之前，该数据报的所有分片未能全部集齐，接收端内核将**丢弃已收到的所有分片**，并向源端发送 **ICMP 时间超过报文（Time Exceeded，代码 Code = 1：分片重组超时）**。",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":845,
+			"width":290,
+			"height":95
+		},
+		{
+			"id":"17b02fc348c97335",
+			"type":"text",
+			"text":"什么时候发\n什么时候不发",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":1120,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"762b99138e5e2bc6",
+			"type":"text",
+			"text":"ICMP 协议格式",
+			"styleAttributes":{},
+			"x":-1610,
+			"y":1140,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -508,6 +511,7 @@
 			"id":"06ee8a5c7f05a38c",
 			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"d75cd8b5d4d7ba32",
 			"fromSide":"left",
 			"toNode":"8419552cf63c8f6b",
