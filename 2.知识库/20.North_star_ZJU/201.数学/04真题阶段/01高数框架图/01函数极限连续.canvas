@@ -20,6 +20,56 @@
 			"y":-100,
 			"width":260,
 			"height":280
+		},
+		{
+			"id":"8203b0d7237a1d53",
+			"type":"text",
+			"text":"![[_attachments/Pasted image 20260827090450.png]]",
+			"styleAttributes":{},
+			"x":560,
+			"y":0,
+			"width":500,
+			"height":120
+		},
+		{
+			"id":"1ccae5b560832d03",
+			"type":"text",
+			"text":"![[_attachments/Pasted image 20260827090413.png]]",
+			"styleAttributes":{},
+			"x":530,
+			"y":-260,
+			"width":560,
+			"height":220
+		},
+		{
+			"id":"ebfe1beff61c2806",
+			"type":"text",
+			"text":"极限与函数值无关\n",
+			"styleAttributes":{},
+			"x":560,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e318d8383f9735ff",
+			"type":"text",
+			"text":"![[_attachments/Pasted image 20260827091126.png]]",
+			"styleAttributes":{},
+			"x":1340,
+			"y":-240,
+			"width":440,
+			"height":300
+		},
+		{
+			"id":"09b83eecf2628bbe",
+			"type":"text",
+			"text":"数列最值\n",
+			"styleAttributes":{},
+			"x":1400,
+			"y":-380,
+			"width":260,
+			"height":80
 		}
 	],
 	"edges":[],
