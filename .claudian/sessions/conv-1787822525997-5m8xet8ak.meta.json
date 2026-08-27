@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787822525997-5m8xet8ak",
+  "providerId": "claude",
+  "title": "拓展一下，不仅要有该文件的内容，我还想要有计网的所有数据帧，对应协议，相关端口，以及是对应的层级（网...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787822525999,
+  "updatedAt": 1787822683859,
+  "lastResponseAt": 1787822677190,
+  "sessionId": "030edc4f-ba50-4201-a95a-97dda347132f",
+  "providerState": {
+    "providerSessionId": "030edc4f-ba50-4201-a95a-97dda347132f"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 106,
+    "cacheCreationInputTokens": 12204,
+    "cacheReadInputTokens": 38439,
+    "contextWindow": 1000000,
+    "contextTokens": 50749,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
