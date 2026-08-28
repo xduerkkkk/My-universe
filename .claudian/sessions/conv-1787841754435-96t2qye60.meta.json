@@ -4,21 +4,21 @@
   "title": "我已经写了做题框架和陷阱整理，你根据我二刷记录帮我补充一下，必要时可以再去一刷痕迹看思维链。先不要改...",
   "titleGenerationStatus": "failed",
   "createdAt": 1787841754435,
-  "updatedAt": 1787878188026,
-  "lastResponseAt": 1787878137679,
+  "updatedAt": 1787915790724,
+  "lastResponseAt": 1787915790724,
   "sessionId": "8c21f2fb-885d-4b4e-9f70-efcdac6d173c",
   "providerState": {
     "providerSessionId": "8c21f2fb-885d-4b4e-9f70-efcdac6d173c"
   },
   "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
   "usage": {
-    "model": "opus[1m]",
-    "inputTokens": 17,
-    "cacheCreationInputTokens": 1995,
-    "cacheReadInputTokens": 79338,
+    "model": "sonnet[1m]",
+    "inputTokens": 3187,
+    "cacheCreationInputTokens": 14155,
+    "cacheReadInputTokens": 73439,
     "contextWindow": 1000000,
-    "contextTokens": 81350,
-    "percentage": 8,
+    "contextTokens": 90781,
+    "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
 }
