@@ -230,68 +230,8 @@
 			"height":60
 		},
 		{"id":"27ae67feb5eb8dbf","type":"group","x":380,"y":3580,"width":610,"height":340,"label":"NAT"},
-		{"id":"6d50b4cb6e669655","type":"group","collapsed":true,"x":-1460,"y":1820,"width":540,"height":360,"label":"若实现可靠传输"},
-		{
-			"id":"45c530e30bd5338b",
-			"type":"text",
-			"text":"维护计时器：\n\n| 机制 | 发送窗口大小 $W_T$ | 接收窗口大小 $W_R$ | 窗口与序号关系（$n$ 位序号） | 确认机制 | 接收端缓存 | 超时重传代价 | 维护的计时器数量 |\n| :--- | :---: | :---: | :--- | :--- | :---: | :--- | :--- |\n| **停止-等待 (Stop-and-Wait)** | $W_T = 1$ | $W_R = 1$ | 序号只需 $1\\text{ bit}$（$0$ 和 $1$ 轮替） | 单帧确认 | 无（只需 1 个帧空间） | 超时只重传当前 1 帧 | 1 个 |\n| **后退 N 帧 (GBN)** | $W_T > 1$ | $W_R = 1$ | **$1 \\le W_T \\le 2^n - 1$** （窗口最大为 $2^n - 1$） | **累计确认**（发送 `ACK=k` 表示 $k$ 及之前全部正确收到） | 无（只能按序接收，乱序一律丢弃） | **重传该帧及其之后的所有 $N$ 个帧**（哪怕后面的帧已正确到达） | **1 个**（只为最早发出的未确认帧计时） |\n| **选择重传 (SR)** | $W_T > 1$ | $W_R > 1$ | **$W_T + W_R \\le 2^n$**，通常取 **$W_T = W_R = 2^{n-1}$** | **非累计/单帧确认**（逐帧回复确认） | **有**（能缓存乱序到达的帧，等空缺补齐再交付） | **只重传超时的那 1 帧**（代价最小） | **$W_T$ 个**（为窗口内的每个已发帧各维护 1 个计时器） |\n",
-			"styleAttributes":{},
-			"x":-1440,
-			"y":1980,
-			"width":500,
-			"height":180
-		},
-		{
-			"id":"bd5768e1b19a208e",
-			"type":"text",
-			"text":"三种发送窗口的区别\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频#流量控制可靠传输|01王道视频]]\n",
-			"styleAttributes":{},
-			"x":-1400,
-			"y":1840,
-			"width":260,
-			"height":100
-		},
-		{"id":"ec0d240d8c2ff604","type":"group","collapsed":true,"x":-1540,"y":1440,"width":580,"height":300,"label":"介质信道中，如何发送"},
-		{
-			"id":"55dc07d045a64012",
-			"type":"text",
-			"text":"若 MAC 帧就绪，在介质信道中，如何发送",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":1460,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a806d2e9737eb118",
-			"type":"text",
-			"text":"\nFDM/TDM/WDM/CDM",
-			"styleAttributes":{},
-			"x":-1530,
-			"y":1600,
-			"width":150,
-			"height":120
-		},
-		{
-			"id":"f742d6d581be1cd6",
-			"type":"text",
-			"text":"ALOHA\nCSMA/CD\nCSMA/CA",
-			"styleAttributes":{},
-			"x":-1330,
-			"y":1620,
-			"width":160,
-			"height":100
-		},
-		{
-			"id":"66bce8af4b5b5572",
-			"type":"text",
-			"text":"令牌传递",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":1620,
-			"width":130,
-			"height":60
-		},
+		{"id":"6d50b4cb6e669655","type":"group","x":-1460,"y":1820,"width":540,"height":360,"label":"若实现可靠传输"},
+		{"id":"ec0d240d8c2ff604","type":"group","x":-1540,"y":1440,"width":580,"height":300,"label":"介质信道中，如何发送"},
 		{"id":"d75cd8b5d4d7ba32","type":"group","collapsed":true,"x":-1680,"y":-740,"width":560,"height":290,"label":"DHCP"},
 		{
 			"id":"5622a635d380255c",
@@ -344,36 +284,33 @@
 			"height":100
 		},
 		{"id":"b7bb85380d1b3a82","type":"group","x":1120,"y":3180,"width":300,"height":480,"label":"流程"},
-		{"id":"srcapp000001","type":"text","text":"## ① 应用层（源）\n浏览器要发 HTTP 请求，先卡在哪？\n（想：要 IP 不要域名→触发谁？HTTP 报文结构？）","x":-480,"y":-280,"width":340,"height":330,"color":"4"},
-		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n场景：你敲下 google.com 到看见首页。\n**对着骨架自己想每一环该填什么，想不出再翻「答案钥匙」。**","x":-140,"y":-760,"width":580,"height":150,"color":"6"},
-		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-900,"y":-600,"width":300,"height":150},
-		{"id":"dns000000001","type":"text","text":"## DNS 解析\n域名怎么变 IP？\n（想：哪一层？什么传输协议+端口？递归 vs 迭代？缓存在哪几处？）","x":-980,"y":-320,"width":300,"height":170,"color":"2"},
-		{"id":"mountnet0001","type":"text","text":"### 🔗 挂：网络层知识簇\n（想：子网划分/CIDR/NAT/IP 首部字段/ICMP/分片重组）","x":-905,"y":670,"width":300,"height":180,"color":"2"},
-		{"id":"dstapp000001","type":"text","text":"## ① 应用层（服务器）\n服务器收到 HTTP 请求，回什么？\n（想：状态码？响应报文？）","x":1260,"y":-305,"width":340,"height":330,"color":"4"},
+		{"id":"d4cc1048afb2fa3c","type":"group","x":-680,"y":2600,"width":560,"height":162,"label":"两种转换方式"},
 		{
-			"id":"d969dac17507ed7a",
+			"id":"45c530e30bd5338b",
 			"type":"text",
-			"text":"服务器的进程，使用对应协议，解析字节流",
+			"text":"维护计时器：\n\n| 机制 | 发送窗口大小 $W_T$ | 接收窗口大小 $W_R$ | 窗口与序号关系（$n$ 位序号） | 确认机制 | 接收端缓存 | 超时重传代价 | 维护的计时器数量 |\n| :--- | :---: | :---: | :--- | :--- | :---: | :--- | :--- |\n| **停止-等待 (Stop-and-Wait)** | $W_T = 1$ | $W_R = 1$ | 序号只需 $1\\text{ bit}$（$0$ 和 $1$ 轮替） | 单帧确认 | 无（只需 1 个帧空间） | 超时只重传当前 1 帧 | 1 个 |\n| **后退 N 帧 (GBN)** | $W_T > 1$ | $W_R = 1$ | **$1 \\le W_T \\le 2^n - 1$** （窗口最大为 $2^n - 1$） | **累计确认**（发送 `ACK=k` 表示 $k$ 及之前全部正确收到） | 无（只能按序接收，乱序一律丢弃） | **重传该帧及其之后的所有 $N$ 个帧**（哪怕后面的帧已正确到达） | **1 个**（只为最早发出的未确认帧计时） |\n| **选择重传 (SR)** | $W_T > 1$ | $W_R > 1$ | **$W_T + W_R \\le 2^n$**，通常取 **$W_T = W_R = 2^{n-1}$** | **非累计/单帧确认**（逐帧回复确认） | **有**（能缓存乱序到达的帧，等空缺补齐再交付） | **只重传超时的那 1 帧**（代价最小） | **$W_T$ 个**（为窗口内的每个已发帧各维护 1 个计时器） |\n",
 			"styleAttributes":{},
-			"x":1700,
-			"y":-260,
-			"width":260,
-			"height":60
+			"x":-1440,
+			"y":1980,
+			"width":500,
+			"height":180
 		},
-		{"id":"dsttrans0001","type":"text","text":"## ② 传输层（服务器）\n拆 TCP 头，按什么交给对的进程？","x":1500,"y":220,"width":340,"height":150,"color":"4"},
 		{
-			"id":"7905d171e25a126a",
+			"id":"bd5768e1b19a208e",
 			"type":"text",
-			"text":"传输层协议的分用：\n是传输层协议模块识别端口并转发",
+			"text":"三种发送窗口的区别\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频#流量控制可靠传输|01王道视频]]\n",
 			"styleAttributes":{},
-			"x":1880,
-			"y":170,
+			"x":-1400,
+			"y":1840,
 			"width":260,
 			"height":100
 		},
+		{"id":"srcapp000001","type":"text","text":"## ① 应用层（源）\n浏览器要发 HTTP 请求，先卡在哪？\n（想：要 IP 不要域名→触发谁？HTTP 报文结构？）","x":-480,"y":-280,"width":340,"height":330,"color":"4"},
+		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-900,"y":-600,"width":300,"height":150},
+		{"id":"dns000000001","type":"text","text":"## DNS 解析\n域名怎么变 IP？\n（想：哪一层？什么传输协议+端口？递归 vs 迭代？缓存在哪几处？）","x":-980,"y":-320,"width":300,"height":170,"color":"2"},
+		{"id":"mountnet0001","type":"text","text":"### 🔗 挂：网络层知识簇\n（想：子网划分/CIDR/NAT/IP 首部字段/ICMP/分片重组）","x":-905,"y":670,"width":300,"height":180,"color":"2"},
 		{"id":"dstnet000001","type":"text","text":"## ③ 网络层（服务器）\n拆 IP 头，怎么确认是发给我的？交给谁？","x":1670,"y":610,"width":340,"height":150,"color":"4"},
 		{"id":"dstlink00001","type":"text","text":"## ④ 链路层（服务器）\n拆哪层头？校验什么？交给谁？","x":1670,"y":945,"width":340,"height":150,"color":"4"},
-		{"id":"return000001","type":"text","text":"## 🔁 返程\n服务器→你，基本镜像。\n（想：源/目地址互换？TCP 确认？为什么可能分片重组？）","x":820,"y":-140,"width":390,"height":150,"color":"2"},
 		{"id":"srctrans0001","type":"text","text":"## ② 传输层（源）\nHTTP 报文交给谁运？\n（想：TCP 还是 UDP 为什么？端口作用？几次握手？封装成什么？）","x":-480,"y":248,"width":340,"height":220,"color":"4"},
 		{"id":"mounttrans01","type":"text","text":"### 🔗 挂：TCP 机制簇\nTCP 靠什么可靠？\n（想：序号/确认/重传？滑动窗口=流控？拥塞控制四阶段？握手挥手）","x":-990,"y":183,"width":300,"height":175,"color":"2"},
 		{
@@ -497,7 +434,8 @@
 			"x":-40,
 			"y":1420,
 			"width":260,
-			"height":120
+			"height":120,
+			"color":"3"
 		},
 		{
 			"id":"776a2559111579d4",
@@ -577,9 +515,9 @@
 			"x":340,
 			"y":1460,
 			"width":220,
-			"height":100
+			"height":100,
+			"color":"3"
 		},
-		{"id":"dstphy000001","type":"text","text":"## ⑤ 物理层（服务器）\n收到比特流，交给谁？","x":1670,"y":1440,"width":340,"height":150,"color":"4"},
 		{"id":"mountlink001","type":"text","text":"### 🔗 挂：链路层知识簇\n（想：CRC/海明码/以太网帧/VLAN/交换机自学习/PPP）","x":-905,"y":1480,"width":300,"height":180,"color":"2"},
 		{
 			"id":"439c8ddcc2a78114",
@@ -602,16 +540,6 @@
 			"y":2195,
 			"width":450,
 			"height":220
-		},
-		{
-			"id":"518983f15dc53981",
-			"type":"text",
-			"text":"编码",
-			"styleAttributes":{},
-			"x":-400,
-			"y":2610,
-			"width":180,
-			"height":105
 		},
 		{
 			"id":"0a0d8a30eff2337e",
@@ -654,7 +582,243 @@
 			"width":260,
 			"height":200
 		},
-		{"id":"srcnet000001","type":"text","text":"## ③ 网络层（源）\n段要发去哪？\n（想：加什么头？目标同网段吗？怎么判断？不同网段发给谁？只知 IP 不知 MAC 靠谁？）","x":-480,"y":760,"width":340,"height":260,"color":"4"}
+		{"id":"srcnet000001","type":"text","text":"## ③ 网络层（源）\n段要发去哪？\n（想：加什么头？目标同网段吗？怎么判断？不同网段发给谁？只知 IP 不知 MAC 靠谁？）","x":-480,"y":760,"width":340,"height":260,"color":"4"},
+		{
+			"id":"518983f15dc53981",
+			"type":"text",
+			"text":"编码",
+			"styleAttributes":{},
+			"x":-320,
+			"y":2610,
+			"width":180,
+			"height":105
+		},
+		{
+			"id":"3e6e46c15043cc02",
+			"type":"text",
+			"text":"根据物理介质\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/编码与调制的选择依据|编码与调制的选择依据]]\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/介质标识|介质标识]]",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":2490,
+			"width":260,
+			"height":132
+		},
+		{
+			"id":"d58845e252d79617",
+			"type":"text",
+			"text":"根据信道情况，\n基于奈奎斯特定理或香农定理\n调整比特率\n\n",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":2900,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"1945536e082caf85",
+			"type":"text",
+			"text":"在物理链路也可能经过一些物理设备再到路由器",
+			"styleAttributes":{},
+			"x":140,
+			"y":2730,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"9f97971ffc33cfd9",
+			"type":"text",
+			"text":"[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/物理设备梳理|物理设备梳理]]",
+			"styleAttributes":{},
+			"x":120,
+			"y":2840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3148e3cccd03afb4",
+			"type":"text",
+			"text":"这里转发是 MAC 表\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC表与ARP表|MAC表与ARP表]]",
+			"styleAttributes":{},
+			"x":470,
+			"y":1800,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"dstphy000001","type":"text","text":"## ⑤ 物理层（服务器）\n收到比特流，交给谁？","x":1670,"y":1940,"width":340,"height":150,"color":"4"},
+		{
+			"id":"16a84f7caed14c21",
+			"type":"text",
+			"text":"# 核心检错：FCS（CRC-32）校验\n\n- 边接收数据边利用硬件 CRC 逻辑计算多项式。\n- 当帧全部接收完毕时，将计算出的校验值与帧尾的 **4 字节 FCS** 进行比对：\n    - **校验失败（有误码）**：**直接丢弃该帧**。以太网提供不可靠服务，**不发 NAK、不请求重传、不通知上层**。\n    - **校验成功**：进入下一步。",
+			"styleAttributes":{},
+			"x":2200,
+			"y":945,
+			"width":540,
+			"height":260,
+			"color":"3"
+		},
+		{
+			"id":"049dacded603da51",
+			"type":"text",
+			"text":"# 目的MAC 地址过滤\n- 网卡读取帧头前 6 字节的 `目的 MAC`：\n  - 若 `目的 MAC == 本机网卡 MAC` $\\rightarrow$ 接收；\n  - 若 `目的 MAC == FF-FF-FF-FF-FF-FF`（广播地址） $\\rightarrow$ 接收；\n  - 若 `目的 MAC` 属于本机加入的多播组 $\\rightarrow$ 接收；\n  - **若都不匹配（且网卡未开启混杂模式）** $\\rightarrow$ **硬件直接静默丢弃**，不占用 CPU 资源。\n",
+			"styleAttributes":{},
+			"x":2200,
+			"y":1300,
+			"width":540,
+			"height":260,
+			"color":"3"
+		},
+		{
+			"id":"513894024bea1c0d",
+			"type":"text",
+			"text":"#   **物理层检错（第一道检错）**：\n    \n- **编码违规检测**：如果在解码过程中检测到非法电平或无效码字（例如 4B/5B 编码中出现了未定义的 5-bit 控制模式，或曼彻斯特编码在周期中心没有电平跳变），判定信号受损，向 MAC 控制器发出物理错误信号。\n（MAC 层也是直接丢弃）",
+			"styleAttributes":{},
+			"x":2240,
+			"y":1925,
+			"width":540,
+			"height":255,
+			"color":"3"
+		},
+		{
+			"id":"226869432cf6442b",
+			"type":"text",
+			"text":"关于校验码的小拓展\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/校验码们|校验码们]]",
+			"styleAttributes":{},
+			"x":2800,
+			"y":1045,
+			"width":260,
+			"height":60
+		},
+		{"id":"dsttrans0001","type":"text","text":"## ② 传输层（服务器）\n拆 TCP 头，按什么交给对的进程？","x":1670,"y":195,"width":290,"height":150,"color":"4"},
+		{"id":"dstapp000001","type":"text","text":"## ① 应用层（服务器）\n服务器收到 HTTP 请求，回什么？\n（想：状态码？响应报文？）","x":1650,"y":-365,"width":380,"height":330,"color":"4"},
+		{
+			"id":"d969dac17507ed7a",
+			"type":"text",
+			"text":"服务器的进程，使用对应协议，解析字节流",
+			"styleAttributes":{},
+			"x":2120,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0ac47286df6a8f2c",
+			"type":"text",
+			"text":"# 如果这里是路由器\n检查 TTL 大小\n- 若 TTL ≤ 1 ──► 丢弃数据报，并向源主机发送 ICMP 时间超过报文 (Type 11, Code 0) \n- 若 TTL > 1 ──► 执行 TTL = TTL - 1",
+			"styleAttributes":{},
+			"x":2480,
+			"y":480,
+			"width":260,
+			"height":280,
+			"color":"1"
+		},
+		{
+			"id":"61aa59bd53ebd16a",
+			"type":"text",
+			"text":"# 验证首部校验和 \n\n校验错误直接丢弃 (不发 ICMP)\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/卡片/检验和的流程#二、 IPv4 首部校验和的严格计算与验证流程|检验和的流程]]",
+			"styleAttributes":{},
+			"x":2120,
+			"y":520,
+			"width":260,
+			"height":240,
+			"color":"3"
+		},
+		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n# 场景 ：你敲下 google.com 到看见首页。","x":435,"y":-675,"width":580,"height":150,"color":"6"},
+		{
+			"id":"5204b12950b744b4",
+			"type":"text",
+			"text":"# 验证首部校验和",
+			"styleAttributes":{},
+			"x":2140,
+			"y":140,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d3999e57268b543b",
+			"type":"text",
+			"text":"# 查找端口并定位",
+			"styleAttributes":{},
+			"x":2140,
+			"y":210,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"48d007e38a45fe32",
+			"type":"text",
+			"text":"# 生成确认 ACK",
+			"styleAttributes":{},
+			"x":2140,
+			"y":345,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"bd9643e0678cb93e",
+			"type":"text",
+			"text":"# 流量控制，更新 rwnd",
+			"styleAttributes":{},
+			"x":2140,
+			"y":270,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7905d171e25a126a",
+			"type":"text",
+			"text":"传输层协议的分用：\n是传输层协议模块识别端口并转发",
+			"styleAttributes":{},
+			"x":2120,
+			"y":40,
+			"width":260,
+			"height":100
+		},
+		{"id":"return000001","type":"text","text":"## 🔁 返程\n服务器→你，基本镜像。\n（想：源/目地址互换？TCP 确认？为什么可能分片重组？）","x":880,"y":-110,"width":390,"height":150,"color":"2"},
+		{
+			"id":"55dc07d045a64012",
+			"type":"text",
+			"text":"若 MAC 帧就绪，在介质信道中，如何发送",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":1460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a806d2e9737eb118",
+			"type":"text",
+			"text":"\nFDM/TDM/WDM/CDM",
+			"styleAttributes":{},
+			"x":-1530,
+			"y":1600,
+			"width":150,
+			"height":120
+		},
+		{
+			"id":"f742d6d581be1cd6",
+			"type":"text",
+			"text":"ALOHA\nCSMA/CD\nCSMA/CA",
+			"styleAttributes":{},
+			"x":-1330,
+			"y":1620,
+			"width":160,
+			"height":100
+		},
+		{
+			"id":"66bce8af4b5b5572",
+			"type":"text",
+			"text":"令牌传递",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":1620,
+			"width":130,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"x01","toFloating":false,"fromNode":"pre000000001","fromSide":"bottom","toNode":"dns000000001","toSide":"top","label":"就绪后"},
@@ -663,12 +827,12 @@
 		{"id":"x04","fromNode":"srctrans0001","fromSide":"bottom","toNode":"srcnet000001","toSide":"top","label":"加TCP头"},
 		{"id":"x05","toFloating":false,"fromNode":"srcnet000001","fromSide":"bottom","toNode":"srclink00001","toSide":"top","label":"加IP头"},
 		{"id":"x06","fromNode":"srclink00001","fromSide":"bottom","toNode":"srcphy000001","toSide":"top","label":"加帧头尾"},
-		{"id":"x07","fromFloating":false,"fromNode":"srcphy000001","fromSide":"right","toNode":"router000001","toSide":"left","label":"比特流上线"},
-		{"id":"x08","fromFloating":false,"fromNode":"router000001","fromSide":"right","toNode":"dstphy000001","toSide":"left","label":"转发到达"},
+		{"id":"x07","fromFloating":false,"toFloating":false,"fromNode":"srcphy000001","fromSide":"right","toNode":"router000001","toSide":"left","label":"物理信号"},
+		{"id":"x08","fromFloating":false,"fromNode":"router000001","fromSide":"right","toNode":"dstphy000001","toSide":"left","label":"*转发\n到达*"},
 		{"id":"x09","fromNode":"dstphy000001","fromSide":"top","toNode":"dstlink00001","toSide":"bottom","label":"上浮·解封装"},
 		{"id":"x10","fromFloating":false,"fromNode":"dstlink00001","fromSide":"top","toNode":"dstnet000001","toSide":"bottom"},
 		{"id":"x11","fromNode":"dstnet000001","fromSide":"top","toNode":"dsttrans0001","toSide":"bottom"},
-		{"id":"x12","fromNode":"dsttrans0001","fromSide":"top","toNode":"dstapp000001","toSide":"bottom","label":"交给进程"},
+		{"id":"x12","fromNode":"dsttrans0001","fromSide":"top","toNode":"dstapp000001","toSide":"bottom","label":"通过应用层read()阅读socket缓冲区，\n交给进程"},
 		{"id":"x13","fromFloating":false,"fromNode":"srctrans0001","fromSide":"left","toNode":"mounttrans01","toSide":"right"},
 		{"id":"x14","fromFloating":false,"fromNode":"srcnet000001","fromSide":"left","toNode":"mountnet0001","toSide":"right"},
 		{"id":"x15","fromFloating":false,"fromNode":"srclink00001","fromSide":"left","toNode":"mountlink001","toSide":"right"},
@@ -691,15 +855,6 @@
 			"fromSide":"right",
 			"toNode":"srcnet000001",
 			"toSide":"left"
-		},
-		{
-			"id":"14a2724a0d6a5f96",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7905d171e25a126a",
-			"fromSide":"left",
-			"toNode":"dsttrans0001",
-			"toSide":"right"
 		},
 		{
 			"id":"0d25f189d0c6de19",
@@ -829,6 +984,120 @@
 			"toSide":"right"
 		},
 		{
+			"id":"89a8f778580b59a0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"srcphy000001",
+			"fromSide":"bottom",
+			"toNode":"0a0d8a30eff2337e",
+			"toSide":"top"
+		},
+		{
+			"id":"863de3d9bd6e541e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"srcphy000001",
+			"fromSide":"bottom",
+			"toNode":"518983f15dc53981",
+			"toSide":"top"
+		},
+		{
+			"id":"3e1c31266409c735",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3e6e46c15043cc02",
+			"fromSide":"right",
+			"toNode":"d4cc1048afb2fa3c",
+			"toSide":"left"
+		},
+		{
+			"id":"7583477e804a015e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d58845e252d79617",
+			"fromSide":"right",
+			"toNode":"d4cc1048afb2fa3c",
+			"toSide":"left"
+		},
+		{
+			"id":"ba7275d6f41c0e45",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dstphy000001",
+			"fromSide":"right",
+			"toNode":"513894024bea1c0d",
+			"toSide":"left"
+		},
+		{
+			"id":"9b8e6c85e75c1f67",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dstlink00001",
+			"fromSide":"right",
+			"toNode":"16a84f7caed14c21",
+			"toSide":"left"
+		},
+		{
+			"id":"63a46171ff2dbd8b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"16a84f7caed14c21",
+			"fromSide":"bottom",
+			"toNode":"049dacded603da51",
+			"toSide":"top"
+		},
+		{
+			"id":"e7d622b65873aaf2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dstnet000001",
+			"fromSide":"right",
+			"toNode":"61aa59bd53ebd16a",
+			"toSide":"left"
+		},
+		{
+			"id":"799c89b6b2df1f08",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dsttrans0001",
+			"fromSide":"right",
+			"toNode":"5204b12950b744b4",
+			"toSide":"left"
+		},
+		{
+			"id":"72a80b212ac24f25",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromNode":"55dc07d045a64012",
+			"fromSide":"bottom",
+			"toNode":"a806d2e9737eb118",
+			"toSide":"top",
+			"label":"静态划分"
+		},
+		{
+			"id":"5341d83fc2b406f7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55dc07d045a64012",
+			"fromSide":"bottom",
+			"toNode":"f742d6d581be1cd6",
+			"toSide":"top",
+			"label":"动态划分"
+		},
+		{
+			"id":"8c2d3a8c89aca3fb",
+			"styleAttributes":{
+				"path":null,
+				"pathfindingMethod":"direct"
+			},
+			"toFloating":false,
+			"fromNode":"55dc07d045a64012",
+			"fromSide":"bottom",
+			"toNode":"66bce8af4b5b5572",
+			"toSide":"top",
+			"label":"受控访问"
+		},
+		{
 			"id":"2cbf64fec2b121ce",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -891,39 +1160,6 @@
 			"fromSide":"bottom",
 			"toNode":"503678f28c495182",
 			"toSide":"top"
-		},
-		{
-			"id":"72a80b212ac24f25",
-			"styleAttributes":{"pathfindingMethod":"direct"},
-			"toFloating":false,
-			"fromNode":"55dc07d045a64012",
-			"fromSide":"bottom",
-			"toNode":"a806d2e9737eb118",
-			"toSide":"top",
-			"label":"静态划分"
-		},
-		{
-			"id":"5341d83fc2b406f7",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"55dc07d045a64012",
-			"fromSide":"bottom",
-			"toNode":"f742d6d581be1cd6",
-			"toSide":"top",
-			"label":"动态划分"
-		},
-		{
-			"id":"8c2d3a8c89aca3fb",
-			"styleAttributes":{
-				"path":null,
-				"pathfindingMethod":"direct"
-			},
-			"toFloating":false,
-			"fromNode":"55dc07d045a64012",
-			"fromSide":"bottom",
-			"toNode":"66bce8af4b5b5572",
-			"toSide":"top",
-			"label":"受控访问"
 		}
 	],
 	"metadata":{
