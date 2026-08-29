@@ -32,7 +32,7 @@
 		{"id":"probgood000001","type":"text","text":"⭐ 好题（示例位）\n为什么好：一句话写考点\n→ [[某道好题]]","x":-1840,"y":830,"width":320,"height":120,"color":"1"}
 	],
 	"edges":[
-		{"id":"e01","fromNode":"root000000000001","fromSide":"bottom","toNode":"q1000000000001","toSide":"top"},
+		{"id":"e01","toFloating":false,"fromNode":"root000000000001","fromSide":"bottom","toNode":"q1000000000001","toSide":"top"},
 		{"id":"e02","fromFloating":false,"fromNode":"q1000000000001","fromSide":"left","toNode":"q2000000000001","toSide":"top","label":"单中值"},
 		{"id":"e03","fromNode":"q1000000000001","fromSide":"right","toNode":"q2p00000000001","toSide":"top","label":"双中值"},
 		{
