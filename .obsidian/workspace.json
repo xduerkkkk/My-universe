@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "16de0846c5bf14e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10 综合自测题"
-            }
-          },
-          {
             "id": "995964ceb6623be3",
             "type": "leaf",
             "pinned": true,
@@ -75,49 +59,51 @@
             }
           },
           {
-            "id": "88c8144b2664ed33",
+            "id": "16de0846c5bf14e5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/记忆--什么时候加绝对值.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "记忆--什么时候加绝对值"
+              "title": "10 综合自测题"
             }
           },
           {
-            "id": "022e0bcfe804110e",
+            "id": "45166807654facec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01书籍与例题"
+              "title": "01视频笔记"
             }
           },
           {
-            "id": "09f8efb29b063617",
+            "id": "62d2fdb1f3788d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04多元微分"
+              "title": "07 二次型、合同与惯性"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -350,20 +336,32 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "09f8efb29b063617",
+  "active": "62d2fdb1f3788d31",
   "lastOpenFiles": [
+    "_attachments/image/07 二次型、合同与惯性-1787991183317.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/03大观题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/04 做题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/11 补充素材.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/记忆--什么时候加绝对值.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
     "_attachments/image/04多元微分-1787986721259.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
     "_attachments/Pasted image 20260829144604.png",
     "_attachments/Pasted image 20260829144548.png",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/记忆--什么时候加绝对值.md",
     "_attachments/image/记忆--什么时候加绝对值-1787984648405.jpeg",
     "_attachments/image/记忆--什么时候加绝对值-1787984438992.jpeg",
     "_attachments/image/记忆--什么时候加绝对值-1787984427622.jpeg",
@@ -375,23 +373,11 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/计算坑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/辨析--“并行”层级.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--常用放缩.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/记忆--积分题反函数性质.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/难--创建两阶导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/难--导数极限定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/00卡片/题--M=max{f''(x)}.md",
     "_attachments/image/02 强化习题-1787922112462.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片",
     "_attachments/Pasted image 20260828151516.png",
     "_attachments/image/三种方式的区别-1787901099180.jpeg",
-    "_attachments/image/三种方式的区别-1787901062330.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md.tmp.2696.4fdab72d7285",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md.tmp.76856.8f54769c3728",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md.tmp.76856.3aeaea12425f",
