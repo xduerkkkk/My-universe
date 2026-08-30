@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788079080209-m3mqznsz8",
+  "providerId": "claude",
+  "title": "408阶段查漏补缺，我还是觉得很枯燥以及效率低，感觉还是在看我的各个文件，但是光看，帧提取不出来技巧...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788079080209,
+  "updatedAt": 1788079298436,
+  "lastResponseAt": 1788079158360,
+  "sessionId": "217f0ac8-c11e-4a10-828b-98cf53281486",
+  "providerState": {
+    "providerSessionId": "217f0ac8-c11e-4a10-828b-98cf53281486"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 2983,
+    "cacheCreationInputTokens": 9020,
+    "cacheReadInputTokens": 38170,
+    "contextWindow": 1000000,
+    "contextTokens": 50173,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

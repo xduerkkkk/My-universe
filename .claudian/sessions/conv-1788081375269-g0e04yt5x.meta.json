@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788081375269-g0e04yt5x",
+  "providerId": "claude",
+  "title": "再补充以下 在 408 考纲中，“引用计数”是极易混淆的概念。必须明确指出：**内存中的 Inode...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788081375269,
+  "updatedAt": 1788081748102,
+  "lastResponseAt": 1788081748102,
+  "sessionId": "8d5e48ce-5d82-4f14-8a1a-a8566019fd18",
+  "providerState": {
+    "providerSessionId": "8d5e48ce-5d82-4f14-8a1a-a8566019fd18"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 109,
+    "cacheCreationInputTokens": 12192,
+    "cacheReadInputTokens": 49274,
+    "contextWindow": 1000000,
+    "contextTokens": 61575,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

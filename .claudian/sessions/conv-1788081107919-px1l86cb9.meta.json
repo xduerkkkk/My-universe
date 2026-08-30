@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788081107919-px1l86cb9",
+  "providerId": "claude",
+  "title": "管程这里写的太少了，你根据真题，以及相关知识，补充一下。再出几个预测题",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788081107919,
+  "updatedAt": 1788081340468,
+  "lastResponseAt": 1788081307772,
+  "sessionId": "03820576-c5a1-4452-bbb7-d1c8bf85a22a",
+  "providerState": {
+    "providerSessionId": "03820576-c5a1-4452-bbb7-d1c8bf85a22a"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 108,
+    "cacheCreationInputTokens": 6495,
+    "cacheReadInputTokens": 39258,
+    "contextWindow": 1000000,
+    "contextTokens": 45861,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

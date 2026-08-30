@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788078984281-seziupmvk",
+  "providerId": "claude",
+  "title": "有点抽象 你拓展补充一下",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788078984281,
+  "updatedAt": 1788079258981,
+  "lastResponseAt": 1788079258981,
+  "sessionId": "6cf62afe-0b71-48be-97d6-771f64540292",
+  "providerState": {
+    "providerSessionId": "6cf62afe-0b71-48be-97d6-771f64540292"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/难点--时钟置换算法.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 111,
+    "cacheCreationInputTokens": 5913,
+    "cacheReadInputTokens": 42767,
+    "contextWindow": 1000000,
+    "contextTokens": 48791,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
