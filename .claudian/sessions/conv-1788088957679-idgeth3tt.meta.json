@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788088957679-idgeth3tt",
+  "providerId": "claude",
+  "title": "我实在觉得看知识知识点查漏效率低下，我认为真题也是查漏补缺，通过做题效果更好。 我现在高数框架算已经...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788088957679,
+  "updatedAt": 1788089053010,
+  "lastResponseAt": 1788089023747,
+  "sessionId": "9b54aed2-6e48-4844-8c73-d48a44fa0c71",
+  "providerState": {
+    "providerSessionId": "9b54aed2-6e48-4844-8c73-d48a44fa0c71"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2162,
+    "cacheCreationInputTokens": 4450,
+    "cacheReadInputTokens": 30700,
+    "contextWindow": 1000000,
+    "contextTokens": 37312,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
