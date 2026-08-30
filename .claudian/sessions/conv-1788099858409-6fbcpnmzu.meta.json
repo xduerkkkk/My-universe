@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788099858409-6fbcpnmzu",
+  "providerId": "codex",
+  "title": "分析浙大AI院首年改考408趋势",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788099858409,
+  "updatedAt": 1788100366611,
+  "lastResponseAt": 1788100366611,
+  "sessionId": "01a0530e-9077-7942-a272-8ac41ec55311",
+  "providerState": {
+    "threadId": "01a0530e-9077-7942-a272-8ac41ec55311",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\30\\rollout-2026-08-30T22-24-23-01a0530e-9077-7942-a272-8ac41ec55311.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 26135,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3712,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26135,
+    "percentage": 3,
+    "model": "gpt-5.6-sol"
+  }
+}
