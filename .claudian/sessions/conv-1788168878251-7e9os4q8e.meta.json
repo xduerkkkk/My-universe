@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788168878251-7e9os4q8e",
+  "providerId": "codex",
+  "title": "讨论疑惑并规划明日真题训练",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788168878252,
+  "updatedAt": 1788169243795,
+  "lastResponseAt": 1788169243795,
+  "sessionId": "01a0572b-bfdb-7490-9638-18c6a2fac38a",
+  "providerState": {
+    "threadId": "01a0572b-bfdb-7490-9638-18c6a2fac38a",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\08\\31\\rollout-2026-08-31T17-34-45-01a0572b-bfdb-7490-9638-18c6a2fac38a.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
+  "usage": {
+    "inputTokens": 15457,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 14592,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 15457,
+    "percentage": 2,
+    "model": "gpt-5.6-sol"
+  }
+}

@@ -88,40 +88,21 @@
             }
           },
           {
-            "id": "fa40cf09a74c9828",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CO-技巧"
-            }
-          },
-          {
             "id": "f1449a332d13d513",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
-                "viewState": {
-                  "x": -26.523035063370372,
-                  "y": 107.53841152922456,
-                  "zoom": -0.0795507244355034
-                }
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "03大题"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -326,7 +307,8 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,44 +336,45 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f1449a332d13d513",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/04算法重刷.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "_attachments/image/DS-技巧-1788168357002.jpeg",
+    "_attachments/image/DS-技巧-1788168286327.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/03错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/04知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/记忆：条件转移.md",
+    "_attachments/image/记忆：条件转移-1788167370459.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/乘法电路图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/两类溢出.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/舍入.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-09-01-CO_Cache映射.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/01闭卷单元测/【盲写清单】2026-08-28-OS同步互斥.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/辨析_大端小端.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/思维导图-指令.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/04指令知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/03指令错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/06总线/ch4总线定时与结构+io设备概述.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/06总线/01王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/06总线/ch3总线.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-注释分类整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/01存储系统概述.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/行缓冲器.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/透明.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--同时启动和轮流启动.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/两类溢出.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/真值转浮点数.md",
+    "_attachments/image/未命名-1788165422923.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "_attachments/image/06幂级数求和展开-1788149269338.jpeg",
     "_attachments/image/06幂级数求和展开-1788148755012.jpeg",
     "_attachments/image/00通用-1788147949176.jpeg",
     "_attachments/image/00通用-1788147941621.jpeg",
     "_attachments/image/00通用-1788147622662.jpeg",
     "_attachments/image/06幂级数求和展开-1788146505350.jpeg",
-    "_attachments/image/06幂级数求和展开-1788143490091.jpeg",
-    "_attachments/image/06幂级数求和展开-1788143456551.jpeg",
-    "_attachments/image/06幂级数求和展开-1788141346735.jpeg",
-    "_attachments/image/06幂级数求和展开-1788140261333.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md.tmp.85360.0ab46c8df23d",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.191f100c2751",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.2aa24cb3d144",
