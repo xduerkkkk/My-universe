@@ -86,23 +86,9 @@
               "icon": "lucide-file",
               "title": "06幂级数求和展开"
             }
-          },
-          {
-            "id": "f1449a332d13d513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03大题"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.3961486816406
+    "width": 290.5500183105469
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -208,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,12 +293,11 @@
               "title": "反向链接"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.0999755859375
+    "width": 243.2384033203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,13 +321,26 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "09209c68fa1efb20",
   "lastOpenFiles": [
+    "_attachments/image/06幂级数求和展开-1788179378421.jpeg",
+    "_attachments/image/06幂级数求和展开-1788178406744.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/06幂级数求和展开-1788176488568.jpeg",
+    "_attachments/image/06幂级数求和展开-1788176476136.jpeg",
+    "_attachments/image/06幂级数求和展开-1788175951557.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/00OS综述/卡片/启动.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/04算法重刷.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
     "_attachments/image/DS-技巧-1788168357002.jpeg",
     "_attachments/image/DS-技巧-1788168286327.jpeg",
@@ -358,23 +356,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/记忆：条件转移.md",
     "_attachments/image/记忆：条件转移-1788167370459.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/乘法电路图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/舍入.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/两类溢出.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/真值转浮点数.md",
     "_attachments/image/未命名-1788165422923.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "_attachments/image/06幂级数求和展开-1788149269338.jpeg",
     "_attachments/image/06幂级数求和展开-1788148755012.jpeg",
-    "_attachments/image/00通用-1788147949176.jpeg",
-    "_attachments/image/00通用-1788147941621.jpeg",
-    "_attachments/image/00通用-1788147622662.jpeg",
-    "_attachments/image/06幂级数求和展开-1788146505350.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md.tmp.85360.0ab46c8df23d",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.191f100c2751",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.2aa24cb3d144",
@@ -384,7 +370,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.4a19a679f2f5",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.50734081944c",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.d8478ad938b9",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.721b4c007296",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",

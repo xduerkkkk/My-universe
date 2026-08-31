@@ -4,8 +4,8 @@
   "title": "讨论疑惑并规划明日真题训练",
   "titleGenerationStatus": "success",
   "createdAt": 1788168878252,
-  "updatedAt": 1788169243795,
-  "lastResponseAt": 1788169243795,
+  "updatedAt": 1788177306899,
+  "lastResponseAt": 1788177212421,
   "sessionId": "01a0572b-bfdb-7490-9638-18c6a2fac38a",
   "providerState": {
     "threadId": "01a0572b-bfdb-7490-9638-18c6a2fac38a",
@@ -14,13 +14,13 @@
   },
   "currentNote": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
   "usage": {
-    "inputTokens": 15457,
+    "inputTokens": 102676,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 14592,
+    "cacheReadInputTokens": 3712,
     "contextWindow": 950000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 15457,
-    "percentage": 2,
+    "contextTokens": 102676,
+    "percentage": 11,
     "model": "gpt-5.6-sol"
   }
 }
