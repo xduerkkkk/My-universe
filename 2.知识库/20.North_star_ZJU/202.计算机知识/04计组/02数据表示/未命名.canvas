@@ -32,8 +32,8 @@
 		{"id":"f5f07ffb9b1ca588","fromNode":"713cc57695c801fa","fromSide":"bottom","toNode":"b8fcb9a0f0086a5c","toSide":"top","label":"有符号数"},
 		{"id":"7ac792b4a2da36f6","fromNode":"9516f93db243dc8c","fromSide":"right","toNode":"55869e598997c3bc","toSide":"left","color":"2"},
 		{"id":"457dd22148d1b862","fromNode":"9516f93db243dc8c","fromSide":"bottom","toNode":"2fa23ba8afbca4cd","toSide":"top","label":"溢出判断"},
-		{"id":"51ca0839023f2ef6","fromNode":"713cc57695c801fa","fromSide":"bottom","toNode":"5f8bc80b704c5f51","toSide":"top"},
-		{"id":"b6ef170251ab3720","fromNode":"da29c92bed5bf7ad","fromSide":"right","toNode":"5f8bc80b704c5f51","toSide":"right"},
+		{"id":"51ca0839023f2ef6","fromFloating":false,"fromNode":"713cc57695c801fa","fromSide":"bottom","toNode":"5f8bc80b704c5f51","toSide":"top"},
+		{"id":"b6ef170251ab3720","fromFloating":false,"fromNode":"da29c92bed5bf7ad","fromSide":"right","toNode":"5f8bc80b704c5f51","toSide":"right"},
 		{"id":"b5e3d1ff98240307","fromNode":"55869e598997c3bc","fromSide":"bottom","toNode":"3a99bdeec373e830","toSide":"top","label":"补码运算电路"},
 		{"id":"897dfd9e7594d0ac","fromNode":"3a99bdeec373e830","fromSide":"right","toNode":"f91d96360acbb9c5","toSide":"left","label":"判断溢出"},
 		{"id":"9572dfeb08b8f248","fromNode":"4a2061cadcd80ffb","fromSide":"bottom","toNode":"1ff0b9cd47e031b4","toSide":"top","label":"单精度"},
@@ -45,5 +45,9 @@
 		{"id":"0af6542209f5e9c5","fromNode":"5fe0922223dc2f94","fromSide":"bottom","toNode":"414ad23359cf48e0","toSide":"right","label":"上溢到无穷"},
 		{"id":"9dce60b400801f6f","fromNode":"5fe0922223dc2f94","fromSide":"bottom","toNode":"d3a3436f6bfed165","toSide":"right","label":"下溢到非规格化"},
 		{"id":"7bf659beb2219dcc","fromNode":"d3a3436f6bfed165","fromSide":"bottom","toNode":"d2ca85961a96865d","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
