@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "408：2009",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md"
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "01级数审敛大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
+    },
+    {
+      "basename": "2009",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md"
     },
     {
       "basename": "05错题复盘",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/05错题复盘.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "需要二刷",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/需要二刷.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/未命名.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/草稿.md"
+    },
+    {
+      "basename": "草稿2",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md"
+    },
+    {
+      "basename": "答疑",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/答疑.md"
+    },
+    {
+      "basename": "00-英语阶段详表 W6-W11（外刊主线）",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md"
+    },
+    {
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "读文献初期SOP方法论",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/读文献初期SOP方法论.md"
+    },
+    {
+      "basename": "外刊记录",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/读外刊/外刊记录.md"
+    },
+    {
+      "basename": "408：2009",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md"
     },
     {
       "basename": "记忆",
@@ -15,10 +67,6 @@
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     },
     {
       "basename": "CN-技巧",
@@ -35,10 +83,6 @@
     {
       "basename": "04算法重刷",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/04算法重刷.md"
-    },
-    {
-      "basename": "草稿2",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md"
     },
     {
       "basename": "01-408",
@@ -63,10 +107,6 @@
     {
       "basename": "00记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00记忆.md"
-    },
-    {
-      "basename": "2009",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md"
     },
     {
       "basename": "01极限函数",
@@ -95,14 +135,6 @@
     {
       "basename": "导数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/导数.md"
-    },
-    {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
-    },
-    {
-      "basename": "00-阶段详表 W6-W11（外刊主线）",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/00-阶段详表 W6-W11（外刊主线）.md"
     },
     {
       "basename": "未命名",
@@ -167,38 +199,6 @@
     {
       "basename": "02技巧大全",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
-    },
-    {
-      "basename": "03错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/03错题复盘.md"
-    },
-    {
-      "basename": "04知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/04知识点整理.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md"
     }
   ],
   "omittedPaths": [

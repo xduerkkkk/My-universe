@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788266466727-c75qr2tji",
+  "providerId": "claude",
+  "title": "我现在觉得，前期卷子复盘要比较久，因为我专题突破还要时间写题，我想，前3年的408和真题卷，复盘时间...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788266466728,
+  "updatedAt": 1788266788502,
+  "lastResponseAt": 1788266788502,
+  "sessionId": "bd2b0b35-767a-4ec8-8527-6c9b7f6ea017",
+  "providerState": {
+    "providerSessionId": "bd2b0b35-767a-4ec8-8527-6c9b7f6ea017"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 143,
+    "cacheCreationInputTokens": 13610,
+    "cacheReadInputTokens": 39072,
+    "contextWindow": 1000000,
+    "contextTokens": 52825,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
