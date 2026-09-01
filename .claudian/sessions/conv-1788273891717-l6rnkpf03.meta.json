@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788273891717-l6rnkpf03",
+  "providerId": "claude",
+  "title": "重构笔记，变成易于看懂的考研笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788273891717,
+  "updatedAt": 1788273999260,
+  "lastResponseAt": 1788273999260,
+  "sessionId": "6182ce2b-6b7d-45a9-8f44-9e2fd9def8e3",
+  "providerState": {
+    "providerSessionId": "6182ce2b-6b7d-45a9-8f44-9e2fd9def8e3"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 101,
+    "cacheCreationInputTokens": 13690,
+    "cacheReadInputTokens": 41013,
+    "contextWindow": 1000000,
+    "contextTokens": 54804,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
