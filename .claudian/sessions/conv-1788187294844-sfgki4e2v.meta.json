@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788187294844-sfgki4e2v",
+  "providerId": "claude",
+  "title": "以上是网上的一个帖子。最近，我完成了 15 年连做，并整理了 2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788187294844,
+  "updatedAt": 1788188365697,
+  "lastResponseAt": 1788188365697,
+  "sessionId": "6d6e7636-4729-46a1-b7fd-e04440e5165e",
+  "providerState": {
+    "providerSessionId": "6d6e7636-4729-46a1-b7fd-e04440e5165e"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/未命名.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 18535,
+    "cacheReadInputTokens": 81900,
+    "contextWindow": 1000000,
+    "contextTokens": 100586,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
