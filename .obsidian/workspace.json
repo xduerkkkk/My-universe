@@ -26,6 +26,7 @@
           {
             "id": "e33e56c9e0fa7a98",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +34,85 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2009"
             }
+          },
+          {
+            "id": "192d5cd8b2d062a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "408：2009"
+            }
+          },
+          {
+            "id": "ba1470b82d19e7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DS-技巧"
+            }
+          },
+          {
+            "id": "0e56487dad7c0ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/05错题复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05错题复盘"
+            }
+          },
+          {
+            "id": "0fac06f08ae7e76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆"
+            }
+          },
+          {
+            "id": "e9d2d3caea64eece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02王道题"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.42694091796875
+    "width": 296.45770263671875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -144,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.9769287109375
+    "width": 370.34613037109375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,12 +345,30 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e33e56c9e0fa7a98",
+  "active": "192d5cd8b2d062a4",
   "lastOpenFiles": [
+    "_attachments/image/408：2009-1788256220264.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/05错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/早年/2007.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
+    "_attachments/image/05错题复盘-1788254512562.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/04算法重刷.md",
+    "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/流程性薄弱点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/大纲自检.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
+    "_attachments/image/2009-1788252908506.jpeg",
     "_attachments/image/2009-1788234914004.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/00OS综述/卡片/启动.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/10 综合自测题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
@@ -284,34 +376,16 @@
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/导数.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/00-阶段详表 W6-W11（外刊主线）.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/00-阶段详表 W6-W11（外刊主线）.md.tmp.65872.60d1cd611fa2",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.65872.36e7b9aafe64",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/未命名.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md",
     "_attachments/image/00做题框架-1788184510820.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2016-2020.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚/02-近义词·精准辨析版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚/01-熟词生义·真题语境版.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/03六周词义辨析攻坚/00-六周背诵总表.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/02相近词辨析-整理版/04-形近易混·字母级辨析.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/02相近词辨析-整理版/01-词根辨析·核心词根(上).md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/99归档/考研英语阅读/AI整理-单词句子/02相近词辨析-整理版/00-相近词辨析·总索引.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W6 2026-08-30~09-05.md",
     "_attachments/image/06幂级数求和展开-1788180532460.jpeg",
     "_attachments/image/06幂级数求和展开-1788179378421.jpeg",
     "_attachments/image/06幂级数求和展开-1788178406744.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "_attachments/image/06幂级数求和展开-1788176488568.jpeg",
     "_attachments/image/06幂级数求和展开-1788176476136.jpeg",
     "_attachments/image/06幂级数求和展开-1788175951557.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/01线性表/03大题.md",
-    "_attachments/image/DS-技巧-1788168357002.jpeg",
-    "_attachments/image/DS-技巧-1788168286327.jpeg",
-    "_attachments/image/记忆：条件转移-1788167370459.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md.tmp.85360.0ab46c8df23d",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/大03大题--整理中.md.tmp.84732.191f100c2751",
