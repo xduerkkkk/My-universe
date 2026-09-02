@@ -56,59 +56,73 @@
             }
           },
           {
-            "id": "d8c085f45527d150",
+            "id": "706c7682250943d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 强化习题"
+              "title": "01算法题题单"
             }
           },
           {
-            "id": "ef5cd3a3ab4fa0b9",
+            "id": "09cde11dc893cadf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/01存储系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频笔记"
+              "title": "01存储系统概述"
             }
           },
           {
-            "id": "ef719bfc471c912d",
+            "id": "a764391cb1f90a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06概率论翻译"
+              "title": "02王道题-错题复盘-重构版"
             }
           },
           {
-            "id": "bc87291099a2589b",
+            "id": "4bba2dad9f94dd78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06概率论翻译"
+              "title": "cache代码访存缺失类题"
+            }
+          },
+          {
+            "id": "8a0faa30f31ad4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆"
             }
           }
         ],
@@ -218,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -317,8 +331,7 @@
               "title": "反向链接"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -346,46 +359,48 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bc87291099a2589b",
+  "active": "4bba2dad9f94dd78",
   "lastOpenFiles": [
+    "_attachments/image/cache代码访存类题-1788340753535.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+    "_attachments/image/02王道题-1788339272087.jpeg",
+    "_attachments/image/02王道题-1788338227335.jpeg",
+    "_attachments/image/02王道题-1788337878103.jpeg",
+    "_attachments/image/02王道题-1788337867831.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "_attachments/image/02王道题-1788335838859.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
+    "_attachments/image/02王道题-1788335028654.jpeg",
+    "_attachments/image/02王道题-1788334963799.jpeg",
+    "_attachments/image/02王道题-1788334809642.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-注释分类整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/01存储系统概述.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/03大题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/存储王道错题复盘索引.md",
+    "_attachments/image/408：2009-1788333568805.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
     "_temp/desktop.ini",
     "_temp/06概率论翻译.before-final-check.md",
     "_temp",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/粗心记录.md",
     "_attachments/image/粗心记录-1788320613258.jpeg",
-    "_attachments/image/粗心记录-1788320481271.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
     "_encoding_test.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/双参数估计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00记忆.md",
-    "_attachments/image/02 强化习题-1788318401439.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
-    "_attachments/image/03 880-1788313492509.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/04 强化习题.md",
-    "_attachments/image/2009-1788312439737.jpeg",
-    "math-exercise-organizer/SKILL.md",
     "math-exercise-organizer",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/样本方差公式推导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md",
-    "_attachments/image/2009-1788310295744.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "_attachments/image/混合型-1788273407385.jpeg",
-    "_attachments/image/2009-1788273292211.jpeg",
-    "_attachments/image/混合型-1788273100388.jpeg",
-    "_attachments/image/2009-1788272660891.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00大全",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.94560.247c24382f35",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.94560.56e5c5401bb4",
@@ -394,11 +409,9 @@
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.65872.36e7b9aafe64",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md.tmp.85360.0ab46c8df23d",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/未命名.canvas",
