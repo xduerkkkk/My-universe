@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "sonnet[1m]",
   "thinkingBudget": "low",
-  "effortLevel": "high",
+  "effortLevel": "max",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -45,7 +45,7 @@
       "cliPathsByHost": {
         "LAPTOP-CRUR6NAG": "D:\\CodexCLI\\codex.exe"
       },
-      "customModels": "gpt-5.6-sol",
+      "customModels": "gpt-5.6-sol\ngpt-5.6-terra\n",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
@@ -69,10 +69,10 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "sonnet[1m]",
-    "codex": "gpt-5.6-sol"
+    "codex": "gpt-5.6-terra"
   },
   "savedProviderEffort": {
-    "claude": "high",
+    "claude": "max",
     "codex": "high"
   },
   "savedProviderServiceTier": {

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788309673177-hgth7mw1g",
+  "providerId": "codex",
+  "title": "整理微分方程习题并生成分类检索笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788309673177,
+  "updatedAt": 1788312409102,
+  "lastResponseAt": 1788312403288,
+  "sessionId": "01a05f90-1b75-7ec2-800b-bfbe81e6eccb",
+  "providerState": {
+    "threadId": "01a05f90-1b75-7ec2-800b-bfbe81e6eccb",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\02\\rollout-2026-09-02T08-41-19-01a05f90-1b75-7ec2-800b-bfbe81e6eccb.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+  "usage": {
+    "inputTokens": 156663,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 152944,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 156663,
+    "percentage": 16,
+    "model": "gpt-5.6-sol"
+  }
+}

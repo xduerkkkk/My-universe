@@ -1,0 +1,14 @@
+{
+  "id": "conv-1788309455531-4jz2vd7l2",
+  "providerId": "claude",
+  "title": "2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788309455531,
+  "updatedAt": 1788309525897,
+  "lastResponseAt": 1788309521610,
+  "sessionId": "cfcc9068-5a6c-4ec2-8af6-118b582e01d9",
+  "providerState": {
+    "providerSessionId": "cfcc9068-5a6c-4ec2-8af6-118b582e01d9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
+}
