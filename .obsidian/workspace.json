@@ -56,63 +56,21 @@
             }
           },
           {
-            "id": "f433b7cc4bf8ce48",
+            "id": "31ed91d699842ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/坑_PC相对寻址计算.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "坑_PC相对寻址计算"
-            }
-          },
-          {
-            "id": "92cf778308fa8ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "投影转换法理解"
-            }
-          },
-          {
-            "id": "751010de007f9139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01王道题-错题复盘-重构版"
-            }
-          },
-          {
-            "id": "e1ea589cac7454ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题-知识点整理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02王道题-知识点整理"
+              "title": "03强化课--PV操作整理版"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题-知识点整理.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -345,13 +303,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e1ea589cac7454ef",
+  "active": "31ed91d699842ec7",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/坑_PC相对寻址计算.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/辨析--段和页表内容.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
+    "_attachments/image/408：2009-1788425759290.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/408：2009-1788425284797.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/难点--内存保护.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/00OS综述/卡片/保护.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/01王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/01王道题-知识点整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/01王道题.md",
@@ -361,29 +333,15 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/2009.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/01王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/03指令错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/坑_PC相对寻址计算.md",
     "_attachments/image/408：2009-1788418018390.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/思维导图-指令.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/辨析_大端小端.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/「四类积分：微元 → 方向 → 投影，参数化」转换表.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/侧面？上面？各种面.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00记忆.md",
     "_attachments/image/2009-1788406388593.jpeg",
     "_attachments/image/2009-1788406352521.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/00通用.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
     "_attachments/image/00记忆-1788401589668.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
     "_attachments/image/求可逆线性变换-1788356030061.jpeg",
     "_attachments/image/求可逆线性变换-1788356022743.jpeg",
-    "_attachments/image/求可逆线性变换-1788356013289.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片",
-    "_attachments/image/04错题复盘-1788354182011.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
     "_temp/desktop.ini",
     "_temp",
