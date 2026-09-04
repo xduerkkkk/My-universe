@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788441846805-58nz1tp52",
+  "providerId": "codex",
+  "title": "整理408数据结构算法题与考场代码",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788441846805,
+  "updatedAt": 1788444093218,
+  "lastResponseAt": 1788444093218,
+  "sessionId": "01a06770-e4ac-7a02-a4e7-799cfce7a389",
+  "providerState": {
+    "threadId": "01a06770-e4ac-7a02-a4e7-799cfce7a389",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\03\\rollout-2026-09-03T21-24-11-01a06770-e4ac-7a02-a4e7-799cfce7a389.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+  "usage": {
+    "inputTokens": 114157,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 110848,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 114157,
+    "percentage": 12,
+    "model": "gpt-5.6-sol"
+  }
+}

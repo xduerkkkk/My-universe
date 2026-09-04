@@ -1,0 +1,16 @@
+{
+  "id": "conv-1788441203748-p1xktfz7u",
+  "providerId": "codex",
+  "title": "从2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788441203748,
+  "updatedAt": 1788441249504,
+  "lastResponseAt": 1788441231265,
+  "sessionId": "01a06767-14f4-7481-987c-071712a9defd",
+  "providerState": {
+    "threadId": "01a06767-14f4-7481-987c-071712a9defd",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\03\\rollout-2026-09-03T21-13-28-01a06767-14f4-7481-987c-071712a9defd.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+}

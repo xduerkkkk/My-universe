@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788441759853-wq9v3zubn",
+  "providerId": "codex",
+  "title": "解释目的网络概念",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788441759854,
+  "updatedAt": 1788441832612,
+  "lastResponseAt": 1788441830452,
+  "sessionId": "01a0676f-910f-7340-8c36-ad0496f573ff",
+  "providerState": {
+    "threadId": "01a0676f-910f-7340-8c36-ad0496f573ff",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\03\\rollout-2026-09-03T21-22-45-01a0676f-910f-7340-8c36-ad0496f573ff.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+  "usage": {
+    "inputTokens": 17570,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3328,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17570,
+    "percentage": 2,
+    "model": "gpt-5.6-sol"
+  }
+}
