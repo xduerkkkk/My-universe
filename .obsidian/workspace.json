@@ -46,13 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "408：2009"
+              "title": "408：2009--2011"
             }
           },
           {
@@ -84,9 +84,23 @@
               "icon": "lucide-file",
               "title": "「四类积分：微元 → 方向 → 投影，参数化」转换表"
             }
+          },
+          {
+            "id": "fadf4058e20ae03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/解题--技巧大全.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解题--技巧大全"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,12 +186,11 @@
               "title": "00-规划一览"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.50384521484375
+    "width": 319.3500061035156
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/解题--技巧大全.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,13 +333,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e33e56c9e0fa7a98",
+  "active": "fadf4058e20ae03d",
   "lastOpenFiles": [
-    "_attachments/image/数学2009-2012-1788494923910.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/解题--技巧大全.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/推导--结点高度，log公式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/408：2009--2011-1788514622147.jpeg",
+    "_attachments/image/408：2009--2011-1788514104115.jpeg",
+    "_attachments/image/408：2009--2011-1788514098826.jpeg",
+    "_attachments/image/408：2009--2011-1788513858842.jpeg",
+    "_attachments/image/408：2009--2011-1788513758055.jpeg",
+    "_attachments/image/数学2009-2012-1788494923910.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/「四类积分：微元 → 方向 → 投影，参数化」转换表.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
     "_attachments/image/数学2009-2012-1788494056224.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md",
@@ -346,21 +370,10 @@
     "_attachments/image/05 880-1788442860082.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/01视频笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片/求可逆线性变换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009.md",
     "_attachments/image/408：2009-1788440743778.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/堆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/04算法重刷.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/05错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/04算法重刷.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/核心算法题.md",
-    "_attachments/image/408：2009-1788425759290.jpeg",
-    "_attachments/image/408：2009-1788425284797.jpeg",
-    "_attachments/image/01王道题-1788419571212.jpeg",
-    "_attachments/image/408：2009-1788419198476.jpeg",
-    "_attachments/image/408：2009-1788418018390.jpeg",
-    "_attachments/image/2009-1788406388593.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
     "_temp/desktop.ini",
