@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788590878805-ov78ada1w",
+  "providerId": "codex",
+  "title": "调整英语考研复习计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788590878805,
+  "updatedAt": 1788592052996,
+  "lastResponseAt": 1788592012312,
+  "sessionId": "01a07052-f2ba-7ef3-b648-53d8d259d6c3",
+  "providerState": {
+    "threadId": "01a07052-f2ba-7ef3-b648-53d8d259d6c3",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\05\\rollout-2026-09-05T14-48-04-01a07052-f2ba-7ef3-b648-53d8d259d6c3.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+  "usage": {
+    "inputTokens": 65419,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64256,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65419,
+    "percentage": 7,
+    "model": "gpt-5.6-sol"
+  }
+}

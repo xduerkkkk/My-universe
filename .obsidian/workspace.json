@@ -72,21 +72,7 @@
             }
           },
           {
-            "id": "9e44b909d7928a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/粗心记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "粗心记录"
-            }
-          },
-          {
-            "id": "93bff93eb142ee10",
+            "id": "ab97129559dba7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,6 +83,34 @@
               },
               "icon": "lucide-file",
               "title": "01笔记"
+            }
+          },
+          {
+            "id": "8b01c7297750da7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 特征值、秩与相似"
+            }
+          },
+          {
+            "id": "4feb2e9c831ee364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 正定、半正定与矩阵分解"
             }
           }
         ],
@@ -190,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.3500061035156
+    "width": 341.50384521484375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -206,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -333,14 +347,35 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "93bff93eb142ee10",
+  "active": "8b01c7297750da7e",
   "lastOpenFiles": [
-    "_attachments/image/01笔记-1788529179170.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
+    "_attachments/image/05 880-1788599986709.jpeg",
+    "_attachments/image/05 880-1788599979727.jpeg",
+    "_attachments/image/05 880-1788599963534.jpeg",
+    "_attachments/image/05 880-1788599883412.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/06不熟悉的记录.md",
+    "_attachments/image/07线代扫盲-1788594073560.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
+    "_attachments/image/数学2009-2012-1788593437347.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "tmp-utf8-test.txt",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
+    "_attachments/image/01笔记-1788529179170.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/粗心记录.md",
     "_attachments/image/粗心记录-1788528325918.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00通用技巧.md",
@@ -349,28 +384,8 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "_attachments/image/02算法题重刷清单-1788526938553.jpeg",
     "_attachments/image/408：2009--2011-1788525753730.jpeg",
-    "_attachments/image/408：2009--2011-1788525737572.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/栈队列技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/记忆--队满队空.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/解题--技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/ART复习.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/核心算法题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/推导--结点高度，log公式.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
-    "_attachments/image/408：2009--2011-1788514622147.jpeg",
-    "_attachments/image/408：2009--2011-1788514104115.jpeg",
-    "_attachments/image/408：2009--2011-1788514098826.jpeg",
-    "_attachments/image/408：2009--2011-1788513858842.jpeg",
-    "_attachments/image/408：2009--2011-1788513758055.jpeg",
-    "_attachments/image/数学2009-2012-1788494923910.jpeg",
     "_temp_gcc_output2.txt",
     "_temp_gcc_output.txt",
     "_temp_added_algorithms_test.c",
@@ -381,7 +396,6 @@
     "math-exercise-organizer",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00大全",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.94560.247c24382f35",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.94560.56e5c5401bb4",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
