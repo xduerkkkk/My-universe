@@ -1,0 +1,34 @@
+### IMAGE 36 | 880-2 | (928, 41)
+**类型**：独立题目
+
+**印刷内容**：
+(5) 设随机变量 $X$ 在 $(0,1)$ 内服从均匀分布, 求 $Y = -2\ln X$ 的概率密度.
+
+---
+
+### IMAGE 37 | 880-3 | (1118, 125)
+**类型**：独立题目
+
+**印刷内容**：
+(7) 设随机变量 $X$ 服从参数为 $\lambda$ 的指数分布, 记 $Y = \max\left(X, \frac{1}{X}\right)$, 求 $Y$ 的分布函数.
+
+---
+
+### IMAGE 38 | 880-3 | (1269, 678)
+**类型**：解答（承接 IMAGE 37）
+
+**印刷内容**：
+(7) **解** 依题设,$X$ 的概率密度为
+$$f(x) = \begin{cases} \lambda e^{-\lambda x}, & x > 0, \\ 0, & x \le 0. \end{cases}$$
+$P\{X > 0\} = 1, P\{X \le 0\} = 0$, 则 $Y$ 的分布函数为
+$$\begin{aligned} F_Y(y) &= P\{Y \le y\} = P\left\{\max\left(X, \frac{1}{X}\right) \le y\right\} \\ &= P\left\{X \le y, \frac{1}{X} \le y, X > 0\right\}. \end{aligned}$$
+
+当 $y \le 0$ 时,$F_Y(y) = 0$;
+
+当 $0 < y < 1$ 时, 事件 $\left\{\frac{1}{X} \le y, X > 0\right\} = \left\{\frac{1}{y} \le X, X > 0\right\} = \left\{\frac{1}{y} \le X\right\}$. 由于 $\{X \le y\}$ 与 $\left\{\frac{1}{X} \le y, X > 0\right\}$ 不能同时发生, 故 $F_Y(y) = 0$;
+
+当 $y \ge 1$ 时,
+$$\begin{aligned} F_Y(y) &= P\left\{X \le y, \frac{1}{X} \le y, X > 0\right\} = P\left\{\frac{1}{y} \le X \le y\right\} \\ &= \int_{\frac{1}{y}}^{y} \lambda e^{-\lambda x} \mathrm{d}x = e^{-\frac{\lambda}{y}} - e^{-\lambda y}. \end{aligned}$$
+
+故
+$$F_Y(y) = \begin{cases} e^{-\frac{\lambda}{y}} - e^{-\lambda y}, & y \ge 1, \\ 0, & y < 1. \end{cases}$$

@@ -1,0 +1,70 @@
+### IMAGE 19
+**独立题目**
+
+**印刷体：**
+例题32 设随机变量 $X \sim N(1,1)$，设 $Y=2X+1$.
+(1) 求 $Y$ 的概率密度函数；
+(2) 设 $Y$ 的分布函数为 $F(y)$，求 $F(Y)$ 的分布函数.
+
+---
+
+### IMAGE 20
+**独立题目**
+
+**印刷体：**
+(4) 设随机变量 $X$ 服从参数为 $\lambda$ 的指数分布，$G(x)$ 是区间 $[0,1]$ 上的均匀分布的分布函数，记 $Y=G(X)$，则（ ）.
+A. $Y$ 在区间 $[0,1]$ 上服从均匀分布
+B. $Y$ 是连续型随机变量
+C. $Y$ 是离散型随机变量
+D. $y=1$ 是 $Y$ 的分布函数的间断点
+
+---
+
+### IMAGE 21
+**独立题目**
+
+**印刷体：**
+(5) 设离散型随机变量 $X$ 的分布律为 $P\{X=k\}=\frac{a}{k!}e^{-2}, k=0,1,2,\cdots$，则常数 $a=$ ________.
+
+---
+
+### IMAGE 22
+**解答续（题目 (5)）**
+
+**手写批注：**
+(5) $e$.
+
+**印刷体：**
+解 由分布律的性质，有 $\sum_{k=0}^{\infty} P\{X=k\} = 1$，故
+$$\sum_{k=0}^{\infty} \frac{a}{k!} e^{-2} = a e^{-2} \left[ \sum_{k=0}^{\infty} \frac{1}{k!} \right] = a e^{-2} \cdot e = a e^{-1} = 1,$$
+所以 $a = e$.
+
+【注】① $\sum_{k=0}^{\infty} \frac{x^k}{k!} = e^x (-\infty < x < +\infty)$.
+② 泊松分布 $P\{X=k\} = \frac{\lambda^k}{k!} e^{-\lambda}, k=0,1,2,\cdots$，可知，当 $\lambda = 1$ 时，有 $P\{X=k\} = \frac{1}{k!} e^{-1}$，对照已知条件，得 $a = e$.
+
+---
+
+### IMAGE 23
+**独立题目**
+
+**印刷体：**
+(6) 设 $X \sim N(0,\sigma^2)$，$X$ 在区间 $(a,b)$ 内取值的概率最大，其中 $a>0$，则 $\sigma^2=$ ________.
+
+---
+
+### IMAGE 24
+**解答续（题目 (6)）**
+
+**手写批注：**
+(6) $\frac{a^2-b^2}{2(\ln a - \ln b)}$.
+
+**印刷体：**
+解 依题意，有 $\frac{X-0}{\sigma} \sim N(0,1)$，故
+$$P\{a < X < b\} = P\left\{ \frac{a}{\sigma} < \frac{X}{\sigma} < \frac{b}{\sigma} \right\} = \Phi\left(\frac{b}{\sigma}\right) - \Phi\left(\frac{a}{\sigma}\right)$$
+$$= \frac{1}{\sqrt{2\pi}} \left[ \int_{-\infty}^{\frac{b}{\sigma}} e^{-\frac{x^2}{2}} \mathrm{d}x - \int_{-\infty}^{\frac{a}{\sigma}} e^{-\frac{x^2}{2}} \mathrm{d}x \right] \stackrel{\text{记}}{=} f(\sigma),$$
+
+所以有
+$$f'(\sigma) = \frac{1}{\sqrt{2\pi}} \left[ e^{-\frac{b^2}{2\sigma^2}} \cdot \left(-\frac{b}{\sigma^2}\right) - e^{-\frac{a^2}{2\sigma^2}} \cdot \left(-\frac{a}{\sigma^2}\right) \right].$$
+
+令 $f'(\sigma) = 0$，得 $b e^{-\frac{b^2}{2\sigma^2}} = a e^{-\frac{a^2}{2\sigma^2}}$，取对数，得 $\ln b + \frac{-b^2}{2\sigma^2} = \ln a + \frac{-a^2}{2\sigma^2}$，解得
+$$\sigma^2 = \frac{a^2-b^2}{2(\ln a - \ln b)}.$$

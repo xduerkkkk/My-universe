@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788667183862-le4uk8f1n",
+  "providerId": "codex",
+  "title": "整理02章节数学习题并按题型归类",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788667183862,
+  "updatedAt": 1788668244057,
+  "lastResponseAt": 1788668244057,
+  "sessionId": "01a074df-438f-72f2-ad32-dcd2cd4f4cf4",
+  "providerState": {
+    "threadId": "01a074df-438f-72f2-ad32-dcd2cd4f4cf4",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\06\\rollout-2026-09-06T11-59-49-01a074df-438f-72f2-ad32-dcd2cd4f4cf4.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+  "usage": {
+    "inputTokens": 75810,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 75392,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 75810,
+    "percentage": 62,
+    "model": "gpt-6-astra"
+  }
+}

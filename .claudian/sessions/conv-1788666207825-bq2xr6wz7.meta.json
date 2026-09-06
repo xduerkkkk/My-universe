@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788666207825-bq2xr6wz7",
+  "providerId": "claude",
+  "title": "Organize 408 practice problems for mock exam fr...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788666207825,
+  "updatedAt": 1788666811863,
+  "lastResponseAt": 1788666797106,
+  "sessionId": "e890be7a-e857-4b26-8a49-39f7510f2035",
+  "providerState": {
+    "providerSessionId": "e890be7a-e857-4b26-8a49-39f7510f2035"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 8404,
+    "cacheReadInputTokens": 103061,
+    "contextWindow": 1000000,
+    "contextTokens": 111467,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

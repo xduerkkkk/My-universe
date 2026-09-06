@@ -1,9 +1,9 @@
 {
   "userName": "KK",
   "permissionMode": "yolo",
-  "model": "sonnet[1m]",
-  "thinkingBudget": "low",
-  "effortLevel": "max",
+  "model": "opus[1m]",
+  "thinkingBudget": "medium",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -34,7 +34,7 @@
       "enableOpus1M": true,
       "enableSonnet1M": true,
       "customModels": "",
-      "lastModel": "sonnet[1m]",
+      "lastModel": "opus[1m]",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -45,7 +45,7 @@
       "cliPathsByHost": {
         "LAPTOP-CRUR6NAG": "D:\\CodexCLI\\codex.exe"
       },
-      "customModels": "gpt-5.6-sol\ngpt-5.6-terra\n",
+      "customModels": "gpt-5.6-sol\ngpt-5.6-terra\ngpt-6-astra\n\n",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
@@ -68,18 +68,18 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet[1m]",
-    "codex": "gpt-5.6-sol"
+    "claude": "opus[1m]",
+    "codex": "gpt-6-astra"
   },
   "savedProviderEffort": {
-    "claude": "max",
+    "claude": "high",
     "codex": "high"
   },
   "savedProviderServiceTier": {
     "codex": "fast"
   },
   "savedProviderThinkingBudget": {
-    "claude": "low",
+    "claude": "medium",
     "codex": "medium"
   },
   "savedProviderPermissionMode": {

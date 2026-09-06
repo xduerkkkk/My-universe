@@ -72,17 +72,17 @@
             }
           },
           {
-            "id": "ef9f0948a793dd6c",
+            "id": "443b1c4e8dfbd3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓展知识"
+              "title": "03 强化习题"
             }
           }
         ],
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.50384521484375
+    "width": 317.8730773925781
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,11 +291,12 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.0692138671875
+    "width": 333.4384765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,55 +320,55 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ef9f0948a793dd6c",
+  "active": "443b1c4e8dfbd3f5",
   "lastOpenFiles": [
-    "_attachments/image/拓展知识-1788613988838.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
-    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/舍入.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
-    "_attachments/image/408：2009--2011-1788611922598.jpeg",
-    "_attachments/image/408：2009--2011-1788611558190.jpeg",
-    "_attachments/image/408：2009--2011-1788611063714.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+    "_temp/math02_organizer/usage_8.json",
+    "_temp/math02_organizer/vision_8.txt",
+    "_temp/math02_organizer/usage_7.json",
+    "_temp/math02_organizer/vision_7.txt",
+    "_temp/math02_organizer/usage_6.json",
+    "_temp/math02_organizer/vision_6.txt",
+    "_temp/math02_organizer/usage_5.json",
+    "_temp/math02_organizer/vision_5.txt",
+    "_temp/math02_organizer/usage_4.json",
+    "_temp/math02_organizer/vision_4.txt",
+    "_temp/math02_organizer/sheet_8.jpg",
+    "_temp/math02_organizer/sheet_7.jpg",
+    "_temp/math02_organizer/sheet_6.jpg",
+    "_temp/math02_organizer/sheet_5.jpg",
+    "_temp/math02_organizer/sheet_4.jpg",
+    "_temp/math02_organizer/sheet_3.jpg",
+    "_temp/math02_organizer/sheet_2.jpg",
+    "_temp/math02_organizer/sheet_1.jpg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/01基础知识.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/02 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/02强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/需要二刷.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/04习题整理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
+    "_attachments/image/03 强化习题-1788665580162.jpeg",
+    "_attachments/image/03 强化习题-1788665569861.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
-    "_attachments/image/05 880-1788599986709.jpeg",
-    "_attachments/image/05 880-1788599979727.jpeg",
-    "_attachments/image/05 880-1788599963534.jpeg",
-    "_attachments/image/05 880-1788599883412.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/08 正定、半正定与矩阵分解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/06不熟悉的记录.md",
-    "_attachments/image/07线代扫盲-1788594073560.jpeg",
-    "_attachments/image/数学2009-2012-1788593437347.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
-    "tmp-utf8-test.txt",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04每周训练/W5 2026-08-23~08-29.md",
-    "_attachments/image/01笔记-1788529179170.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
-    "_temp_gcc_output2.txt",
-    "_temp_gcc_output.txt",
-    "_temp_added_algorithms_test.c",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
-    "_temp/desktop.ini",
-    "_temp",
-    "math-exercise-organizer",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00大全",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.94560.247c24382f35",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",

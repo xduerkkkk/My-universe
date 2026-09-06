@@ -1,0 +1,10 @@
+[04:03:46] ℹ [vision-support] 已加载: sheet_1.jpg (222.4KB)
+[04:03:46] ℹ [vision-support] 已加载: sheet_2.jpg (306.1KB)
+[04:03:46] ℹ [vision-support] 共 2 张图片
+[04:03:46] ℹ [vision-support] [1/2] Gemini-3.5-Flash (gemini-3.5-flash) 调用中...
+[04:03:49] ✖ [vision-support] [1/2] Gemini-3.5-Flash (gemini-3.5-flash) ✗ 502: error code: 502
+
+[04:03:49] ℹ [vision-support] [2/2] RightAPI-Gemini-3-Flash (gemini-3-flash-preview) 调用中...
+[04:03:50] ✖ [vision-support] [2/2] RightAPI-Gemini-3-Flash (gemini-3-flash-preview) ✗ 404: {"timestamp":"2026-09-06T04:03:51.292+00:00","path":"/v1/chat/completions","status":404,"error":"Not Found","requestId":"52df975a-60692736","message":"No static resource v1/chat/completions."}
+[04:03:50] ✖ [vision-support] 所有模型均失败
+[04:03:50] ✖ [vision-support] 所有识图模型均调用失败
