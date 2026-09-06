@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788676234344-otj8bfwpv",
+  "providerId": "claude",
+  "title": "把英文全换成中文",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788676234344,
+  "updatedAt": 1788678377805,
+  "lastResponseAt": 1788676409780,
+  "sessionId": "75f2b2c5-7a32-4ce7-b9e8-73dce5e13887",
+  "providerState": {
+    "providerSessionId": "75f2b2c5-7a32-4ce7-b9e8-73dce5e13887"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 90660,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 90660,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

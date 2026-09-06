@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788678369770-aonvl3hdk",
+  "providerId": "codex",
+  "title": "重构数学题整理文件",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788678369771,
+  "updatedAt": 1788680625967,
+  "lastResponseAt": 1788680625967,
+  "sessionId": "01a07589-f274-7a22-809f-70dbfe88d22e",
+  "providerState": {
+    "threadId": "01a07589-f274-7a22-809f-70dbfe88d22e",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\06\\rollout-2026-09-06T15-06-14-01a07589-f274-7a22-809f-70dbfe88d22e.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
+  "usage": {
+    "inputTokens": 105522,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 105216,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 105522,
+    "percentage": 9,
+    "model": "gpt-6-astra"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "real_note": {
+    "target": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+    "categories": 5,
+    "exercise_cards": 28,
+    "source_images": 38,
+    "target_images": 0,
+    "status": "ok",
+    "errors": [],
+    "warnings": []
+  },
+  "missing_card": {
+    "status": "expected rejection",
+    "errors": [
+      "Card coverage mismatch: ['02-1a']",
+      "Image has invalid card coverage: _attachments/02习题-1776309107851.jpeg"
+    ]
+  },
+  "missing_steps": {
+    "status": "expected rejection",
+    "errors": [
+      "Expected 3-4 consecutive steps: 02-1a"
+    ]
+  },
+  "unrecorded_image": {
+    "status": "expected rejection",
+    "errors": [
+      "Source image coverage mismatch."
+    ]
+  },
+  "broken_source_link": {
+    "status": "expected rejection",
+    "errors": [
+      "Provenance source mismatch: 02-1a",
+      "Missing exact source link: 02-1a"
+    ]
+  },
+  "encoding_damage": {
+    "status": "expected rejection",
+    "errors": [
+      "Encoding artifacts found."
+    ]
+  },
+  "source_mutation": {
+    "status": "expected rejection",
+    "errors": [
+      "Source hash changed: _temp/math02_organizer/audit_fixtures/source.md"
+    ]
+  }
+}

@@ -1,0 +1,1074 @@
+{
+  "version": 1,
+  "mode": "concise",
+  "target": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
+  "sources": {
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md": "31e3f88b9efba7864d2e4a47accf1692e40bb9fed985f21418a53bd44d747c62",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md": "a348d028f3bb17a38de616132f4422291fc7e8c2d0faa18280db93133d0d9b74",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md": "3f90b72197c75302a6737e3cb5032e89474c5772161b90193d8cf468974d71ba"
+  },
+  "items": [
+    {
+      "id": "02-习2",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::1，2 特解齐次解理解",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1，2 特解齐次解理解",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "15.2：三个特解及两个初始条件；与15.1独立拆卡。"
+    },
+    {
+      "id": "03-1",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::(开头)",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$P$ 在 $\\mathbb R$ 连续且不恒为零，$y_1,y_2$ 是 $y'+Py=0$ 的不同解；判断差为常数、差生成通解、差处处非零及比值为常数。"
+    },
+    {
+      "id": "04-1",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#1",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$y_1,y_2,y_3$ 线性无关，均满足 $L[y]=y''+p(x)y'+q(x)y=f(x)$；求通解形式。"
+    },
+    {
+      "id": "04-3",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::3 - 【】不是常规的指数，看你慌不慌",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#3 - 【】不是常规的指数，看你慌不慌",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$y''+p(x)y'=q(x)$ 有特解 $x^3$，对应齐次方程有解 $x^{-3}$，求通解。"
+    },
+    {
+      "id": "04-4",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::4 - 【】 线性无关",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#4 - 【】 线性无关",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$y_1,y_2$ 均满足 $y''-y'+y=0$；求 $C_1y_1+C_2y_2$ 能表示通解的充分条件。"
+    },
+    {
+      "id": "03-5",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::5",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md#5",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$y''+ay'+by=ce^x$（$a,b,c$ 为常数）有特解 $y^*=e^{-x}(1+xe^{2x})$，求通解。"
+    },
+    {
+      "id": "04-2",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#2",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "与03-5重复的完整题目来源，保留来源卡但唯一题目计数去重。"
+    },
+    {
+      "id": "04-13a",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::13 【！图 2】",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#13 【！图 2】",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "1997数二：三个指数型特解求原方程；独立于同节下一图。"
+    },
+    {
+      "id": "04-13b",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::13 【！图 2】",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#13 【！图 2】",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "1000强化28：1、e^-x、2e^-x求方程，包含“能否像上一题做差”的个人疑问。"
+    },
+    {
+      "id": "04-14",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::14 新题型 -【】",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#14 新题型 -【】",
+      "category": "一、给出多个解：做差、验独立、反推方程",
+      "coverage": "$e^x,x+e^x,x^2+e^x$ 是某二阶非齐次线性方程的特解，求方程。"
+    },
+    {
+      "id": "02-习5",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5 变形",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#5 变形",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "求 $y'+1=e^{-y}\\sin x$ 的通解。"
+    },
+    {
+      "id": "02-千4",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::4 换自变量 ",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#4 换自变量",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "求 $(2x-3xy^2-y^3)y'+y^3=0$ 的通解。"
+    },
+    {
+      "id": "02-千6",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1000 题",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "求 $y'=(x+1)\\sec y-\\tan y$ 的通解。"
+    },
+    {
+      "id": "03-2",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::2  漏解",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md#2  漏解",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "$y'=y/x+\\tan(y/x)$，求满足 $y(1)=\\pi/6$ 的解，并复盘漏解。"
+    },
+    {
+      "id": "03-3",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::3",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md#3",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "求 $(1+e^{x/y})dx+e^{x/y}(1-x/y)dy=0\\ (y>0)$ 的通解。"
+    },
+    {
+      "id": "04-5",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::5",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#5",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "判断 $y'+x/y=0$ 的通解形式；选项为 $x^2\\pm y^2=C^2$ 或 $x^2\\pm y^2=C$，称 $C$ 为任意常数。"
+    },
+    {
+      "id": "04-7a",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::7 一个比另一个高阶，一次",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#7 一个比另一个高阶，一次",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "同图i：880综合填空1非恒定解；与同图j独立拆卡。"
+    },
+    {
+      "id": "04-7b",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::7 一个比另一个高阶，一次",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#7 一个比另一个高阶，一次",
+      "category": "二、一阶非线性：先换整体或交换自变量",
+      "coverage": "同图j：660第77题独立练习，原笔记同图i的解析不覆盖本题。"
+    },
+    {
+      "id": "02-习6",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::6 化简",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#6 化简",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "求 $xy''+3y'=0$ 的通解。"
+    },
+    {
+      "id": "02-习8",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::8 欧拉",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#8 欧拉",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "求 $x^2y''-2y=x^2$ 的通解。"
+    },
+    {
+      "id": "04-6",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::6",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#6",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "求 $(x^2-1)dy+(2xy-\\cos x)dx=0$，满足 $y(0)=1$ 的解。"
+    },
+    {
+      "id": "04-11a",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#11 观察力惊人",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "大观11第一道独立题：900第六章数二A类16，含手写乘积导数解法。"
+    },
+    {
+      "id": "04-11b",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#11 观察力惊人",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "1988数二：代换化简与求通解两问；第二张为同题续解。"
+    },
+    {
+      "id": "04-12",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::12 考场上没见过的题型，看怎么反应",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#12 考场上没见过的题型，看怎么反应",
+      "category": "三、缺项与变系数：降阶或凑乘积导数",
+      "coverage": "$(2x-1)y''-(2x+1)y'+2y=0$ 有解 $e^x,u(x)e^x$；$u(-1)=e,u(0)=-1$。求 $u$ 及原方程通解。"
+    },
+    {
+      "id": "02-习1",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::1，2 特解齐次解理解",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1，2 特解齐次解理解",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "15.1：选择特解形式；同一图片的15.2已另卡。"
+    },
+    {
+      "id": "03-4",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::4",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md#4",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "求 $y''+2y'+y=xe^x$ 满足 $y(0)=y'(0)=0$ 的解。"
+    },
+    {
+      "id": "02-技1",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "计算技巧第一图只有解析：可还原方程与特解形式，没有可见初始条件。"
+    },
+    {
+      "id": "04-9",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::9",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#9",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "求 $y''+y=x+\\cos x$ 的通解。"
+    },
+    {
+      "id": "02-技2",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "第二张计算技巧解析含完整方程和x趋于负无穷有界条件，均保留。"
+    },
+    {
+      "id": "04-10",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::10",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#10",
+      "category": "四、常系数非齐次：先判撞根，再设特解",
+      "coverage": "两问共享u1,u2及g的设置：求u1/u2；另一个初值解。"
+    },
+    {
+      "id": "04-15",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::15",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#15",
+      "category": "五、增量、函数关系与几何积分：先建立方程",
+      "coverage": "$\\Delta y=\\frac{y\\Delta x}{1+x^2}+\\alpha$，其中 $\\alpha=o(\\Delta x)$，$y(0)=\\pi$；求 $y(1)$。"
+    },
+    {
+      "id": "04-16",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::16 -[]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "category": "五、增量、函数关系与几何积分：先建立方程",
+      "coverage": "实函数满足 $f(x+h)=\\frac{f(x)+f(h)}{1-f(x)f(h)}$，且 $f'(0)=1$；求 $f$。关系在相关自变量及分母有意义时成立。"
+    },
+    {
+      "id": "02-习10",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::10 含积分，转化为微分方程",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#10 含积分，转化为微分方程",
+      "category": "五、增量、函数关系与几何积分：先建立方程",
+      "coverage": "$f$ 在 $[0,\\infty)$ 连续，满足 $f(t)=e^{4\\pi t^2}+\\iint_{x^2+y^2\\le4t^2}f(\\tfrac12\\sqrt{x^2+y^2})\\,dxdy$，求 $f$。"
+    },
+    {
+      "id": "02-千8",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::8",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1000 题",
+      "category": "五、增量、函数关系与几何积分：先建立方程",
+      "coverage": "1000题8完整容器建模题；图片上沿上一题“(2)求斜渐近线”缺少题干，单独登记不编造。"
+    },
+    {
+      "id": "02-习11",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::11",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#习题",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "15.11两个子问：四阶方程通解；三阶无穷小解族。"
+    },
+    {
+      "id": "02-千5",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1000 题",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "曲线过原点，满足 $y'=(x+y)^2$；求 $\\lim_{x\\to0^+}[y(x)]^x$。"
+    },
+    {
+      "id": "04-8",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::8",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#8",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "$\\varphi$ 满足 $y''-y=x^2$，且 $\\varphi(x)=o(x^2)\\ (x\\to0)$；求 $\\varphi$。"
+    },
+    {
+      "id": "02-千11",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::11",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1000 题",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "$2xy'-4y=2\\ln x-1,\\ y(1)=1/4$，求 $y$ 在 $[1,e]$ 上的平均值。"
+    },
+    {
+      "id": "02-千10",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::10",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md#1000 题",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "$\\varphi$ 连续且 $|\\varphi|\\le k$，$y'+y=\\varphi(x),y(0)=0$；求特解并证 $x\\ge0$ 时 $|y(x)|\\le k(1-e^{-x})$。"
+    },
+    {
+      "id": "04-11c",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#11 观察力惊人",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "例4.3两问共享f连续趋b和a>0；包含手写洛必达尝试，以积分拆段法统一保证条件。"
+    },
+    {
+      "id": "04-17a",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::17  有界 -[! ]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "例4.4：有界解存在与继承周期两问；保留积分下限与常数转换的个人卡点。"
+    },
+    {
+      "id": "04-17b",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::17  有界 -[! ]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "题21(I)：非负变系数齐次方程解衰减充要条件；与II设置不同独立成卡。"
+    },
+    {
+      "id": "04-17c",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::17  有界 -[! ]",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "题21(II)：常系数强迫方程所有解半轴有界，与I独立成卡。"
+    },
+    {
+      "id": "04-18",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::18",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md#18",
+      "category": "六、极限、平均值与有界周期：按所求组织解",
+      "coverage": "$P,Q$ 在 $\\mathbb R$ 连续且以 $T>0$ 为周期，$y$ 解 $y'+P(x)y=Q(x)$；判断 $y(0)=y(T)$ 是否为 $y$ 以 $T$ 为周期的充要条件。"
+    }
+  ],
+  "images": [
+    {
+      "path": "_attachments/习题与1000题-1773799152498.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::1，2 特解齐次解理解",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习1",
+        "02-习2"
+      ],
+      "sha256": "710df8de01a9d9765b955cd2f9a4b00ac971b726ee8625480dbca07e3a548aef",
+      "inventory_index": 1,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773802225053.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::1，2 特解齐次解理解",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习1",
+        "02-习2"
+      ],
+      "sha256": "9cf2134c0f88ef8879a838c097e6be4856b56a0d51da1d7771846dbdebc1b093",
+      "inventory_index": 2,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773802483805.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5 变形",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习5"
+      ],
+      "sha256": "e18656998166626e135a2d71cd2aef905db91fadb0e958cb64eb7637f848825d",
+      "inventory_index": 3,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773803405309.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::6 化简",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习6"
+      ],
+      "sha256": "794761c771cf78b2059df19fd7562b1dce656b10508e65e8058a6776a062287d",
+      "inventory_index": 4,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773804473128.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::8 欧拉",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习8"
+      ],
+      "sha256": "b20144d197c534d6a7dbd1077163ea15f7f74fde5c343e6d0e07d95f46c07ecd",
+      "inventory_index": 5,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773805888338.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::10 含积分，转化为微分方程",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习10"
+      ],
+      "sha256": "d2426ffa42bf3a7b0537875b3e2491b5e00137fa67b43d907930adb58b4ccd70",
+      "inventory_index": 6,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773837206859.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::11",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习11",
+        "02-千11"
+      ],
+      "sha256": "e2cee1dcdf3109d2eafb300a41042f70a9daeef289e399c3a08251459e589da9",
+      "inventory_index": 7,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773840079845.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::4 换自变量 ",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千4"
+      ],
+      "sha256": "8329182ec773ef94c7466bbdd9fd42bd5ad468bfc609a2c2088392c628ebcd9a",
+      "inventory_index": 8,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773842168146.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千6",
+        "02-千5"
+      ],
+      "sha256": "923299e6bec0f12dbbc881ee35b49855f6ec7f57e3bb71abaca1f71d10e98d62",
+      "inventory_index": 9,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773842202433.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千6",
+        "02-千5"
+      ],
+      "sha256": "4a7a8f87bf682c1c2e78bca13fd562a8818af21dc80357b4c6e14496129d8432",
+      "inventory_index": 10,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773883619268.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千8"
+      ],
+      "sha256": "774346f3f30e8dcdbc967cc37de72aab4b568ab678ff24ece2a806d6888fbe64",
+      "inventory_index": 11,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。 上沿上一题残片缺题干，已登记排除。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773885349824.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::10",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千10"
+      ],
+      "sha256": "ebb17c2d0bcb393060e0ede9900e8a39ae6966d7ae0f3c654cc8d77f536a1cf6",
+      "inventory_index": 12,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773885351210.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::10",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-千10"
+      ],
+      "sha256": "f3cd28f332f4c7d7f8ffd8436da2354d2dbf8352edb8926e330947d5cecf937a",
+      "inventory_index": 13,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773886565913.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::11",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-习11",
+        "02-千11"
+      ],
+      "sha256": "a28b0664d05052a507e2fb23923dc026c837eced434a15811e859d9fd0dc136c",
+      "inventory_index": 14,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773889436205.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-技1"
+      ],
+      "sha256": "af886198c7957648e926bc075d91735eb8da0564b2f325bd3976129b0525449b",
+      "inventory_index": 15,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/习题与1000题-1773889854146.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md::计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-技2"
+      ],
+      "sha256": "372c5c85dab9263e4d62dd9add40842a44e77e4733f9ca3a064b61d3d0ae3d2c",
+      "inventory_index": 16,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779327921837.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::(开头)",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-1"
+      ],
+      "sha256": "084193ee96de6ee865ef1c8dd96946d712d5c9637f360b915947b482a37f7ffc",
+      "inventory_index": 17,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779331461825.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::2  漏解",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-2"
+      ],
+      "sha256": "6b6a1283b1d2152ef7f8256a322e62d685b2d63e566d4b6bafa10fc6342c1ec7",
+      "inventory_index": 18,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779331463472.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::2  漏解",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-2"
+      ],
+      "sha256": "19763ddfd62cbca517e08638715cffb9ab3161924b3de0e375b58cc9dcadb5ed",
+      "inventory_index": 19,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779376791834.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-3"
+      ],
+      "sha256": "ce9d348479d1ff0c12eebbf35c68f4dac9db51e4d4cb0bc1c1597ba0f8b3a602",
+      "inventory_index": 20,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779415151800.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::4",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-4"
+      ],
+      "sha256": "477f65a333d033bd855a901272efdb7e3899a0dc3f3671eb2b679310118b6107",
+      "inventory_index": 21,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/880-1779418466245.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md::5",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-5"
+      ],
+      "sha256": "15837c05664b40998f4a63020d4de15b3f6aba39e26164e4043c1d13a2a0103e",
+      "inventory_index": 22,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782184974015.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::1",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-1"
+      ],
+      "sha256": "8d8371fda3b55417e20e5749188e432a5ac0e38e99813c37b2755787fc231998",
+      "inventory_index": 23,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782186792878.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-2"
+      ],
+      "sha256": "6c4604fdd5d71a7189a4aa5141580a491a71e9bd2e7e461616af9cafb68c1280",
+      "inventory_index": 24,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782220419707.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::3 - 【】不是常规的指数，看你慌不慌",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-3"
+      ],
+      "sha256": "acedac19e3fb967f6c12a2c030cddb9d1a51470d1a9e6968dffdeac4ad59a851",
+      "inventory_index": 25,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782220676617.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::4 - 【】 线性无关",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-4"
+      ],
+      "sha256": "17dc01dd752e3c70da52c126ead93f64bbe0e22fac284c3b8f87a73366a1dcd7",
+      "inventory_index": 26,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782263592587.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::5",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-5"
+      ],
+      "sha256": "963a5026510cf989723469cb16df6b130efb1b3de8b9b752fdddc5be229dfb9d",
+      "inventory_index": 27,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782273679704.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-6"
+      ],
+      "sha256": "230d1fe7e659b583afdcff06c8fd04cba264107926bbb5e9469d31b36b5ffd21",
+      "inventory_index": 28,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782273705610.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-6"
+      ],
+      "sha256": "aa52b27d67707b4b2635e74ac7a405e4b3ba390095d481d018f6e072bcabae19",
+      "inventory_index": 29,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782273714412.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-6"
+      ],
+      "sha256": "a3a5551fec5bec2b9277cbdf0a20318a1b96f2e0b5078e0714697b8b011555bb",
+      "inventory_index": 30,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782351291974.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::7 一个比另一个高阶，一次",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-7a",
+        "04-7b"
+      ],
+      "sha256": "c919451c82e25c4c0b0ce2f62d20b0135742f6ccbb0d833b444406ceafa0c61b",
+      "inventory_index": 31,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782353361592.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-8"
+      ],
+      "sha256": "add8a4b5e0c78b270cc40e5752d3b065f281cabf93405fc7e3c0a77e8815ff76",
+      "inventory_index": 32,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782354055536.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::9",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-9"
+      ],
+      "sha256": "7bd1df3f6c7bd11f7d9173932a0b3fb4f0fdfe122688992b23b7363f9c936a15",
+      "inventory_index": 33,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782354433543.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::10",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-10"
+      ],
+      "sha256": "3a0ac98b8a7db7c888641ad4b0dcbdae6145b2b4e5ce30feda4b5cb05d0418d8",
+      "inventory_index": 34,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782354510949.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::10",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-10"
+      ],
+      "sha256": "9eab1b81efdbb7856321a7f326adf237837d0940e8849a72f21dc8a53346a0bf",
+      "inventory_index": 35,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782356075491.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-11a"
+      ],
+      "sha256": "95f7877f36db67b3ce20fb888166e49ddc7d99573de15643b70e681436096f45",
+      "inventory_index": 36,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782360109728.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-11b"
+      ],
+      "sha256": "a9f5ac0f1892242dd67517fc843896a8e22ed993a4ee5577c07bee9bbfea6c55",
+      "inventory_index": 37,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782360116853.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-11b"
+      ],
+      "sha256": "a86e9681d9c2da7d1b354c4b5ba4415e13001aad5a1dc8ed6adadfd578b235f0",
+      "inventory_index": 38,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782438624515.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::11 观察力惊人",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-11c"
+      ],
+      "sha256": "0253c1c8e47dd3845b364e5204dc18d397d3c97c65a9fd1b88cb62b230fdecdf",
+      "inventory_index": 39,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782360262549.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::12 考场上没见过的题型，看怎么反应",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-12"
+      ],
+      "sha256": "9a75d5154418fdd4335c4aad77e3a4aeafc7bd20f122a1923f39bcf838057332",
+      "inventory_index": 40,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782394423204.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::12 考场上没见过的题型，看怎么反应",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-12"
+      ],
+      "sha256": "8968b77ec58b433d0db85492d84d72630abc9e14762dcbe08754b5808e527b5e",
+      "inventory_index": 41,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782394374751.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::13 【！图 2】",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-13a"
+      ],
+      "sha256": "68cd2b246b1008c07707fbe3fa9e47e5af93d2b6c68a334a33ac5bc828e93062",
+      "inventory_index": 42,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782394363211.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::13 【！图 2】",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-13b"
+      ],
+      "sha256": "0096ea9ab32db34f8117208056bf8e630723ff1691c8e5c554a9076c553839d5",
+      "inventory_index": 43,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782395505653.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::14 新题型 -【】",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-14"
+      ],
+      "sha256": "844b3296ca779eb62d87f540982e2950255fa2717d3197eff7c0cef7d81a630f",
+      "inventory_index": 44,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782395515929.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::14 新题型 -【】",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-14"
+      ],
+      "sha256": "25b166f565218320358d08a0930ddb8169959e38214cabf0f0cdd268f1028e53",
+      "inventory_index": 45,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782440195832.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::15",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-15"
+      ],
+      "sha256": "7492f30040af30f864d0f7133b6a489cd2cc6e04429c533ec60e3a92a9aec714",
+      "inventory_index": 46,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782440369984.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::16 -[]",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-16"
+      ],
+      "sha256": "8b0d7c764835d5f284693995f16e5e7e7fd345efe685b89617d4a1932d723c19",
+      "inventory_index": 47,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782443343293.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::17  有界 -[! ]",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-17a"
+      ],
+      "sha256": "a5fdb6c910cc103802d6407194a4a3dd12a07bd56024febdff9c7abd56d1ab01",
+      "inventory_index": 48,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782443769015.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::17  有界 -[! ]",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-17b",
+        "04-17c"
+      ],
+      "sha256": "999002ce1a27c9ce3a70d7061392cf39c51ddcebd424da09bd0d8f6ca7292deb",
+      "inventory_index": 49,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782445758620.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::18",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-18"
+      ],
+      "sha256": "3eefe5f3ff836002b04a0fe3243a99e72add4a4fd86206ce9979457c09c04312",
+      "inventory_index": 50,
+      "role": "question-with-optional-solution",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    },
+    {
+      "path": "_attachments/image/04大观习题-1782445788872.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "block_id": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md::18",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-18"
+      ],
+      "sha256": "0a48c25b2a8af4cd6f6a6eb55580088f4d1516d05877c5a516002c64f07f1b91",
+      "inventory_index": 51,
+      "role": "solution-only",
+      "coverage_note": "通过精确源章节链接保留；同节多题在卡片中另附原图链接以定位。"
+    }
+  ],
+  "target_before_sha256": "af131863089dfc8a07b108f4ccbefd91f12370b99de11766993d72cbeda17b81",
+  "backup": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/备份/05题型总结-重构前-20260906-150915.md",
+  "duplicates": [
+    {
+      "card_ids": [
+        "03-5",
+        "04-2"
+      ],
+      "reason": "同一题目在两份原笔记出现，保留双入口"
+    }
+  ],
+  "excluded_fragments": [
+    {
+      "image_index": 11,
+      "text": "(2)求曲线y(x)的斜渐近线",
+      "reason": "前题裁切残片；缺少曲线定义，未伪造条件或答案。",
+      "disposition": "source-linked"
+    }
+  ],
+  "annotations": [
+    "分离变量遗漏y=kπx而不只y=0；原方程极点及初值分支必须保留",
+    "常数重命名不能改变取值范围或漏掉独立常数",
+    "x/y指数凑微分避免不合法地移除对数绝对值",
+    "欧拉代换在x>0与x<0分别成立，不能跨越0",
+    "原04-15、16属于建立方程而非特解反推",
+    "04-13做差和代入均可用；不保留原文“复杂右端使代入法卡死”的错误说法",
+    "未注明常系数只是不允许预设，不意味着一定变系数",
+    "换元后可同步定初值，平均值需dx=e^tdt及原区间长度",
+    "有界解选择积分下限需保证收敛并同步定常数",
+    "原视频约2分20秒的位置保留在04-10卡，视频地址仍在未修改源笔记"
+  ],
+  "counts": {
+    "source_notes": 3,
+    "image_occurrences": 51,
+    "source_cards": 44,
+    "unique_complete_exercises": 43
+  }
+}

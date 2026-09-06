@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788675900952-0zwnde390",
+  "providerId": "codex",
+  "title": "将识图技能模型替换为3.6flash并废弃旧模型",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788675900952,
+  "updatedAt": 1788676436529,
+  "lastResponseAt": 1788676405358,
+  "sessionId": "01a07564-46d6-7e42-a39e-1d6cbc729167",
+  "providerState": {
+    "threadId": "01a07564-46d6-7e42-a39e-1d6cbc729167",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\06\\rollout-2026-09-06T14-25-06-01a07564-46d6-7e42-a39e-1d6cbc729167.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 27462,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 27462,
+    "percentage": 23,
+    "model": "gpt-6-astra"
+  }
+}

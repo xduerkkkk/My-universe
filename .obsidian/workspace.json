@@ -72,21 +72,35 @@
             }
           },
           {
-            "id": "443b1c4e8dfbd3f5",
+            "id": "487d8b719dda9076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 强化习题"
+              "title": "粗心记录"
+            }
+          },
+          {
+            "id": "e6e3a2f2b158f39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache代码访存缺失类题"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.8730773925781
+    "width": 275.0423278808594
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,8 +305,7 @@
               "title": "反向链接"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,57 +330,57 @@
       "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "443b1c4e8dfbd3f5",
+  "active": "e6e3a2f2b158f39b",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
-    "_temp/math02_organizer/usage_8.json",
-    "_temp/math02_organizer/vision_8.txt",
-    "_temp/math02_organizer/usage_7.json",
-    "_temp/math02_organizer/vision_7.txt",
-    "_temp/math02_organizer/usage_6.json",
-    "_temp/math02_organizer/vision_6.txt",
-    "_temp/math02_organizer/usage_5.json",
-    "_temp/math02_organizer/vision_5.txt",
-    "_temp/math02_organizer/usage_4.json",
-    "_temp/math02_organizer/vision_4.txt",
-    "_temp/math02_organizer/sheet_8.jpg",
-    "_temp/math02_organizer/sheet_7.jpg",
-    "_temp/math02_organizer/sheet_6.jpg",
-    "_temp/math02_organizer/sheet_5.jpg",
-    "_temp/math02_organizer/sheet_4.jpg",
-    "_temp/math02_organizer/sheet_3.jpg",
-    "_temp/math02_organizer/sheet_2.jpg",
-    "_temp/math02_organizer/sheet_1.jpg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/01基础知识.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/02强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/04习题整理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md",
-    "_attachments/image/03 强化习题-1788665580162.jpeg",
-    "_attachments/image/03 强化习题-1788665569861.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+    "_attachments/image/cache代码访存缺失类题-1788687648515.jpeg",
+    "_attachments/image/cache代码访存缺失类题-1788687642458.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md",
+    "_attachments/image/408：2009--2011-1788687635272.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/卡片/辨析--中断过程的细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/卡片/记忆--中断分类.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/卡片/中断屏蔽.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--同时启动和轮流启动.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/流水线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/记忆.md",
+    "_attachments/image/02王道题-错题复盘-重构版-1788682379605.jpeg",
+    "_attachments/image/02王道题-错题复盘-重构版-1788681987217.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/刷新和读的行缓冲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--存取存储.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/透明.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05微分方程｜题型检索与二刷卡片.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/备份/05题型总结-重构前-20260906-150915.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/备份",
+    "_attachments/image/02王道题-错题复盘-重构版-1788678991249.jpeg",
+    "_attachments/image/02王道题-错题复盘-重构版-1788678839059.jpeg",
+    "_attachments/image/02王道题-错题复盘-重构版-1788678832133.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md.bak-20260906-150915",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+    "_attachments/02习题-1776478685629.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "_temp/math02_organizer/revision_validation.json",
+    "_temp/math02_organizer/audit_fixtures/ledger.json",
+    "_temp/math02_organizer/audit_fixtures",
+    "_temp/math02_organizer/validate_revision.py",
+    "_temp/math02_organizer/concise_ledger.json",
+    "_temp/math02_organizer/revision_backup/openai.yaml",
+    "_temp/math02_organizer/revision_backup/audit_math_summary.py",
+    "_temp/math02_organizer/rewrite_concise.py",
+    "_temp/math02_organizer/sheet_8.jpg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Exercise Organizer"
+  short_description: "Turn math notes into searchable review maps."
+  default_prompt: "Use $math-exercise-organizer to regroup these Obsidian math exercise notes into a searchable review note."

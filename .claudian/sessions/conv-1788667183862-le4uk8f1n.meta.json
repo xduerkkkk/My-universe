@@ -4,8 +4,8 @@
   "title": "整理02章节数学习题并按题型归类",
   "titleGenerationStatus": "success",
   "createdAt": 1788667183862,
-  "updatedAt": 1788668244057,
-  "lastResponseAt": 1788668244057,
+  "updatedAt": 1788679036245,
+  "lastResponseAt": 1788678051367,
   "sessionId": "01a074df-438f-72f2-ad32-dcd2cd4f4cf4",
   "providerState": {
     "threadId": "01a074df-438f-72f2-ad32-dcd2cd4f4cf4",
@@ -14,13 +14,13 @@
   },
   "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
   "usage": {
-    "inputTokens": 75810,
+    "inputTokens": 39063,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 75392,
+    "cacheReadInputTokens": 38528,
     "contextWindow": 121600,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 75810,
-    "percentage": 62,
+    "contextTokens": 39063,
+    "percentage": 32,
     "model": "gpt-6-astra"
   }
 }

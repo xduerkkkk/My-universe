@@ -1,0 +1,243 @@
+按编号顺序识别转写如下：
+
+---
+
+### **37**
+
+**【原题】**
+> **i) 1988 数二 >>**
+> 利用代换 $y = \frac{u}{\cos x}$ 将方程 $y'' \cos x - 2y' \sin x + 3y \cos x = e^x$ 化简，并求出原方程的通解.
+
+**【解答】**
+> **第一步：将 $u = y \cos x$ 代入原方程化简**
+> 由 $u = y \cos x$ 两端对 $x$ 求导，得
+> $u' = y' \cos x - y \sin x$,
+> $u'' = y'' \cos x - 2y' \sin x - y \cos x$.
+> $\dots\dots 2$分
+> 于是原方程 $y'' \cos x - 2y' \sin x + 3y \cos x = e^x$ 化为 $u'' + 4u = e^x$
+> **其通解为**
+> // 因为齐次方程 $u'' + 4u = 0$ 的特征方程是 $r^2 + 4 = 0$ 则 $r = \pm 2i$ ($i$ 是虚数单位)；
+> 所以齐次方程 $u'' + 4u = 0$ 的通解是
+> $u = C_1 \cos(2x) + C_2 \sin(2x)$ ($C_1, C_2$ 是积分常数).
+> 设 $u'' + 4u = e^x$ 的特解是 $u = A e^x$,
+> 代入 $u'' + 4u = e^x$ 得
+> $A e^x + 4 A e^x = e^x$,
+
+---
+
+### **38**
+
+**【解答（接上页）】**
+> 则 $A = \frac{1}{5}$, 故特解是 $u = \frac{e^x}{5}$,
+> 故 $u'' + 4u = e^x$ 的通解
+> $u = C_1 \cos(2x) + C_2 \sin(2x) + \frac{e^x}{5}$
+> ($C_1, C_2$ 是积分常数).
+> $u = C_1 \cos 2x + C_2 \sin 2x + \frac{e^x}{5}$,
+> **第二步：求原方程的通解**
+> // $u = y \cos x$.
+> 从而原方程的通解为
+> $y = C_1 \frac{\cos 2x}{\cos x} + 2C_2 \sin x + \frac{e^x}{5\cos x}$,
+> 其中 $C_1, C_2$ 为任意常数.
+> $\dots\dots 5$分
+
+---
+
+### **39**
+
+**【原题】**
+> **【例 4.3】** 设 $f(x)$ 在 $[0, +\infty)$ 上连续，且 $\lim_{x \to +\infty} f(x) = b$.
+> ( I ) 若 $y = y(x)$ 为微分方程 $y' + ay = f(x)\ (a > 0)$ 的解，求 $\lim_{x \to +\infty} y(x)$.
+> ( II ) 若 $y = y(x)$ 为微分方程 $y'' + ay' = f(x)\ (a > 0)$ 的解，求 $\lim_{x \to +\infty} y'(x)$ 与 $\lim_{x \to +\infty} y''(x)$.
+
+**【解答与已知打印推导】**
+> ( I ) $\frac{dy}{dx} + ay = f(x)$ 的通解为 $y = e^{-ax} \left[ \int_0^x f(t) e^{at} dt + C \right]$,
+> $\lim_{x \to +\infty} y = \lim_{x \to +\infty} e^{-ax} \left[ \int_0^x f(t) e^{at} dt + C \right] = \lim_{x \to +\infty} \frac{\int_0^x f(t) e^{at} dt + C}{e^{ax}} = \lim_{x \to +\infty} \frac{f(x)}{a} = \frac{b}{a}$
+> ( 2 ) $\lim_{x \to +\infty} y' = \frac{b}{a}$, $\lim_{x \to +\infty} y'' = \lim_{x \to +\infty} [f(x) - ay'] = b - a \frac{b}{a} = 0$
+
+**【手写批注】**
+> (1) $\lim_{x \to +\infty} y(x) = \lim_{x \to +\infty} \frac{e^{ax} y_{00}}{e^{ax}} = \lim_{x \to +\infty} \frac{e^{ax}(y' + ay)}{a e^{ax}} = \frac{1}{a} \lim_{x \to +\infty} \frac{b}{a}$
+> 右侧红色手写补充：
+> $e^{ax} \cdot y_{00}$ `[部分模糊]`
+> $e^{ax} [f(x) + g(x)]$ `[部分模糊]`
+
+---
+
+### **40**
+
+**【原题】**
+> **2016 数二**
+> 已知 $y_1(x) = e^x, y_2(x) = u(x)e^x$ 是二阶微分方程 $(2x-1)y'' - (2x+1)y' + 2y = 0$ 的两个解. 若 $u(-1) = e, u(0) = -1$, 求 $u(x)$, 并写出该微分方程的通解.
+
+---
+
+### **41**
+
+**【手写解答/批注（接40题解题过程）】**
+> $y_2$ 代入
+> $(2x-1)(u''e^x + 2u'e^x + ue^x) - (2x+1)(u'e^x + ue^x) + 2ue^x = 0$
+> $(2x-1)u'' + (2x-3)u' = 0$
+> ① 令 $u' = P \Rightarrow (2x-1)P' + (2x-3)P = 0$ `[批注：可分离]`
+> $\left[ \frac{P'}{P} + \frac{2x-3}{2x-1} P = 0 \right]$
+> ② $\frac{dP}{P} = -\frac{2x-3}{2x-1} dx$
+> $\int \frac{dP}{P} dx = \int \frac{3-2x}{2x-1} dx$
+> $\ln |P| = -x + \ln |2x-1| + \ln |C|$
+> $u' = C_1 (2x-1) e^{-x}$
+> $u = C_1 \int (2x-1) e^{-x} dx$ `[批注：分部]`
+> $\left[ \begin{array}{c|c} 2x-1 & -e^{-x} \\ \hline 2 & e^{-x} \end{array} \right] \Rightarrow -C_1 (2x+1)e^{-x} + C_2$
+> $= -C_1 (2x+1)e^{-x} + C_2$
+> $u(-1) = e, u(0) = -1 \Rightarrow C_1 = 1, C_2 = 0$
+> $u = -(2x+1)e^{-x}$
+> $y_1 = e^x, y_2 = -2x-1$ 无关
+> $y = C_1 e^x - C_2(2x+1)$, $C_1, C_2$ 任意
+
+---
+
+### **42**
+
+**【原题】**
+> **1) 1997 数二; 26版 1000 第十五章基础 18; 26版 660 数一二三 第 82 题 >>**
+> (5) 已知 $y_1 = x e^x + e^{2x}, y_2 = x e^x + e^x, y_3 = x e^x + e^{2x} - e^x$ 是某二阶非齐次线性微分方程的三个解,求此微分方程.
+> 156 / 329
+> **微分方程大题 答案**
+
+**【手写解答/批注】**
+> $y_1 - y_3 \to e^x$
+> $y_1 - y_2 \to e^{2x} - e^x \Big\} e^{2x}$
+> $e^x, e^{2x}$ 齐次无关解
+> $y_3 - (y_1 - y_3) \to x e^x$
+> $y^* = x e^x$ 非齐特解
+> 特征方程为 $(r-1)(r-2) = 0$
+> 即 $r^2 - 3r + 2 = 0$, 对应的方程为 $y'' - 3y' + 2y = 0$
+> 设非齐次方程为 $y'' - 3y' + 2y = d(x)$
+> 将 $y^* = x e^x$ 代入得
+> $(x+2)e^x - 3(x+1)e^x + 2xe^x = d(x)$
+> $d(x) = (1-2)e^x = -e^x$
+> $\Rightarrow$ 非齐方程为 $y'' - 3y' + 2y = -e^x$
+
+---
+
+### **43**
+
+**【原题】**
+> **m) 26 版 1000 第十五章强化 28 >>**
+> 28. 设 $y = 1, y = e^{-x}, y = 2e^{-x}$ 为某二阶常系数线性微分方程的解，则该微分方程为 ________.
+
+**【答案与解析】**
+> **28.【答案】** $y'' + y' = 0$
+> **【解析】** 设二阶常系数线性微分方程为 $y'' + ay' + by = f(x)$, $a, b$ 为常数. 将 $y = 1, y = e^{-x}, y = 2e^{-x}$ 代入方程，依次得
+> $f(x) = b, e^{-x} - ae^{-x} + be^{-x} = f(x), 2e^{-x} - 2ae^{-x} + 2be^{-x} = f(x)$,
+> 解得 $b = 0, a = 1$. 故所求微分方程为 $y'' + y' = 0$.
+
+---
+
+### **44**
+
+**【原题】**
+> (2) (南京大学, 1993年) 设 $y_1 = e^x, y_2 = x + e^x, y_3 = x^2 + e^x$ 为某二阶线性非齐次微分方程的特解，则该微分方程为 _________.
+
+**【解答】**
+> (2) 【详解一】 由于 $y_2 - y_1 = x, y_3 - y_1 = x^2$ 为齐次方程的两个线性无关的解，故齐次方程的通解为 $y = C_1 x + C_2 x^2$.
+> 由
+> $\begin{cases} y = C_1 x + C_2 x^2 \\ y' = C_1 + 2C_2 x \\ y'' = 2C_2 \end{cases}$
+> 消 $C_1, C_2$, 得齐次方程为 $x^2 y'' - 2x y' + 2y = 0$.
+> 令非齐次方程为 $x^2 y'' - 2x y' + 2y = f(x)$, 将 $y_1 = e^x$ 代入上式，得 $f(x) = e^x (x^2 - 2x + 2)$, 故非齐次方程为 $x^2 y'' - 2x y' + 2y = e^x (x^2 - 2x + 2)$.
+
+---
+
+### **45**
+
+**【解答（接44题详解二）】**
+> 【详解二】 由于 $y_2 - y_1 = x, y_3 - y_1 = x^2$ 为齐次方程的两个线性无关的解，故非齐次方程的通解为
+> $y = C_1 x + C_2 x^2 + e^x$.
+> 由
+> $\begin{cases} y = C_1 x + C_2 x^2 + e^x \\ y' = C_1 + 2C_2 x + e^x \\ y'' = 2C_2 + e^x \end{cases}$
+> 消 $C_1, C_2$, 得非齐次方程为 $x^2 y'' - 2x y' + 2y = e^x (x^2 - 2x + 2)$.
+
+---
+
+### **46**
+
+**【原题】**
+> (3) 已知函数 $y = y(x)$ 在任意点 $x$ 处的增量 $\Delta y = \frac{y \Delta x}{1 + x^2} + \alpha$, 且当 $\Delta x \to 0$ 时, $\alpha$ 是 $\Delta x$ 的高阶无穷小, $y(0) = \pi$, 则 $y(1)$ 等于 ( )
+> (A) $2\pi$.
+> (B) $\pi$.
+> (C) $e^{\frac{\pi}{4}}$.
+> (D) $\pi e^{\frac{\pi}{4}}$.
+
+**【手写批注与字幕】**
+> $\lim_{\Delta x \to 0} \frac{\Delta y}{\Delta x} = \frac{y}{1+x^2} + \lim_{\Delta x \to 0} \frac{\alpha}{\Delta x}$
+> $\frac{dy}{dx} = \frac{y}{1+x^2}$
+> $\int \frac{dy}{y} = \int \frac{dx}{1+x^2}$
+> 底部红黄字幕：比如说他给你了个含Delta的式子
+
+---
+
+### **47**
+
+**【原题】**
+> **【例 4.9】** (1) (莫斯科 1975 年竞赛题) 设 $f(x)$ 满足 $f(x+y) = \frac{f(x)+f(y)}{1-f(x)f(y)}$, 且 $f'(0) = 1$, 求 $f(x)$.
+
+**【解答】**
+> 【详解】 (1) 令 $x=y=0$, 则 $f(0) = \frac{f(0)+f(0)}{1-f(0)f(0)}$, 得 $f(0) = 0$.
+> 由
+> $f'(x) = \lim_{\Delta x \to 0} \frac{f(x+\Delta x) - f(x)}{\Delta x} = \lim_{\Delta x \to 0} \frac{\frac{f(x)+f(\Delta x)}{1-f(x)f(\Delta x)} - f(x)}{\Delta x}$
+> $= \lim_{\Delta x \to 0} \frac{f(\Delta x)}{\Delta x} \frac{1+f^2(x)}{1-f(x)f(\Delta x)} = f'(0) [1+f^2(x)] = 1+f^2(x)$,
+> 得 $\int \frac{df(x)}{1+f^2(x)} = \int dx$, 故 $\arctan f(x) = x + C$. 由 $f(0) = 0$, 得 $C = 0$, 故 $f(x) = \tan x$.
+
+---
+
+### **48**
+
+**【原题】**
+> **【例 4.4】** 设 $f(x)$ 为 $\mathbf{R}$ 上有界的连续函数. 证明:
+> ( I ) 微分方程 $y' + y = f(x)$ 在 $\mathbf{R}$ 上存在一个有界的解.
+> ( II ) 若 $f(x)$ 以 $T$ 为周期, 则 ( I ) 中的解也以 $T$ 为周期.
+
+**【解答与手写批注】**
+> 【详解】 ( I ) 微分方程 $y' + y = f(x)$ 的通解为 $y(x) = e^{-x} \left[ \int_{-\infty}^x e^t f(t) dt + C \right]$. `[手写批注：积分下限更正为 -\infty]`
+> 令 $C = 0$, 则 $y(x) = e^{-x} \int_{-\infty}^x e^t f(t) dt$. `[手写批注：\int_{-\infty}^x + \int_0^x]`
+> 由于 $|f(x)| \le M$, 故 $|y(x)| = \left| e^{-x} \int_{-\infty}^x e^t f(t) dt \right| \le e^{-x} \int_{-\infty}^x e^t |f(t)| dt \le M$
+>
+> ( II ) 对于 ( I ) 中的解 $y(x) = e^{-x} \int_{-\infty}^x e^t f(t) dt$, 有
+> $y(x+T) = e^{-(x+T)} \int_{-\infty}^{x+T} e^t f(t) dt \xrightarrow{t=u+T} e^{-(x+T)} \int_{-\infty}^x e^{u+T} f(u+T) du = e^{-x} \int_{-\infty}^x e^u f(u) du = y(x)$
+> 即 $y(x) = e^{-x} \int_{-\infty}^x e^t f(t) dt$ 以 $T$ 为周期.
+
+---
+
+### **49**
+
+**【原题】**
+> **【21】** ( I ) 设 $a(t)$ 在 $[0, +\infty)$ 上是非负连续函数,证明:当且仅当 $\int_0^{+\infty} a(t) dt$ 发散时,微分方程 $\frac{dx}{dt} + a(t)x = 0$ 的每一个解 $x(t)$ 满足 $\lim_{t \to +\infty} x(t) = 0$
+> ( II ) 设 $a > 0$, $f(t)$ 在 $[0, +\infty)$ 上连续有界,证明:方程 $\frac{dx}{dt} + ax = f(t) (t \ge 0)$ 的所有解在 $[0, +\infty)$ 上有界.
+
+---
+
+### **50**
+
+**【原题】**
+> **606** 设 $P(x), Q(x)$ 在 $(-\infty, +\infty)$ 内连续, 以 $T$ 为周期, 函数 $y = y(x)$ 是
+> $\frac{dy}{dx} + P(x)y = Q(x)$
+> 的解, 则 $y(0) = y(T)$ 是 $y = y(x)$ 以 $T$ 为周期的
+> (A) 必要非充分条件.
+> (B) 充分非必要条件.
+> (C) 充要条件.
+> (D) 既非充分又非必要条件.
+
+---
+
+### **51**
+
+**【答案与解答】**
+> **606 【答案】** C
+> **【分析】** 若 $y = y(x)$ 以 $T$ 为周期, 显然有 $y(0) = y(T)$. 反之, 若 $y(0) = y(T)$, 考察 $\Phi(x) = y(x+T) - y(x)$, 则
+> $\frac{d\Phi(x)}{dx} = y'(x+T) - y'(x)$
+> $= [-P(x+T)y(x+T) + Q(x+T)] - [-P(x)y(x) + Q(x)]$
+> $= -P(x)[y(x+T) - y(x)]$,
+> (其中 $P(x+T) = P(x), Q(x+T) = Q(x)$), 即
+> $\frac{d\Phi(x)}{dx} + P(x)\Phi(x) = 0$,
+> 两边乘 $e^{\int_0^x P(t)dt}$ 得
+> $\frac{d}{dx} (\Phi(x) e^{\int_0^x P(t)dt}) = 0$,
+> $\Rightarrow \Phi(x) e^{\int_0^x P(t)dt} = C \quad (x \in (-\infty, +\infty))$.
+> 由 $\Phi(0) = y(T) - y(0) = 0 \Rightarrow C = 0$, 即
+> $\Phi(x) = 0 \quad (x \in (-\infty, +\infty))$.
+> 即 $y(x)$ 以 $T$ 为周期. 因此选(C).

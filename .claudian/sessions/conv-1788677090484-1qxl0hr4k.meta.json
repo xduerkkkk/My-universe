@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788677090484-1qxl0hr4k",
+  "providerId": "codex",
+  "title": "确认当前使用的模型型号",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788677090484,
+  "updatedAt": 1788677168328,
+  "lastResponseAt": 1788677107530,
+  "sessionId": "01a07576-6d40-7fa3-bd31-2609cf528169",
+  "providerState": {
+    "threadId": "01a07576-6d40-7fa3-bd31-2609cf528169",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\06\\rollout-2026-09-06T14-44-55-01a07576-6d40-7fa3-bd31-2609cf528169.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 11657,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4096,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 11657,
+    "percentage": 1,
+    "model": "gpt-6-astra"
+  }
+}

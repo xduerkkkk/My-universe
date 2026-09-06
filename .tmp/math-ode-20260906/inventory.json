@@ -1,0 +1,366 @@
+{
+  "sources": {
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md": "31e3f88b9efba7864d2e4a47accf1692e40bb9fed985f21418a53bd44d747c62",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md": "a348d028f3bb17a38de616132f4422291fc7e8c2d0faa18280db93133d0d9b74",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md": "3f90b72197c75302a6737e3cb5032e89474c5772161b90193d8cf468974d71ba"
+  },
+  "images": [
+    {
+      "index": 1,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "1，2 特解齐次解理解",
+      "path": "_attachments/习题与1000题-1773799152498.jpeg",
+      "sha256": "710df8de01a9d9765b955cd2f9a4b00ac971b726ee8625480dbca07e3a548aef"
+    },
+    {
+      "index": 2,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "1，2 特解齐次解理解",
+      "path": "_attachments/习题与1000题-1773802225053.jpeg",
+      "sha256": "9cf2134c0f88ef8879a838c097e6be4856b56a0d51da1d7771846dbdebc1b093"
+    },
+    {
+      "index": 3,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "5 变形",
+      "path": "_attachments/习题与1000题-1773802483805.jpeg",
+      "sha256": "e18656998166626e135a2d71cd2aef905db91fadb0e958cb64eb7637f848825d"
+    },
+    {
+      "index": 4,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "6 化简",
+      "path": "_attachments/习题与1000题-1773803405309.jpeg",
+      "sha256": "794761c771cf78b2059df19fd7562b1dce656b10508e65e8058a6776a062287d"
+    },
+    {
+      "index": 5,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "8 欧拉",
+      "path": "_attachments/习题与1000题-1773804473128.jpeg",
+      "sha256": "b20144d197c534d6a7dbd1077163ea15f7f74fde5c343e6d0e07d95f46c07ecd"
+    },
+    {
+      "index": 6,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "10 含积分，转化为微分方程",
+      "path": "_attachments/习题与1000题-1773805888338.jpeg",
+      "sha256": "d2426ffa42bf3a7b0537875b3e2491b5e00137fa67b43d907930adb58b4ccd70"
+    },
+    {
+      "index": 7,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "11",
+      "path": "_attachments/习题与1000题-1773837206859.jpeg",
+      "sha256": "e2cee1dcdf3109d2eafb300a41042f70a9daeef289e399c3a08251459e589da9"
+    },
+    {
+      "index": 8,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "4 换自变量 ",
+      "path": "_attachments/习题与1000题-1773840079845.jpeg",
+      "sha256": "8329182ec773ef94c7466bbdd9fd42bd5ad468bfc609a2c2088392c628ebcd9a"
+    },
+    {
+      "index": 9,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "path": "_attachments/习题与1000题-1773842168146.jpeg",
+      "sha256": "923299e6bec0f12dbbc881ee35b49855f6ec7f57e3bb71abaca1f71d10e98d62"
+    },
+    {
+      "index": 10,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "5，6 [技巧--看穿换元](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/卡片/技巧--看穿换元.md)",
+      "path": "_attachments/习题与1000题-1773842202433.jpeg",
+      "sha256": "4a7a8f87bf682c1c2e78bca13fd562a8818af21dc80357b4c6e14496129d8432"
+    },
+    {
+      "index": 11,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "8",
+      "path": "_attachments/习题与1000题-1773883619268.jpeg",
+      "sha256": "774346f3f30e8dcdbc967cc37de72aab4b568ab678ff24ece2a806d6888fbe64"
+    },
+    {
+      "index": 12,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "10",
+      "path": "_attachments/习题与1000题-1773885349824.jpeg",
+      "sha256": "ebb17c2d0bcb393060e0ede9900e8a39ae6966d7ae0f3c654cc8d77f536a1cf6"
+    },
+    {
+      "index": 13,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "10",
+      "path": "_attachments/习题与1000题-1773885351210.jpeg",
+      "sha256": "f3cd28f332f4c7d7f8ffd8436da2354d2dbf8352edb8926e330947d5cecf937a"
+    },
+    {
+      "index": 14,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "11",
+      "path": "_attachments/习题与1000题-1773886565913.jpeg",
+      "sha256": "a28b0664d05052a507e2fb23923dc026c837eced434a15811e859d9fd0dc136c"
+    },
+    {
+      "index": 15,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "path": "_attachments/习题与1000题-1773889436205.jpeg",
+      "sha256": "af886198c7957648e926bc075d91735eb8da0564b2f325bd3976129b0525449b"
+    },
+    {
+      "index": 16,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md",
+      "heading": "计算技巧![[习题与1000题-1773889436205.jpeg]]",
+      "path": "_attachments/习题与1000题-1773889854146.jpeg",
+      "sha256": "372c5c85dab9263e4d62dd9add40842a44e77e4733f9ca3a064b61d3d0ae3d2c"
+    },
+    {
+      "index": 17,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "(开头)",
+      "path": "_attachments/image/880-1779327921837.jpeg",
+      "sha256": "084193ee96de6ee865ef1c8dd96946d712d5c9637f360b915947b482a37f7ffc"
+    },
+    {
+      "index": 18,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "2  漏解",
+      "path": "_attachments/image/880-1779331461825.jpeg",
+      "sha256": "6b6a1283b1d2152ef7f8256a322e62d685b2d63e566d4b6bafa10fc6342c1ec7"
+    },
+    {
+      "index": 19,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "2  漏解",
+      "path": "_attachments/image/880-1779331463472.jpeg",
+      "sha256": "19763ddfd62cbca517e08638715cffb9ab3161924b3de0e375b58cc9dcadb5ed"
+    },
+    {
+      "index": 20,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "3",
+      "path": "_attachments/image/880-1779376791834.jpeg",
+      "sha256": "ce9d348479d1ff0c12eebbf35c68f4dac9db51e4d4cb0bc1c1597ba0f8b3a602"
+    },
+    {
+      "index": 21,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "4",
+      "path": "_attachments/image/880-1779415151800.jpeg",
+      "sha256": "477f65a333d033bd855a901272efdb7e3899a0dc3f3671eb2b679310118b6107"
+    },
+    {
+      "index": 22,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md",
+      "heading": "5",
+      "path": "_attachments/image/880-1779418466245.jpeg",
+      "sha256": "15837c05664b40998f4a63020d4de15b3f6aba39e26164e4043c1d13a2a0103e"
+    },
+    {
+      "index": 23,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "1",
+      "path": "_attachments/image/04大观习题-1782184974015.jpeg",
+      "sha256": "8d8371fda3b55417e20e5749188e432a5ac0e38e99813c37b2755787fc231998"
+    },
+    {
+      "index": 24,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "2",
+      "path": "_attachments/image/04大观习题-1782186792878.jpeg",
+      "sha256": "6c4604fdd5d71a7189a4aa5141580a491a71e9bd2e7e461616af9cafb68c1280"
+    },
+    {
+      "index": 25,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "3 - 【】不是常规的指数，看你慌不慌",
+      "path": "_attachments/image/04大观习题-1782220419707.jpeg",
+      "sha256": "acedac19e3fb967f6c12a2c030cddb9d1a51470d1a9e6968dffdeac4ad59a851"
+    },
+    {
+      "index": 26,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "4 - 【】 线性无关",
+      "path": "_attachments/image/04大观习题-1782220676617.jpeg",
+      "sha256": "17dc01dd752e3c70da52c126ead93f64bbe0e22fac284c3b8f87a73366a1dcd7"
+    },
+    {
+      "index": 27,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "5",
+      "path": "_attachments/image/04大观习题-1782263592587.jpeg",
+      "sha256": "963a5026510cf989723469cb16df6b130efb1b3de8b9b752fdddc5be229dfb9d"
+    },
+    {
+      "index": 28,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "6",
+      "path": "_attachments/image/04大观习题-1782273679704.jpeg",
+      "sha256": "230d1fe7e659b583afdcff06c8fd04cba264107926bbb5e9469d31b36b5ffd21"
+    },
+    {
+      "index": 29,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "6",
+      "path": "_attachments/image/04大观习题-1782273705610.jpeg",
+      "sha256": "aa52b27d67707b4b2635e74ac7a405e4b3ba390095d481d018f6e072bcabae19"
+    },
+    {
+      "index": 30,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "6",
+      "path": "_attachments/image/04大观习题-1782273714412.jpeg",
+      "sha256": "a3a5551fec5bec2b9277cbdf0a20318a1b96f2e0b5078e0714697b8b011555bb"
+    },
+    {
+      "index": 31,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "7 一个比另一个高阶，一次",
+      "path": "_attachments/image/04大观习题-1782351291974.jpeg",
+      "sha256": "c919451c82e25c4c0b0ce2f62d20b0135742f6ccbb0d833b444406ceafa0c61b"
+    },
+    {
+      "index": 32,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "8",
+      "path": "_attachments/image/04大观习题-1782353361592.jpeg",
+      "sha256": "add8a4b5e0c78b270cc40e5752d3b065f281cabf93405fc7e3c0a77e8815ff76"
+    },
+    {
+      "index": 33,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "9",
+      "path": "_attachments/image/04大观习题-1782354055536.jpeg",
+      "sha256": "7bd1df3f6c7bd11f7d9173932a0b3fb4f0fdfe122688992b23b7363f9c936a15"
+    },
+    {
+      "index": 34,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "10",
+      "path": "_attachments/image/04大观习题-1782354433543.jpeg",
+      "sha256": "3a0ac98b8a7db7c888641ad4b0dcbdae6145b2b4e5ce30feda4b5cb05d0418d8"
+    },
+    {
+      "index": 35,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "10",
+      "path": "_attachments/image/04大观习题-1782354510949.jpeg",
+      "sha256": "9eab1b81efdbb7856321a7f326adf237837d0940e8849a72f21dc8a53346a0bf"
+    },
+    {
+      "index": 36,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "11 观察力惊人",
+      "path": "_attachments/image/04大观习题-1782356075491.jpeg",
+      "sha256": "95f7877f36db67b3ce20fb888166e49ddc7d99573de15643b70e681436096f45"
+    },
+    {
+      "index": 37,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "11 观察力惊人",
+      "path": "_attachments/image/04大观习题-1782360109728.jpeg",
+      "sha256": "a9f5ac0f1892242dd67517fc843896a8e22ed993a4ee5577c07bee9bbfea6c55"
+    },
+    {
+      "index": 38,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "11 观察力惊人",
+      "path": "_attachments/image/04大观习题-1782360116853.jpeg",
+      "sha256": "a86e9681d9c2da7d1b354c4b5ba4415e13001aad5a1dc8ed6adadfd578b235f0"
+    },
+    {
+      "index": 39,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "11 观察力惊人",
+      "path": "_attachments/image/04大观习题-1782438624515.jpeg",
+      "sha256": "0253c1c8e47dd3845b364e5204dc18d397d3c97c65a9fd1b88cb62b230fdecdf"
+    },
+    {
+      "index": 40,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "12 考场上没见过的题型，看怎么反应",
+      "path": "_attachments/image/04大观习题-1782360262549.jpeg",
+      "sha256": "9a75d5154418fdd4335c4aad77e3a4aeafc7bd20f122a1923f39bcf838057332"
+    },
+    {
+      "index": 41,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "12 考场上没见过的题型，看怎么反应",
+      "path": "_attachments/image/04大观习题-1782394423204.jpeg",
+      "sha256": "8968b77ec58b433d0db85492d84d72630abc9e14762dcbe08754b5808e527b5e"
+    },
+    {
+      "index": 42,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "13 【！图 2】",
+      "path": "_attachments/image/04大观习题-1782394374751.jpeg",
+      "sha256": "68cd2b246b1008c07707fbe3fa9e47e5af93d2b6c68a334a33ac5bc828e93062"
+    },
+    {
+      "index": 43,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "13 【！图 2】",
+      "path": "_attachments/image/04大观习题-1782394363211.jpeg",
+      "sha256": "0096ea9ab32db34f8117208056bf8e630723ff1691c8e5c554a9076c553839d5"
+    },
+    {
+      "index": 44,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "14 新题型 -【】",
+      "path": "_attachments/image/04大观习题-1782395505653.jpeg",
+      "sha256": "844b3296ca779eb62d87f540982e2950255fa2717d3197eff7c0cef7d81a630f"
+    },
+    {
+      "index": 45,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "14 新题型 -【】",
+      "path": "_attachments/image/04大观习题-1782395515929.jpeg",
+      "sha256": "25b166f565218320358d08a0930ddb8169959e38214cabf0f0cdd268f1028e53"
+    },
+    {
+      "index": 46,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "15",
+      "path": "_attachments/image/04大观习题-1782440195832.jpeg",
+      "sha256": "7492f30040af30f864d0f7133b6a489cd2cc6e04429c533ec60e3a92a9aec714"
+    },
+    {
+      "index": 47,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "16 -[]",
+      "path": "_attachments/image/04大观习题-1782440369984.jpeg",
+      "sha256": "8b0d7c764835d5f284693995f16e5e7e7fd345efe685b89617d4a1932d723c19"
+    },
+    {
+      "index": 48,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "17  有界 -[! ]",
+      "path": "_attachments/image/04大观习题-1782443343293.jpeg",
+      "sha256": "a5fdb6c910cc103802d6407194a4a3dd12a07bd56024febdff9c7abd56d1ab01"
+    },
+    {
+      "index": 49,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "17  有界 -[! ]",
+      "path": "_attachments/image/04大观习题-1782443769015.jpeg",
+      "sha256": "999002ce1a27c9ce3a70d7061392cf39c51ddcebd424da09bd0d8f6ca7292deb"
+    },
+    {
+      "index": 50,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "18",
+      "path": "_attachments/image/04大观习题-1782445758620.jpeg",
+      "sha256": "3eefe5f3ff836002b04a0fe3243a99e72add4a4fd86206ce9979457c09c04312"
+    },
+    {
+      "index": 51,
+      "source": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md",
+      "heading": "18",
+      "path": "_attachments/image/04大观习题-1782445788872.jpeg",
+      "sha256": "0a48c25b2a8af4cd6f6a6eb55580088f4d1516d05877c5a516002c64f07f1b91"
+    }
+  ]
+}

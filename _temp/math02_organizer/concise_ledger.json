@@ -1,0 +1,585 @@
+{
+  "version": 1,
+  "mode": "concise",
+  "target": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+  "sources": {
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md": "d31b829da8fb4188fb0e7eb4fb630b6196be51e90a9d9c518206119addc252c7",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md": "733b3942eafe9f90f66d2a8a52be19194ef2ff05c9138ebd9a421bf4dda40be2",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md": "26cef6933a756d8f9db6ce12441e8de85a8bf1f9c9f7a433b5d517096e472a3b",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md": "13a66dfcf5fb2a24a151f659147720dd703846a3f70ad68992e859c1e9e17c95"
+  },
+  "items": [
+    {
+      "id": "02-1a",
+      "block_id": "02习题-1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "category": "分布函数与密度：先检查定义",
+      "coverage": "分段 CDF 求密度：只在可导区间求导；$F_X(x)$ 在 $x<0$ 为 0，在 $0\\le x<1$ 为 $x^2$，在 $x\\ge1$ 为 1。"
+    },
+    {
+      "id": "02-1b",
+      "block_id": "02习题-1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "category": "分布函数与密度：先检查定义",
+      "coverage": "正弦 CDF：先补两端，再求导；手写补题：$F_X(x)=\\sin x$（$0\\le x<\\pi/2$），左侧为 0，右侧为 1。"
+    },
+    {
+      "id": "03-1",
+      "block_id": "03-1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#1",
+      "category": "分布函数与密度：先检查定义",
+      "coverage": "CDF 复合变换：两端、单调、右连续；判断 $F(2x-1),F(1-x),F(x^2),1-F(-x)$ 是否必为分布函数。"
+    },
+    {
+      "id": "03-5",
+      "block_id": "03-5",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#5",
+      "category": "分布函数与密度：先检查定义",
+      "coverage": "CDF 与密度的组合：归一化条件不同；比较 $aF_1+bF_2$、$cF_1F_2$ 与 $cf_1f_2$。"
+    },
+    {
+      "id": "880-1",
+      "block_id": "880-1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "category": "分布函数与密度：先检查定义",
+      "coverage": "单点概率为零：等价于 CDF 连续；已知对任意 $x$，$P(X=x)=0$，判断能推出什么。"
+    },
+    {
+      "id": "02-3",
+      "block_id": "02习题-3",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "0–1 变量乘积与和：先看是否同一事件；$X,Y\\in\\{0,1\\}$，边缘概率均为 $P(0)=1/4,P(1)=3/4$；已知 $P(XY\\ne1)=3/8$，求 $P(X+Y\\le1)$。"
+    },
+    {
+      "id": "03-3",
+      "block_id": "03-3",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#3",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "伯努利和近似泊松：参数取 np；20 个独立 $\\mathrm{Bernoulli}(0.1)$ 变量之和 $T$，近似求 $P(T\\le1)$。"
+    },
+    {
+      "id": "03-4",
+      "block_id": "03-4",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#4  -【】",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "泊松奇偶概率：和为 1，差用指数级数；$X\\sim\\mathrm{Poisson}(\\lambda)$，比较取奇数与偶数的概率。"
+    },
+    {
+      "id": "03-12",
+      "block_id": "03-12",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#12",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "阶乘分母的概率级数：先归一化再认参数；$P(X=k)=ae^{-2}/k!$，$k=0,1,\\ldots$，求 $a$。"
+    },
+    {
+      "id": "04-1",
+      "block_id": "04套卷阶段查漏-1",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#1 泊松分布参数的确定",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "至少正常多少个：改数损坏个数；80 个独立元件，200 小时内损坏概率为 0.05，求至少 78 个正常的概率（泊松近似）。"
+    },
+    {
+      "id": "04-3",
+      "block_id": "04套卷阶段查漏-3",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#3 泊松分布有可加性",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "独立泊松和：参数相加，计数仍为 k；$X_1,X_2$ 独立且都服从 $\\mathrm{Poisson}(\\lambda)$，求和的分布。"
+    },
+    {
+      "id": "04-4a",
+      "block_id": "04套卷阶段查漏-4",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#4 二项分布的可加性",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "伯努利样本均值：去分母后数成功次数；3 个独立 $\\mathrm{Bernoulli}(1/2)$ 样本，求 $P(\\bar X>1/3)$。"
+    },
+    {
+      "id": "04-4b",
+      "block_id": "04套卷阶段查漏-4",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#4 二项分布的可加性",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "比较 CDF：分段比概率，不比样本大小；$X\\sim\\mathrm{Bernoulli}(p)$，$Y\\sim B(2,p)$，比较 $F_X,F_Y$。"
+    },
+    {
+      "id": "04-5",
+      "block_id": "04套卷阶段查漏-5",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#5 二项分布的最值",
+      "category": "离散计数：翻译事件、识别分布",
+      "coverage": "球入指定盒：二项分布的众数；100 个球独立等概率进入 40 个盒子，问指定盒子最可能有几个球。"
+    },
+    {
+      "id": "02-2a",
+      "block_id": "02习题-2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "category": "单调与多对一变换：先求原像",
+      "coverage": "递减立方根变换：反函数导数取绝对值；$f_X(x)=1/[\\pi(1+x^2)]$，$Y=1-\\sqrt[3]{X}$，求密度。"
+    },
+    {
+      "id": "02-2b",
+      "block_id": "02习题-2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "category": "单调与多对一变换：先求原像",
+      "coverage": "标准正态平方：左右两支都要收；$X\\sim N(0,1)$，$Y=X^2$，求密度。"
+    },
+    {
+      "id": "880-2",
+      "block_id": "880-2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md#2",
+      "category": "单调与多对一变换：先求原像",
+      "coverage": "均匀变量取负对数：不等号翻转；$X\\sim U(0,1)$，$Y=-2\\ln X$。"
+    },
+    {
+      "id": "880-3",
+      "block_id": "880-3",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md#3",
+      "category": "单调与多对一变换：先求原像",
+      "coverage": "max(X,1/X)：两个约束变成交集；$X\\sim\\mathrm{Exp}(\\lambda)$，$Y=\\max(X,1/X)$，求 CDF。"
+    },
+    {
+      "id": "03-2",
+      "block_id": "03-2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#2 -【!】",
+      "category": "分段、取整与混合分布：找断点和点质量",
+      "coverage": "端点原子 + 区间均匀：先分配剩余质量；$P(X=-1)=1/8$，$P(X=1)=1/4$，余下概率条件均匀分布于 $(-1,1)$。"
+    },
+    {
+      "id": "03-8",
+      "block_id": "03-8",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#8",
+      "category": "分段、取整与混合分布：找断点和点质量",
+      "coverage": "分段变换含常值段：连续部分和原子分开算；$f_X(x)=x^2/9$（$0<x<3$）；$Y=3$（$X\\le1$）、$2X$（$1<X<2$）、1（$X\\ge2$）。另求 $P(X\\le Y)$。"
+    },
+    {
+      "id": "03-9",
+      "block_id": "03-9",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#9",
+      "category": "分段、取整与混合分布：找断点和点质量",
+      "coverage": "分段曲线求 CDF：逐支解不等式再合并；$X\\sim\\mathrm{Exp}(3)$；$Y=-X$（$X<1$），$Y=(X-1)^2-1$（$X\\ge1$）。另求 $P(Y>-X+2)$。"
+    },
+    {
+      "id": "03-11",
+      "block_id": "03-11",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#11 -【!】",
+      "category": "分段、取整与混合分布：找断点和点质量",
+      "coverage": "把变量送入别人的 CDF：平台会压出原子；$X\\sim\\mathrm{Exp}(\\lambda)$，$G$ 是 $U[0,1]$ 的 CDF，$Y=G(X)$。"
+    },
+    {
+      "id": "04-2",
+      "block_id": "04套卷阶段查漏-2",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#2 指数分布概率密度理解",
+      "category": "分段、取整与混合分布：找断点和点质量",
+      "coverage": "指数变量取整：整数值对应一段区间；$X\\sim\\mathrm{Exp}(1)$，$Y=\\lfloor X+1\\rfloor$，求分布律。"
+    },
+    {
+      "id": "03-6",
+      "block_id": "03-6",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#6",
+      "category": "模型关系与参数：用期望、方差或生存概率",
+      "coverage": "泊松过程到等待时间：等待超过 t 等价于零次发生；齐次泊松过程中 $N(t)\\sim\\mathrm{Poisson}(\\lambda t)$，T 为首次故障等待时间；已 8 小时无故障，再等 10 小时仍无故障。"
+    },
+    {
+      "id": "03-7",
+      "block_id": "03-7",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#7",
+      "category": "模型关系与参数：用期望、方差或生存概率",
+      "coverage": "正态线性变换含同一参数：分开列均值方差；$X\\sim N(a,a^2)$，$Y=aX+b\\sim N(0,1)$，求 $a,b$。"
+    },
+    {
+      "id": "03-10",
+      "block_id": "03-10",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#10",
+      "category": "模型关系与参数：用期望、方差或生存概率",
+      "coverage": "正态线性变换后用自己的 CDF：概率积分变换；$X\\sim N(1,1)$，$Y=2X+1$；F 为 Y 的 CDF，$Z=F(Y)$。"
+    },
+    {
+      "id": "03-13",
+      "block_id": "03-13",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md#13 -【】",
+      "category": "模型关系与参数：用期望、方差或生存概率",
+      "coverage": "正态区间概率对方差取最值：先标准化；$X\\sim N(0,\\sigma^2)$，固定 $0<a<b$，最大化 $P(a<X<b)$。"
+    },
+    {
+      "id": "04-6",
+      "block_id": "04套卷阶段查漏-6",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "source_link": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md#6 二项分布的翻译",
+      "category": "模型关系与参数：用期望、方差或生存概率",
+      "coverage": "分类频数求无偏估计：期望对系数，方差合事件；$P(X=1,2,3)$ 依次为 $1-\\theta,\\theta-\\theta^2,\\theta^2$；n 次独立抽样频数为 $N_i$。令 $T=\\sum a_iN_i$ 无偏估计 $\\theta$，并求方差。"
+    }
+  ],
+  "images": [
+    {
+      "path": "_attachments/image/03 强化习题-1786497688880.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-1",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-1"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786497967493.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-2"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786498514428.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-2"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786502594818.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-3"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786502690468.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-3"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786504648030.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-4",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-4"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786506826852.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-5",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-5"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786506878906.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-5",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-5"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786507353841.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-6"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786582360786.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-6"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786583478411.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-7",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-7"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786583544148.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-7",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-7"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786585196217.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-8"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786585693529.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-8"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786585710411.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-8"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786585716885.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-8",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-8"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786586241006.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-9",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-9"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786586248884.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-9",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-9"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786588397609.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-10",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-10"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786590666890.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-11",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-11"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786591712905.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-12",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-12"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786591723355.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-12",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-12"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786591973691.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-13",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-13"
+      ]
+    },
+    {
+      "path": "_attachments/image/03 强化习题-1786591980874.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+      "block_id": "03-13",
+      "disposition": "source-linked",
+      "card_ids": [
+        "03-13"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788655684068.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-1",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-1"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788660063618.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-2"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788660488674.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-3"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788661262874.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-4",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-4a",
+        "04-4b"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788661475241.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-4",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-4a",
+        "04-4b"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788661767488.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-5",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-5"
+      ]
+    },
+    {
+      "path": "_attachments/image/04套卷阶段查漏-1788664342527.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/04套卷阶段查漏.md",
+      "block_id": "04套卷阶段查漏-6",
+      "disposition": "source-linked",
+      "card_ids": [
+        "04-6"
+      ]
+    },
+    {
+      "path": "_attachments/02习题-1776309107851.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "block_id": "02习题-1",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-1a",
+        "02-1b"
+      ]
+    },
+    {
+      "path": "_attachments/02习题-1776478685629.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "block_id": "02习题-2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-2a",
+        "02-2b"
+      ]
+    },
+    {
+      "path": "_attachments/02习题-1776480999552.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md",
+      "block_id": "02习题-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "02-3"
+      ]
+    },
+    {
+      "path": "_attachments/880-1778590785074.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "block_id": "880-1",
+      "disposition": "source-linked",
+      "card_ids": [
+        "880-1"
+      ]
+    },
+    {
+      "path": "_attachments/880-1778722753580.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "block_id": "880-2",
+      "disposition": "source-linked",
+      "card_ids": [
+        "880-2"
+      ]
+    },
+    {
+      "path": "_attachments/880-1778723867834.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "block_id": "880-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "880-3"
+      ]
+    },
+    {
+      "path": "_attachments/880-1778723861766.jpeg",
+      "source": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/880.md",
+      "block_id": "880-3",
+      "disposition": "source-linked",
+      "card_ids": [
+        "880-3"
+      ]
+    }
+  ]
+}
