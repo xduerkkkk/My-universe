@@ -1,24 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "cache代码访存缺失类题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
     },
     {
-      "basename": "粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "06幂级数求和展开",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
+    },
+    {
+      "basename": "02具体审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
+    },
+    {
+      "basename": "2016-2020",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2016-2020.md"
     },
     {
       "basename": "408：2009--2011",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md"
     },
     {
-      "basename": "CO-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "05 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
+    },
+    {
+      "basename": "粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "00.视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/00.视频勘察.md"
+    },
+    {
+      "basename": "1.IO设备",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/1.IO设备.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题.md"
+    },
+    {
+      "basename": "01.对齐书籍",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/01.对齐书籍.md"
+    },
+    {
+      "basename": "记忆--IO软件四层作用",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--IO软件四层作用.md"
+    },
+    {
+      "basename": "记忆--各缓冲区图解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--各缓冲区图解.md"
+    },
+    {
+      "basename": "记忆--多道程序设计考点",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--多道程序设计考点.md"
+    },
+    {
+      "basename": "记忆--磁盘初始化",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--磁盘初始化.md"
+    },
+    {
+      "basename": "cache代码访存缺失类题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
     },
     {
       "basename": "辨析--中断过程的细节",
@@ -143,62 +199,6 @@
     {
       "basename": "02强化习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/02强化习题.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
-    },
-    {
-      "basename": "02 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md"
-    },
-    {
-      "basename": "03 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md"
-    },
-    {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md"
-    },
-    {
-      "basename": "02 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md"
-    },
-    {
-      "basename": "04习题整理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/04习题整理.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md"
-    },
-    {
-      "basename": "数学2009-2012",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md"
-    },
-    {
-      "basename": "00记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md"
-    },
-    {
-      "basename": "混合型",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md"
-    },
-    {
-      "basename": "独立与相关",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/独立与相关.md"
-    },
-    {
-      "basename": "08概率论扫盲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md"
     }
   ],
   "omittedPaths": [
