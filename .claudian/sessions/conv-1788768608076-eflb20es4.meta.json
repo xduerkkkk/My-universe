@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788768608076-eflb20es4",
+  "providerId": "codex",
+  "title": "按408标准修订图示逻辑并保留源文件不变",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788768608076,
+  "updatedAt": 1788769079641,
+  "lastResponseAt": 1788769079641,
+  "sessionId": "01a07aea-e015-7ab3-981c-c85ebf8d5f30",
+  "providerState": {
+    "threadId": "01a07aea-e015-7ab3-981c-c85ebf8d5f30",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\07\\rollout-2026-09-07T16-10-13-01a07aea-e015-7ab3-981c-c85ebf8d5f30.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
+  "usage": {
+    "inputTokens": 11713,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 10880,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 11713,
+    "percentage": 1,
+    "model": "gpt-6-astra"
+  }
+}
