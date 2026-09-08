@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "07线代扫盲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
+    },
+    {
+      "basename": "阅读总记录",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/阅读总记录.md"
+    },
+    {
+      "basename": "00做题框架",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md"
+    },
+    {
+      "basename": "二刷",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md"
+    },
+    {
+      "basename": "01陷阱整理",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
+    },
+    {
+      "basename": "2016-2020",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2016-2020.md"
+    },
+    {
+      "basename": "2010",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/2010.md"
+    },
+    {
+      "basename": "补充语法",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/补充语法.md"
+    },
+    {
+      "basename": "408：2009--2011",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md"
+    },
+    {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "03算法题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/03算法题.md"
+    },
+    {
+      "basename": "04算法重刷",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/04算法重刷.md"
+    },
+    {
+      "basename": "BFS模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/BFS模板.md"
+    },
+    {
+      "basename": "图的IO",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/图的IO.md"
+    },
+    {
+      "basename": "06知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/06知识点整理.md"
+    },
+    {
+      "basename": "DFS模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/DFS模板.md"
+    },
+    {
+      "basename": "DSF题解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/DSF题解.md"
+    },
+    {
+      "basename": "05错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/05错题复盘.md"
     },
     {
       "basename": "待命",
@@ -27,10 +95,6 @@
     {
       "basename": "CO-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
-    },
-    {
-      "basename": "408：2009--2011",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md"
     },
     {
       "basename": "英文缩写",
@@ -135,70 +199,6 @@
     {
       "basename": "00技巧",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "00记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md"
-    },
-    {
-      "basename": "04多元微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md"
-    },
-    {
-      "basename": "05级数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
-    },
-    {
-      "basename": "06幂级数求和展开",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "03一些重要的式子",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/00串联卡片/03一些重要的式子.md"
-    },
-    {
-      "basename": "05 收敛域",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
-    },
-    {
-      "basename": "02具体审敛",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
-    },
-    {
-      "basename": "2016-2020",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2016-2020.md"
-    },
-    {
-      "basename": "粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
-    },
-    {
-      "basename": "00.视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/00.视频勘察.md"
-    },
-    {
-      "basename": "1.IO设备",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/1.IO设备.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题.md"
-    },
-    {
-      "basename": "01.对齐书籍",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/01.对齐书籍.md"
-    },
-    {
-      "basename": "记忆--IO软件四层作用",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--IO软件四层作用.md"
     }
   ],
   "omittedPaths": [
