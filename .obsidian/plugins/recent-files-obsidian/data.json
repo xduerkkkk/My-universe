@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "单词句子",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
+    },
+    {
+      "basename": "需要二刷",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/需要二刷.md"
+    },
+    {
+      "basename": "好文1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
+    },
+    {
+      "basename": "02习题，1000题，880基础",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/02习题，1000题，880基础.md"
+    },
+    {
+      "basename": "03 强化",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md"
+    },
+    {
+      "basename": "04 大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/04 大观题.md"
+    },
+    {
+      "basename": "01 笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
+    },
+    {
+      "basename": "05 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
+    },
+    {
       "basename": "粗心记录",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
     },
     {
-      "basename": "408：2009--2011",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2011.md"
+      "basename": "01笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas"
+    },
+    {
+      "basename": "问题记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/问题记录.md"
+    },
+    {
+      "basename": "记忆：条件转移",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/记忆：条件转移.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题.md"
+    },
+    {
+      "basename": "02王道题-错题复盘-重构版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题-错题复盘-重构版.md"
+    },
+    {
+      "basename": "舍入",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/舍入.md"
+    },
+    {
+      "basename": "阶码为什么要是移码",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/阶码为什么要是移码.md"
+    },
+    {
+      "basename": "两类溢出",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/两类溢出.md"
+    },
+    {
+      "basename": "408：2009--2012",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
     },
     {
       "basename": "01王道笔记",
@@ -65,20 +133,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
     },
     {
-      "basename": "单词句子",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
-    },
-    {
-      "basename": "05 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
-    },
-    {
       "basename": "DS-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "好文1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
     },
     {
       "basename": "00-规划一览",
@@ -143,62 +199,6 @@
     {
       "basename": "03算法题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/03算法题.md"
-    },
-    {
-      "basename": "04算法重刷",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/04算法重刷.md"
-    },
-    {
-      "basename": "BFS模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/BFS模板.md"
-    },
-    {
-      "basename": "图的IO",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/图的IO.md"
-    },
-    {
-      "basename": "06知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/06知识点整理.md"
-    },
-    {
-      "basename": "DFS模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/DFS模板.md"
-    },
-    {
-      "basename": "DSF题解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/DSF题解.md"
-    },
-    {
-      "basename": "05错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/05错题复盘.md"
-    },
-    {
-      "basename": "待命",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待命.md"
-    },
-    {
-      "basename": "堆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/堆.md"
-    },
-    {
-      "basename": "01算法题题单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "03顺序表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md"
-    },
-    {
-      "basename": "CN-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
-    },
-    {
-      "basename": "英文缩写",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md"
-    },
-    {
-      "basename": "校验码们",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/校验码们.md"
     }
   ],
   "omittedPaths": [
