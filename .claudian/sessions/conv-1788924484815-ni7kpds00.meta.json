@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788924484815-ni7kpds00",
+  "providerId": "claude",
+  "title": "这是啥意思",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788924484817,
+  "updatedAt": 1788925105488,
+  "lastResponseAt": 1788924779350,
+  "sessionId": "18d1fc03-2fe0-43f2-81ac-212c70e4ef9b",
+  "providerState": {
+    "providerSessionId": "18d1fc03-2fe0-43f2-81ac-212c70e4ef9b"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 996,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4860,
+    "contextWindow": 1000000,
+    "contextTokens": 5856,
+    "percentage": 1,
+    "contextWindowIsAuthoritative": true
+  }
+}
