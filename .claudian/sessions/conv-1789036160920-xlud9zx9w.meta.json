@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789036160920-xlud9zx9w",
+  "providerId": "claude",
+  "title": "规划考研数学专题突破强化日程",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789036160921,
+  "updatedAt": 1789037042078,
+  "lastResponseAt": 1789036807046,
+  "sessionId": "00d8033b-d104-4a66-8003-a2ae80fe27a2",
+  "providerState": {
+    "providerSessionId": "00d8033b-d104-4a66-8003-a2ae80fe27a2"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 296,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 90368,
+    "contextWindow": 1000000,
+    "contextTokens": 90664,
+    "percentage": 9
+  }
+}

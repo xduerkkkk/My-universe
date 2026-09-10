@@ -72,21 +72,35 @@
             }
           },
           {
-            "id": "036434b084aeb396",
+            "id": "114e5c2f7965c21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03曲线面积分，空间几何"
+              "title": "OS-技巧"
+            }
+          },
+          {
+            "id": "dd6241c94b2ae3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02算法题重刷清单"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,17 +159,17 @@
             }
           },
           {
-            "id": "3b54e81a71923da9",
+            "id": "a44e36e7bf0270f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-记录补足点"
+              "title": "00-英语阶段详表 W6-W11（外刊主线）"
             }
           },
           {
@@ -176,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.8576965332031
+    "width": 337.8115539550781
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.53076171875
+    "width": 272.8846435546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,46 +334,46 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "036434b084aeb396",
+  "active": "dd6241c94b2ae3fd",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/状态转换时发生的事.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/流程性薄弱点.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01流水线--看头.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--各缓冲区图解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/大纲自检.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01记忆.md",
+    "2.知识库/21.AI世界/04大模型/LLM学习记录/学习阶段/6.模型预训练+后训练/模型保存与使用.md",
+    "2.知识库/21.AI世界/03强化学习/大纲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/辨析--地址相关的概念.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/01-记录补足点.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
     "_attachments/image/03曲线面积分，空间几何-1789026285874.jpeg",
     "_attachments/image/03曲线面积分，空间几何-1789026149570.jpeg",
     "_attachments/image/03曲线面积分，空间几何-1789026121566.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/「四类积分：微元 → 方向 → 投影，参数化」转换表.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/02习题.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.5188.14569ee441fa",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/粗心记录.md",
-    "Clippings/【27考研倒计时100天】考研数学真题与冲刺阶段怎么学才高效？.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
-    "Clippings/【超重磅】AI一定会改变世界，但......——【价投小猪仔】我对AI的终极思考 · 全市场最热的话题（从腾讯财报的一角开始谈起）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/卡片/数列大题x=f(n).md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md",
     "_attachments/image/00技巧-1789002706115.jpeg",
     "_attachments/image/00技巧-1789001916811.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "_attachments/image/408：2009--2012-1788945972443.jpeg",
     "_attachments/image/408：2009--2012-1788945956930.jpeg",
     "_attachments/image/408：2009--2011-1788943487906.jpeg",
     "_attachments/image/粗心记录-1788941913551.jpeg",
     "_attachments/image/粗心记录-1788941853535.jpeg",
-    "_attachments/image/数学2009-2012-1788926475954.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/12不等式",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/备份",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md.bak-20260906-150915",
