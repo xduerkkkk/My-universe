@@ -4,8 +4,8 @@
   "title": "依据本视频内容，我想更改下我的规划 0",
   "titleGenerationStatus": "failed",
   "createdAt": 1789009945000,
-  "updatedAt": 1789012808806,
-  "lastResponseAt": 1789012808806,
+  "updatedAt": 1789023314566,
+  "lastResponseAt": 1789023197501,
   "sessionId": "27985e90-a373-4990-9692-4830018ab299",
   "providerState": {
     "providerSessionId": "27985e90-a373-4990-9692-4830018ab299"
@@ -13,11 +13,11 @@
   "currentNote": "Clippings/【27考研倒计时100天】考研数学真题与冲刺阶段怎么学才高效？.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 13583,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 31694,
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 50355,
+    "cacheReadInputTokens": 0,
     "contextWindow": 1000000,
-    "contextTokens": 45277,
+    "contextTokens": 50355,
     "percentage": 5,
     "contextWindowIsAuthoritative": true
   }

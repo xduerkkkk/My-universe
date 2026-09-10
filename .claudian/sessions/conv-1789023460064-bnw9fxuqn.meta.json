@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789023460064-bnw9fxuqn",
+  "providerId": "claude",
+  "title": "数学和408现在是分开的，40810月28才开模拟  以及今天9月10号是周四！ 以上，你校准日期，...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789023460064,
+  "updatedAt": 1789024266832,
+  "lastResponseAt": 1789024266832,
+  "sessionId": "4fe2f533-7455-4170-be62-414791e41586",
+  "providerState": {
+    "providerSessionId": "4fe2f533-7455-4170-be62-414791e41586"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
