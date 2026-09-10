@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789009210104-tz7ybrtlr",
+  "providerId": "codex",
+  "title": "重构数学真题复习规划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789009210104,
+  "updatedAt": 1789010172308,
+  "lastResponseAt": 1789010172308,
+  "sessionId": "01a08942-2b80-78a0-9eca-884f8c1b57e5",
+  "providerState": {
+    "threadId": "01a08942-2b80-78a0-9eca-884f8c1b57e5",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\10\\rollout-2026-09-10T11-00-15-01a08942-2b80-78a0-9eca-884f8c1b57e5.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "Clippings/【27考研倒计时100天】考研数学真题与冲刺阶段怎么学才高效？.md",
+  "usage": {
+    "inputTokens": 15379,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 13952,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 15379,
+    "percentage": 1,
+    "model": "gpt-6-astra"
+  }
+}
