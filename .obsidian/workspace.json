@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "e33e56c9e0fa7a98",
+            "id": "4995bdae40933c55",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "数学2009-2012"
+              "title": "01计算机记忆"
             }
           },
           {
@@ -70,25 +70,8 @@
               "icon": "lucide-file",
               "title": "单词句子"
             }
-          },
-          {
-            "id": "4995bdae40933c55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01计算机记忆"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +157,12 @@
               "title": "00-规划一览"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 414.6115417480469
+    "width": 331.1654052734375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -194,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,36 +306,37 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "192d5cd8b2d062a4",
+  "active": "16d8faaaebfb4cb8",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
+    "_attachments/image/00数学记忆-1789129174084.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/堆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/首部对比.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "_attachments/image/粗心记录-1789117794372.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：CSMA，CA.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/三种帧maxmin长、格式.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：首部对比.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/英文.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/物理设备梳理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/‘我想看谷歌的首页’.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/口述草稿.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/大纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-08-25 16.54.58.excalidraw.md",
     "_attachments/image/粗心记录-1789096665403.jpeg",
     "_attachments/image/粗心记录-1789093216054.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
@@ -364,8 +349,6 @@
     "_attachments/image/00技巧-1789001916811.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "_attachments/image/408：2009--2012-1788945972443.jpeg",
-    "_attachments/image/408：2009--2012-1788945956930.jpeg",
-    "_attachments/image/408：2009--2011-1788943487906.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/12不等式",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/备份",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/05题型总结.md.bak-20260906-150915",

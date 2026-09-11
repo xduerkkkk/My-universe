@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "408：2009--2012",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "单词句子",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     },
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "408：2009--2012",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
+    },
+    {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "待刷1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md"
+    },
+    {
+      "basename": "堆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/堆.md"
+    },
+    {
+      "basename": "首部对比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/首部对比.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md"
+    },
+    {
+      "basename": "粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "各种数据帧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md"
     },
     {
       "basename": "02-english",
@@ -15,10 +79,6 @@
     {
       "basename": "00-英语阶段详表 W6-W11（外刊主线）",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md"
-    },
-    {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "理解：CSMA，CA",
@@ -41,20 +101,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：首部对比.md"
     },
     {
-      "basename": "单词句子",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
-    },
-    {
       "basename": "数学2009-2012",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md"
     },
     {
       "basename": "05 880",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "英文",
@@ -121,10 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/04错题复盘.md"
     },
     {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
       "basename": "视频初步勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/视频初步勘察.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "01粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
-      "basename": "01极限函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "等价无穷小",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md"
-    },
-    {
-      "basename": "幂指数求极限",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md"
-    },
-    {
-      "basename": "洛必达",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md"
-    },
-    {
-      "basename": "e的积分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md"
-    },
-    {
-      "basename": "三角代换的坑",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md"
-    },
-    {
-      "basename": "04微不等式",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md"
-    },
-    {
-      "basename": "原函数法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md"
-    },
-    {
-      "basename": "真正的双中值",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值.md"
-    },
-    {
-      "basename": "01函数极限连续",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas"
     }
   ],
   "omittedPaths": [
