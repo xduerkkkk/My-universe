@@ -1,28 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+      "basename": "408：2009--2012",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
     },
     {
-      "basename": "00记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md"
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
-      "basename": "01极限函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
+      "basename": "02-english",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
+    },
+    {
+      "basename": "00-英语阶段详表 W6-W11（外刊主线）",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md"
+    },
+    {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "理解：CSMA，CA",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：CSMA，CA.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/02王道题.md"
+    },
+    {
+      "basename": "英文缩写",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md"
+    },
+    {
+      "basename": "三种帧maxmin长、格式",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/三种帧maxmin长、格式.md"
+    },
+    {
+      "basename": "理解：首部对比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：首部对比.md"
+    },
+    {
+      "basename": "单词句子",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
+    },
+    {
+      "basename": "数学2009-2012",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md"
+    },
+    {
+      "basename": "05 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "英文",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/英文.md"
+    },
+    {
+      "basename": "物理设备梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/物理设备梳理.md"
+    },
+    {
+      "basename": "拓展知识",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
+    },
+    {
+      "basename": "01王道视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频.md"
+    },
+    {
+      "basename": "数据包旅程-主线骨架",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas"
+    },
+    {
+      "basename": "xx连接、xx可靠",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠.md"
+    },
+    {
+      "basename": "‘我想看谷歌的首页’",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/‘我想看谷歌的首页’.md"
+    },
+    {
+      "basename": "口述草稿",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/口述草稿.md"
+    },
+    {
+      "basename": "大纲",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/大纲.md"
+    },
+    {
+      "basename": "02图的细节",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md"
+    },
+    {
+      "basename": "01全程梳理图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md"
+    },
+    {
+      "basename": "00再次梳理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md"
+    },
+    {
+      "basename": "Drawing 2026-08-25 16.54.58.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-08-25 16.54.58.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-05-12 16.58.47.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md"
+    },
+    {
+      "basename": "03基础轮复习",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03基础轮复习.md"
+    },
+    {
+      "basename": "04错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/04错题复盘.md"
     },
     {
       "basename": "000泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     },
     {
-      "basename": "草稿",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md"
+      "basename": "视频初步勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/视频初步勘察.md"
     },
     {
-      "basename": "单词句子",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
+      "basename": "05知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/05知识点整理.md"
+    },
+    {
+      "basename": "王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/王道题.md"
+    },
+    {
+      "basename": "记忆：码距及结论",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/记忆：码距及结论.md"
+    },
+    {
+      "basename": "MAC帧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC帧.md"
+    },
+    {
+      "basename": "MAC表与ARP表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC表与ARP表.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "01极限函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md"
     },
     {
       "basename": "04幂级数大观",
@@ -63,142 +199,6 @@
     {
       "basename": "01函数极限连续",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas"
-    },
-    {
-      "basename": "02微分方程思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas"
-    },
-    {
-      "basename": "02导数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
-    },
-    {
-      "basename": "07线代扫盲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
-    },
-    {
-      "basename": "03曲线面积分，空间几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/02习题与1000题.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md"
-    },
-    {
-      "basename": "矩阵同类变式题-秩与向量组",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/矩阵同类变式题-秩与向量组.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
-    },
-    {
-      "basename": "02大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/03向量组/02大观题.md"
-    },
-    {
-      "basename": "02大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
-    },
-    {
-      "basename": "01 笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
-    },
-    {
-      "basename": "08概率论扫盲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md"
-    },
-    {
-      "basename": "2016-2020",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/2016-2020.md"
-    },
-    {
-      "basename": "01陷阱整理",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
-    },
-    {
-      "basename": "00做题框架",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md"
-    },
-    {
-      "basename": "好文1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
-    },
-    {
-      "basename": "需要二刷",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/需要二刷.md"
-    },
-    {
-      "basename": "05 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "03强化课--PV操作整理版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md"
-    },
-    {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
-    },
-    {
-      "basename": "CN-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
-    },
-    {
-      "basename": "状态转换时发生的事",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/状态转换时发生的事.md"
-    },
-    {
-      "basename": "00-英语阶段详表 W6-W11（外刊主线）",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "CO-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
-    },
-    {
-      "basename": "01流水线--看头",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01流水线--看头.md"
-    },
-    {
-      "basename": "Drawing 2026-03-14 16.38.31.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/Drawing 2026-03-14 16.38.31.excalidraw.md"
-    },
-    {
-      "basename": "记忆--各缓冲区图解",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--各缓冲区图解.md"
-    },
-    {
-      "basename": "拓展知识",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
     }
   ],
   "omittedPaths": [

@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "00记忆"
+              "title": "00数学记忆"
             }
           },
           {
@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "31ed91d699842ec7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05 880"
-            }
-          },
-          {
             "id": "bc422afce7ab6127",
             "type": "leaf",
             "pinned": true,
@@ -88,35 +72,23 @@
             }
           },
           {
-            "id": "e3cc031be099d605",
+            "id": "4995bdae40933c55",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "000泰勒"
-            }
-          },
-          {
-            "id": "64eb36bd922578ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01粗心记录"
+              "title": "01计算机记忆"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.8115539550781
+    "width": 414.6115417480469
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -222,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -325,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.8846435546875
+    "width": 273.623046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,37 +322,40 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "64eb36bd922578ad",
+  "active": "192d5cd8b2d062a4",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
-    "_attachments/image/粗心记录-1789096665403.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：CSMA，CA.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/英文缩写.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/三种帧maxmin长、格式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：首部对比.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/数学2009-2012.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/05 880.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/英文.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/物理设备梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/主线流程/‘我想看谷歌的首页’.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/口述草稿.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/大纲.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-08-25 16.54.58.excalidraw.md",
+    "_attachments/image/粗心记录-1789096665403.jpeg",
     "_attachments/image/粗心记录-1789093216054.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/等价无穷小.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/幂指数求极限.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/洛必达.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/e的积分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/0卡片/三角代换的坑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/04微不等式.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/02习题与1000题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/04解方程/01笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/矩阵同类变式题-秩与向量组.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
     "_attachments/image/03曲线面积分，空间几何-1789026285874.jpeg",
     "_attachments/image/03曲线面积分，空间几何-1789026149570.jpeg",
     "_attachments/image/03曲线面积分，空间几何-1789026121566.jpeg",
@@ -402,10 +377,8 @@
     "_temp/math02_organizer/revision_backup/openai.yaml",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/思维导图--导数微分.canvas"
   ]
 }

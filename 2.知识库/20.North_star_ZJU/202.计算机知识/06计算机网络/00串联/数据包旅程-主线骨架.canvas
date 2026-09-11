@@ -285,178 +285,8 @@
 		},
 		{"id":"b7bb85380d1b3a82","type":"group","x":1120,"y":3180,"width":300,"height":480,"label":"流程"},
 		{"id":"d4cc1048afb2fa3c","type":"group","x":-680,"y":2600,"width":560,"height":162,"label":"两种转换方式"},
-		{
-			"id":"45c530e30bd5338b",
-			"type":"text",
-			"text":"维护计时器：\n\n| 机制 | 发送窗口大小 $W_T$ | 接收窗口大小 $W_R$ | 窗口与序号关系（$n$ 位序号） | 确认机制 | 接收端缓存 | 超时重传代价 | 维护的计时器数量 |\n| :--- | :---: | :---: | :--- | :--- | :---: | :--- | :--- |\n| **停止-等待 (Stop-and-Wait)** | $W_T = 1$ | $W_R = 1$ | 序号只需 $1\\text{ bit}$（$0$ 和 $1$ 轮替） | 单帧确认 | 无（只需 1 个帧空间） | 超时只重传当前 1 帧 | 1 个 |\n| **后退 N 帧 (GBN)** | $W_T > 1$ | $W_R = 1$ | **$1 \\le W_T \\le 2^n - 1$** （窗口最大为 $2^n - 1$） | **累计确认**（发送 `ACK=k` 表示 $k$ 及之前全部正确收到） | 无（只能按序接收，乱序一律丢弃） | **重传该帧及其之后的所有 $N$ 个帧**（哪怕后面的帧已正确到达） | **1 个**（只为最早发出的未确认帧计时） |\n| **选择重传 (SR)** | $W_T > 1$ | $W_R > 1$ | **$W_T + W_R \\le 2^n$**，通常取 **$W_T = W_R = 2^{n-1}$** | **非累计/单帧确认**（逐帧回复确认） | **有**（能缓存乱序到达的帧，等空缺补齐再交付） | **只重传超时的那 1 帧**（代价最小） | **$W_T$ 个**（为窗口内的每个已发帧各维护 1 个计时器） |\n",
-			"styleAttributes":{},
-			"x":-1440,
-			"y":1980,
-			"width":500,
-			"height":180
-		},
-		{
-			"id":"bd5768e1b19a208e",
-			"type":"text",
-			"text":"三种发送窗口的区别\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频#流量控制可靠传输|01王道视频]]\n",
-			"styleAttributes":{},
-			"x":-1400,
-			"y":1840,
-			"width":260,
-			"height":100
-		},
 		{"id":"srcapp000001","type":"text","text":"## ① 应用层（源）\n浏览器要发 HTTP 请求，先卡在哪？\n（想：要 IP 不要域名→触发谁？HTTP 报文结构？）","x":-480,"y":-280,"width":340,"height":330,"color":"4"},
-		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-900,"y":-600,"width":300,"height":150},
-		{"id":"dns000000001","type":"text","text":"## DNS 解析\n域名怎么变 IP？\n（想：哪一层？什么传输协议+端口？递归 vs 迭代？缓存在哪几处？）","x":-980,"y":-320,"width":300,"height":170,"color":"2"},
-		{"id":"mountnet0001","type":"text","text":"### 🔗 挂：网络层知识簇\n（想：子网划分/CIDR/NAT/IP 首部字段/ICMP/分片重组）","x":-905,"y":670,"width":300,"height":180,"color":"2"},
-		{"id":"dstnet000001","type":"text","text":"## ③ 网络层（服务器）\n拆 IP 头，怎么确认是发给我的？交给谁？","x":1670,"y":610,"width":340,"height":150,"color":"4"},
-		{"id":"dstlink00001","type":"text","text":"## ④ 链路层（服务器）\n拆哪层头？校验什么？交给谁？","x":1670,"y":945,"width":340,"height":150,"color":"4"},
 		{"id":"srctrans0001","type":"text","text":"## ② 传输层（源）\nHTTP 报文交给谁运？\n（想：TCP 还是 UDP 为什么？端口作用？几次握手？封装成什么？）","x":-480,"y":248,"width":340,"height":220,"color":"4"},
-		{"id":"mounttrans01","type":"text","text":"### 🔗 挂：TCP 机制簇\nTCP 靠什么可靠？\n（想：序号/确认/重传？滑动窗口=流控？拥塞控制四阶段？握手挥手）","x":-990,"y":183,"width":300,"height":175,"color":"2"},
-		{
-			"id":"8419552cf63c8f6b",
-			"type":"text",
-			"text":"生成一张路由表\n\n|                |                        |                |                           |\n| -------------- | ---------------------- | -------------- | ------------------------- |\n| 目的网络 / 掩码      | 下一跳 (Gateway)          | 接口 (Interface) | 说明                        |\n| 192.168.1.0/24 | 0.0.0.0 (On-link / 直连) | eth0           | 本地局域网网段                   |\n| 127.0.0.0/8    | 0.0.0.0 (On-link / 直连) | lo             | 本地环回                      |\n| **0.0.0.0/0**  | **192.168.1.1**        | eth0           | **默认路由（Default Gateway）** |",
-			"styleAttributes":{},
-			"x":-2520,
-			"y":-740,
-			"width":680,
-			"height":380
-		},
-		{
-			"id":"b1399a656267b487",
-			"type":"text",
-			"text":"之前拿到的 IP",
-			"styleAttributes":{"shape":"circle","border":"dashed"},
-			"x":-730,
-			"y":990,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"8bc804c3ac2ff989",
-			"type":"text",
-			"text":"下一跳 IP 就是目的 IP",
-			"styleAttributes":{},
-			"x":-40,
-			"y":830,
-			"width":260,
-			"height":60
-		},
-		{"id":"srclink00001","type":"text","text":"## ④ 链路层（源）\n本地这一跳怎么走？\n（想：封装成什么？MAC 作用？交换机凭什么转发？以太网/CSMA？差错检测？）","x":-480,"y":1480,"width":340,"height":240,"color":"4"},
-		{
-			"id":"c01f1e70161abfed",
-			"type":"text",
-			"text":"**在数据平面的转发逻辑和查表规则上，流程与完全一样；核心区别在于路由表的生成方式（控制平面 Control Plane）以及主机的转发开关。**",
-			"styleAttributes":{},
-			"x":720,
-			"y":3180,
-			"width":260,
-			"height":260,
-			"color":"2"
-		},
-		{
-			"id":"31072ef7afe72511",
-			"type":"text",
-			"text":"查 ARP 表",
-			"styleAttributes":{"border":"dashed"},
-			"x":1130,
-			"y":3480,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"815e654553e699a2",
-			"type":"text",
-			"text":"查路由表",
-			"styleAttributes":{},
-			"x":1130,
-			"y":3400,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"53cfec58d7bb5606",
-			"type":"text",
-			"text":"检查 TTL",
-			"styleAttributes":{},
-			"x":1130,
-			"y":3300,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"411e6faafed5df6d",
-			"type":"text",
-			"text":"重新封装 MAC",
-			"styleAttributes":{},
-			"x":1130,
-			"y":3580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"745dbd22d18d2e69",
-			"type":"text",
-			"text":"检查 IP 首部校验和",
-			"styleAttributes":{},
-			"x":1130,
-			"y":3200,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"89b53ee7c91232ee",
-			"type":"text",
-			"text":"各大路由协议",
-			"styleAttributes":{},
-			"x":1540,
-			"y":3230,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"00df9d7ed87a19ae",
-			"type":"text",
-			"text":"SDN 软件定义网络\n",
-			"styleAttributes":{},
-			"x":1320,
-			"y":3010,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"503678f28c495182",
-			"type":"text",
-			"text":"目的 MAC 地址，严谨的说，是网络层的 ARP 协议决定的，而数据链路协议只是装上目的 MAC 的首部",
-			"styleAttributes":{},
-			"x":-40,
-			"y":1420,
-			"width":260,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"776a2559111579d4",
-			"type":"text",
-			"text":"MAC 帧有三种可能\n",
-			"styleAttributes":{},
-			"x":-60,
-			"y":1600,
-			"width":280,
-			"height":90
-		},
-		{
-			"id":"a42ee1d5907b9b5b",
-			"type":"text",
-			"text":"以太网",
-			"styleAttributes":{},
-			"x":-160,
-			"y":1780,
-			"width":120,
-			"height":60
-		},
 		{
 			"id":"a8ae1f5c62e7fa0e",
 			"type":"text",
@@ -498,40 +328,6 @@
 			"height":60
 		},
 		{
-			"id":"0ce19a2b3cadae3f",
-			"type":"text",
-			"text":"可靠/连接的区别\n![[_attachments/Pasted image 20260828151516.png]]\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠|xx连接、xx可靠]]",
-			"styleAttributes":{},
-			"x":340,
-			"y":1600,
-			"width":260,
-			"height":140
-		},
-		{
-			"id":"f972b3d8c465d090",
-			"type":"text",
-			"text":"只有以太网帧有最小帧长\n三者都有最大帧长\n\n\n",
-			"styleAttributes":{},
-			"x":340,
-			"y":1460,
-			"width":220,
-			"height":100,
-			"color":"3"
-		},
-		{"id":"mountlink001","type":"text","text":"### 🔗 挂：链路层知识簇\n（想：CRC/海明码/以太网帧/VLAN/交换机自学习/PPP）","x":-905,"y":1480,"width":300,"height":180,"color":"2"},
-		{
-			"id":"439c8ddcc2a78114",
-			"type":"text",
-			"text":"多种以太网\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/以太网的区别|以太网的区别]]",
-			"styleAttributes":{},
-			"x":-780,
-			"y":1780,
-			"width":260,
-			"height":60
-		},
-		{"id":"srcphy000001","type":"text","text":"## ⑤ 物理层（源）\n帧变成什么在线上跑？\n（想：比特流？编码？传输介质？）","x":-480,"y":2340,"width":340,"height":150,"color":"4"},
-		{"id":"router000001","type":"text","text":"## 🔀 路由器（逐跳）\n包到路由器，它做什么？\n（想：解封装到第几层就停？查什么表？最长前缀匹配？TTL 怎么变？再重新封装？）\n\n🔗 挂：路由协议\nRIP / OSPF / BGP 区别？","x":720,"y":2610,"width":300,"height":400,"color":"1"},
-		{
 			"id":"7b474b14b324d723",
 			"type":"text",
 			"text":"物理层会在 MAC 帧前端硬性插入 **8 字节** 的数据：\n\n- **7 字节前导码（Preamble）**：二进制 10101010...，用于接收端的时钟同步（位同步）。\n- **1 字节帧首定界符（SFD, Start Frame Delimiter）**：二进制 10101011，最后两位 11 用于通知接收方“下一个 bit 开始就是 MAC 帧的真实数据（目的 MAC）”。",
@@ -541,78 +337,7 @@
 			"width":450,
 			"height":220
 		},
-		{
-			"id":"0a0d8a30eff2337e",
-			"type":"text",
-			"text":"调制",
-			"styleAttributes":{},
-			"x":-660,
-			"y":2610,
-			"width":180,
-			"height":122
-		},
-		{
-			"id":"b305d118e91244f9",
-			"type":"text",
-			"text":"NAT 协议",
-			"styleAttributes":{},
-			"x":710,
-			"y":3600,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5b1603e42d8d7fe9",
-			"type":"text",
-			"text":"IPV4 地址\n![[_attachments/Pasted image 20260827174300.png]]",
-			"styleAttributes":{},
-			"x":400,
-			"y":3720,
-			"width":260,
-			"height":180,
-			"color":"5"
-		},
-		{
-			"id":"8f6baccc74599dee",
-			"type":"text",
-			"text":"私有地址\n![[_attachments/Pasted image 20260827174148.png]]",
-			"styleAttributes":{},
-			"x":710,
-			"y":3700,
-			"width":260,
-			"height":200
-		},
 		{"id":"srcnet000001","type":"text","text":"## ③ 网络层（源）\n段要发去哪？\n（想：加什么头？目标同网段吗？怎么判断？不同网段发给谁？只知 IP 不知 MAC 靠谁？）","x":-480,"y":760,"width":340,"height":260,"color":"4"},
-		{
-			"id":"518983f15dc53981",
-			"type":"text",
-			"text":"编码",
-			"styleAttributes":{},
-			"x":-320,
-			"y":2610,
-			"width":180,
-			"height":105
-		},
-		{
-			"id":"3e6e46c15043cc02",
-			"type":"text",
-			"text":"根据物理介质\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/编码与调制的选择依据|编码与调制的选择依据]]\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/介质标识|介质标识]]",
-			"styleAttributes":{},
-			"x":-1080,
-			"y":2490,
-			"width":260,
-			"height":132
-		},
-		{
-			"id":"d58845e252d79617",
-			"type":"text",
-			"text":"根据信道情况，\n基于奈奎斯特定理或香农定理\n调整比特率\n\n",
-			"styleAttributes":{},
-			"x":-1060,
-			"y":2900,
-			"width":260,
-			"height":120
-		},
 		{
 			"id":"1945536e082caf85",
 			"type":"text",
@@ -635,17 +360,162 @@
 			"height":60
 		},
 		{
-			"id":"3148e3cccd03afb4",
+			"id":"b1399a656267b487",
 			"type":"text",
-			"text":"这里转发是 MAC 表\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC表与ARP表|MAC表与ARP表]]",
-			"styleAttributes":{},
-			"x":470,
-			"y":1800,
-			"width":260,
-			"height":100,
-			"color":"1"
+			"text":"之前拿到的 IP",
+			"styleAttributes":{"shape":"circle","border":"dashed"},
+			"x":-730,
+			"y":990,
+			"width":250,
+			"height":60
 		},
-		{"id":"dstphy000001","type":"text","text":"## ⑤ 物理层（服务器）\n收到比特流，交给谁？","x":1670,"y":1940,"width":340,"height":150,"color":"4"},
+		{
+			"id":"8bc804c3ac2ff989",
+			"type":"text",
+			"text":"下一跳 IP 就是目的 IP",
+			"styleAttributes":{},
+			"x":-40,
+			"y":830,
+			"width":260,
+			"height":60
+		},
+		{"id":"srclink00001","type":"text","text":"## ④ 链路层（源）\n本地这一跳怎么走？\n（想：封装成什么？MAC 作用？交换机凭什么转发？以太网/CSMA？差错检测？）","x":-480,"y":1480,"width":340,"height":240,"color":"4"},
+		{
+			"id":"a42ee1d5907b9b5b",
+			"type":"text",
+			"text":"以太网",
+			"styleAttributes":{},
+			"x":-160,
+			"y":1780,
+			"width":120,
+			"height":60
+		},
+		{"id":"mountlink001","type":"text","text":"### 🔗 挂：链路层知识簇\n（想：CRC/海明码/以太网帧/VLAN/交换机自学习/PPP）","x":-905,"y":1480,"width":300,"height":180,"color":"2"},
+		{
+			"id":"439c8ddcc2a78114",
+			"type":"text",
+			"text":"多种以太网\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/以太网的区别|以太网的区别]]",
+			"styleAttributes":{},
+			"x":-780,
+			"y":1780,
+			"width":260,
+			"height":60
+		},
+		{"id":"srcphy000001","type":"text","text":"## ⑤ 物理层（源）\n帧变成什么在线上跑？\n（想：比特流？编码？传输介质？）","x":-480,"y":2340,"width":340,"height":150,"color":"4"},
+		{
+			"id":"3e6e46c15043cc02",
+			"type":"text",
+			"text":"根据物理介质\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/卡片/编码与调制的选择依据|编码与调制的选择依据]]\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/介质标识|介质标识]]",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":2490,
+			"width":260,
+			"height":132
+		},
+		{
+			"id":"45c530e30bd5338b",
+			"type":"text",
+			"text":"维护计时器：\n\n| 机制 | 发送窗口大小 $W_T$ | 接收窗口大小 $W_R$ | 窗口与序号关系（$n$ 位序号） | 确认机制 | 接收端缓存 | 超时重传代价 | 维护的计时器数量 |\n| :--- | :---: | :---: | :--- | :--- | :---: | :--- | :--- |\n| **停止-等待 (Stop-and-Wait)** | $W_T = 1$ | $W_R = 1$ | 序号只需 $1\\text{ bit}$（$0$ 和 $1$ 轮替） | 单帧确认 | 无（只需 1 个帧空间） | 超时只重传当前 1 帧 | 1 个 |\n| **后退 N 帧 (GBN)** | $W_T > 1$ | $W_R = 1$ | **$1 \\le W_T \\le 2^n - 1$** （窗口最大为 $2^n - 1$） | **累计确认**（发送 `ACK=k` 表示 $k$ 及之前全部正确收到） | 无（只能按序接收，乱序一律丢弃） | **重传该帧及其之后的所有 $N$ 个帧**（哪怕后面的帧已正确到达） | **1 个**（只为最早发出的未确认帧计时） |\n| **选择重传 (SR)** | $W_T > 1$ | $W_R > 1$ | **$W_T + W_R \\le 2^n$**，通常取 **$W_T = W_R = 2^{n-1}$** | **非累计/单帧确认**（逐帧回复确认） | **有**（能缓存乱序到达的帧，等空缺补齐再交付） | **只重传超时的那 1 帧**（代价最小） | **$W_T$ 个**（为窗口内的每个已发帧各维护 1 个计时器） |\n",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":1980,
+			"width":500,
+			"height":180
+		},
+		{
+			"id":"bd5768e1b19a208e",
+			"type":"text",
+			"text":"三种发送窗口的区别\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频#流量控制可靠传输|01王道视频]]\n",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":1840,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"0a0d8a30eff2337e",
+			"type":"text",
+			"text":"调制",
+			"styleAttributes":{},
+			"x":-660,
+			"y":2610,
+			"width":180,
+			"height":122
+		},
+		{
+			"id":"518983f15dc53981",
+			"type":"text",
+			"text":"编码",
+			"styleAttributes":{},
+			"x":-320,
+			"y":2610,
+			"width":180,
+			"height":105
+		},
+		{
+			"id":"d58845e252d79617",
+			"type":"text",
+			"text":"根据信道情况，\n基于奈奎斯特定理或香农定理\n调整比特率\n\n",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":2900,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"55dc07d045a64012",
+			"type":"text",
+			"text":"若 MAC 帧就绪，在介质信道中，如何发送",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":1460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a806d2e9737eb118",
+			"type":"text",
+			"text":"\nFDM/TDM/WDM/CDM",
+			"styleAttributes":{},
+			"x":-1530,
+			"y":1600,
+			"width":150,
+			"height":120
+		},
+		{"id":"pre000000001","type":"text","text":"## ⓪ 入网准备\n开机还没 IP，怎么上网？\n（想：DHCP 拿到哪几样？ARP 解决什么？）","x":-900,"y":-600,"width":300,"height":150},
+		{"id":"dns000000001","type":"text","text":"## DNS 解析\n域名怎么变 IP？\n（想：哪一层？什么传输协议+端口？递归 vs 迭代？缓存在哪几处？）","x":-980,"y":-320,"width":300,"height":170,"color":"2"},
+		{"id":"mountnet0001","type":"text","text":"### 🔗 挂：网络层知识簇\n（想：子网划分/CIDR/NAT/IP 首部字段/ICMP/分片重组）","x":-905,"y":670,"width":300,"height":180,"color":"2"},
+		{"id":"mounttrans01","type":"text","text":"### 🔗 挂：TCP 机制簇\nTCP 靠什么可靠？\n（想：序号/确认/重传？滑动窗口=流控？拥塞控制四阶段？握手挥手）","x":-990,"y":183,"width":300,"height":175,"color":"2"},
+		{
+			"id":"8419552cf63c8f6b",
+			"type":"text",
+			"text":"生成一张路由表\n\n|                |                        |                |                           |\n| -------------- | ---------------------- | -------------- | ------------------------- |\n| 目的网络 / 掩码      | 下一跳 (Gateway)          | 接口 (Interface) | 说明                        |\n| 192.168.1.0/24 | 0.0.0.0 (On-link / 直连) | eth0           | 本地局域网网段                   |\n| 127.0.0.0/8    | 0.0.0.0 (On-link / 直连) | lo             | 本地环回                      |\n| **0.0.0.0/0**  | **192.168.1.1**        | eth0           | **默认路由（Default Gateway）** |",
+			"styleAttributes":{},
+			"x":-2520,
+			"y":-740,
+			"width":680,
+			"height":380
+		},
+		{
+			"id":"f742d6d581be1cd6",
+			"type":"text",
+			"text":"ALOHA\nCSMA/CD\nCSMA/CA",
+			"styleAttributes":{},
+			"x":-1330,
+			"y":1620,
+			"width":160,
+			"height":100
+		},
+		{
+			"id":"66bce8af4b5b5572",
+			"type":"text",
+			"text":"令牌传递",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":1620,
+			"width":130,
+			"height":60
+		},
 		{
 			"id":"16a84f7caed14c21",
 			"type":"text",
@@ -669,17 +539,6 @@
 			"color":"3"
 		},
 		{
-			"id":"513894024bea1c0d",
-			"type":"text",
-			"text":"#   **物理层检错（第一道检错）**：\n    \n- **编码违规检测**：如果在解码过程中检测到非法电平或无效码字（例如 4B/5B 编码中出现了未定义的 5-bit 控制模式，或曼彻斯特编码在周期中心没有电平跳变），判定信号受损，向 MAC 控制器发出物理错误信号。\n（MAC 层也是直接丢弃）",
-			"styleAttributes":{},
-			"x":2240,
-			"y":1925,
-			"width":540,
-			"height":255,
-			"color":"3"
-		},
-		{
 			"id":"226869432cf6442b",
 			"type":"text",
 			"text":"关于校验码的小拓展\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/校验码们|校验码们]]",
@@ -689,8 +548,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"dsttrans0001","type":"text","text":"## ② 传输层（服务器）\n拆 TCP 头，按什么交给对的进程？","x":1670,"y":195,"width":290,"height":150,"color":"4"},
-		{"id":"dstapp000001","type":"text","text":"## ① 应用层（服务器）\n服务器收到 HTTP 请求，回什么？\n（想：状态码？响应报文？）","x":1650,"y":-365,"width":380,"height":330,"color":"4"},
 		{
 			"id":"d969dac17507ed7a",
 			"type":"text",
@@ -723,7 +580,6 @@
 			"height":240,
 			"color":"3"
 		},
-		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n# 场景 ：你敲下 google.com 到看见首页。","x":435,"y":-675,"width":580,"height":150,"color":"6"},
 		{
 			"id":"5204b12950b744b4",
 			"type":"text",
@@ -768,6 +624,61 @@
 			"height":60,
 			"color":"3"
 		},
+		{"id":"dstnet000001","type":"text","text":"## ③ 网络层（服务器）\n拆 IP 头，怎么确认是发给我的？交给谁？","x":1670,"y":610,"width":340,"height":150,"color":"4"},
+		{"id":"dstlink00001","type":"text","text":"## ④ 链路层（服务器）\n拆哪层头？校验什么？交给谁？","x":1670,"y":945,"width":340,"height":150,"color":"4"},
+		{
+			"id":"31072ef7afe72511",
+			"type":"text",
+			"text":"查 ARP 表",
+			"styleAttributes":{"border":"dashed"},
+			"x":1130,
+			"y":3480,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"815e654553e699a2",
+			"type":"text",
+			"text":"查路由表",
+			"styleAttributes":{},
+			"x":1130,
+			"y":3400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"53cfec58d7bb5606",
+			"type":"text",
+			"text":"检查 TTL",
+			"styleAttributes":{},
+			"x":1130,
+			"y":3300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"411e6faafed5df6d",
+			"type":"text",
+			"text":"重新封装 MAC",
+			"styleAttributes":{},
+			"x":1130,
+			"y":3580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"00df9d7ed87a19ae",
+			"type":"text",
+			"text":"SDN 软件定义网络\n",
+			"styleAttributes":{},
+			"x":1320,
+			"y":3010,
+			"width":260,
+			"height":60
+		},
+		{"id":"dsttrans0001","type":"text","text":"## ② 传输层（服务器）\n拆 TCP 头，按什么交给对的进程？","x":1670,"y":195,"width":290,"height":150,"color":"4"},
+		{"id":"dstapp000001","type":"text","text":"## ① 应用层（服务器）\n服务器收到 HTTP 请求，回什么？\n（想：状态码？响应报文？）","x":1650,"y":-365,"width":380,"height":330,"color":"4"},
 		{
 			"id":"7905d171e25a126a",
 			"type":"text",
@@ -778,47 +689,136 @@
 			"width":260,
 			"height":100
 		},
-		{"id":"return000001","type":"text","text":"## 🔁 返程\n服务器→你，基本镜像。\n（想：源/目地址互换？TCP 确认？为什么可能分片重组？）","x":880,"y":-110,"width":390,"height":150,"color":"2"},
 		{
-			"id":"55dc07d045a64012",
+			"id":"c01f1e70161abfed",
 			"type":"text",
-			"text":"若 MAC 帧就绪，在介质信道中，如何发送",
+			"text":"**在数据平面的转发逻辑和查表规则上，流程与完全一样；核心区别在于路由表的生成方式（控制平面 Control Plane）以及主机的转发开关。**",
 			"styleAttributes":{},
-			"x":-1380,
-			"y":1460,
+			"x":720,
+			"y":3180,
+			"width":260,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"745dbd22d18d2e69",
+			"type":"text",
+			"text":"检查 IP 首部校验和",
+			"styleAttributes":{},
+			"x":1130,
+			"y":3200,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"a806d2e9737eb118",
+			"id":"89b53ee7c91232ee",
 			"type":"text",
-			"text":"\nFDM/TDM/WDM/CDM",
+			"text":"各大路由协议",
 			"styleAttributes":{},
-			"x":-1530,
-			"y":1600,
-			"width":150,
-			"height":120
-		},
-		{
-			"id":"f742d6d581be1cd6",
-			"type":"text",
-			"text":"ALOHA\nCSMA/CD\nCSMA/CA",
-			"styleAttributes":{},
-			"x":-1330,
-			"y":1620,
-			"width":160,
-			"height":100
-		},
-		{
-			"id":"66bce8af4b5b5572",
-			"type":"text",
-			"text":"令牌传递",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":1620,
-			"width":130,
+			"x":1540,
+			"y":3230,
+			"width":260,
 			"height":60
-		}
+		},
+		{"id":"router000001","type":"text","text":"## 🔀 路由器（逐跳）\n包到路由器，它做什么？\n（想：解封装到第几层就停？查什么表？最长前缀匹配？TTL 怎么变？再重新封装？）\n\n🔗 挂：路由协议\nRIP / OSPF / BGP 区别？","x":720,"y":2610,"width":300,"height":400,"color":"1"},
+		{
+			"id":"b305d118e91244f9",
+			"type":"text",
+			"text":"NAT 协议",
+			"styleAttributes":{},
+			"x":710,
+			"y":3600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5b1603e42d8d7fe9",
+			"type":"text",
+			"text":"IPV4 地址\n![[_attachments/Pasted image 20260827174300.png]]",
+			"styleAttributes":{},
+			"x":400,
+			"y":3720,
+			"width":260,
+			"height":180,
+			"color":"5"
+		},
+		{"id":"dstphy000001","type":"text","text":"## ⑤ 物理层（服务器）\n收到比特流，交给谁？","x":1670,"y":1940,"width":340,"height":150,"color":"4"},
+		{
+			"id":"513894024bea1c0d",
+			"type":"text",
+			"text":"#   **物理层检错（第一道检错）**：\n    \n- **编码违规检测**：如果在解码过程中检测到非法电平或无效码字（例如 4B/5B 编码中出现了未定义的 5-bit 控制模式，或曼彻斯特编码在周期中心没有电平跳变），判定信号受损，向 MAC 控制器发出物理错误信号。\n（MAC 层也是直接丢弃）",
+			"styleAttributes":{},
+			"x":2240,
+			"y":1925,
+			"width":540,
+			"height":255,
+			"color":"3"
+		},
+		{
+			"id":"503678f28c495182",
+			"type":"text",
+			"text":"目的 MAC 地址，严谨的说，是网络层的 ARP 协议决定的，而数据链路协议只是装上目的 MAC 的首部",
+			"styleAttributes":{},
+			"x":-40,
+			"y":1420,
+			"width":260,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"776a2559111579d4",
+			"type":"text",
+			"text":"MAC 帧有三种可能\n",
+			"styleAttributes":{},
+			"x":-60,
+			"y":1600,
+			"width":280,
+			"height":90
+		},
+		{
+			"id":"0ce19a2b3cadae3f",
+			"type":"text",
+			"text":"可靠/连接的区别\n![[_attachments/Pasted image 20260828151516.png]]\n\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠|xx连接、xx可靠]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":1600,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"f972b3d8c465d090",
+			"type":"text",
+			"text":"只有以太网帧有最小帧长\n三者都有最大帧长\n\n\n",
+			"styleAttributes":{},
+			"x":340,
+			"y":1460,
+			"width":220,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"8f6baccc74599dee",
+			"type":"text",
+			"text":"私有地址\n![[_attachments/Pasted image 20260827174148.png]]",
+			"styleAttributes":{},
+			"x":710,
+			"y":3700,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"3148e3cccd03afb4",
+			"type":"text",
+			"text":"这里转发是 MAC 表\n[[2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC表与ARP表|MAC表与ARP表]]",
+			"styleAttributes":{},
+			"x":470,
+			"y":1800,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"title00000001","type":"text","text":"# 🌐 数据包旅程 · 主线骨架\n# 场景 ：你敲下 google.com 到看见首页。","x":435,"y":-675,"width":580,"height":150,"color":"6"},
+		{"id":"return000001","type":"text","text":"## 🔁 返程\n服务器→你，基本镜像。\n（想：源/目地址互换？TCP 确认？为什么可能分片重组？）","x":880,"y":-110,"width":390,"height":150,"color":"2"}
 	],
 	"edges":[
 		{"id":"x01","toFloating":false,"fromNode":"pre000000001","fromSide":"bottom","toNode":"dns000000001","toSide":"top","label":"就绪后"},
