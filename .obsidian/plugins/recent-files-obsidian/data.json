@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+      "basename": "05级数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
+    },
+    {
+      "basename": "03积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md"
+    },
+    {
+      "basename": "02导数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
     },
     {
       "basename": "01极限函数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+      "basename": "06概率论翻译",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
     },
     {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+      "basename": "07线代扫盲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
     },
     {
       "basename": "00技巧",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
     {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "06幂级数求和展开",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
+    },
+    {
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md"
+    },
+    {
       "basename": "01粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+    },
+    {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "单词句子",
@@ -163,42 +199,6 @@
     {
       "basename": "01全程梳理图",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01全程梳理图.md"
-    },
-    {
-      "basename": "00再次梳理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00再次梳理.md"
-    },
-    {
-      "basename": "Drawing 2026-08-25 16.54.58.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-08-25 16.54.58.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2026-05-12 16.58.47.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/Drawing 2026-05-12 16.58.47.excalidraw.md"
-    },
-    {
-      "basename": "03基础轮复习",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03基础轮复习.md"
-    },
-    {
-      "basename": "04错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/04错题复盘.md"
-    },
-    {
-      "basename": "视频初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/视频初步勘察.md"
-    },
-    {
-      "basename": "05知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/05知识点整理.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/王道题.md"
-    },
-    {
-      "basename": "记忆：码距及结论",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/记忆：码距及结论.md"
     }
   ],
   "omittedPaths": [
