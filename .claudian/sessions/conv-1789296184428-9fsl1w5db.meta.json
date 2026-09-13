@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789296184428-9fsl1w5db",
+  "providerId": "codex",
+  "title": "评估备考专注力与补剂方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789296184428,
+  "updatedAt": 1789296323257,
+  "lastResponseAt": 1789296323257,
+  "sessionId": "01a09a5d-0cea-7200-a076-36dc491ab3b9",
+  "providerState": {
+    "threadId": "01a09a5d-0cea-7200-a076-36dc491ab3b9",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\13\\rollout-2026-09-13T18-43-09-01a09a5d-0cea-7200-a076-36dc491ab3b9.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "inputTokens": 51315,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 10880,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 51315,
+    "percentage": 4,
+    "model": "gpt-6-astra"
+  }
+}

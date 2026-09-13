@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789296083779-lrzbo7n4n",
+  "providerId": "codex",
+  "title": "确认英语备考规划安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789296083781,
+  "updatedAt": 1789299780194,
+  "lastResponseAt": 1789299780194,
+  "sessionId": "01a09a5b-8d2a-7002-90f5-1e0d98bb1cf5",
+  "providerState": {
+    "threadId": "01a09a5b-8d2a-7002-90f5-1e0d98bb1cf5",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\13\\rollout-2026-09-13T18-41-31-01a09a5b-8d2a-7002-90f5-1e0d98bb1cf5.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+  "usage": {
+    "inputTokens": 88868,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 87680,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 88868,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
+}
