@@ -1,0 +1,124 @@
+﻿以下是根据您提供的8张图片进行的数学板书转写：
+
+---
+
+### 图片 1
+**标题：常数 $K$ 值法：处理中值部分可分离的中值问题**
+常数 $K$ 值法也是基于罗尔定理的一个找原函数的方法，该方法简单粗暴，有两类用法！
+*   **第一类常数 $K$ 值法**
+    零式：$f(b) - f(a) = (b-a)f'(\xi)$
+    分式：$\frac{f(b)-f(a)}{b-a} = f'(\xi)$
+    使用条件：$f(b) - f(a) = (b-a)K$
+    (1) 区间端点与中值可分离，即原式可化成这样一个等式：等式的一端只含有区间端点 $a, b$，另一端只含有中值 $\xi$。
+    $f(x) - f(a) = (x-a)K \rightarrow f(x) - f(a) - (x-a)K = 0$
+    (2) 可化为零式：如果把式子中的 $b$ 换成 $a$ 时，呈现 $0=0$ 的形式，就称它是零式 $F(x)=0$。
+*   **构造步骤：**
+    (1) 把原式化成分离形式，令等式一端的常数等于 $K$。
+    (2) 再将原式化为零式，将含有中值的部分换成 $K$，把 $b$ 换成 $x$，再将右端移到左端，把所得的式子记作 $F(x)$，这就是构造的辅助函数。
+    (3) 由 $K$ 的取法及 $F(x)$ 的作法便知，必有 $F(b)=0$，由原式可化为零式便知，必有 $F(a)=0$，所以有 $F(a)=F(b)$。
+    (4) 对 $F(x)$ 在 $(a, b)$ 上运用罗尔定理。
+
+---
+
+### 图片 2
+(1) 证明拉格朗日中值定理：若函数 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，则存在 $\xi \in (a, b)$，使得 $f(b) - f(a) = f'(\xi)(b-a)$
+记 $\frac{f(b)-f(a)}{b-a} = K$
+令 $F(x) = f(x) - f(a) - (x-a)K$
+$F(b) = f(b) - f(a) - (b-a)\frac{f(b)-f(a)}{b-a} = 0$
+$F(a) = f(a) - f(a) - (a-a)K = 0$
+$F(a) = F(b)$
+$\exists \xi \in (a, b) \text{ s.t. } F'(\xi) = 0$
+$F'(x) = f'(x) - K$
+$\exists f'(\xi) = K = \frac{f(b)-f(a)}{b-a}$
+
+---
+
+### 图片 3
+$b > a > 0$，设函数 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，证明：
+(1) 存在 $\xi \in (a, b)$，使得 $\frac{bf(a) - af(b)}{b-a} = f(\xi) - \xi f'(\xi)$
+(2) 存在 $\xi \in (a, b)$，使得 $\frac{f(b) - f(a)}{b-a} = \frac{\xi^2 f'(\xi)}{ab}$
+(右侧标注：死磕思维)
+
+---
+
+### 图片 4
+$b > a > 0$，设函数 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，证明：
+(1) 存在 $\xi \in (a, b)$，使得 $\frac{bf(a) - af(b)}{b-a} = f(\xi) - \xi f'(\xi)$
+(2) 存在 $\xi \in (a, b)$，使得 $\frac{f(b) - f(a)}{b-a} = \frac{\xi^2 f'(\xi)}{ab}$
+分析：$bf(a) - af(b) = (f(\xi) - \xi f'(\xi))(b-a)$
+$x f(a) - a f(x) = K(x-a)$
+$x f(a) - a f(x) - K(x-a) = 0$
+$f(a) - \frac{a f(x)}{x} - K \frac{x-a}{x} = 0$
+$\frac{f(a)}{a} - \frac{f(x)}{x} - K \frac{x-a}{ax} = 0$
+记 $\frac{bf(a) - af(b)}{b-a} = K$
+$F(x) = x f(a) - a f(x) - K(x-a)$
+$F(b) = bf(a) - af(b) - (b-a)\frac{bf(a) - af(b)}{b-a} = 0$
+$F(a) = 0$
+$F(a) = F(b)$
+$\exists \xi \in (a, b) \text{ s.t. } F'(\xi) = 0$
+$F'(x) = f(a) - a f'(x) - K$
+$f(a) - a f'(\xi) = K = \frac{bf(a) - af(b)}{b-a}$
+
+---
+
+### 图片 5
+$b > a > 0$，设函数 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，证明：
+(1) 存在 $\xi \in (a, b)$，使得 $\frac{bf(a) - af(b)}{b-a} = f(\xi) - \xi f'(\xi)$
+(2) 存在 $\xi \in (a, b)$，使得 $\frac{f(b) - f(a)}{b-a} = \frac{\xi^2 f'(\xi)}{ab}$
+$F(x) = \frac{f(a)}{a} - \frac{f(x)}{x} - K(\frac{1}{a} - \frac{1}{x})$
+$K = \frac{bf(a) - af(b)}{b-a}$
+$F(a) = 0$
+$F(b) = \frac{f(a)}{a} - \frac{f(b)}{b} - (\frac{1}{a} - \frac{1}{b}) \frac{bf(a) - af(b)}{b-a} = 0$
+$F(a) = F(b)$
+$\exists \xi \in (a, b) \text{ s.t. } F'(\xi) = 0$
+$F'(x) = - \frac{f'(x)x - f(x)}{x^2} - K \frac{1}{x^2} = - \frac{1}{x^2} (f'(x)x - f(x) + K)$
+$\Rightarrow f'(\xi)\xi - f(\xi) + K = 0$
+
+---
+
+### 图片 6
+设函数 $f(x)$ 在 $[a, b]$ 上三阶可导，证明：存在 $\xi \in (a, b)$，使得
+$f(b) = f(a) + \frac{1}{2}(b-a)(f'(a) + f'(b)) - \frac{1}{12}(b-a)^3 f'''(\xi)$
+分析：$\frac{f(b)-f(a) - \frac{1}{2}(b-a)(f'(a)+f'(b))}{-\frac{1}{12}(b-a)^3} = f'''(\xi) = K$
+$f(b) - f(a) - \frac{1}{2}(b-a)(f'(a)+f'(b)) = -\frac{1}{12}(b-a)^3 K$
+$f(x) - f(a) - \frac{1}{2}(x-a)(f'(a)+f'(x)) + \frac{1}{12}(x-a)^3 K = 0$
+$F(a) = 0$
+$F(b) = f(b) - f(a) - \frac{1}{2}(b-a)(f'(a)+f'(b)) + \frac{1}{12}(b-a)^3 K = 0$
+$F(a) = F(b)$
+$\exists \eta \in (a, b) \text{ s.t. } F'(\eta) = 0$
+$F'(x) = f'(x) - \frac{1}{2}[f'(x) + f'(a) + (x-a)f''(x)] + \frac{1}{4}(x-a)^2 K$
+$F'(a) = 0$
+$F'(a) = F'(\eta)$
+$\exists \xi \in (a, b) \text{ s.t. } F''(\xi) = 0$
+$F''(x) = f''(x) - \frac{1}{2}[f''(x) + f''(a) + (x-a)f'''(x)] + \frac{1}{2}(x-a)K = \frac{1}{2}(x-a)[K - f'''(x)] \Rightarrow \frac{1}{2}(\xi-a)[K - f'''(\xi)] = 0 \Rightarrow f'''(\xi) = K$
+
+---
+
+### 图片 7
+证明开区间的积分中值定理：若函数 $f(x)$ 在 $[a, b]$ 上连续，则至少存在一点 $\xi \in (a, b)$，使得
+$\int_a^b f(x)dx = f(\xi)(b-a)$
+分析：$\frac{\int_a^b f(x)dx}{b-a} = f(\xi) = K$
+$F(x) = \int_a^x f(t)dt - K(x-a)$
+$G(x) = \int_a^x f(t)dt - K(x-a)$
+$G(a) = 0$
+$G(b) = \int_a^b f(t)dt - K(b-a) = 0$
+$G(a) = G(b)$
+$\exists \xi \in (a, b) \text{ s.t. } G'(\xi) = 0$
+$G'(x) = f(x) - K = 0 \Rightarrow f(\xi) = K$
+
+---
+
+### 图片 8
+$b > a > 0$，设函数 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，证明：
+(1) 存在 $\xi \in (a, b)$，使得 $\frac{bf(a) - af(b)}{b-a} = f(\xi) - \xi f'(\xi)$
+(2) 存在 $\xi \in (a, b)$，使得 $\frac{f(b) - f(a)}{b-a} = \frac{\xi^2 f'(\xi)}{ab}$
+分析：$\frac{ab(f(b)-f(a))}{b-a} = \xi^2 f'(\xi) = K$
+$\frac{f(b)-f(a)}{b-a} = \frac{K}{ab} \rightarrow f(b)-f(a) = K \cdot \frac{b-a}{ab} = (\frac{1}{a} - \frac{1}{b})K$
+$-f(a) - \frac{K}{a} = -f(b) - \frac{K}{b}$
+$f(a) + \frac{K}{a} = f(b) + \frac{K}{b}$
+$G(x) = f(x) + \frac{K}{x}$
+$G(a) - G(b) = (f(a) + \frac{K}{a}) - (f(b) + \frac{K}{b}) = (f(a)-f(b)) + (\frac{K}{a} - \frac{K}{b}) = 0$
+$G(a) = G(b)$
+$\exists \xi \in (a, b) \text{ s.t. } G'(\xi) = 0$
+$G'(x) = f'(x) - \frac{K}{x^2}$
+$f'(\xi) = \frac{K}{\xi^2}$

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789353804861-i4nw2ycq9",
+  "providerId": "claude",
+  "title": "Explain 原函数法 in solving differential equations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789353804861,
+  "updatedAt": 1789355151010,
+  "lastResponseAt": 1789355006291,
+  "sessionId": "48632ef2-1db5-49cc-92c5-a7c64c7371e9",
+  "providerState": {
+    "providerSessionId": "48632ef2-1db5-49cc-92c5-a7c64c7371e9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 16801,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 91264,
+    "contextWindow": 1000000,
+    "contextTokens": 108065,
+    "percentage": 11
+  }
+}

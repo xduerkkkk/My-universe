@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789348491577-l272s3tct",
+  "providerId": "codex",
+  "title": "整理中值定理技巧文字版",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789348491577,
+  "updatedAt": 1789352653825,
+  "lastResponseAt": 1789349723570,
+  "sessionId": "01a09d7b-3419-7f02-9324-d1aff312961c",
+  "providerState": {
+    "threadId": "01a09d7b-3419-7f02-9324-d1aff312961c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\14\\rollout-2026-09-14T09-14-57-01a09d7b-3419-7f02-9324-d1aff312961c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
+  "usage": {
+    "inputTokens": 107906,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 100992,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 107906,
+    "percentage": 9,
+    "model": "gpt-6-astra"
+  }
+}

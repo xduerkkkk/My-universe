@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789353657996-vbbzb9vzh",
+  "providerId": "codex",
+  "title": "判断此题是否归入原函数法",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789353657996,
+  "updatedAt": 1789353783505,
+  "lastResponseAt": 1789353773963,
+  "sessionId": "01a09dca-07b1-7be1-8da1-0a6c74ea9b03",
+  "providerState": {
+    "threadId": "01a09dca-07b1-7be1-8da1-0a6c74ea9b03",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\14\\rollout-2026-09-14T10-41-03-01a09dca-07b1-7be1-8da1-0a6c74ea9b03.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+  "usage": {
+    "inputTokens": 17557,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12928,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17557,
+    "percentage": 1,
+    "model": "gpt-6-astra"
+  }
+}
