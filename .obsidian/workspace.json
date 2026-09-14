@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-英语阶段详表 W6-W11（外刊主线）"
+              "title": "02导数"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,8 +291,7 @@
               "title": "反向链接"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,10 +322,15 @@
   },
   "active": "65aa2a2163470408",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md.bak-2026-09-13",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+    "_attachments/image/00技巧-1789307450604.jpeg",
+    "_attachments/image/00技巧-1789307376090.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md.bak-2026-09-13",
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/02-考研英语时间线.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
@@ -337,14 +341,11 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
     "_attachments/image/00技巧-1789269922290.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "_attachments/image/00技巧-1789269050973.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md",
     "_attachments/image/01极限函数-1789217279648.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
@@ -357,8 +358,6 @@
     "_attachments/image/00数学记忆-1789198222770.jpeg",
     "_attachments/image/05级数-1789182868090.jpeg",
     "_attachments/image/01极限函数-1789133274816.jpeg",
-    "_attachments/image/00数学记忆-1789129174084.jpeg",
-    "_attachments/image/粗心记录-1789117794372.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
