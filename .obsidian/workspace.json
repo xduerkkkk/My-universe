@@ -88,49 +88,21 @@
             }
           },
           {
-            "id": "2c458045166e35f7",
+            "id": "77f5164bceaf1b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01粗心记录"
-            }
-          },
-          {
-            "id": "e0c7709bfd0d085f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "原函数法"
-            }
-          },
-          {
-            "id": "2437966f5c26e86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00技巧"
+              "title": "王道笔记"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.93463134765625
+    "width": 303.8423156738281
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -236,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,19 +336,25 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "77f5164bceaf1b57",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
-    "_attachments/image/09中值定理与证明-文字版-1789355370343.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
+    "_attachments/image/02导数-1789370439847.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "_attachments/image/00技巧-1789368614686.jpeg",
+    "_attachments/image/09中值定理与证明-文字版-1789355370343.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
     "_attachments/image/00技巧-1789350388435.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "_attachments/image/01粗心记录-1789349916659.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "_temp_double_text.txt",
@@ -397,7 +375,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题.md",
     "_attachments/image/证明题-1789346888298.jpeg",
     "_attachments/image/证明题-1789346874629.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
     "2.知识库/21.AI世界/04大模型/LLM学习记录/学习阶段/4.rag&agent/days/day7.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/6月词汇.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第二周/2-1.md",
@@ -409,11 +386,7 @@
     "0.核心/00.规划(Plan)/1.阶段性规划/03-套卷阶段/规划.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/02-考研英语时间线.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/01视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题.md",
     "_attachments/image/00技巧-1789269922290.jpeg",
-    "_attachments/image/00技巧-1789269050973.jpeg",
-    "_attachments/image/01极限函数-1789217279648.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
     "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md.tmp.5188.14569ee441fa",
