@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
     {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "逐题回看",
+      "path": "Clippings/逐题回看.md"
+    },
+    {
+      "basename": "cache代码访存缺失类题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+    },
+    {
+      "basename": "单词句子",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "总思维导图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/总思维导图.md"
+    },
+    {
+      "basename": "001视频",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/001视频.md"
+    },
+    {
+      "basename": "02大题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/02大题.md"
+    },
+    {
+      "basename": "01王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/01王道题.md"
+    },
+    {
+      "basename": "00视频勘察",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/00视频勘察.md"
+    },
+    {
+      "basename": "辨析_ISA与微架构的边界",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/辨析_ISA与微架构的边界.md"
+    },
+    {
+      "basename": "记忆--函数调用",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/记忆--函数调用.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
     },
     {
       "basename": "00-规划一览",
@@ -19,14 +79,6 @@
     {
       "basename": "01积分概+计",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "单词句子",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
     },
     {
       "basename": "02积分几何",
@@ -71,10 +123,6 @@
     {
       "basename": "01算法题题单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
     {
       "basename": "03 矩阵乘法、保秩与分块矩阵",
@@ -151,54 +199,6 @@
     {
       "basename": "08概率论扫盲",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md"
-    },
-    {
-      "basename": "中值定理与证明",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas"
-    },
-    {
-      "basename": "10中值定理与证明-分诊骨架",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas"
-    },
-    {
-      "basename": "01函数极限连续",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas"
-    },
-    {
-      "basename": "02微分方程思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas"
-    },
-    {
-      "basename": "中值可分离法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md"
-    },
-    {
-      "basename": "真正的双中值",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/真正的双中值.md"
-    },
-    {
-      "basename": "泰勒公式解决问题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md"
-    },
-    {
-      "basename": "01极限函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
-    },
-    {
-      "basename": "证明题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题.md"
-    },
-    {
-      "basename": "day7",
-      "path": "2.知识库/21.AI世界/04大模型/LLM学习记录/学习阶段/4.rag&agent/days/day7.md"
-    },
-    {
-      "basename": "6月词汇",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/6月词汇.md"
-    },
-    {
-      "basename": "2-1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/单词/2月/第二周/2-1.md"
     }
   ],
   "omittedPaths": [
