@@ -72,19 +72,17 @@
             }
           },
           {
-            "id": "71ddc828a9a41920",
+            "id": "8dd19ace64645de1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "09中值定理与证明-文字版"
+              "title": "01积分概+计"
             }
           }
         ],
@@ -178,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.8423156738281
+    "width": 359.96539306640625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,38 +320,40 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d22f01a07477a310",
+  "active": "8dd19ace64645de1",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/00数学记忆-1789443476599.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/03积分等式与不等式.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "_attachments/image/00技巧-1789433899683.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
+    "_attachments/image/00数学记忆-1789431969152.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/03 矩阵乘法、保秩与分块矩阵.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/02 秩、零空间与方程组.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/03错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道笔记.md",
     "_attachments/image/02王道题-1789387865919.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/易错点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/03算法题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
     "_attachments/image/02导数-1789370439847.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "_attachments/image/00技巧-1789368614686.jpeg",
     "_attachments/image/09中值定理与证明-文字版-1789355370343.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
     "_attachments/image/00技巧-1789350388435.jpeg",
     "_attachments/image/01粗心记录-1789349916659.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
@@ -369,9 +369,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "_attachments/image/证明题-1789346888298.jpeg",
-    "_attachments/image/证明题-1789346874629.jpeg",
-    "_attachments/image/00技巧-1789307450604.jpeg",
-    "_attachments/image/00技巧-1789307376090.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md.bak-2026-09-13",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
