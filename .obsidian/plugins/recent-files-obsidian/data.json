@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "02大观题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
     },
     {
-      "basename": "01 笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
+      "basename": "10 反常积分大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
     },
     {
       "basename": "00-规划一览",
       "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "02积分几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md"
+    },
+    {
+      "basename": "05 880基础",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md"
+    },
+    {
+      "basename": "06 辅导讲义例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md"
+    },
+    {
+      "basename": "04积分物理应用",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
+    },
+    {
+      "basename": "01 笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
     },
     {
       "basename": "cache访存缺失规律总结",
@@ -35,10 +71,6 @@
     {
       "basename": "CN-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "逐题回看",
@@ -89,20 +121,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
     },
     {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
       "basename": "01积分概+计",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/01积分概+计.md"
-    },
-    {
-      "basename": "02积分几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md"
-    },
-    {
-      "basename": "04积分物理应用",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md"
     },
     {
       "basename": "03积分等式与不等式",
@@ -115,22 +135,6 @@
     {
       "basename": "09 积分计算大观题型",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/09 积分计算大观题型.md"
-    },
-    {
-      "basename": "06 辅导讲义例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/06 辅导讲义例题.md"
-    },
-    {
-      "basename": "05 880基础",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/05 880基础.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     },
     {
       "basename": "09中值定理与证明-文字版",
@@ -195,10 +199,6 @@
     {
       "basename": "核心语法",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md"
-    },
-    {
-      "basename": "王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道题.md"
     }
   ],
   "omittedPaths": [
