@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "07线代扫盲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
+    },
+    {
+      "basename": "单词句子",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
     },
     {
       "basename": "02大观题",
@@ -11,10 +43,6 @@
     {
       "basename": "10 反常积分大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
-    },
-    {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "02积分几何",
@@ -31,10 +59,6 @@
     {
       "basename": "04积分物理应用",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/04积分物理应用.md"
-    },
-    {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
     },
     {
       "basename": "04幂级数大观",
@@ -61,24 +85,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
     {
-      "basename": "CN-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
-    },
-    {
       "basename": "逐题回看",
       "path": "Clippings/逐题回看.md"
-    },
-    {
-      "basename": "单词句子",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md"
     },
     {
       "basename": "DS-技巧",
@@ -111,10 +123,6 @@
     {
       "basename": "记忆--函数调用",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/卡片/记忆--函数调用.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
     },
     {
       "basename": "CO-技巧",
@@ -191,14 +199,6 @@
     {
       "basename": "03顺序表",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md"
-    },
-    {
-      "basename": "算法题复盘方法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md"
-    },
-    {
-      "basename": "核心语法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md"
     }
   ],
   "omittedPaths": [
