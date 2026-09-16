@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
+    },
+    {
+      "basename": "02大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
+    },
+    {
+      "basename": "01 笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
+    },
+    {
+      "basename": "00-规划一览",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
+    },
+    {
+      "basename": "cache访存缺失规律总结",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache访存缺失规律总结.md"
+    },
+    {
+      "basename": "cache代码访存缺失类题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
@@ -9,20 +37,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "逐题回看",
       "path": "Clippings/逐题回看.md"
-    },
-    {
-      "basename": "cache代码访存缺失类题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
     },
     {
       "basename": "单词句子",
@@ -71,10 +91,6 @@
     {
       "basename": "01粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
-      "basename": "00-规划一览",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md"
     },
     {
       "basename": "01积分概+计",
@@ -183,22 +199,6 @@
     {
       "basename": "王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/03串/王道题.md"
-    },
-    {
-      "basename": "原函数法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md"
-    },
-    {
-      "basename": "02导数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
-    },
-    {
-      "basename": "07线代扫盲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
-    },
-    {
-      "basename": "08概率论扫盲",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md"
     }
   ],
   "omittedPaths": [

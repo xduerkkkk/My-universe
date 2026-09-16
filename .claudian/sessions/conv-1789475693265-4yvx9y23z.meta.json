@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789475693265-4yvx9y23z",
+  "providerId": "claude",
+  "title": "对于访存缺失类问题，我一直是用模拟。 但我现在感觉这三题似乎有些规律可总结，有的时候cache会冲突...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789475693272,
+  "updatedAt": 1789475807496,
+  "lastResponseAt": 1789475807496,
+  "sessionId": "9d3a1248-bfe5-47ef-896b-074d24e8eb43",
+  "providerState": {
+    "providerSessionId": "9d3a1248-bfe5-47ef-896b-074d24e8eb43"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4556,
+    "cacheReadInputTokens": 50147,
+    "contextWindow": 1000000,
+    "contextTokens": 54705,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
