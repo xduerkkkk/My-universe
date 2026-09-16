@@ -72,17 +72,17 @@
             }
           },
           {
-            "id": "ed13ab827c79fccc",
+            "id": "8ab09cef20ed2685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS-技巧"
+              "title": "未命名"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,17 +320,24 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "ed13ab827c79fccc",
+  "active": "8ab09cef20ed2685",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/记忆--管程.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-错题复盘-重构版.md",
+    "_attachments/image/粗心记录-1789548011421.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "_attachments/image/01粗心记录-1789542748194.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子.md",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/02积分几何.md",
@@ -344,20 +351,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache访存缺失规律总结.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "Clippings/逐题回看.md",
     "_attachments/image/cache代码访存缺失类题-1789472848663.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/总思维导图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/001视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/02大题.md",
     "_attachments/image/DS-技巧-1789459966993.jpeg",
     "_attachments/image/01粗心记录-1789457700694.jpeg",
     "_attachments/image/00数学记忆-1789443476599.jpeg",
     "_attachments/image/00技巧-1789433899683.jpeg",
     "_attachments/image/00数学记忆-1789431969152.jpeg",
     "_attachments/image/02王道题-1789387865919.jpeg",
-    "_attachments/image/02导数-1789370439847.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "_temp_double_text.txt",
     "_temp_vision_double.txt",
