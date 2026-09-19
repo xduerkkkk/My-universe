@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789819243999-coqswk4ma",
+  "providerId": "codex",
+  "title": "Analyze airport security delays and travel burden",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789819244000,
+  "updatedAt": 1789819906217,
+  "lastResponseAt": 1789819906217,
+  "sessionId": "01a0b98a-4f1d-7810-ad45-20df34536d93",
+  "providerState": {
+    "threadId": "01a0b98a-4f1d-7810-ad45-20df34536d93",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\19\\rollout-2026-09-19T20-00-49-01a0b98a-4f1d-7810-ad45-20df34536d93.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 42166,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41036,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42166,
+    "percentage": 3,
+    "model": "gpt-6-astra"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789819039610-4k8zuavux",
+  "providerId": "claude",
+  "title": "First two hours, now three hours—this is how far i...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789819039610,
+  "updatedAt": 1789819203755,
+  "lastResponseAt": 1789819183278,
+  "sessionId": "73e898a0-7280-4caf-8362-02cf5ab92bf5",
+  "providerState": {
+    "providerSessionId": "73e898a0-7280-4caf-8362-02cf5ab92bf5"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1283,
+    "cacheReadInputTokens": 39181,
+    "contextWindow": 1000000,
+    "contextTokens": 40466,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
