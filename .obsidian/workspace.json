@@ -77,30 +77,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 强化习题"
-            }
-          },
-          {
-            "id": "e406ad48b93b7a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01基础视频"
+              "title": "00数学记忆"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,7 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.0076904296875
+    "width": 226.361572265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,14 +320,26 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "e406ad48b93b7a3d",
+  "active": "320a4a6155e8d14f",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
+    "_attachments/image/04多元微分-1789787471777.jpeg",
+    "_attachments/image/04多元微分-1789787463594.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/未命名看板.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--可微可导.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/02 强化习题.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/大纲.md",
@@ -353,18 +351,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/反函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/02 强化习题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/双参数估计.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/正态总体抽样分布基本定理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/三大分布推导.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "_attachments/image/01粗心记录-1789693901744.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "_attachments/image/00技巧-1789654677772.jpeg",
     "_attachments/image/未命名-1789630328928.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点",
@@ -373,8 +361,6 @@
     "_attachments/image/01粗心记录-1789542748194.jpeg",
     "_attachments/image/01粗心记录-1789518985548.jpeg",
     "_attachments/image/cache代码访存缺失类题-1789472848663.jpeg",
-    "_attachments/image/DS-技巧-1789459966993.jpeg",
-    "_attachments/image/01粗心记录-1789457700694.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "_temp_double_text.txt",
     "_temp_vision_double.txt",

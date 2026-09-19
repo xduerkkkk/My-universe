@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789786655560-zgfkwawn0",
+  "providerId": "claude",
+  "title": "我好慌阿小克  我感觉时间太少了 即使是90天 我现在没有数学130 408 130的真题分数 我已...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789786655561,
+  "updatedAt": 1789786718248,
+  "lastResponseAt": 1789786712082,
+  "sessionId": "988bd38f-ab40-4a56-bffe-87b18a9738b8",
+  "providerState": {
+    "providerSessionId": "988bd38f-ab40-4a56-bffe-87b18a9738b8"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2683,
+    "cacheCreationInputTokens": 24250,
+    "cacheReadInputTokens": 68,
+    "contextWindow": 1000000,
+    "contextTokens": 27001,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

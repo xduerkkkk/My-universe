@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789786550048-c3t7m89hr",
+  "providerId": "codex",
+  "title": "缓解考前焦虑与择校动摇",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789786550048,
+  "updatedAt": 1789786607763,
+  "lastResponseAt": 1789786576780,
+  "sessionId": "01a0b797-7913-7de1-b10c-7258c7ef0f66",
+  "providerState": {
+    "threadId": "01a0b797-7913-7de1-b10c-7258c7ef0f66",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\19\\rollout-2026-09-19T10-55-57-01a0b797-7913-7de1-b10c-7258c7ef0f66.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 16364,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 5820,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16364,
+    "percentage": 1,
+    "model": "gpt-6-astra"
+  }
+}
