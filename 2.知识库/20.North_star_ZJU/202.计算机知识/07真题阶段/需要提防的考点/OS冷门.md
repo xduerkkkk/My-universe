@@ -1,4 +1,5 @@
 
+# 成组链接法
 
 
 ![[_attachments/image/未命名-1789630328928.jpeg]]
