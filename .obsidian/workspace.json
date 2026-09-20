@@ -77,16 +77,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01基础视频"
+              "title": "当前冲刺规划"
+            }
+          },
+          {
+            "id": "9a151f9174eba5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "当前冲刺规划"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,38 +159,25 @@
             }
           },
           {
-            "id": "a44e36e7bf0270f3",
+            "id": "fc07162f68cdf164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-英语阶段详表 W6-W11（外刊主线）"
-            }
-          },
-          {
-            "id": "16d8faaaebfb4cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-规划一览"
+              "title": "当前冲刺规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 292.02691650390625
+    "width": 377.6884765625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,7 +292,8 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -320,36 +322,46 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "4400f18275d0dc7a",
+  "active": "9a151f9174eba5ab",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.b9f9c4ae3b85",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.e55f3ed8d0ab",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.83b0276178e1",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.1a674d830ef3",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.b6d3b4fb374c",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.afc06e502007",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.98c6948f9d93",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.21d6bfebc886",
+    "0.核心/00.规划(Plan)/2.当前项目/答疑.md",
+    "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
+    "0.核心/00.规划(Plan)/2.当前项目/草稿.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.a5332dd7efa1",
+    "0.核心/00.规划(Plan)/2.当前项目/战略锚点.md",
+    "0.核心/00.规划(Plan)/2.当前项目/战略锚点.md.tmp.105232.4532426c73bc",
+    "0.核心/00.规划(Plan)/2.当前项目/规划草稿.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-数学.md",
+    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/政英规划-1789869033355.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 知识地图与诊断.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/01 矩阵运算、逆与伴随.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--存取存储.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
     "_attachments/image/粗心记录-1789807371602.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/大纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/项目工程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/回溯.md",
     "_attachments/image/408：2009--2012-1789803567046.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
     "_attachments/image/408：2009--2012-1789800187613.jpeg",
     "_attachments/image/04多元微分-1789787471777.jpeg",
     "_attachments/image/04多元微分-1789787463594.jpeg",
@@ -358,21 +370,10 @@
     "_attachments/image/01粗心记录-1789693901744.jpeg",
     "_attachments/image/00技巧-1789654677772.jpeg",
     "_attachments/image/未命名-1789630328928.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点",
     "_attachments/image/01粗心记录-1789606473402.jpeg",
-    "_attachments/image/粗心记录-1789548011421.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
-    "_temp_double_text.txt",
-    "_temp_vision_double.txt",
-    "_temp_vision_taylor.txt",
-    "_temp_vision_antiderivative.txt",
-    "_temp_vision_separable.txt",
-    "_temp_vision_k.txt",
-    "_temp_mid_extract.txt",
-    "_temp_midvalue_text.txt",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
-    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md.bak-2026-09-13",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",

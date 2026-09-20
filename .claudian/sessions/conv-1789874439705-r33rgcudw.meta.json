@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789874439705-r33rgcudw",
+  "providerId": "claude",
+  "title": "你觉得呢？ 现在我每天日程怎么安排。原来规划在这 0",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789874439705,
+  "updatedAt": 1789875975544,
+  "lastResponseAt": 1789875966309,
+  "sessionId": "c25780f8-d485-4fab-a710-20b7332d24b1",
+  "providerState": {
+    "providerSessionId": "c25780f8-d485-4fab-a710-20b7332d24b1"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 141,
+    "cacheReadInputTokens": 99856,
+    "contextWindow": 1000000,
+    "contextTokens": 99999,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

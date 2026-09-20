@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789873359792-fqvgaqylg",
+  "providerId": "codex",
+  "title": "讨论并重构每日作息与项目规划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789873359795,
+  "updatedAt": 1789874324980,
+  "lastResponseAt": 1789874188027,
+  "sessionId": "01a0bcc4-0dfe-7811-831d-39c545d7cee1",
+  "providerState": {
+    "threadId": "01a0bcc4-0dfe-7811-831d-39c545d7cee1",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\20\\rollout-2026-09-20T11-02-45-01a0bcc4-0dfe-7811-831d-39c545d7cee1.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/规划草稿.md",
+  "usage": {
+    "inputTokens": 49021,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45337,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49021,
+    "percentage": 4,
+    "model": "gpt-6-astra"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789876106471-1d3kaapui",
+  "providerId": "claude",
+  "title": "修改一下，作文我从28号再开始动，所以前面没有所谓\" 作文短复现\"",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789876106471,
+  "updatedAt": 1789876419145,
+  "lastResponseAt": 1789876419145,
+  "sessionId": "71586f58-907e-41f4-8728-b72b44e28b94",
+  "providerState": {
+    "providerSessionId": "71586f58-907e-41f4-8728-b72b44e28b94"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 24411,
+    "cacheCreationInputTokens": 1759,
+    "cacheReadInputTokens": 19809,
+    "contextWindow": 1000000,
+    "contextTokens": 45979,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
