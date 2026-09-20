@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "单词句子2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
+    },
+    {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "单词句子1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "00薄弱点记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "拓展知识",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md"
+    },
+    {
+      "basename": "03应用题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/03应用题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md"
     },
     {
       "basename": "00-英语阶段详表 W6-W11（外刊主线）",
@@ -101,14 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
       "basename": "辨析--存取存储",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--存取存储.md"
     },
@@ -123,26 +171,6 @@
     {
       "basename": "好文1",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
-    },
-    {
-      "basename": "单词句子2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "CO-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
-    },
-    {
-      "basename": "CN-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
     },
     {
       "basename": "未命名",
@@ -165,36 +193,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md"
     },
     {
-      "basename": "拓展知识",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
-    },
-    {
       "basename": "OS冷门",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/OS冷门.md"
     },
     {
       "basename": "进程状态转换时发生的事",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/进程状态转换时发生的事.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/未命名.md"
-    },
-    {
-      "basename": "计网TCP",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/计网TCP.md"
-    },
-    {
-      "basename": "01流水线--看头",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01流水线--看头.md"
-    },
-    {
-      "basename": "04多元微分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md"
-    },
-    {
-      "basename": "大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
     }
   ],
   "omittedPaths": [
