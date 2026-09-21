@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "192d5cd8b2d062a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "408：2009--2012"
-            }
-          },
-          {
             "id": "bd3e39d0f0c81e1a",
             "type": "leaf",
             "pinned": true,
@@ -72,21 +56,23 @@
             }
           },
           {
-            "id": "9e0432e5148f9316",
+            "id": "29e99aca2c80e7dd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "05级数"
+              "title": "马原"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,14 +293,19 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "fc07162f68cdf164",
+  "active": "29e99aca2c80e7dd",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "_attachments/image/05级数-1789991619694.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/05级数-1789991619694.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/DS冷门.md",
     "_attachments/image/DS冷门-1789982603440.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/计组冷门.md",
@@ -328,7 +319,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
@@ -339,9 +329,6 @@
     "2. 知识库/20. North_star_ZJU/201. 数学",
     "2. 知识库/20. North_star_ZJU",
     "2. 知识库",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.b9f9c4ae3b85",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.e55f3ed8d0ab",
