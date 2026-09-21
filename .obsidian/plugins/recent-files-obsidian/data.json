@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "马原",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+      "basename": "求收敛域流程原理",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md"
+    },
+    {
+      "basename": "级数拆分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/级数拆分.md"
+    },
+    {
+      "basename": "与ln相关的大全",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md"
+    },
+    {
+      "basename": "06幂级数求和展开",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
+    },
+    {
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "01级数审敛大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
+    },
+    {
+      "basename": "03抽象审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md"
+    },
+    {
+      "basename": "单词句子2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
+    },
+    {
+      "basename": "10 反常积分大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
     },
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/未命名.md"
+      "basename": "05级数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
     },
     {
-      "basename": "单词句子2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01基础视频",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
+    },
+    {
+      "basename": "01基础视频",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md"
+    },
+    {
+      "basename": "02 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/02 强化习题.md"
+    },
+    {
+      "basename": "样本方差公式推导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/样本方差公式推导.md"
+    },
+    {
+      "basename": "三大分布推导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/三大分布推导.md"
+    },
+    {
+      "basename": "混合型",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/未命名.md"
     },
     {
       "basename": "单词句子1",
@@ -105,10 +177,6 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "00 公式与定理速查",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/00 公式与定理速查.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "03做题框架",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/03做题框架.md"
-    },
-    {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/02习题.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/07空间几何/01笔记.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
-    },
-    {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "01陷阱整理",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
-    },
-    {
-      "basename": "00做题框架",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md"
-    },
-    {
-      "basename": "408：2009--2012",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md"
-    },
-    {
-      "basename": "辨析--存取存储",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/辨析--存取存储.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
-    },
-    {
-      "basename": "好文1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md"
-    },
-    {
-      "basename": "03顺序表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md"
-    },
-    {
-      "basename": "核心语法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md"
-    },
-    {
-      "basename": "项目工程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/项目工程.md"
-    },
-    {
-      "basename": "算法题复盘方法",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md"
     }
   ],
   "omittedPaths": [
