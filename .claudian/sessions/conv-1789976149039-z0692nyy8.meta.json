@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789976149039-z0692nyy8",
+  "providerId": "claude",
+  "title": "我现在的规划怎么样",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789976149040,
+  "updatedAt": 1789976226651,
+  "lastResponseAt": 1789976226651,
+  "sessionId": "25aa09da-f59c-4de1-af68-ad63d0a8a745",
+  "providerState": {
+    "providerSessionId": "25aa09da-f59c-4de1-af68-ad63d0a8a745"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 23815,
+    "cacheCreationInputTokens": 4356,
+    "cacheReadInputTokens": 4548,
+    "contextWindow": 1000000,
+    "contextTokens": 32719,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

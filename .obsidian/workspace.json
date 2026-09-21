@@ -72,17 +72,17 @@
             }
           },
           {
-            "id": "9077dfe25da58091",
+            "id": "76500a02e691606d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求收敛域流程原理"
+              "title": "01笔记"
             }
           }
         ],
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.01153564453125
+    "width": 345.1961669921875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.2537841796875
+    "width": 263.2845458984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,19 +306,23 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "9077dfe25da58091",
+  "active": "76500a02e691606d",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/级数拆分.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
     "2. 知识库/20. North_star_ZJU/desktop.ini",
     "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学/09 级数/01 级数审敛大观.md",
@@ -336,11 +340,7 @@
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/三大分布推导.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
-    "2.知识库/20.North_star_ZJU/203.政治/未命名.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.b9f9c4ae3b85",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.e55f3ed8d0ab",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.83b0276178e1",
