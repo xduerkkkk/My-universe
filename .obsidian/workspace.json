@@ -158,7 +158,8 @@
               "title": "当前冲刺规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,8 +307,9 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "285f077a03323359",
+  "active": "fc07162f68cdf164",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "_attachments/image/01粗心记录-1790041898734.jpeg",
     "_attachments/image/01粗心记录-1790041846332.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
@@ -321,7 +323,6 @@
     "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/反函数.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
@@ -353,7 +354,6 @@
     "_attachments/image/粗心记录-1789807371602.jpeg",
     "_attachments/image/408：2009--2012-1789803567046.jpeg",
     "_attachments/image/408：2009--2012-1789800187613.jpeg",
-    "_attachments/image/04多元微分-1789787471777.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
