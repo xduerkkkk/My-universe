@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "马原",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/未命名.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "01基础视频",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md"
+    },
+    {
+      "basename": "反函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/反函数.md"
     },
     {
       "basename": "单词句子2",
@@ -27,14 +59,6 @@
     {
       "basename": "05级数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "01计算机记忆",
@@ -101,16 +125,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/10 反常积分大观.md"
     },
     {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
       "basename": "01基础视频",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md"
     },
     {
       "basename": "02 强化习题",
@@ -183,22 +199,6 @@
     {
       "basename": "草稿",
       "path": "0.核心/00.规划(Plan)/2.当前项目/草稿.md"
-    },
-    {
-      "basename": "战略锚点",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/战略锚点.md"
-    },
-    {
-      "basename": "02-english",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "03-AI",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/03-AI.md"
-    },
-    {
-      "basename": "00-数学",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-数学.md"
     }
   ],
   "omittedPaths": [
