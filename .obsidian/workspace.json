@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/消元降维.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "消元降维"
+              "title": "01粗心记录"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/消元降维.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.71533203125
+    "width": 390.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,20 +308,27 @@
   },
   "active": "e89a85619c0879fc",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+    "_attachments/image/01粗心记录-1790149288715.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/消元降维.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.6f55c537182a",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.c1ae8d142a66",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.0953a5fbb3ff",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.b61efb2ab71a",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
@@ -336,9 +343,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/07参数估计/01基础视频.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/01函数、极限、连续/反函数.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
     "_attachments/image/05级数-1789991619694.jpeg",
     "_attachments/image/DS冷门-1789982603440.jpeg",
     "2. 知识库/20. North_star_ZJU/desktop.ini",
@@ -346,14 +350,9 @@
     "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学",
     "2. 知识库/20. North_star_ZJU/201. 数学",
     "2. 知识库/20. North_star_ZJU",
-    "2. 知识库",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.b9f9c4ae3b85",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.98696.e55f3ed8d0ab",
     "_attachments/image/政英规划-1789869033355.jpeg",
     "_attachments/image/粗心记录-1789807371602.jpeg",
     "_attachments/image/408：2009--2012-1789803567046.jpeg",
-    "_attachments/image/408：2009--2012-1789800187613.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",

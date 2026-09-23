@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790143152138-1ko0scefu",
+  "providerId": "claude",
+  "title": "我针对当前“遗忘较快”，以及“只想着赶进度，不想滚错题”、“今天学的东西戛然而止，感觉没有消化完全，...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790143152139,
+  "updatedAt": 1790145371061,
+  "lastResponseAt": 1790145371061,
+  "sessionId": "f2b3878f-96a0-408b-a69a-528d9f6453fd",
+  "providerState": {
+    "providerSessionId": "f2b3878f-96a0-408b-a69a-528d9f6453fd"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 30359,
+    "cacheCreationInputTokens": 2274,
+    "cacheReadInputTokens": 51776,
+    "contextWindow": 1000000,
+    "contextTokens": 84409,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

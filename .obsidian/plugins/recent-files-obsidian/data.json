@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "02 消除所有低级错误计划",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md"
+    },
+    {
+      "basename": "粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "拓展知识",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
       "basename": "消元降维",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/消元降维.md"
     },
@@ -25,10 +45,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
     {
-      "basename": "02 消除所有低级错误计划",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md"
-    },
-    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
@@ -45,16 +61,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
     },
     {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
       "basename": "马原",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "02算法题重刷清单",
@@ -191,14 +199,6 @@
     {
       "basename": "单词句子1",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     }
   ],
   "omittedPaths": [
