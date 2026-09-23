@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "单词句子2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "单词句子1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
       "basename": "01粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
     },
@@ -15,10 +51,6 @@
     {
       "basename": "拓展知识",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "消元降维",
@@ -41,14 +73,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
     },
     {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "投影转换法理解",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md"
     },
@@ -61,16 +85,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
     },
     {
-      "basename": "马原",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
-    },
-    {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "单词句子2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
     },
     {
       "basename": "01计算机记忆",
@@ -83,14 +99,6 @@
     {
       "basename": "传输层-错题复盘",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-错题复盘.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/未命名.md"
     },
     {
       "basename": "04幂级数大观",
@@ -191,14 +199,6 @@
     {
       "basename": "混合型",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/未命名.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
     }
   ],
   "omittedPaths": [
