@@ -4,19 +4,19 @@
   "title": "我看到网上有说，休息的时候一点手机不刷，而是正念，或者，还有那种读自己写的话的这种正念？什么意思？我...",
   "titleGenerationStatus": "failed",
   "createdAt": 1790208666080,
-  "updatedAt": 1790213742028,
-  "lastResponseAt": 1790213742028,
+  "updatedAt": 1790251584434,
+  "lastResponseAt": 1790248492156,
   "sessionId": "0e04c609-7614-41f2-8bba-6fb789c68e1e",
   "providerState": {
     "providerSessionId": "0e04c609-7614-41f2-8bba-6fb789c68e1e"
   },
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 28648,
-    "cacheCreationInputTokens": 930,
-    "cacheReadInputTokens": 20793,
+    "inputTokens": 28657,
+    "cacheCreationInputTokens": 1034,
+    "cacheReadInputTokens": 22451,
     "contextWindow": 1000000,
-    "contextTokens": 50371,
+    "contextTokens": 52142,
     "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
