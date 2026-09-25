@@ -8,23 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89bbe05855cc099b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "00数学记忆"
-            }
-          },
-          {
-            "id": "4995bdae40933c55",
+            "id": "1372fd2bda90d24e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -40,53 +24,37 @@
             }
           },
           {
-            "id": "bd3e39d0f0c81e1a",
+            "id": "24b9ed6a0757633b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "单词句子2"
+              "title": "00数学记忆"
             }
           },
           {
-            "id": "29e99aca2c80e7dd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "马原"
-            }
-          },
-          {
-            "id": "626d5d0175d699b6",
+            "id": "d2e61208bce1ffad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线代1"
+              "title": "02算法题重刷清单"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,12 +126,11 @@
               "title": "当前冲刺规划"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 325.99615478515625
+    "width": 301.6269226074219
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -179,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -278,12 +245,11 @@
               "title": "反向链接"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.74615478515625
+    "width": 320.2384033203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,63 +274,63 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "626d5d0175d699b6",
+  "active": "d2e61208bce1ffad",
   "lastOpenFiles": [
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "_attachments/image/线代1-1790251017576.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "_attachments/image/01计算机记忆-1790246687514.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2013--2016.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名 1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "0.核心/00.规划(Plan)/3.未来探索/02-ai岗位分析与技术路线.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "0.核心/00.规划(Plan)/3.未来探索/03-求职规划.md",
-    "0.核心/00.规划(Plan)/3.未来探索/05-企业.md",
-    "0.核心/00.规划(Plan)/3.未来探索/06-决策模型--选择城市为例.md",
-    "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md",
-    "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/首部对比.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/可靠和连接.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "0.核心/02.心智急救包/Git误删恢复指南.md",
+    "backup_vault.bat",
+    "backup_vault.bat.tmp.137300.aed415a79772",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
-    "_attachments/image/03曲线面积分，空间几何-1790210696251.jpeg",
-    "_attachments/image/03曲线面积分，空间几何-1790210441936.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片",
-    "2.知识库/23.正念/考研阶段速查指导.md.tmp.134944.b4a02d30b851",
-    "_attachments/image/高数1-1790170407644.jpeg",
-    "_attachments/image/高数1-1790170394596.jpeg",
-    "_attachments/image/00技巧-1790167309382.jpeg",
-    "_attachments/image/00技巧-1790155318453.jpeg",
-    "_attachments/image/高数1-1790153353499.jpeg",
-    "_attachments/image/高数1-1790153345789.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.6f55c537182a",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.c1ae8d142a66",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.0953a5fbb3ff",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.114908.b61efb2ab71a",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录",
-    "2. 知识库/20. North_star_ZJU/desktop.ini",
-    "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学/09 级数",
-    "2. 知识库/20. North_star_ZJU/201. 数学/01 高等数学",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/大纲自检.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/记忆：组帧与帧定界.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/英文.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/记忆：码距及结论.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：首部对比.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/理解：CSMA，CA.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/梳理逻辑.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/以太网的区别.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/三种帧maxmin长、格式.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/xx连接、xx可靠.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/CRC补充.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC表与ARP表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/MAC帧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/IEEE整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片/记忆--变量的字节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片/英文全称.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/assets/Pasted image 20260310195958.png",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/卡片",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/assets",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260309105458.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119201743.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260309105447.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260202122122.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260129102045.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119203106.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192401.png",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/02导数与微分/assets/Pasted image 20260119192425.png",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/assets/Pasted image 20260409105718.png",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/未命名.canvas"
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas"
   ]
 }

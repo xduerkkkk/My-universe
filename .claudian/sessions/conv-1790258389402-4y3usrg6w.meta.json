@@ -1,0 +1,23 @@
+{
+  "id": "conv-1790258389402-4y3usrg6w",
+  "providerId": "claude",
+  "title": "刚才要吓死我了 我刚不小心右键 把2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790258389402,
+  "updatedAt": 1790258529878,
+  "lastResponseAt": 1790258529878,
+  "sessionId": "ed578a02-c1a4-482e-b908-e65f010db97a",
+  "providerState": {
+    "providerSessionId": "ed578a02-c1a4-482e-b908-e65f010db97a"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 23849,
+    "cacheCreationInputTokens": 394,
+    "cacheReadInputTokens": 8423,
+    "contextWindow": 1000000,
+    "contextTokens": 32666,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

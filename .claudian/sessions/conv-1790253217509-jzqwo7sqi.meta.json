@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790253217509-jzqwo7sqi",
+  "providerId": "claude",
+  "title": "帮我把19：40-21：30的模块 改一下。我有个计划，是一个极其好的辅导资料，我进行乱序二刷。我算...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790253217512,
+  "updatedAt": 1790258310045,
+  "lastResponseAt": 1790254870162,
+  "sessionId": "f30da91d-504b-400a-a930-4773af4c7dea",
+  "providerState": {
+    "providerSessionId": "f30da91d-504b-400a-a930-4773af4c7dea"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 35404,
+    "cacheCreationInputTokens": 2567,
+    "cacheReadInputTokens": 29154,
+    "contextWindow": 1000000,
+    "contextTokens": 67125,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}
