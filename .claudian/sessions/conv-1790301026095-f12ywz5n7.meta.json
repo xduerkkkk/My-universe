@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790301026095-f12ywz5n7",
+  "providerId": "codex",
+  "title": "分析浙大计算机、AI与软件招生变化及报考博弈",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790301026095,
+  "updatedAt": 1790301262528,
+  "lastResponseAt": 1790301262528,
+  "sessionId": "01a0d641-c74b-7492-b3e6-c2a4d67ec6ef",
+  "providerState": {
+    "threadId": "01a0d641-c74b-7492-b3e6-c2a4d67ec6ef",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\25\\rollout-2026-09-25T09-50-35-01a0d641-c74b-7492-b3e6-c2a4d67ec6ef.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 26591,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16384,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26591,
+    "percentage": 2,
+    "model": "gpt-6-astra"
+  }
+}
