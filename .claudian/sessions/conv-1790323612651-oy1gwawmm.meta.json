@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790323612651-oy1gwawmm",
+  "providerId": "claude",
+  "title": "我现在算了一下，数学完全吃透真题，至少120分的话（这个假设是否成立，吃透指的是历年真题，随机抽一道...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790323612653,
+  "updatedAt": 1790324222621,
+  "lastResponseAt": 1790324222621,
+  "sessionId": "c296b66d-8269-4735-a1ad-ae691dcfa13f",
+  "providerState": {
+    "providerSessionId": "c296b66d-8269-4735-a1ad-ae691dcfa13f"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 23823,
+    "cacheCreationInputTokens": 1028,
+    "cacheReadInputTokens": 11111,
+    "contextWindow": 1000000,
+    "contextTokens": 35962,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
