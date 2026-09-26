@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790420616409-phcqsg1q0",
+  "providerId": "claude",
+  "title": "改一下，今天是9月26日，在其之前的规划可以全删了。 然后28号开21真题有点早，我还需要两个数学日...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790420616409,
+  "updatedAt": 1790426562797,
+  "lastResponseAt": 1790426562797,
+  "sessionId": "f1fa5304-f241-41e0-b860-2641a571dfec",
+  "providerState": {
+    "providerSessionId": "f1fa5304-f241-41e0-b860-2641a571dfec"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 18,
+    "cacheCreationInputTokens": 27,
+    "cacheReadInputTokens": 223910,
+    "contextWindow": 1000000,
+    "contextTokens": 223955,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
