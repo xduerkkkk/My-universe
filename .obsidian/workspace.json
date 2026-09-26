@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01计算机记忆"
+              "title": "00-规划一览【已废弃-2026-09-20】"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -259,7 +259,8 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,12 +289,19 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "968d613ad429c4ea",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.aae4a9cb4c70",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.6f4693ac904d",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.f29d1985caed",
+    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md",
+    "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2013--2016.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2009--2012.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "_attachments/image/01计算机记忆-1790390742107.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/协议的名字和层级.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
@@ -306,7 +314,6 @@
     "_attachments/image/高数1-1790387190201.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "_attachments/image/线代1-1790341617545.jpeg",
     "_attachments/image/线代2-1790340757520.jpeg",
     "_attachments/image/线代1-1790339890187.jpeg",
@@ -319,10 +326,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
     "0.核心/00.规划(Plan)/2.当前项目/草稿2.md",
     "0.核心/00.规划(Plan)/2.当前项目/草稿.md",
-    "0.核心/00.规划(Plan)/2.当前项目/答疑.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/未命名.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/07 二次型、合同与惯性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md",
     "_attachments/image/01粗心记录-1790304117058.jpeg",
     "_attachments/image/00技巧-1790302597872.jpeg",
     "_attachments/image/00技巧-1790302567561.jpeg",
@@ -334,8 +337,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/06二次型",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/07io/assets",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
