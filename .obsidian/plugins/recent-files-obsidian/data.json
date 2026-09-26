@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
       "basename": "单词句子2",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
     },
@@ -101,10 +117,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "00技巧",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "01-导师信息收集",
       "path": "0.核心/00.规划(Plan)/3.未来探索/01-导师信息收集.md"
-    },
-    {
-      "basename": "00-考研择校",
-      "path": "0.核心/00.规划(Plan)/3.未来探索/00-考研择校.md"
-    },
-    {
-      "basename": "day13",
-      "path": "2.知识库/23.正念/冥想日志/day13.md"
-    },
-    {
-      "basename": "day14",
-      "path": "2.知识库/23.正念/冥想日志/day14.md"
     }
   ],
   "omittedPaths": [
