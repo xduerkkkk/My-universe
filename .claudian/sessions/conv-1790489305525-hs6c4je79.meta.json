@@ -4,8 +4,8 @@
   "title": "我现在只想和你讨论这两个专业 浙大ai和浙大软院  ， ai是今年首年招生， 软院是今年首年缩招，从...",
   "titleGenerationStatus": "failed",
   "createdAt": 1790489305525,
-  "updatedAt": 1790490577051,
-  "lastResponseAt": 1790490577051,
+  "updatedAt": 1790506234057,
+  "lastResponseAt": 1790500121897,
   "sessionId": "a3722e4f-4aef-4822-aaa7-2e599c3f78ca",
   "providerState": {
     "providerSessionId": "a3722e4f-4aef-4822-aaa7-2e599c3f78ca"
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus[1m]",
     "inputTokens": 17,
-    "cacheCreationInputTokens": 124,
-    "cacheReadInputTokens": 44923,
+    "cacheCreationInputTokens": 25939,
+    "cacheReadInputTokens": 24635,
     "contextWindow": 1000000,
-    "contextTokens": 45064,
+    "contextTokens": 50591,
     "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
