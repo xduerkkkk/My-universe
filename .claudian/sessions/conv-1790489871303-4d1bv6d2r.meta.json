@@ -1,0 +1,26 @@
+{
+  "id": "conv-1790489871303-4d1bv6d2r",
+  "providerId": "codex",
+  "title": "比较浙大AI与软院考研的容错率及报考博弈",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790489871304,
+  "updatedAt": 1790490648886,
+  "lastResponseAt": 1790490648886,
+  "sessionId": "01a0e183-4b07-7510-bf0a-e9910985ab23",
+  "providerState": {
+    "threadId": "01a0e183-4b07-7510-bf0a-e9910985ab23",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\09\\27\\rollout-2026-09-27T14-17-58-01a0e183-4b07-7510-bf0a-e9910985ab23.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+  "usage": {
+    "inputTokens": 36301,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36301,
+    "percentage": 3,
+    "model": "gpt-6-astra"
+  }
+}
