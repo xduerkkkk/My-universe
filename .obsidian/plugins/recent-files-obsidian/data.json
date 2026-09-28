@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "02技巧大全",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "线代难考点",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03提防考点/线代难考点.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "Drawing 2026-09-27 21.24.21.excalidraw",
+      "path": "Excalidraw/Drawing 2026-09-27 21.24.21.excalidraw.md"
+    },
+    {
+      "basename": "01级数审敛大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
+    },
+    {
+      "basename": "02具体审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
+    },
+    {
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "03抽象审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "07线代扫盲",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/07线代扫盲.md"
     },
     {
       "basename": "单词句子3",
@@ -51,10 +115,6 @@
     {
       "basename": "01算法题题单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
     {
       "basename": "02基础习题",
@@ -113,42 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/堆.md"
     },
     {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "01级数审敛大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
-    },
-    {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "02具体审敛",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
-    },
-    {
-      "basename": "03抽象审敛",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "05 收敛域",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
       "basename": "草稿2",
       "path": "0.核心/00.规划(Plan)/2.当前项目/草稿2.md"
     },
@@ -165,10 +189,6 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/答疑.md"
     },
     {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
       "basename": "好文1",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文1.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "02-english",
       "path": "0.核心/00.规划(Plan)/2.当前项目/02-english.md"
-    },
-    {
-      "basename": "01-408",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/01-408.md"
-    },
-    {
-      "basename": "00-英语阶段详表 W6-W11（外刊主线）",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md"
-    },
-    {
-      "basename": "协议的名字和层级",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/协议的名字和层级.md"
-    },
-    {
-      "basename": "00-规划一览【已废弃-2026-09-20】",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md"
-    },
-    {
-      "basename": "408：2013--2016",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/套卷诊断/408：2013--2016.md"
     }
   ],
   "omittedPaths": [
