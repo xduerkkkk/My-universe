@@ -4,8 +4,8 @@
   "title": "调整数学日与408日的细粒度学习计划",
   "titleGenerationStatus": "success",
   "createdAt": 1790506345855,
-  "updatedAt": 1790506530635,
-  "lastResponseAt": 1790506530635,
+  "updatedAt": 1790766180559,
+  "lastResponseAt": 1790766180559,
   "sessionId": "01a0e27e-a660-7050-a50c-6562ef2a54da",
   "providerState": {
     "threadId": "01a0e27e-a660-7050-a50c-6562ef2a54da",
@@ -14,13 +14,13 @@
   },
   "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
   "usage": {
-    "inputTokens": 41670,
+    "inputTokens": 46254,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 40832,
+    "cacheReadInputTokens": 38196,
     "contextWindow": 1216000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 41670,
-    "percentage": 3,
+    "contextTokens": 46254,
+    "percentage": 4,
     "model": "gpt-6-astra"
   }
 }
