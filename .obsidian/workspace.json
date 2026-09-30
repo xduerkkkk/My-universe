@@ -40,21 +40,35 @@
             }
           },
           {
-            "id": "d7babce01721e581",
+            "id": "c3787a72615c70d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单词句子3"
+              "title": "00数学记忆"
+            }
+          },
+          {
+            "id": "6205c1bd4d2473e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "刷题笔记"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,9 +288,27 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d7babce01721e581",
+  "active": "6205c1bd4d2473e8",
   "lastOpenFiles": [
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
+    "_attachments/image/线代2-1790686968156.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "_attachments/image/线代1-1790686518884.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03提防考点/线代难考点.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片",
+    "_attachments/image/线代1-1790684957333.jpeg",
+    "_attachments/image/线代1-1790684947055.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/04错题复盘.md",
@@ -292,26 +324,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-注释分类整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/卡片/样本方差公式推导.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/08假设检验/01基础知识.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/模拟卷.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "_attachments/image/高数1-1790603536746.jpeg",
     "_attachments/image/高数1-1790603485739.jpeg",
     "_attachments/image/高数1-1790603459400.jpeg",
-    "_attachments/image/高数1-1790601990850.jpeg",
-    "_attachments/image/高数1-1790601171199.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/05 计算技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/04 特征值、秩与相似.md",
-    "_attachments/image/线代1-1790599878713.jpeg",
-    "_attachments/image/线代2-1790597379203.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03提防考点",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.33884.b272b8d69862",
@@ -321,7 +336,6 @@
     "backup_vault.bat",
     "backup_vault.bat.tmp.137300.aed415a79772",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
