@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "刷题笔记",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "01算法题题单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
+    },
+    {
+      "basename": "待刷1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md"
+    },
+    {
+      "basename": "粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
       "basename": "单词句子3",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
     },
@@ -13,28 +73,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/排序.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名 1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md"
-    },
-    {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md"
     },
     {
       "basename": "02王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/02王道笔记.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "CN-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
     },
     {
       "basename": "CO-技巧",
@@ -45,20 +89,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/01王道笔记.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/02王道题.md"
-    },
-    {
-      "basename": "01算法题题单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     },
     {
       "basename": "02王道题",
@@ -117,20 +149,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/01王道笔记.md"
     },
     {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
       "basename": "08-880强化",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/03积分学/08-880强化.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
       "basename": "数学2009-2012",
@@ -149,24 +169,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
     {
-      "basename": "刷题笔记",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
-    },
-    {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "待刷1",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
     {
       "basename": "01视频笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "05知识点整理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/05知识点整理.md"
-    },
-    {
-      "basename": "01王道视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/01王道视频.md"
     }
   ],
   "omittedPaths": [
