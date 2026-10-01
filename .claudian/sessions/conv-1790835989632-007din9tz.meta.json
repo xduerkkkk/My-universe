@@ -1,0 +1,23 @@
+{
+  "id": "conv-1790835989632-007din9tz",
+  "providerId": "claude",
+  "title": "你可以看图吗 这个南大智科是不是初试和复试五五开啊？？   以及，为什么虽然是五五开，淘汰的仍然是初...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790835989633,
+  "updatedAt": 1790836740607,
+  "lastResponseAt": 1790836740607,
+  "sessionId": "0afa195f-9401-4fbb-a0f6-e6b950d02237",
+  "providerState": {
+    "providerSessionId": "0afa195f-9401-4fbb-a0f6-e6b950d02237"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 3115,
+    "cacheReadInputTokens": 40986,
+    "contextWindow": 1000000,
+    "contextTokens": 44101,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
