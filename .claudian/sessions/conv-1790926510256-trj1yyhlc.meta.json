@@ -1,0 +1,23 @@
+{
+  "id": "conv-1790926510256-trj1yyhlc",
+  "providerId": "claude",
+  "title": "现在距离考前只有 79 天，把 12 月那 19 天的保温，复盘去掉。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790926510256,
+  "updatedAt": 1790927565087,
+  "lastResponseAt": 1790927565087,
+  "sessionId": "49665038-1c95-431f-8ea6-24b0deb2e625",
+  "providerState": {
+    "providerSessionId": "49665038-1c95-431f-8ea6-24b0deb2e625"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 73912,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 73912,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

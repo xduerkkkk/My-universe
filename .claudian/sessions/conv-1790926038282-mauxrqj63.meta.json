@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790926038282-mauxrqj63",
+  "providerId": "codex",
+  "title": "分析考研剩余79天冲刺浙软现状",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790926038283,
+  "updatedAt": 1790926526348,
+  "lastResponseAt": 1790926526348,
+  "sessionId": "01a0fb82-a5d1-7190-b602-e0b5da1fdf78",
+  "providerState": {
+    "threadId": "01a0fb82-a5d1-7190-b602-e0b5da1fdf78",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\02\\rollout-2026-10-02T15-27-23-01a0fb82-a5d1-7190-b602-e0b5da1fdf78.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 19725,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3712,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 19725,
+    "percentage": 8,
+    "model": "gpt-6.1-sol"
+  }
+}
