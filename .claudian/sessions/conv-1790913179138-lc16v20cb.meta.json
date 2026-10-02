@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790913179138-lc16v20cb",
+  "providerId": "claude",
+  "title": "这10天考了5次模拟  结果是非常烂啊 和我预想的130差太远了，也动摇了我的择校。现在修改冲刺计划...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790913179142,
+  "updatedAt": 1790913338841,
+  "lastResponseAt": 1790913338841,
+  "sessionId": "7eb6cf68-9ec5-4af8-96dd-05dea8a5f43f",
+  "providerState": {
+    "providerSessionId": "7eb6cf68-9ec5-4af8-96dd-05dea8a5f43f"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 13002,
+    "cacheReadInputTokens": 38821,
+    "contextWindow": 1000000,
+    "contextTokens": 51823,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
