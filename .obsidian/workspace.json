@@ -72,35 +72,21 @@
             }
           },
           {
-            "id": "7f9fae9d2819a1de",
+            "id": "c48712167424c1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/概率论建模.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率论建模"
-            }
-          },
-          {
-            "id": "2b1bc517ea5089fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "投影转换法理解"
+              "title": "02算法题重刷清单"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,45 +306,45 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "24b9ed6a0757633b",
+  "active": "d821850bab6d9ecb",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/03杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "0.核心/00.规划(Plan)/1.阶段性规划/10月2真题受挫.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/极坐标换元.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "_attachments/image/高数1-1791034227372.jpeg",
+    "_attachments/image/高数1-1791033971071.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
+    "_attachments/image/线代2-1791033119030.jpeg",
+    "_attachments/image/线代2-1791031730385.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "_attachments/image/线代1-1791030729156.jpeg",
+    "_attachments/image/线代1-1791030518648.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/03杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/概率论建模.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
     "_attachments/image/概率1-1791013330748.jpeg",
     "_attachments/image/概率1-1791012794209.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网流水线--看尾.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网TCP.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01流水线--看头.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组浮点数舍入.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/流程性薄弱点.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02数据结构排序.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/协议的名字和层级.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/校验码们.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/各种数据帧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/02首部对比.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/OS冷门.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/DS冷门.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/计组冷门.md",
     "_attachments/image/00数学记忆-1790998084726.jpeg",
     "_attachments/image/概率1-1790990979585.jpeg",
-    "_attachments/image/概率1-1790990068416.jpeg",
-    "_attachments/image/概率1-1790989071485.jpeg",
-    "_attachments/image/05知识点整理-1790912770020.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
-    "_attachments/image/线代2-1790861485425.jpeg",
-    "_attachments/image/高数1-1790860747332.jpeg",
-    "_attachments/image/05级数-1790859989403.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文",
