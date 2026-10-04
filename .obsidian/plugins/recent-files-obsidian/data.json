@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "04错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/04错题复盘.md"
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "单词句子3",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "同解",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md"
+    },
+    {
+      "basename": "03杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/03杜绝粗心.md"
     },
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md"
+    },
+    {
+      "basename": "00薄弱点记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "传输层-错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-错题复盘.md"
+    },
+    {
+      "basename": "传输层-知识点整理",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-知识点整理.md"
+    },
+    {
+      "basename": "04错题复盘",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/04错题复盘.md"
     },
     {
       "basename": "04错题复盘",
@@ -159,46 +199,6 @@
     {
       "basename": "图--五段指令流水线",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/图--五段指令流水线.md"
-    },
-    {
-      "basename": "图--微程序流程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/图--微程序流程.md"
-    },
-    {
-      "basename": "05知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/05知识点整理.md"
-    },
-    {
-      "basename": "00薄弱点记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md"
-    },
-    {
-      "basename": "02 消除所有低级错误计划",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "03杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/03杜绝粗心.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "03指令错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/03指令错题复盘.md"
-    },
-    {
-      "basename": "00视频勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/04指令/00视频勘察.md"
     }
   ],
   "omittedPaths": [
