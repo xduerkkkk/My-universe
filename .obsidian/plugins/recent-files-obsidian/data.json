@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "刷题笔记",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "04 二叉树模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md"
+    },
+    {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "03曲线面积分，空间几何",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md"
     }
   ],
   "omittedPaths": [

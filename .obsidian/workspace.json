@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02算法题重刷清单"
+              "title": "刷题笔记"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,13 +306,15 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "c48712167424c1ef",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "0.核心/00.规划(Plan)/1.阶段性规划/10月2真题受挫.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
@@ -338,10 +340,8 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/概率论建模.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
     "_attachments/image/概率1-1791013330748.jpeg",
     "_attachments/image/概率1-1791012794209.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
     "_attachments/image/00数学记忆-1790998084726.jpeg",
     "_attachments/image/概率1-1790990979585.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
