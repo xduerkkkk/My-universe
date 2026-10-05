@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "手稿错题索引",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md"
+    },
+    {
+      "basename": "01粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
       "basename": "刷题笔记",
       "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
     },
@@ -29,24 +73,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "03曲线面积分，空间几何",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "02 消除所有低级错误计划",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md"
     },
     {
       "basename": "单词句子3",
@@ -57,24 +85,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
     },
     {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
       "basename": "同解",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md"
-    },
-    {
-      "basename": "03杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/03杜绝粗心.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "01王道笔记",
@@ -187,18 +199,6 @@
     {
       "basename": "05知识点整理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/05知识点整理.md"
-    },
-    {
-      "basename": "视频初步勘察",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/视频初步勘察.md"
-    },
-    {
-      "basename": "01英文缩写",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/01英文缩写.md"
-    },
-    {
-      "basename": "03大题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/03大题.md"
     }
   ],
   "omittedPaths": [
