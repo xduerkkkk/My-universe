@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "00薄弱点记录",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00绪论/01王道笔记.md"
+    },
+    {
       "basename": "概率2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
     },
     {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
     {
       "basename": "手稿错题索引",
@@ -31,10 +43,6 @@
     {
       "basename": "高数1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "线代1",
@@ -91,10 +99,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md"
-    },
-    {
-      "basename": "00薄弱点记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md"
     },
     {
       "basename": "DS-技巧",
@@ -195,10 +199,6 @@
     {
       "basename": "02王道题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/02王道题.md"
-    },
-    {
-      "basename": "05知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/05知识点整理.md"
     }
   ],
   "omittedPaths": [
