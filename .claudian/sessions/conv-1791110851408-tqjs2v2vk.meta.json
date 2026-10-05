@@ -4,8 +4,8 @@
   "title": "分析27考研竞争格局与捡漏趋势",
   "titleGenerationStatus": "success",
   "createdAt": 1791110851409,
-  "updatedAt": 1791111040149,
-  "lastResponseAt": 1791111040149,
+  "updatedAt": 1791202337776,
+  "lastResponseAt": 1791200960788,
   "sessionId": "01a10686-accc-7bc3-a147-05cb506df324",
   "providerState": {
     "threadId": "01a10686-accc-7bc3-a147-05cb506df324",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 64459,
+    "inputTokens": 30032,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 13696,
+    "cacheReadInputTokens": 4352,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 64459,
-    "percentage": 25,
+    "contextTokens": 30032,
+    "percentage": 12,
     "model": "gpt-6.1-sol"
   }
 }
