@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "刷题笔记",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "待刷3",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md"
+    },
+    {
+      "basename": "待刷2",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md"
+    },
+    {
+      "basename": "待刷1",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md"
+    },
+    {
+      "basename": "04 二叉树模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md"
+    },
+    {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "03曲线面积分，空间几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "02 消除所有低级错误计划",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02 消除所有低级错误计划.md"
     },
     {
       "basename": "单词句子3",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
     },
     {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
     {
       "basename": "同解",
@@ -147,58 +199,6 @@
     {
       "basename": "03大题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/03大题.md"
-    },
-    {
-      "basename": "04错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/04错题复盘.md"
-    },
-    {
-      "basename": "001视频",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/001视频.md"
-    },
-    {
-      "basename": "002王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/002王道题.md"
-    },
-    {
-      "basename": "辨析--不同通路下的ALU",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/辨析--不同通路下的ALU.md"
-    },
-    {
-      "basename": "单周期处理器与多周期处理器区别",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/单周期处理器与多周期处理器区别.md"
-    },
-    {
-      "basename": "记忆--流水线性能指标",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/记忆--流水线性能指标.md"
-    },
-    {
-      "basename": "记忆--大题中的硬件",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/记忆--大题中的硬件.md"
-    },
-    {
-      "basename": "记忆--数据通路中的信号",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/记忆--数据通路中的信号.md"
-    },
-    {
-      "basename": "记忆--五段流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/记忆--五段流水线.md"
-    },
-    {
-      "basename": "记忆--CPU宏观结构",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/记忆--CPU宏观结构.md"
-    },
-    {
-      "basename": "解码--指令与微指令",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/解码--指令与微指令.md"
-    },
-    {
-      "basename": "理解--控制冒险",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/理解--控制冒险.md"
-    },
-    {
-      "basename": "图--五段指令流水线",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/05cpu工作/00卡片/图--五段指令流水线.md"
     }
   ],
   "omittedPaths": [
