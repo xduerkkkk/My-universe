@@ -98,9 +98,23 @@
               "icon": "lucide-file",
               "title": "计算错误"
             }
+          },
+          {
+            "id": "79e07171b9189b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02算法题重刷清单"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,6 +223,20 @@
               "state": {},
               "icon": "bot",
               "title": "Claudian"
+            }
+          },
+          {
+            "id": "3b0c617caae7b551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00代码输出30天训练计划"
             }
           },
           {
@@ -291,11 +319,12 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 314.9461669921875
+    "width": 458.2076416015625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,15 +349,28 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "918f0b32f5b4afff",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练07-Day7-链表限时模拟.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练06-Day6-新题思路与旧题重写.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练02-Day2-数组删除与压缩.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练01-Day1-数组去重基线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练00-总框架.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "_attachments/image/数学杜绝粗心-1791258290846.jpeg",
     "_attachments/image/数学杜绝粗心-1791258283480.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
     "_attachments/image/计算错误-1791257791168.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
     "_attachments/image/线代2-1791257228914.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
@@ -344,21 +386,8 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/收敛半径.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划-重构前备份-2026-10-05-222938.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
     "_attachments/image/线代2-1791206752342.jpeg",
     "_attachments/image/线代1-1791206296251.jpeg",
-    "_attachments/image/概率1-1791203917968.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片",

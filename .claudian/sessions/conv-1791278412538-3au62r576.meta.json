@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791278412538-3au62r576",
+  "providerId": "codex",
+  "title": "制定每天半小时的30天算法编程训练计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791278412542,
+  "updatedAt": 1791280059055,
+  "lastResponseAt": 1791280059055,
+  "sessionId": "01a11083-7459-7f82-831f-769ca24dff53",
+  "providerState": {
+    "threadId": "01a11083-7459-7f82-831f-769ca24dff53",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\06\\rollout-2026-10-06T17-20-17-01a11083-7459-7f82-831f-769ca24dff53.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 62493,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54784,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 62493,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}
