@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
+    },
+    {
+      "basename": "02大观题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "收敛半径",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/收敛半径.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
     },
     {
       "basename": "02算法题重刷清单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "待刷3",
@@ -37,28 +97,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
       "basename": "线代2-1791206752342",
       "path": "_attachments/image/线代2-1791206752342.jpeg"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
       "basename": "线代薄弱",
@@ -73,24 +117,12 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/二次型配方法原理.md"
     },
     {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
       "basename": "手稿错题索引",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md"
     },
     {
       "basename": "02习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
     },
     {
       "basename": "02随机变量-题型检索整理",
@@ -137,10 +169,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00绪论/01王道笔记.md"
     },
     {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "高数1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "DS-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "传输层-错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-错题复盘.md"
-    },
-    {
-      "basename": "传输层-知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/传输层-知识点整理.md"
-    },
-    {
-      "basename": "04错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/04错题复盘.md"
-    },
-    {
-      "basename": "04错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/04错题复盘.md"
-    },
-    {
-      "basename": "01计网各协议各层各端口",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md"
-    },
-    {
-      "basename": "01计网 IP地址",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网 IP地址.md"
-    },
-    {
-      "basename": "数据包旅程-主线骨架",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas"
     }
   ],
   "omittedPaths": [

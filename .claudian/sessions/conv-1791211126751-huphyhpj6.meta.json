@@ -4,8 +4,8 @@
   "title": "规划11月7日前数学与408真题、模拟卷及错题复习安排",
   "titleGenerationStatus": "success",
   "createdAt": 1791211126751,
-  "updatedAt": 1791211816786,
-  "lastResponseAt": 1791211816786,
+  "updatedAt": 1791247414206,
+  "lastResponseAt": 1791247414206,
   "sessionId": "01a10c80-c09e-7f62-bb92-195738a71c75",
   "providerState": {
     "threadId": "01a10c80-c09e-7f62-bb92-195738a71c75",
@@ -14,13 +14,13 @@
   },
   "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
   "usage": {
-    "inputTokens": 31495,
+    "inputTokens": 48565,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28416,
+    "cacheReadInputTokens": 0,
     "contextWindow": 1216000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 31495,
-    "percentage": 3,
+    "contextTokens": 48565,
+    "percentage": 4,
     "model": "gpt-6-astra"
   }
 }
