@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791209826218-d0y8ox3nt",
+  "providerId": "codex",
+  "title": "评估11月7日前完成数学与408刷题复盘的可行性",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791209826222,
+  "updatedAt": 1791210690261,
+  "lastResponseAt": 1791210690261,
+  "sessionId": "01a10c6c-e8fa-7d31-80c7-59e7e604c0bd",
+  "providerState": {
+    "threadId": "01a10c6c-e8fa-7d31-80c7-59e7e604c0bd",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\05\\rollout-2026-10-05T22-17-11-01a10c6c-e8fa-7d31-80c7-59e7e604c0bd.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 30600,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30336,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30600,
+    "percentage": 12,
+    "model": "gpt-6.1-sol"
+  }
+}

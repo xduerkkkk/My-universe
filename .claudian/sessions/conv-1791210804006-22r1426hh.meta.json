@@ -1,0 +1,23 @@
+{
+  "id": "conv-1791210804006-22r1426hh",
+  "providerId": "claude",
+  "title": "现在10月5 408还有9套真题，数学还有5套真题， 精选的20套模拟卷，， 如果我想11月7号，完...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1791210804006,
+  "updatedAt": 1791211037106,
+  "lastResponseAt": 1791211024051,
+  "sessionId": "af2f5994-c3fc-479e-9fec-ab7806323c1f",
+  "providerState": {
+    "providerSessionId": "af2f5994-c3fc-479e-9fec-ab7806323c1f"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 9536,
+    "cacheReadInputTokens": 46064,
+    "contextWindow": 1000000,
+    "contextTokens": 55600,
+    "percentage": 6
+  }
+}

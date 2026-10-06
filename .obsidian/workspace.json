@@ -72,49 +72,21 @@
             }
           },
           {
-            "id": "3b1b5353c1dbab88",
+            "id": "a050f0a92f5c9173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率1"
-            }
-          },
-          {
-            "id": "5ef57984a75a4f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线代薄弱"
-            }
-          },
-          {
-            "id": "4561808228b60823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线代1"
+              "title": "02算法题重刷清单"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,11 +158,12 @@
               "title": "当前冲刺规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 314.91925048828125
+    "width": 456.703857421875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -206,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,7 +278,8 @@
               "title": "反向链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,12 +308,24 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "4561808228b60823",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
-    "_attachments/image/线代1-1791206296251.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划-重构前备份-2026-10-05-222938.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
+    "_attachments/image/线代2-1791206752342.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "_attachments/image/线代1-1791206296251.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md",
@@ -354,24 +340,12 @@
     "_attachments/image/概率1-1791203005595.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "0.核心/00.规划(Plan)/2.当前项目/02-english.md",
-    "0.核心/00.规划(Plan)/2.当前项目/03-AI.md",
-    "0.核心/00.规划(Plan)/2.当前项目/01-408.md",
-    "0.核心/00.规划(Plan)/2.当前项目/00-英语阶段详表 W6-W11（外刊主线）.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "_attachments/image/概率1-1791201527845.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/好文2.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00薄弱点记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00绪论/01王道笔记.md",
     "_attachments/image/01计算机记忆-1791182011659.jpeg",
     "_attachments/image/概率2-1791181238885.jpeg",
     "_attachments/image/概率2-1791179727336.jpeg",
     "_attachments/image/概率2-1791178454850.jpeg",
     "_attachments/image/概率2-1791168378934.jpeg",
-    "_attachments/image/高数1-1791118812244.jpeg",
-    "_attachments/image/线代1-1791117135563.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片",
