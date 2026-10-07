@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练01-Day1-数组去重基线.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,19 +334,19 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "315aa763e2b3897f",
+  "active": "918f0b32f5b4afff",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练01-Day1-数组去重基线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练00-总框架.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练02-Day2-数组删除与压缩.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练01-Day1-数组去重基线.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
