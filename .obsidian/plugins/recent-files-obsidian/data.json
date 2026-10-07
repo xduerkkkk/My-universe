@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "cache代码访存缺失类题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "单词句子3",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
+    },
+    {
+      "basename": "单词好句4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
+    },
+    {
+      "basename": "单词句子1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
+    },
+    {
+      "basename": "主存",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/主存.md"
+    },
+    {
+      "basename": "04OS调用，进程切换",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md"
     },
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
-      "basename": "主存",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/主存.md"
+      "basename": "05OS死锁，同步，信号量",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05OS死锁，同步，信号量.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
+      "basename": "03计组浮点数舍入",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组浮点数舍入.md"
+    },
+    {
+      "basename": "01流水线--看头",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01流水线--看头.md"
+    },
+    {
+      "basename": "02DS 数据结构应用",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS 数据结构应用.md"
+    },
+    {
+      "basename": "01计网TCP",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网TCP.md"
+    },
+    {
+      "basename": "01视频笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/01视频笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/02王道题.md"
+    },
+    {
+      "basename": "地址及内存分配",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/地址及内存分配.md"
+    },
+    {
+      "basename": "cache代码访存缺失类题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
     },
     {
       "basename": "问题记录2",
@@ -31,10 +103,6 @@
     {
       "basename": "01存储系统概述",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/01存储系统概述.md"
-    },
-    {
-      "basename": "03计组浮点数舍入",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组浮点数舍入.md"
     },
     {
       "basename": "判断--是否是xx",
@@ -71,18 +139,6 @@
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "训练00-总框架",
@@ -125,14 +181,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
-      "basename": "单词好句4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
-    },
-    {
-      "basename": "单词句子3",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
-    },
-    {
       "basename": "收敛半径",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/卡片/收敛半径.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "01算法题题单",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
-    },
-    {
-      "basename": "02大观题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "待刷3",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md"
-    },
-    {
-      "basename": "待刷1",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷1.md"
     }
   ],
   "omittedPaths": [
