@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "数学杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+      "basename": "单词好句4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
     },
     {
       "basename": "概率2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "单词句子3",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
+    },
+    {
+      "basename": "单词句子2",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "高数1",
@@ -37,10 +61,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "计算错误",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     },
@@ -55,10 +75,6 @@
     {
       "basename": "03曲线面积分，空间几何",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "02算法题重刷清单",
@@ -125,20 +141,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02数据链路层/00卡片/三种帧maxmin长、格式.md"
     },
     {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
       "basename": "概率论建模好题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md"
-    },
-    {
-      "basename": "单词句子3",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
-    },
-    {
-      "basename": "单词好句4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
     },
     {
       "basename": "单词句子1",
@@ -195,10 +199,6 @@
     {
       "basename": "cache代码访存缺失类题",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
-    },
-    {
-      "basename": "问题记录2",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/问题记录2.md"
     }
   ],
   "omittedPaths": [
