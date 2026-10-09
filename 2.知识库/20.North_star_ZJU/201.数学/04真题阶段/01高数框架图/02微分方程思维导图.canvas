@@ -4,6 +4,14 @@
 		{"id":"ff1de788b89613c3","type":"group","x":-880,"y":160,"width":1740,"height":820,"label":"一阶微分方程"},
 		{"id":"0664ba13192f6ab1","type":"group","x":-880,"y":-640,"width":893,"height":670,"label":"可分离变量"},
 		{"id":"4a1874871052a7c5","type":"group","x":560,"y":340,"width":300,"height":560,"label":"注意事项"},
+		{"id":"ecb065304c8b89e3","type":"text","text":"视角切换：$y$ 被套在复杂的式子里（比如 $\\ln y, y^2, e^y$），但 $x$ 是孤零零的一次项。\n\n令 $x' = \\frac{dx}{dy}$\n\n$$\\frac{dy}{dx} = \\frac{1}{x + y^2}$$\n\n$$\\frac{dx}{dy} = x + y^2$$\n","x":-260,"y":-629,"width":258,"height":280},
+		{"id":"cf7788e2a237275c","type":"text","text":"# 可分离微分\n标准形式：\n$$y' = 2xy$$","x":-660,"y":-540,"width":190,"height":191},
+		{"id":"e5f4863cd693200b","type":"text","text":"凑微分 ：看到特定的 $xdx$、$ydy$、$xdy$、$ydx$ 组合\n- $xdy + ydx = d(xy)$\n- $xdy - ydx = x^2 d(\\frac{y}{x})$\n- $xdx + ydy = \\frac{1}{2} d(x^2+y^2)$","x":-340,"y":-212,"width":250,"height":213},
+		{"id":"18a736b738301183","type":"text","text":"整体换元，$x$ 和 $y$ 被加减号绑在一起，还被套在括号、平方、或者其他函数里\n$$y' = (x+y)^2$$\n","x":-640,"y":-184,"width":250,"height":156},
+		{"id":"13fcf15bb4717a6d","type":"text","text":"齐次方程，令 **$u = \\frac{y}{x}$**：\n$$xy' = x + y$$","x":-855,"y":-162,"width":195,"height":100},
+		{"id":"a47b37396e170769","type":"text","text":"# 一阶线性微分方程\n$$y' + P(x)y = Q(x)$$\n通解：\n$$y = e^{-\\int P(x)dx} \\left( \\int Q(x) e^{\\int P(x)dx} dx + C \\right)$$","x":-337,"y":180,"width":317,"height":200},
+		{"id":"7d433fc20fff9370","type":"text","text":"通解推导：面对 $y' + P(x)y = Q(x)$，数学家觉得左边很丑。要是能把它变成某个乘积的导数 $(u \\cdot y)' = u \\cdot y' + u' \\cdot y$ 该多好啊！\n\n1. **强行同乘一个未知函数 $u(x)$：**\n    \n    $$u \\cdot y' + u \\cdot P(x) \\cdot y = u \\cdot Q(x)$$\n    \n2. **强行凑微分：**\n    \n    对比 $(u \\cdot y)' = u \\cdot y' + u' \\cdot y$，我们发现，只要让 **$u' = u \\cdot P(x)$**，左边就能完美打包！\n    \n3. **把这个 $u(x)$ 抓出来：**\n    \n    解这个小方程：$\\frac{du}{dx} = u P(x) \\implies \\frac{du}{u} = P(x)dx$\n    \n    两边积分：$\\ln|u| = \\int P(x)dx$\n    \n    解出 $u$：**$u(x) = e^{\\int P(x)dx}$**。（这个极其关键的函数，数学界尊称它为**“积分因子”**）。\n    \n4. **见证奇迹的打包：**\n    \n    把算出来的积分因子乘回原方程，左边瞬间打包成：\n    \n    $$(y \\cdot e^{\\int P(x)dx})' = Q(x) e^{\\int P(x)dx}$$\n    \n5. **两边同时积分脱掉导数外衣：**\n    \n    $$y \\cdot e^{\\int P(x)dx} = \\int Q(x) e^{\\int P(x)dx} dx + C$$\n    \n6. **把 $e^{\\int P(x)dx}$ 除过去，公式诞生！**\n    \n    $$y = e^{-\\int P(x)dx} \\left( \\int Q(x) e^{\\int P(x)dx} dx + C \\right)$$","x":-860,"y":181,"width":414,"height":219,"color":"3"},
+		{"id":"5c1d3bd2e8c05d05","type":"text","text":"### 伯努利\n$$y' + P(x)y = Q(x)y^n$$\n$$y^{-n}y' + P(x)y^{1-n} = Q(x)$$\n   令 **$z = y^{1-n}$**\n","x":-587,"y":536,"width":250,"height":168},
 		{"id":"f65200b45f3e5dee","type":"text","text":"### 方程里“缺 x”\n![](2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/assets/Pasted%20image%2020260319223737.png)\n\n只能看到 $y, y', y''$\n既然 $x$ 消失了，那我们就**强行把 $y$ 变成新的自变量**！\n\n令 $y' = p(y)$。（注意：此时 $p$ 是 $y$ 的函数，而 $y$ 又是 $x$ 的函数，这是个**复合函数**）\n\n$$y'' = \\frac{dp}{dx} = \\frac{dp}{dy} \\cdot \\frac{dy}{dx}$$\n把它们代入原方程，方程变成了 $F(y, p, p \\frac{dp}{dy}) = 0$。\n\n","x":0,"y":500,"width":362,"height":460},
 		{"id":"cb86ebc4948b0d47","type":"text","text":"### 方程里“ 缺 $y$ ” \n只能看到 $x, y', y\"$\n- 令 $y' = p(x)$\n- 那么对其求导，自然得到 $y'' = \\frac{dp}{dx} = p'$","x":-304,"y":536,"width":251,"height":199},
 		{
@@ -17,14 +25,6 @@
 			"height":280,
 			"color":"1"
 		},
-		{"id":"ecb065304c8b89e3","type":"text","text":"视角切换：$y$ 被套在复杂的式子里（比如 $\\ln y, y^2, e^y$），但 $x$ 是孤零零的一次项。\n\n令 $x' = \\frac{dx}{dy}$\n\n$$\\frac{dy}{dx} = \\frac{1}{x + y^2}$$\n\n$$\\frac{dx}{dy} = x + y^2$$\n","x":-260,"y":-629,"width":258,"height":280},
-		{"id":"cf7788e2a237275c","type":"text","text":"# 可分离微分\n标准形式：\n$$y' = 2xy$$","x":-660,"y":-540,"width":190,"height":191},
-		{"id":"e5f4863cd693200b","type":"text","text":"凑微分 ：看到特定的 $xdx$、$ydy$、$xdy$、$ydx$ 组合\n- $xdy + ydx = d(xy)$\n- $xdy - ydx = x^2 d(\\frac{y}{x})$\n- $xdx + ydy = \\frac{1}{2} d(x^2+y^2)$","x":-340,"y":-212,"width":250,"height":213},
-		{"id":"18a736b738301183","type":"text","text":"整体换元，$x$ 和 $y$ 被加减号绑在一起，还被套在括号、平方、或者其他函数里\n$$y' = (x+y)^2$$\n","x":-640,"y":-184,"width":250,"height":156},
-		{"id":"13fcf15bb4717a6d","type":"text","text":"齐次方程，令 **$u = \\frac{y}{x}$**：\n$$xy' = x + y$$","x":-855,"y":-162,"width":195,"height":100},
-		{"id":"a47b37396e170769","type":"text","text":"# 一阶线性微分方程\n$$y' + P(x)y = Q(x)$$\n通解：\n$$y = e^{-\\int P(x)dx} \\left( \\int Q(x) e^{\\int P(x)dx} dx + C \\right)$$","x":-337,"y":180,"width":317,"height":200},
-		{"id":"7d433fc20fff9370","type":"text","text":"通解推导：面对 $y' + P(x)y = Q(x)$，数学家觉得左边很丑。要是能把它变成某个乘积的导数 $(u \\cdot y)' = u \\cdot y' + u' \\cdot y$ 该多好啊！\n\n1. **强行同乘一个未知函数 $u(x)$：**\n    \n    $$u \\cdot y' + u \\cdot P(x) \\cdot y = u \\cdot Q(x)$$\n    \n2. **强行凑微分：**\n    \n    对比 $(u \\cdot y)' = u \\cdot y' + u' \\cdot y$，我们发现，只要让 **$u' = u \\cdot P(x)$**，左边就能完美打包！\n    \n3. **把这个 $u(x)$ 抓出来：**\n    \n    解这个小方程：$\\frac{du}{dx} = u P(x) \\implies \\frac{du}{u} = P(x)dx$\n    \n    两边积分：$\\ln|u| = \\int P(x)dx$\n    \n    解出 $u$：**$u(x) = e^{\\int P(x)dx}$**。（这个极其关键的函数，数学界尊称它为**“积分因子”**）。\n    \n4. **见证奇迹的打包：**\n    \n    把算出来的积分因子乘回原方程，左边瞬间打包成：\n    \n    $$(y \\cdot e^{\\int P(x)dx})' = Q(x) e^{\\int P(x)dx}$$\n    \n5. **两边同时积分脱掉导数外衣：**\n    \n    $$y \\cdot e^{\\int P(x)dx} = \\int Q(x) e^{\\int P(x)dx} dx + C$$\n    \n6. **把 $e^{\\int P(x)dx}$ 除过去，公式诞生！**\n    \n    $$y = e^{-\\int P(x)dx} \\left( \\int Q(x) e^{\\int P(x)dx} dx + C \\right)$$","x":-860,"y":181,"width":414,"height":219,"color":"3"},
-		{"id":"5c1d3bd2e8c05d05","type":"text","text":"### 伯努利\n$$y' + P(x)y = Q(x)y^n$$\n$$y^{-n}y' + P(x)y^{1-n} = Q(x)$$\n   令 **$z = y^{1-n}$**\n","x":-587,"y":536,"width":250,"height":168},
 		{
 			"id":"a269d44b621f3806",
 			"type":"text",
@@ -59,6 +59,16 @@
 			"y":2620,
 			"width":380,
 			"height":380
+		},
+		{
+			"id":"2c1a09de61ceba74",
+			"type":"text",
+			"text":"# 换元技巧性\n## 分子分母有常数\n![[_attachments/image/模拟卷高数-1791541919297.jpeg]]\n\n看到 $\\frac{\\mathrm{d}y}{\\mathrm{d}x} = \\frac{a_1x + b_1y + c_1}{a_2x + b_2y + c_2}$ 这种一次二元分式：\n\n1. **若两条直线相交**（即 $\\frac{a_1}{a_2} \\ne \\frac{b_1}{b_2}$）：\n   * 联立直线求交点 $(x_0, y_0)$；\n   * 令 $X = x - x_0$，$Y = y - y_0$，**平移消去常数项**，化为齐次方程。\n2. **若两条直线平行**（即系数成比例 $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = k$）：\n   * 甚至不需要平移，直接**整体换元**，令 $u = a_1x + b_1y$ 即可分离变量。\n\n\n",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":-380,
+			"width":320,
+			"height":318
 		}
 	],
 	"edges":[

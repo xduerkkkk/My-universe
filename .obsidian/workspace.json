@@ -72,20 +72,21 @@
             }
           },
           {
-            "id": "e432d09ae5babad5",
+            "id": "179063007ea78eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS-技巧"
+              "title": "训练04-Day4-链表删除与平均值"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,10 +320,28 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "1372fd2bda90d24e",
+  "active": "179063007ea78eee",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练07-Day7-链表限时模拟.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练02-Day2-数组删除与压缩.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
+    "_attachments/image/模拟卷高数-1791541919297.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理.md",
@@ -330,24 +349,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--多级索引思想.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
     "_attachments/image/数学杜绝粗心-1791509352517.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
-    "2.知识库/20.North_star_ZJU/203.政治/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练02-Day2-数组删除与压缩.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练07-Day7-链表限时模拟.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练06-Day6-新题思路与旧题重写.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/高数1-1791466827402.jpeg",
     "_attachments/image/高数1-1791466349699.jpeg",
     "_attachments/image/概率2-1791464515565.jpeg",
@@ -356,7 +360,6 @@
     "_attachments/image/概率1-1791460696707.jpeg",
     "_attachments/image/概率1-1791459746873.jpeg",
     "_attachments/image/概率1-1791431154273.jpeg",
-    "_attachments/image/线代2-1791429624181.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
@@ -367,9 +370,7 @@
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.aae4a9cb4c70",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.6f4693ac904d",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.31312.f29d1985caed",
-    "backup_vault.bat",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
