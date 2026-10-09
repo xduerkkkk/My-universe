@@ -72,21 +72,20 @@
             }
           },
           {
-            "id": "dfb8c3fe7a505366",
+            "id": "e432d09ae5babad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "刷题笔记"
+              "title": "OS-技巧"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,16 +319,28 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "dfb8c3fe7a505366",
+  "active": "1372fd2bda90d24e",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/203.政治/未命名.md",
-    "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "0.核心/00.规划(Plan)/0.北极星_NorthStar/03-关于我.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "_attachments/image/数学杜绝粗心-1791509352517.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+    "2.知识库/20.North_star_ZJU/203.政治/未命名.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练03-Day3-划分与快速选择.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练02-Day2-数组删除与压缩.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md",
@@ -339,25 +350,13 @@
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/高数1-1791466827402.jpeg",
     "_attachments/image/高数1-1791466349699.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
     "_attachments/image/概率2-1791464515565.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
     "_attachments/image/计算错误-1791463975279.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
     "_attachments/image/概率1-1791462112439.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
     "_attachments/image/概率1-1791460696707.jpeg",
     "_attachments/image/概率1-1791459746873.jpeg",
     "_attachments/image/概率1-1791431154273.jpeg",
     "_attachments/image/线代2-1791429624181.jpeg",
-    "_attachments/image/计算错误-1791428897763.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点",
