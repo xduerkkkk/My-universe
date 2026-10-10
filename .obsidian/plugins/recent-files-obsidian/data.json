@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
-      "basename": "02微分方程思维导图",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas"
-    },
-    {
       "basename": "408 杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "概率论建模好题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "概率薄弱",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md"
+    },
+    {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "02微分方程思维导图",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas"
     },
     {
       "basename": "04OS调用，进程切换",
@@ -35,10 +67,6 @@
     {
       "basename": "CO-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
       "basename": "训练04-Day4-链表删除与平均值",
@@ -79,14 +107,6 @@
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
-      "basename": "模拟卷线代",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
     },
     {
       "basename": "00模拟卷粗心记录",
@@ -145,10 +165,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
       "basename": "单词好句4",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
     },
@@ -169,10 +185,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md"
     },
     {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
       "basename": "线代2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "02习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md"
-    },
-    {
-      "basename": "单词句子3",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md"
-    },
-    {
-      "basename": "单词句子2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
     }
   ],
   "omittedPaths": [
