@@ -1,0 +1,26 @@
+{
+  "id": "conv-1791630858682-2ybouy21l",
+  "providerId": "codex",
+  "title": "我先看 `CLAUDIAN.md` 和当前规划文件，确认数学、408 的既有节奏，再给你一版英...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791630858683,
+  "updatedAt": 1791632744297,
+  "lastResponseAt": 1791632744297,
+  "sessionId": "01a12585-5b01-77f1-b9e5-a2637a1dea69",
+  "providerState": {
+    "threadId": "01a12585-5b01-77f1-b9e5-a2637a1dea69",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T19-14-24-01a12585-5b01-77f1-b9e5-a2637a1dea69.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 127039,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 125184,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 127039,
+    "percentage": 10,
+    "model": "gpt-6-astra"
+  }
+}
