@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/01物理层/02王道题.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
       "basename": "概率1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
@@ -11,18 +43,6 @@
     {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
     },
     {
       "basename": "概率论建模好题",
@@ -51,14 +71,6 @@
     {
       "basename": "04OSIO流程串联",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     },
     {
       "basename": "CN-技巧",
@@ -111,10 +123,6 @@
     {
       "basename": "00模拟卷粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "辨析-目录文件的样子，inode的样子",
@@ -191,14 +199,6 @@
     {
       "basename": "01视频笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/01视频笔记.md"
-    },
-    {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02习题.md"
-    },
-    {
-      "basename": "02习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md"
     }
   ],
   "omittedPaths": [
