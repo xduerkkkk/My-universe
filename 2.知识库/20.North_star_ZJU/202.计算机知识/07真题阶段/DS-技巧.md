@@ -12,6 +12,8 @@ BFS 找最短路径，
 
 链表就不要初始化指针为头结点了，应初始化为头结点的 next！这样循环是 while (p!=NULL) 
 
+链表操作写逻辑时，先处理pre 后处理 p
+
 快排Partition 里必须是 low < high, 如果改成 while (low <= high),- 指针没有发生任何移动，导致**死循环**！;A[high] >= pivot（带等号）!
 
 
