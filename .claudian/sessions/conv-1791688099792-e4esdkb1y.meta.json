@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791688099792-e4esdkb1y",
+  "providerId": "claude",
+  "title": "这题能挂到哪",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1791688099801,
+  "updatedAt": 1791688643502,
+  "lastResponseAt": 1791688262851,
+  "sessionId": "76919204-6346-4a17-851b-0417e0425617",
+  "providerState": {
+    "providerSessionId": "76919204-6346-4a17-851b-0417e0425617"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 926,
+    "cacheReadInputTokens": 67296,
+    "contextWindow": 1000000,
+    "contextTokens": 68223,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

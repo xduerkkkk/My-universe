@@ -1,0 +1,26 @@
+{
+  "id": "conv-1791688721379-wbw2hd020",
+  "providerId": "codex",
+  "title": "重构笔记为简洁人话版并另附渐进例题与折叠答案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791688721379,
+  "updatedAt": 1791691243659,
+  "lastResponseAt": 1791691243659,
+  "sessionId": "01a128f8-45e1-72d2-abae-8e117f2c1bba",
+  "providerState": {
+    "threadId": "01a128f8-45e1-72d2-abae-8e117f2c1bba",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\11\\rollout-2026-10-11T11-18-46-01a128f8-45e1-72d2-abae-8e117f2c1bba.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+  "usage": {
+    "inputTokens": 86760,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85632,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 86760,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
+}
