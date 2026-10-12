@@ -72,35 +72,21 @@
             }
           },
           {
-            "id": "2f20871962d75ce5",
+            "id": "6609fd221c561b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS-技巧"
-            }
-          },
-          {
-            "id": "0bac5e848d0ad974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03计组总线等计算题"
+              "title": "线代薄弱"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,8 +320,12 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "0bac5e848d0ad974",
+  "active": "6609fd221c561b56",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
@@ -350,9 +340,7 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/02王道笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/反函数.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练06-Day6-新题思路与旧题重写.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md",
@@ -365,8 +353,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
     "_attachments/image/408 杜绝粗心-1791724036639.jpeg",
     "_attachments/image/高数1-1791723238794.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
     "_attachments/image/小作文-1791717197264.jpeg",
     "_attachments/image/计算错误-1791690549318.jpeg",
     "_attachments/image/09中值定理与证明-文字版-1791688392282.jpeg",
