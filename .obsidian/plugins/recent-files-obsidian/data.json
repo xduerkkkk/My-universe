@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+      "basename": "03计组总线等计算题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md"
     },
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
       "basename": "概率论建模",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/概率论建模.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md"
     },
     {
       "basename": "反函数",
@@ -45,10 +73,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
     },
     {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
       "basename": "训练05-Day5-链表逆置与接口",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md"
     },
@@ -67,10 +91,6 @@
     {
       "basename": "线代1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "概率2",
@@ -179,26 +199,6 @@
     {
       "basename": "06概率论翻译",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
-    },
-    {
-      "basename": "05级数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
-    },
-    {
-      "basename": "03曲线面积分，空间几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
-      "basename": "单词好句4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
-    },
-    {
-      "basename": "单词句子2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
-    },
-    {
-      "basename": "补充语法",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/补充语法.md"
     }
   ],
   "omittedPaths": [
