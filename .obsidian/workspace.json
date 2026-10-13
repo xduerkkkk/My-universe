@@ -72,35 +72,21 @@
             }
           },
           {
-            "id": "96b1f1778c5007b8",
+            "id": "258c7d5b93cb2470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01视频笔记"
-            }
-          },
-          {
-            "id": "46ade47007c8ea28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线代2"
+              "title": "01计网各协议各层各端口"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.3653869628906
+    "width": 272.8269348144531
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -192,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -332,8 +318,24 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "46ade47007c8ea28",
+  "active": "258c7d5b93cb2470",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网 IP地址.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/04知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/03错题复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/02首部对比.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网流水线--看尾.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网TCP.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
     "_attachments/image/线代2-1791862612405.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
     "_attachments/image/线代1-1791862016688.jpeg",
@@ -350,26 +352,10 @@
     "_temp/06概率论翻译.before-final-check.md",
     "_temp/math02_organizer/sheet_1.jpg",
     "_temp/math02_organizer/audit_fixtures/target.md",
-    "_temp/math02_organizer/revision_backup/02随机变量-题型检索整理.md",
     "_temp/math02_organizer/sheet_6.jpg",
     "_temp/math02_organizer/sheet_4.jpg",
     "_temp/math02_organizer/sheet_2.jpg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第4周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第3周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第2周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/项目工程.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/算法题复盘方法.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/回溯.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/核心语法.md",
     "_attachments/image/03计组流水线-1791808539116.jpeg",
-    "_attachments/image/03计组流水线-1791808533628.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md.tmp.12396.be470872116a",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/06模拟卷",
