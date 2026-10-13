@@ -1,0 +1,26 @@
+{
+  "id": "conv-1791813748479-zz0vffjg7",
+  "providerId": "codex",
+  "title": "重规划四周算法训练并整理算法题模板",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791813748501,
+  "updatedAt": 1791815513005,
+  "lastResponseAt": 1791815513005,
+  "sessionId": "01a1306c-09d4-79d0-a7d8-5c5917243a20",
+  "providerState": {
+    "threadId": "01a1306c-09d4-79d0-a7d8-5c5917243a20",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T22-02-34-01a1306c-09d4-79d0-a7d8-5c5917243a20.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+  "usage": {
+    "inputTokens": 97082,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 96640,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 97082,
+    "percentage": 8,
+    "model": "gpt-6-astra"
+  }
+}

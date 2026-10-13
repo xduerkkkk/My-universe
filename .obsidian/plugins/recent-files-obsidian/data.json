@@ -1,16 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "06概率论翻译.before-final-check",
+      "path": "_temp/06概率论翻译.before-final-check.md"
+    },
+    {
+      "basename": "sheet_1",
+      "path": "_temp/math02_organizer/sheet_1.jpg"
+    },
+    {
+      "basename": "target",
+      "path": "_temp/math02_organizer/audit_fixtures/target.md"
+    },
+    {
+      "basename": "02随机变量-题型检索整理",
+      "path": "_temp/math02_organizer/revision_backup/02随机变量-题型检索整理.md"
+    },
+    {
+      "basename": "sheet_6",
+      "path": "_temp/math02_organizer/sheet_6.jpg"
+    },
+    {
+      "basename": "sheet_4",
+      "path": "_temp/math02_organizer/sheet_4.jpg"
+    },
+    {
+      "basename": "sheet_2",
+      "path": "_temp/math02_organizer/sheet_2.jpg"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "03算法题模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
+    },
+    {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "00代码输出30天训练计划",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md"
+    },
+    {
+      "basename": "04 二叉树模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md"
+    },
+    {
+      "basename": "02技巧大全",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md"
+    },
+    {
+      "basename": "树、森林解题--技巧大全",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/树、森林解题--技巧大全.md"
+    },
+    {
+      "basename": "推导--结点高度，log公式",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/推导--结点高度，log公式.md"
+    },
+    {
+      "basename": "堆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/算法/堆.md"
+    },
+    {
+      "basename": "迭代遍历",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/算法/迭代遍历.md"
+    },
+    {
+      "basename": "遍历",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/算法/遍历.md"
+    },
+    {
+      "basename": "二叉树的最近公共祖先",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/算法/二叉树的最近公共祖先.md"
+    },
+    {
+      "basename": "递归的三步思想！",
+      "path": "2.知识库/22.算法/递归的三步思想！.md"
+    },
+    {
+      "basename": "二叉树part05",
+      "path": "2.知识库/22.算法/代码随想录-算法题/二叉树/二叉树part05.md"
+    },
+    {
+      "basename": "二叉树part04",
+      "path": "2.知识库/22.算法/代码随想录-算法题/二叉树/二叉树part04.md"
+    },
+    {
+      "basename": "二叉树part03",
+      "path": "2.知识库/22.算法/代码随想录-算法题/二叉树/二叉树part03.md"
+    },
+    {
+      "basename": "待刷3",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md"
+    },
+    {
+      "basename": "待刷2",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷2.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "条件概率期望",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
+    },
+    {
+      "basename": "概率薄弱",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md"
+    },
+    {
+      "basename": "03计组流水线",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组流水线.md"
+    },
+    {
       "basename": "线代薄弱",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md"
     },
     {
       "basename": "概率论建模好题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "小作文",
@@ -29,20 +153,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "DS-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
       "basename": "概率论建模",
@@ -73,24 +185,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md"
     },
     {
-      "basename": "概率薄弱",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md"
-    },
-    {
-      "basename": "训练06-Day6-新题思路与旧题重写",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练06-Day6-新题思路与旧题重写.md"
-    },
-    {
       "basename": "OS-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "训练05-Day5-链表逆置与接口",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练05-Day5-链表逆置与接口.md"
-    },
-    {
-      "basename": "训练04-Day4-链表删除与平均值",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练04-Day4-链表删除与平均值.md"
     },
     {
       "basename": "计算错误",
@@ -103,102 +199,6 @@
     {
       "basename": "线代1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
-      "basename": "记录二刷",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/记录二刷.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/未命名.md"
-    },
-    {
-      "basename": "09中值定理与证明-循序渐进例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md"
-    },
-    {
-      "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
-    },
-    {
-      "basename": "03积分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md"
-    },
-    {
-      "basename": "09中值定理与证明-文字版",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md"
-    },
-    {
-      "basename": "证明题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
-      "basename": "01视频笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/01视频笔记.md"
-    },
-    {
-      "basename": "02基础习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md"
-    },
-    {
-      "basename": "待刷3",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/待刷3.md"
-    },
-    {
-      "basename": "马原",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
-    },
-    {
-      "basename": "刷题笔记",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
-    },
-    {
-      "basename": "线代数一",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/线代数一.md"
-    },
-    {
-      "basename": "09 三维空间与二次曲面",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/09 三维空间与二次曲面.md"
-    },
-    {
-      "basename": "03顺序表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03顺序表.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "00技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
-    },
-    {
-      "basename": "线代难考点",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md"
-    },
-    {
-      "basename": "06概率论翻译",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
     }
   ],
   "omittedPaths": [

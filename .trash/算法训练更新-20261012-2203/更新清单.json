@@ -1,0 +1,112 @@
+{
+  "createdLocal": "2026-10-12",
+  "scope": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题",
+  "sourceHashes": {
+    "00代码输出30天训练计划.md": "983df1352081ea2d24924fe5481c76f3ca783e8c92647a9f3755630a1f57424c",
+    "01算法题题单.md": "43b8bac507d5593fdb40cfeff6166758c1b5d9bb40765c8fba978d747b3090a8",
+    "02算法题重刷清单.md": "7bd30089613030d9af2ff985f5b7394af1419fca5a7ca1a33396d8f39522bf93",
+    "03算法题模板.md": "2fd6bed2f1c945e39ddc3cbf437b2910d055b09865351ab0297ecb483a2cfd9e",
+    "04 二叉树模板.md": "2d5d373e8d40653567cb29adefb511caf17d1a91fb87ce917aed7a054b61357b",
+    "堆.md": "1141eee58a6e998a13dd394960a216ada2e6730e2aa7c9b8dea1d7a7c9d0cbfd",
+    "待刷1.md": "c8419be04da71e82663cb928f3e1782dcd82537c1bb1d3145be522a0afaf1693",
+    "待刷2.md": "25b59b49eaf54cf6f46b7b40a03aa89335a0f2f1c186925ddf0763a4f17afc17",
+    "待刷3.md": "3f565895863279e69c93842b09d7052b278c7e23053fe70dc82a2e298fb3aa33",
+    "训练00-总框架.md": "48ba634614ee018c4e2a00b71914dc698955cbc2e3d16dfbd7d47c5507c8ddeb",
+    "训练01-Day1-数组去重基线.md": "ddc829b7b06d59757bd999cf76bb8aef4f7cd3f7f302acb142c153556ac96880",
+    "训练02-Day2-数组删除与压缩.md": "f00d74312a33ebbd60e669a24d1bb9c7c751afc165f180bfd5c83c82131b00c7",
+    "训练03-Day3-划分与快速选择.md": "091dc2f664bd48989b60162adc51ace9dced7817f2595d96e5e9305c59ba8f67",
+    "训练04-Day4-链表删除与平均值.md": "3edf2af2c1d6dadd715d37f1de9a71f5d7ce99349714f59e93a09e5eb0c3f6c6",
+    "训练05-Day5-链表逆置与接口.md": "b9779723cbd758b5ed637c121344f122695f2dd58b07848cc27bcf102049ded6",
+    "训练06-Day6-新题思路与旧题重写.md": "58ed8fcbc2200d2563fa5960c50b93210f488017ca094e0f02e385c03dc6bb47",
+    "训练07-Day7-链表限时模拟.md": "4d9825a45524362f6ddc3aa9b45043fc484d880375f3734de6e6d0695458e043"
+  },
+  "backupDir": ".trash/算法训练更新-20261012-2203",
+  "changedTemplate": "03算法题模板.md",
+  "created": [
+    "训练第1周-混合保温.md",
+    "训练第2周-混合保温.md",
+    "训练第3周-混合保温.md",
+    "训练第4周-混合保温.md"
+  ],
+  "checks": {
+    "internalLinks": 263,
+    "days": 28,
+    "tasks": 56,
+    "cards": 25,
+    "coreCTests": "C99 -Wall -Wextra -Werror, 2000 randomized array rounds plus linked-list/tree/graph/DSU assertions"
+  },
+  "validation": {
+    "issues": [],
+    "links": 263,
+    "files": [
+      {
+        "file": "训练第1周-混合保温.md",
+        "characters": 11894,
+        "sha256": "0147deffa89be7384ec49e91e8e848d66bfa21e07bf91aa1d4247012c29945e4",
+        "days": 7,
+        "warm": 7,
+        "main": 7
+      },
+      {
+        "file": "训练第2周-混合保温.md",
+        "characters": 12194,
+        "sha256": "3a9dc94a2664eef30dc6b221758dd85a9af9d7032d89e5eab811a4d2db40544e",
+        "days": 7,
+        "warm": 7,
+        "main": 7
+      },
+      {
+        "file": "训练第3周-混合保温.md",
+        "characters": 12363,
+        "sha256": "13eb206a7ac7072fc81f5130d71c2e99965e0b6df36ded94ac6d64396476b172",
+        "days": 7,
+        "warm": 7,
+        "main": 7
+      },
+      {
+        "file": "训练第4周-混合保温.md",
+        "characters": 11751,
+        "sha256": "862e17e3200d4621f382c8e962188e96324f2680ee834bf0a85bed18779c4c25",
+        "days": 7,
+        "warm": 7,
+        "main": 7
+      },
+      {
+        "file": "03算法题模板.md",
+        "characters": 30139,
+        "sha256": "457f275003b0665747272bb0312008db91064805b6b64363b69830a0823578cb",
+        "days": 0,
+        "warm": 0,
+        "main": 0
+      }
+    ],
+    "sourcesUnchanged": [
+      "00代码输出30天训练计划.md",
+      "01算法题题单.md",
+      "02算法题重刷清单.md",
+      "04 二叉树模板.md",
+      "堆.md",
+      "待刷1.md",
+      "待刷2.md",
+      "待刷3.md",
+      "训练00-总框架.md",
+      "训练01-Day1-数组去重基线.md",
+      "训练02-Day2-数组删除与压缩.md",
+      "训练03-Day3-划分与快速选择.md",
+      "训练04-Day4-链表删除与平均值.md",
+      "训练05-Day5-链表逆置与接口.md",
+      "训练06-Day6-新题思路与旧题重写.md",
+      "训练07-Day7-链表限时模拟.md"
+    ],
+    "oldMoved": [
+      "训练00-总框架.md",
+      "训练01-Day1-数组去重基线.md",
+      "训练02-Day2-数组删除与压缩.md",
+      "训练03-Day3-划分与快速选择.md",
+      "训练04-Day4-链表删除与平均值.md",
+      "训练05-Day5-链表逆置与接口.md",
+      "训练06-Day6-新题思路与旧题重写.md",
+      "训练07-Day7-链表限时模拟.md"
+    ]
+  }
+}
