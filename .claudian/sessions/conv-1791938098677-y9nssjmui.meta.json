@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791938098677-y9nssjmui",
+  "providerId": "claude",
+  "title": "快速计算后快速检查的可行性",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791938098678,
+  "updatedAt": 1791938331943,
+  "lastResponseAt": 1791938331943,
+  "sessionId": "3be51fd8-97ba-4975-bd79-000b1284d703",
+  "providerState": {
+    "providerSessionId": "3be51fd8-97ba-4975-bd79-000b1284d703"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 3589,
+    "cacheCreationInputTokens": 6976,
+    "cacheReadInputTokens": 28878,
+    "contextWindow": 1000000,
+    "contextTokens": 39443,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

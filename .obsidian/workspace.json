@@ -88,21 +88,21 @@
             }
           },
           {
-            "id": "568694ee70b617d6",
+            "id": "3f139d7992a57773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS-技巧"
+              "title": "模拟卷高数"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,22 +334,29 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "2d59bb3639ce5508",
+  "active": "3f139d7992a57773",
   "lastOpenFiles": [
+    "_attachments/image/模拟卷高数-1791949439848.jpeg",
+    "_attachments/image/模拟卷高数-1791949439663.jpeg",
+    "_attachments/image/模拟卷高数-1791948641840.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
     "_attachments/image/训练第1周-混合保温-1791900949401.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题-基础版.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
@@ -358,10 +365,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网 IP地址.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/02王道题.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/04知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/02图的细节.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/03错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/02首部对比.md",
     "_attachments/image/线代2-1791862612405.jpeg",
     "_attachments/image/线代1-1791862016688.jpeg",
     "_attachments/image/概率2-1791861015793.jpeg",
@@ -369,9 +372,6 @@
     "_attachments/image/03曲线面积分，空间几何-1791855616883.jpeg",
     "_temp/math02_organizer/sheet_1.jpg",
     "_temp/math02_organizer/sheet_6.jpg",
-    "_temp/math02_organizer/sheet_4.jpg",
-    "_temp/math02_organizer/sheet_2.jpg",
-    "_attachments/image/03计组流水线-1791808539116.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md.tmp.12396.be470872116a",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/06模拟卷",

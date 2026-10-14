@@ -1,0 +1,23 @@
+{
+  "id": "conv-1791937837067-hsp6wcq17",
+  "providerId": "claude",
+  "title": "我感觉我记录的越来越多  不可能每次下笔都想一遍粗心记录吧 而且我感觉记录的多 我越谨慎 计算反而越...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1791937837070,
+  "updatedAt": 1791938055892,
+  "lastResponseAt": 1791938028658,
+  "sessionId": "0e071676-8d23-46b8-87c2-978b28fb22de",
+  "providerState": {
+    "providerSessionId": "0e071676-8d23-46b8-87c2-978b28fb22de"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
