@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "06线代思路",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06线代思路.md"
+    },
+    {
+      "basename": "00模拟卷粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "01AI预测",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "线代薄弱",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md"
+    },
+    {
       "basename": "小作文",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md"
     },
@@ -21,18 +73,6 @@
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "模拟卷高数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
       "basename": "01笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md"
     },
@@ -41,20 +81,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md"
     },
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
       "basename": "04幂级数大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
     },
     {
       "basename": "DS-技巧",
@@ -83,10 +111,6 @@
     {
       "basename": "03强化课--PV操作整理版",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "03强化课--PV操作",
@@ -175,30 +199,6 @@
     {
       "basename": "06概率论翻译.before-final-check",
       "path": "_temp/06概率论翻译.before-final-check.md"
-    },
-    {
-      "basename": "sheet_1",
-      "path": "_temp/math02_organizer/sheet_1.jpg"
-    },
-    {
-      "basename": "target",
-      "path": "_temp/math02_organizer/audit_fixtures/target.md"
-    },
-    {
-      "basename": "02随机变量-题型检索整理",
-      "path": "_temp/math02_organizer/revision_backup/02随机变量-题型检索整理.md"
-    },
-    {
-      "basename": "sheet_6",
-      "path": "_temp/math02_organizer/sheet_6.jpg"
-    },
-    {
-      "basename": "sheet_4",
-      "path": "_temp/math02_organizer/sheet_4.jpg"
-    },
-    {
-      "basename": "sheet_2",
-      "path": "_temp/math02_organizer/sheet_2.jpg"
     }
   ],
   "omittedPaths": [

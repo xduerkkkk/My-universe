@@ -88,35 +88,35 @@
             }
           },
           {
-            "id": "3f139d7992a57773",
+            "id": "2d87f69aefa0745f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模拟卷高数"
+              "title": "模拟卷线代"
             }
           },
           {
-            "id": "1e4f93711166ef1d",
+            "id": "980a63617c5c4c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06线代思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小作文"
+              "title": "06线代思路"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -348,44 +348,44 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "1e4f93711166ef1d",
+  "active": "2d87f69aefa0745f",
   "lastOpenFiles": [
+    "_attachments/image/模拟卷线代-1791989139653.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/00数学记忆-1791987645361.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06线代思路.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
+    "_attachments/image/模拟卷概率-1791983960280.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
+    "_attachments/image/01AI预测-1791980716511.jpeg",
+    "_attachments/image/01AI预测-1791980711147.jpeg",
+    "_attachments/image/01AI预测-1791980694377.jpeg",
+    "_attachments/image/01AI预测-1791980675612.jpeg",
+    "_attachments/image/01AI预测-1791980665621.jpeg",
+    "_attachments/image/01AI预测-1791980659308.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
     "_attachments/image/模拟卷高数-1791949439848.jpeg",
     "_attachments/image/模拟卷高数-1791949439663.jpeg",
-    "_attachments/image/模拟卷高数-1791948641840.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/01笔记.md",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/03 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
-    "_attachments/image/训练第1周-混合保温-1791900949401.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/中值可分离法.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题-基础版.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口.md",
-    "_attachments/image/线代2-1791862612405.jpeg",
-    "_attachments/image/线代1-1791862016688.jpeg",
-    "_attachments/image/概率2-1791861015793.jpeg",
-    "_attachments/image/概率2-1791859014143.jpeg",
-    "_attachments/image/03曲线面积分，空间几何-1791855616883.jpeg",
-    "_temp/math02_organizer/sheet_1.jpg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md.tmp.12396.be470872116a",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/06模拟卷",
