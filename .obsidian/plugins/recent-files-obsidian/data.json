@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "小作文",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md"
+    },
+    {
+      "basename": "单词好句5",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
+    },
+    {
+      "basename": "单词好句4",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
+    },
+    {
+      "basename": "03曲线面积分，空间几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
       "basename": "模拟卷高数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "04幂级数大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "408 杜绝粗心",
@@ -59,10 +79,6 @@
     {
       "basename": "09中值定理与证明-文字版-原版备份",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "03强化课--PV操作整理版",
@@ -153,10 +169,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
     {
-      "basename": "03曲线面积分，空间几何",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
-    },
-    {
       "basename": "Drawing 2026-03-19 14.41.13.excalidraw",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/Drawing 2026-03-19 14.41.13.excalidraw.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "sheet_2",
       "path": "_temp/math02_organizer/sheet_2.jpg"
-    },
-    {
-      "basename": "03算法题模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "00代码输出30天训练计划",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md"
     }
   ],
   "omittedPaths": [
