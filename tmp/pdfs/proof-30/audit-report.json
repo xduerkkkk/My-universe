@@ -1,0 +1,36 @@
+{
+  "target": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-模板归类与详解.md",
+  "categories": 8,
+  "exercise_cards": 32,
+  "source_images": 0,
+  "target_images": 0,
+  "status": "ok",
+  "errors": [],
+  "warnings": [],
+  "source_cards": 32,
+  "original_numbered_subparts_or_unsplit_questions": 56,
+  "page_counts": [
+    5,
+    5,
+    5,
+    6,
+    5,
+    6
+  ],
+  "star_counts_actual": [
+    10,
+    17,
+    5
+  ],
+  "star_counts_printed": [
+    10,
+    15,
+    5
+  ],
+  "all_wikilink_files_headings_and_pdf_pages": "pass",
+  "original_pdf_and_original_notes_unchanged": "pass",
+  "prompts_identical_across_notes": "pass",
+  "latex_delimiters_braces_encoding": "pass",
+  "selected_symbolic_identity_checks": 8,
+  "manual_math_review": "Reviewed all 32 derivations, including strictness, nonzero denominators, endpoint hypotheses, distinct intermediate points, and all iff directions. Q25 interpretation caveat and counterexample documented."
+}

@@ -4,6 +4,23 @@
   "title": "提取证明题PDF为Markdown并逐题套用模板详解",
   "titleGenerationStatus": "success",
   "createdAt": 1792036626578,
-  "updatedAt": 1792036641658,
-  "sessionId": null
+  "updatedAt": 1792038409501,
+  "lastResponseAt": 1792038409501,
+  "sessionId": "01a13db4-e2c9-7ea0-849a-5847c59487e9",
+  "providerState": {
+    "threadId": "01a13db4-e2c9-7ea0-849a-5847c59487e9",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\15\\rollout-2026-10-15T11-57-12-01a13db4-e2c9-7ea0-849a-5847c59487e9.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+  "usage": {
+    "inputTokens": 89813,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 89600,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 89813,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
 }

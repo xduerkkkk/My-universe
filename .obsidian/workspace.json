@@ -100,37 +100,8 @@
               "icon": "lucide-file",
               "title": "线代薄弱"
             }
-          },
-          {
-            "id": "dd0afa6c3a7ff6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线代1"
-            }
-          },
-          {
-            "id": "a10b18757ca901b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09中值定理与证明-文字版"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -333,8 +304,7 @@
               "title": "统计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,37 +333,39 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-模板归类与详解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+    "tmp/pdfs/proof-30/audit-report.json",
+    "tmp/pdfs/proof-30/final_audit.py",
+    "tmp/pdfs/proof-30/verify_math.py",
+    "tmp/pdfs/proof-30/manifest.json",
+    "tmp/pdfs/proof-30/assemble.py",
     "tmp/pdfs/proof-30/write_solutions_03.py",
     "tmp/pdfs/proof-30/write_solutions_02.py",
     "tmp/pdfs/proof-30/solutions.json",
     "tmp/pdfs/proof-30/write_solutions_01.py",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原始.pdf",
-    "tmp/pdfs/proof-30/items.json",
-    "tmp/pdfs/proof-30/build_source.py",
-    "tmp/pdfs/proof-30/vision-2007.txt",
     "tmp/pdfs/proof-30/2007-crop.png",
-    "tmp/pdfs/proof-30/vision-page6.txt",
-    "tmp/pdfs/proof-30/vision-transcription.txt",
     "tmp/pdfs/proof-30/page-5.png",
     "tmp/pdfs/proof-30/page-6.png",
     "tmp/pdfs/proof-30/page-1.png",
     "tmp/pdfs/proof-30/page-4.png",
     "tmp/pdfs/proof-30/page-3.png",
     "tmp/pdfs/proof-30/page-2.png",
-    "tmp/pdfs/proof-30/extracted.txt",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题-基础版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
     "_attachments/image/线代1-1792034140353.jpeg",
     "_attachments/image/线代1-1792032791134.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
     "_attachments/image/模拟卷线代-1792031995374.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md",
@@ -409,8 +381,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
