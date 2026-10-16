@@ -88,21 +88,49 @@
             }
           },
           {
-            "id": "ddfac35670240f46",
+            "id": "77d150be0aaeaf47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02小标题"
+              "title": "03算法题模板"
+            }
+          },
+          {
+            "id": "6853ae04df1887fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09真题证明做题本-模板归类与详解"
+            }
+          },
+          {
+            "id": "0d113035f9c77e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 二叉树模板"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,10 +362,31 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "ddfac35670240f46",
+  "active": "2d59bb3639ce5508",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09循序渐进例题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/99-文字版-原版备份.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第4周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第3周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第2周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "_attachments/image/概率1-1792071244023.jpeg",
+    "_attachments/Pasted image 20261015213114.png.md",
+    "_attachments/image/概率1-1792071074733.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+    "_attachments/image/概率2-1792069524762.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "_attachments/image/高数1-1792067775130.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
@@ -345,16 +394,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版-原版备份.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-模板归类与详解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
     "tmp/pdfs/proof-30/audit-report.json",
     "tmp/pdfs/proof-30/final_audit.py",
     "tmp/pdfs/proof-30/verify_math.py",
@@ -371,17 +410,6 @@
     "tmp/pdfs/proof-30/page-1.png",
     "tmp/pdfs/proof-30/page-4.png",
     "tmp/pdfs/proof-30/page-3.png",
-    "tmp/pdfs/proof-30/page-2.png",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-循序渐进例题-基础版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "_attachments/image/线代1-1792034140353.jpeg",
-    "_attachments/image/线代1-1792032791134.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
-    "_attachments/image/模拟卷线代-1792031995374.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
