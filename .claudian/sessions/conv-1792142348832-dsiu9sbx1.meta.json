@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792142348832-dsiu9sbx1",
+  "providerId": "codex",
+  "title": "解析三数组最小距离算法与贪心思路",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792142348840,
+  "updatedAt": 1792148701970,
+  "lastResponseAt": 1792148678843,
+  "sessionId": "01a14402-1a20-71a2-b7b8-8ae3324669c5",
+  "providerState": {
+    "threadId": "01a14402-1a20-71a2-b7b8-8ae3324669c5",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\16\\rollout-2026-10-16T17-19-15-01a14402-1a20-71a2-b7b8-8ae3324669c5.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+  "usage": {
+    "inputTokens": 24683,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23936,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 24683,
+    "percentage": 2,
+    "model": "gpt-6-astra"
+  }
+}
