@@ -88,49 +88,35 @@
             }
           },
           {
-            "id": "77d150be0aaeaf47",
+            "id": "73c4bc93e3d31f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03算法题模板"
+              "title": "08概率论扫盲"
             }
           },
           {
-            "id": "6853ae04df1887fe",
+            "id": "7c90dd8e34705e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09真题证明做题本-模板归类与详解"
-            }
-          },
-          {
-            "id": "0d113035f9c77e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 二叉树模板"
+              "title": "06概率论翻译"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -222,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,16 +348,27 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "2d59bb3639ce5508",
+  "active": "7c90dd8e34705e24",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06线代思路.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/04多元微分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09循序渐进例题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/04 二叉树模板.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09循序渐进例题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/99-文字版-原版备份.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第4周-混合保温.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第3周-混合保温.md",
@@ -382,18 +379,7 @@
     "_attachments/image/概率1-1792071074733.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
     "_attachments/image/概率2-1792069524762.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/高数1-1792067775130.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
     "tmp/pdfs/proof-30/audit-report.json",
     "tmp/pdfs/proof-30/final_audit.py",
     "tmp/pdfs/proof-30/verify_math.py",
