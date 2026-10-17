@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792222519232-67e37g1yk",
+  "providerId": "codex",
+  "title": "精简阅读陷阱笔记，整理成做题前速览清单",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792222519233,
+  "updatedAt": 1792222649949,
+  "lastResponseAt": 1792222649949,
+  "sessionId": "01a148c9-681f-72d0-99ba-3f28cb22c043",
+  "providerState": {
+    "threadId": "01a148c9-681f-72d0-99ba-3f28cb22c043",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\17\\rollout-2026-10-17T15-35-26-01a148c9-681f-72d0-99ba-3f28cb22c043.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
+  "usage": {
+    "inputTokens": 27517,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25472,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 27517,
+    "percentage": 2,
+    "model": "gpt-6-astra"
+  }
+}
