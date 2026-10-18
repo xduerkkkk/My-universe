@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792324913434-ycdj4itcf",
+  "providerId": "codex",
+  "title": "制定下周每日计划并更新文件",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792324913434,
+  "updatedAt": 1792325366300,
+  "lastResponseAt": 1792325366300,
+  "sessionId": "01a14ee3-ca26-7752-b774-a69d407ff072",
+  "providerState": {
+    "threadId": "01a14ee3-ca26-7752-b774-a69d407ff072",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\18\\rollout-2026-10-18T20-01-58-01a14ee3-ca26-7752-b774-a69d407ff072.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 68515,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 61312,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 68515,
+    "percentage": 6,
+    "model": "gpt-6-astra"
+  }
+}
