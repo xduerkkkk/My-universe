@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "02DS 折半查找判定树",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS 折半查找判定树.md"
+    },
+    {
+      "basename": "DS",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "OS",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md"
+    },
+    {
+      "basename": "03强化课--PV操作整理版",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md"
+    },
+    {
+      "basename": "OS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
+    },
+    {
+      "basename": "互斥代码分析例子",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/互斥代码分析例子.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "卡特兰数",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/卡特兰数.md"
+    },
+    {
+      "basename": "单词好句5",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
+    },
+    {
+      "basename": "单词句子1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
       "basename": "模拟卷高数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
     },
@@ -15,10 +67,6 @@
     {
       "basename": "模拟卷",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/模拟卷.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "计算错误",
@@ -45,10 +93,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
     },
     {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "000泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     },
@@ -67,10 +111,6 @@
     {
       "basename": "刷题笔记",
       "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
     },
     {
       "basename": "03算法题模板",
@@ -121,20 +161,12 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "栈队列技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/栈队列技巧.md"
     },
     {
       "basename": "DS-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "单词好句5",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
     },
     {
       "basename": "单词好句4",
@@ -167,38 +199,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
-    },
-    {
-      "basename": "01笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md"
-    },
-    {
-      "basename": "乘法电路图",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/乘法电路图.md"
-    },
-    {
-      "basename": "01陷阱整理",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
-    },
-    {
-      "basename": "00做题框架",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md"
-    },
-    {
-      "basename": "01陷阱整理-原版存档",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md"
-    },
-    {
-      "basename": "概率论建模",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/概率论建模.md"
-    },
-    {
-      "basename": "条件概率期望",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
     }
   ],
   "omittedPaths": [
