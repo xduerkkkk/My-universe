@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "sonnet[1m]",
   "thinkingBudget": "low",
-  "effortLevel": "high",
+  "effortLevel": "low",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -72,8 +72,8 @@
     "codex": "gpt-6-astra"
   },
   "savedProviderEffort": {
-    "claude": "high",
-    "codex": "high"
+    "claude": "low",
+    "codex": "low"
   },
   "savedProviderServiceTier": {
     "codex": "fast"
