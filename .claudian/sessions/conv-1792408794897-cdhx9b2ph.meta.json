@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792408794897-cdhx9b2ph",
+  "providerId": "codex",
+  "title": "构建小作文分类模板与素材库，规划记忆和真题训练方法",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792408794898,
+  "updatedAt": 1792409359012,
+  "lastResponseAt": 1792409359012,
+  "sessionId": "01a153e3-b8ea-70c3-9d59-c9f69eedab0d",
+  "providerState": {
+    "threadId": "01a153e3-b8ea-70c3-9d59-c9f69eedab0d",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T19-20-00-01a153e3-b8ea-70c3-9d59-c9f69eedab0d.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
+  "usage": {
+    "inputTokens": 41045,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40832,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 41045,
+    "percentage": 3,
+    "model": "gpt-6-astra"
+  }
+}

@@ -1,24 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "02DS 折半查找判定树",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS 折半查找判定树.md"
+      "basename": "难点--隐函数存在定理",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md"
+    },
+    {
+      "basename": "拉格朗日求极值的直觉",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md"
+    },
+    {
+      "basename": "概念--f'",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/概念--f'.md"
+    },
+    {
+      "basename": "辨析--d还是roundd",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md"
+    },
+    {
+      "basename": "辨析--可微可导",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--可微可导.md"
+    },
+    {
+      "basename": "辨析--极值充分与必要",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md"
+    },
+    {
+      "basename": "Pasted image 20260312104155",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/assets/Pasted image 20260312104155.png"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "04大观习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
+    },
+    {
+      "basename": "03 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md"
+    },
+    {
+      "basename": "02习题与1000题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md"
+    },
+    {
+      "basename": "01书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md"
+    },
+    {
+      "basename": "06幂级数求和展开",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
+    },
+    {
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "02具体审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
+    },
+    {
+      "basename": "01级数审敛大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md"
+    },
+    {
+      "basename": "OS",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md"
+    },
+    {
+      "basename": "CN",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/CN.md"
     },
     {
       "basename": "DS",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS.md"
     },
     {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/02王道题.md"
+    },
+    {
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md"
+    },
+    {
+      "basename": "小作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
+    },
+    {
+      "basename": "素材积累-旧版存档",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累-旧版存档.md"
+    },
+    {
+      "basename": "素材积累",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md"
+    },
+    {
+      "basename": "单词句子1",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+      "basename": "02DS 折半查找判定树",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS 折半查找判定树.md"
     },
     {
-      "basename": "OS",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md"
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "03强化课--PV操作整理版",
@@ -45,24 +165,12 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
     },
     {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
-    },
-    {
       "basename": "模拟卷高数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
     },
     {
       "basename": "模拟卷线代",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
     },
     {
       "basename": "模拟卷",
@@ -89,116 +197,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
     },
     {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
       "basename": "000泰勒",
       "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "01AI预测",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
-    },
-    {
-      "basename": "习概复习",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/习概复习.md"
-    },
-    {
-      "basename": "刷题笔记",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
-    },
-    {
-      "basename": "03算法题模板",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
-    },
-    {
-      "basename": "收敛半径",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md"
-    },
-    {
-      "basename": "极坐标换元",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/极坐标换元.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "小作文模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
-    },
-    {
-      "basename": "03排序题",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/03排序题.md"
-    },
-    {
-      "basename": "02小标题",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md"
-    },
-    {
-      "basename": "01七选五",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md"
-    },
-    {
-      "basename": "栈队列技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02栈与队列/栈队列技巧.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "单词好句4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "01极限函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
-    },
-    {
-      "basename": "01基础视频",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
-    },
-    {
-      "basename": "01算法题题单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
-    },
-    {
-      "basename": "素材积累",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
     }
   ],
   "omittedPaths": [
