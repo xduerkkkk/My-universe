@@ -1,0 +1,23 @@
+{
+  "id": "conv-1792380187109-noco6og4n",
+  "providerId": "claude",
+  "title": "Reorganize exam notes into three subject groups",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792380187112,
+  "updatedAt": 1792380781780,
+  "lastResponseAt": 1792380781780,
+  "sessionId": "6bad3321-1243-4aae-be35-2a6864787278",
+  "providerState": {
+    "providerSessionId": "6bad3321-1243-4aae-be35-2a6864787278"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 273,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 106240,
+    "contextWindow": 1000000,
+    "contextTokens": 106513,
+    "percentage": 11
+  }
+}

@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "模拟卷",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/模拟卷.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "手稿错题索引",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+    },
+    {
       "basename": "史纲",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
+    },
+    {
+      "basename": "00数学记忆-原版备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "01AI预测",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
     },
     {
       "basename": "习概复习",
@@ -21,10 +77,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "收敛半径",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md"
     },
@@ -39,10 +91,6 @@
     {
       "basename": "概率2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     },
     {
       "basename": "当前冲刺规划",
@@ -85,20 +133,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     },
     {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "单词好句5",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
     },
     {
       "basename": "单词好句4",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
       "basename": "线代2",
@@ -159,46 +199,6 @@
     {
       "basename": "条件概率期望",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
-    },
-    {
-      "basename": "概率薄弱",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md"
-    },
-    {
-      "basename": "独立与相关",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/独立与相关.md"
-    },
-    {
-      "basename": "混合型",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/混合型.md"
-    },
-    {
-      "basename": "09中值定理与证明-真题证明做题本-模板归类与详解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-模板归类与详解.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/01王道笔记.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/02王道题.md"
-    },
-    {
-      "basename": "03应用题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/03应用题.md"
-    },
-    {
-      "basename": "06概率论翻译",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
-    },
-    {
-      "basename": "06线代思路",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06线代思路.md"
     }
   ],
   "omittedPaths": [

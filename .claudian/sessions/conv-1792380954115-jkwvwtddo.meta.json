@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792380954115-jkwvwtddo",
+  "providerId": "codex",
+  "title": "优化 Obsidian 笔记格式与错题复习安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792380954115,
+  "updatedAt": 1792381723508,
+  "lastResponseAt": 1792381723508,
+  "sessionId": "01a1523a-ef5d-7681-815e-ada20a3a052d",
+  "providerState": {
+    "threadId": "01a1523a-ef5d-7681-815e-ada20a3a052d",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T11-36-01-01a1523a-ef5d-7681-815e-ada20a3a052d.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+  "usage": {
+    "inputTokens": 60919,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60672,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60919,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}
