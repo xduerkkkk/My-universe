@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "史纲",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "书籍与例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md"
+    },
+    {
+      "basename": "大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
+    },
+    {
+      "basename": "880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md"
+    },
+    {
+      "basename": "辨析--d还是roundd",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md"
+    },
+    {
+      "basename": "未命名看板",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/未命名看板.md"
+    },
+    {
+      "basename": "题--能练习多个方法",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/题--能练习多个方法.md"
+    },
+    {
       "basename": "难点--隐函数存在定理",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md"
     },
@@ -13,10 +45,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/概念--f'.md"
     },
     {
-      "basename": "辨析--d还是roundd",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md"
-    },
-    {
       "basename": "辨析--可微可导",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--可微可导.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "Pasted image 20260312104155",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/assets/Pasted image 20260312104155.png"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
     },
     {
       "basename": "模拟卷概率",
@@ -75,10 +99,6 @@
     {
       "basename": "01级数审敛大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md"
     },
     {
       "basename": "OS",
@@ -179,26 +199,6 @@
     {
       "basename": "计算错误",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
-      "basename": "手稿错题索引",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "史纲",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
-    },
-    {
-      "basename": "00数学记忆-原版备份",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     }
   ],
   "omittedPaths": [
