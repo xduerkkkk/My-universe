@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "史纲",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "反函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/反函数.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "01极限函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
+    },
+    {
+      "basename": "02导数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
+    },
+    {
+      "basename": "09真题证明做题本-模板归类与详解",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md"
+    },
+    {
+      "basename": "09中值定理与证明-文字版",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md"
+    },
+    {
+      "basename": "09循序渐进例题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09循序渐进例题.md"
+    },
+    {
+      "basename": "09中值定理与证明-真题证明做题本-原题文字版",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md"
+    },
+    {
+      "basename": "00模拟卷粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "00数学记忆-原版备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
+    },
+    {
+      "basename": "00数学记忆-格式与公式补全前备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
     },
     {
       "basename": "训练第1周-混合保温",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "史纲",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
     },
     {
       "basename": "书籍与例题",
@@ -55,14 +127,6 @@
     {
       "basename": "Pasted image 20260312104155",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/assets/Pasted image 20260312104155.png"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
     },
     {
       "basename": "04大观习题",
@@ -135,70 +199,6 @@
     {
       "basename": "素材积累-旧版存档",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累-旧版存档.md"
-    },
-    {
-      "basename": "素材积累",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "02DS 折半查找判定树",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS 折半查找判定树.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "03强化课--PV操作整理版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md"
-    },
-    {
-      "basename": "OS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md"
-    },
-    {
-      "basename": "互斥代码分析例子",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/互斥代码分析例子.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "卡特兰数",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/卡特兰数.md"
-    },
-    {
-      "basename": "单词好句5",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
-    },
-    {
-      "basename": "模拟卷高数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
-      "basename": "模拟卷线代",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
-    },
-    {
-      "basename": "模拟卷",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/模拟卷.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     }
   ],
   "omittedPaths": [
