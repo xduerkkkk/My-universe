@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "史纲",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
+    },
+    {
+      "basename": "04- 880 新",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md"
+    },
+    {
+      "basename": "04 880",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04 880.md"
+    },
+    {
+      "basename": "03 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md"
+    },
+    {
+      "basename": "02习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md"
+    },
+    {
+      "basename": "02基础习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md"
+    },
+    {
+      "basename": "04习题整理",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/04习题整理.md"
+    },
+    {
+      "basename": "03 强化习题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "03算法题模板",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
+    },
+    {
+      "basename": "05 收敛域",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
+    },
+    {
+      "basename": "级数错题-题型索引",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/级数错题-题型索引.md"
+    },
+    {
+      "basename": "02算法题重刷清单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md"
+    },
+    {
+      "basename": "01级数审敛大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md"
+    },
+    {
+      "basename": "01算法题题单",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
+    },
+    {
+      "basename": "04幂级数大观",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
+    },
+    {
+      "basename": "03抽象审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md"
+    },
+    {
+      "basename": "06概率论翻译.before-final-check",
+      "path": "_temp/06概率论翻译.before-final-check.md"
+    },
+    {
+      "basename": "sheet_8",
+      "path": "_temp/math02_organizer/sheet_8.jpg"
+    },
+    {
+      "basename": "sheet_7",
+      "path": "_temp/math02_organizer/sheet_7.jpg"
+    },
+    {
+      "basename": "sheet_4",
+      "path": "_temp/math02_organizer/sheet_4.jpg"
+    },
+    {
+      "basename": "sheet_3",
+      "path": "_temp/math02_organizer/sheet_3.jpg"
+    },
+    {
+      "basename": "02具体审敛",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "06幂级数求和展开",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
       "basename": "错误集合",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md"
     },
@@ -19,10 +131,6 @@
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "02王道题",
@@ -47,10 +155,6 @@
     {
       "basename": "CN-技巧",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "计算错误",
@@ -95,110 +199,6 @@
     {
       "basename": "00模拟卷粗心记录",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
-      "basename": "模拟卷高数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
-      "basename": "00数学记忆-原版备份",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
-    },
-    {
-      "basename": "00数学记忆-格式与公式补全前备份",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
-    },
-    {
-      "basename": "史纲",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
-    },
-    {
-      "basename": "书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/书籍与例题.md"
-    },
-    {
-      "basename": "大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
-    },
-    {
-      "basename": "880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/880.md"
-    },
-    {
-      "basename": "辨析--d还是roundd",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--d还是roundd.md"
-    },
-    {
-      "basename": "未命名看板",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/未命名看板.md"
-    },
-    {
-      "basename": "题--能练习多个方法",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/题--能练习多个方法.md"
-    },
-    {
-      "basename": "难点--隐函数存在定理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/难点--隐函数存在定理.md"
-    },
-    {
-      "basename": "拉格朗日求极值的直觉",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/拉格朗日求极值的直觉.md"
-    },
-    {
-      "basename": "概念--f'",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/概念--f'.md"
-    },
-    {
-      "basename": "辨析--可微可导",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--可微可导.md"
-    },
-    {
-      "basename": "辨析--极值充分与必要",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/卡片/辨析--极值充分与必要.md"
-    },
-    {
-      "basename": "Pasted image 20260312104155",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/assets/Pasted image 20260312104155.png"
-    },
-    {
-      "basename": "04大观习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/04大观习题.md"
-    },
-    {
-      "basename": "03 880",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/03 880.md"
-    },
-    {
-      "basename": "02习题与1000题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/02习题与1000题.md"
-    },
-    {
-      "basename": "01书籍与例题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/06微分方程/01书籍与例题.md"
-    },
-    {
-      "basename": "06幂级数求和展开",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md"
-    },
-    {
-      "basename": "05 收敛域",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
     }
   ],
   "omittedPaths": [
