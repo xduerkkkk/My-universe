@@ -40,20 +40,6 @@
             }
           },
           {
-            "id": "4829bea5983d3f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 收敛域"
-            }
-          },
-          {
             "id": "c3d067660b2b42ee",
             "type": "leaf",
             "pinned": true,
@@ -102,21 +88,21 @@
             }
           },
           {
-            "id": "6679199f9951d51d",
+            "id": "7b27729d2154e932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04- 880 新"
+              "title": "线代1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.2269287109375
+    "width": 275.78076171875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -208,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,12 +305,11 @@
               "title": "统计"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.1307373046875
+    "width": 330.792236328125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,54 +334,54 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "6f8e91e8badbe52a",
+  "active": "24b9ed6a0757633b",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04 880.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/02习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/02基础习题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/04习题整理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/05 收敛域.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/级数错题-题型索引.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/01级数审敛大观.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/线代1-1792553600582.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/03抽象审敛.md",
-    "_temp/06概率论翻译.before-final-check.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "_attachments/image/计算错误-1792551187200.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "_attachments/image/概率1-1792550545802.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/极坐标换元.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/级数拆分.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "_attachments/image/计算错误-1792548848984.jpeg",
+    "_attachments/image/计算错误-1792548842786.jpeg",
+    "_attachments/image/计算错误-1792548820577.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "_attachments/image/高数1-1792546376626.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "_attachments/image/高数1-1792545943480.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md",
+    "0.核心/00.规划(Plan)/2.当前项目/数学408新规划.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.102286195340",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.0d47da5a90c0",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.99725478d624",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.fdaca1d2d9e6",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.24005dc5a5c1",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.71df30156fcc",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/04- 880 新.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
     "_temp/math02_organizer/sheet_8.jpg",
     "_temp/math02_organizer/sheet_7.jpg",
-    "_temp/math02_organizer/sheet_4.jpg",
-    "_temp/math02_organizer/sheet_3.jpg",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/02具体审敛.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/06幂级数求和展开.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "_attachments/image/高数1-1792502378472.jpeg",
-    "_attachments/image/线代1-1792500247895.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
-    "_attachments/image/卡特兰数-1792486897874.jpeg",
-    "_attachments/image/计算错误-1792466355473.jpeg",
-    "_attachments/image/00数学记忆-1792464726642.jpeg",
-    "_attachments/image/概率2-1792463563189.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md.tmp.16296.6dbe4cec7f62",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.773e94e277ba",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.124e9fa284c0",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.bcc14b3fa460",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.0a0ea0c7bd24",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.933793dab9e0",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.d8703e975669",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.12664.0f43b38450a7",
-    "tmp/pdfs/proof-30/audit-report.json",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",

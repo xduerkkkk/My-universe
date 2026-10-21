@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792543033090-m4h106z0z",
+  "providerId": "claude",
+  "title": "你可以看到 我又完成了新的规划 所以更新最新一周的 最主要的变化是数学 我是想尽快把手稿这个包袱刷完...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1792543033091,
+  "updatedAt": 1792543308861,
+  "lastResponseAt": 1792543308861,
+  "sessionId": "5ad744df-9b25-4250-b4ad-ea2805e79aff",
+  "providerState": {
+    "providerSessionId": "5ad744df-9b25-4250-b4ad-ea2805e79aff"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/数学408新规划.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2139,
+    "cacheReadInputTokens": 84793,
+    "contextWindow": 1000000,
+    "contextTokens": 86933,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}
