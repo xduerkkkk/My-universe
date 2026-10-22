@@ -93,26 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03算法题模板"
-            }
-          },
-          {
-            "id": "e951c8a4f743668e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02算法题重刷清单"
+              "title": "史纲2"
             }
           }
         ],
@@ -208,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "史纲"
+              "title": "史纲2"
             }
           },
           {
@@ -350,15 +336,18 @@
   },
   "active": "4322e18e979a398c",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+    "_attachments/image/史纲2-1792594065704.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/高数1-1792587777175.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
@@ -375,9 +364,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/粗心记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04计组中断细节.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/视频勘察.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/书籍勘察.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
     "_attachments/image/线代1-1792553600582.jpeg",
     "_attachments/image/计算错误-1792551187200.jpeg",
     "_attachments/image/概率1-1792550545802.jpeg",
@@ -385,7 +371,6 @@
     "_attachments/image/计算错误-1792548842786.jpeg",
     "_attachments/image/计算错误-1792548820577.jpeg",
     "_attachments/image/高数1-1792546376626.jpeg",
-    "_attachments/image/高数1-1792545943480.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.102286195340",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.0d47da5a90c0",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.99725478d624",
