@@ -88,21 +88,35 @@
             }
           },
           {
-            "id": "b4f321bf0700e5b1",
+            "id": "9238db08b7b149ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "史纲2"
+              "title": "计算错误"
+            }
+          },
+          {
+            "id": "7fc78491bc456595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "思维惯性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,12 +305,11 @@
               "title": "统计"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.0230712890625
+    "width": 397.77685546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,44 +334,44 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "b4f321bf0700e5b1",
+  "active": "7fc78491bc456595",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/模糊点史纲1.md",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
-    "_attachments/image/初见杀-1792677099327.jpeg",
-    "_attachments/image/初见杀-1792676778924.jpeg",
-    "_attachments/image/初见杀-1792673577620.jpeg",
+    "_attachments/image/Pasted image 20261023114307.jpeg",
+    "_attachments/image/Pasted image 20261023113905.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "_attachments/image/Pasted image 20261023112132.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
+    "_attachments/image/Pasted image 20261023105824.jpeg",
+    "_attachments/image/Pasted image 20261023102825.jpeg",
+    "_attachments/image/Pasted image 20261023102306.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "_attachments/image/Pasted image 20261023101446.jpeg",
+    "_attachments/image/Pasted image 20261023094519.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
+    "_attachments/image/Pasted image 20261023093743.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
-    "_attachments/image/思维惯性-1792672397964.jpeg",
+    "_attachments/image/Pasted image 20261023091526.jpeg",
+    "_attachments/image/Pasted image 20261023085233.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第2周-混合保温.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/模糊点史纲1.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/数字特征公式直觉.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md",
-    "_attachments/image/初见杀-1792639738475.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
-    "_attachments/image/概率1-1792639417677.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
-    "_attachments/image/概率1-1792638303683.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
-    "_attachments/image/线代2-1792635787005.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/正定矩阵正定二次型.md",
-    "_attachments/image/正定矩阵正定二次型-1792635653162.jpeg",
-    "_attachments/image/正定矩阵正定二次型-1792635196755.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.102286195340",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.0d47da5a90c0",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.30560.99725478d624",

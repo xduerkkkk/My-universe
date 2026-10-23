@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "00技巧",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "初见杀",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
+    },
+    {
+      "basename": "线代变式题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
+      "basename": "01 笔记",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
+    },
+    {
+      "basename": "00数学记忆-格式与公式补全前备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md"
+    },
+    {
+      "basename": "00数学记忆-原版备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "训练第2周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第2周-混合保温.md"
+    },
+    {
       "basename": "史纲2",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
     },
@@ -9,24 +81,8 @@
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
     },
     {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
-    },
-    {
       "basename": "模糊点史纲1",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/模糊点史纲1.md"
-    },
-    {
-      "basename": "初见杀",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
     },
     {
       "basename": "小作文模板",
@@ -57,10 +113,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/01算法题题单.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "条件概率期望",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
     },
@@ -73,24 +125,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md"
     },
     {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
       "basename": "高数1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
     {
       "basename": "正定矩阵正定二次型",
@@ -109,10 +145,6 @@
       "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
     },
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
       "basename": "03算法题模板",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
     },
@@ -123,14 +155,6 @@
     {
       "basename": "408 杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
-      "basename": "线代变式题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md"
     },
     {
       "basename": "高数变式题",
@@ -173,32 +197,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
     },
     {
-      "basename": "00数学记忆-原版备份",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
-    },
-    {
       "basename": "03 强化习题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md"
-    },
-    {
-      "basename": "收敛半径",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md"
-    },
-    {
-      "basename": "极坐标换元",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/极坐标换元.md"
-    },
-    {
-      "basename": "求收敛域流程原理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/求收敛域流程原理.md"
-    },
-    {
-      "basename": "级数拆分",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/级数拆分.md"
-    },
-    {
-      "basename": "02随机变量-题型检索整理",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md"
     }
   ],
   "omittedPaths": [
