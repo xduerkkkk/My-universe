@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "串联",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md"
+    },
+    {
+      "basename": "01英文缩写",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/01英文缩写.md"
+    },
+    {
+      "basename": "02首部对比",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/02首部对比.md"
+    },
+    {
+      "basename": "训练第1周-混合保温",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
     },
     {
       "basename": "计算错误",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
     {
       "basename": "线代1",
@@ -17,20 +49,12 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "00技巧",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
     {
       "basename": "数学杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "训练第1周-混合保温",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
     },
     {
       "basename": "初见杀",
@@ -59,10 +83,6 @@
     {
       "basename": "00数学记忆-原版备份",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "模拟卷线代",
@@ -153,10 +173,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/00代码输出30天训练计划.md"
     },
     {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "高数变式题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "书籍勘察",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/04传输层/书籍勘察.md"
-    },
-    {
-      "basename": "04幂级数大观",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
-      "basename": "01粗心记录",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01粗心记录.md"
-    },
-    {
-      "basename": "03 强化习题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/03 强化习题.md"
     }
   ],
   "omittedPaths": [
