@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "小作文模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
+      "basename": "史纲2",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
+    },
+    {
+      "basename": "史纲",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
     },
     {
       "basename": "训练第1周-混合保温",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/训练第1周-混合保温.md"
+    },
+    {
+      "basename": "模糊点史纲1",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/模糊点史纲1.md"
+    },
+    {
+      "basename": "初见杀",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+    },
+    {
+      "basename": "小作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
     },
     {
       "basename": "素材积累2",
@@ -49,10 +73,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/04数字特征/03 强化习题.md"
     },
     {
-      "basename": "初见杀",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
-    },
-    {
       "basename": "概率1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
@@ -81,24 +101,12 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "大观",
       "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/04多元函数微分/大观.md"
     },
     {
       "basename": "刷题笔记",
       "path": "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md"
-    },
-    {
-      "basename": "史纲2",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
-    },
-    {
-      "basename": "史纲",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
     },
     {
       "basename": "数学杜绝粗心",
@@ -191,14 +199,6 @@
     {
       "basename": "02随机变量-题型检索整理",
       "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/02随机变量/02随机变量-题型检索整理.md"
-    },
-    {
-      "basename": "00-规划一览【已废弃-2026-09-20】",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/00-规划一览【已废弃-2026-09-20】.md"
-    },
-    {
-      "basename": "数学408新规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/数学408新规划.md"
     }
   ],
   "omittedPaths": [
