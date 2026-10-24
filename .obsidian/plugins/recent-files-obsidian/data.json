@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "概率1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
+    },
+    {
       "basename": "抗日",
       "path": "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/抗日.md"
     },
@@ -121,14 +145,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
     },
     {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
       "basename": "00技巧",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md"
     },
@@ -141,14 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md"
     },
     {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "概率1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
-    },
-    {
       "basename": "01 笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
     },
@@ -159,10 +167,6 @@
     {
       "basename": "00数学记忆-原版备份",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
-    },
-    {
-      "basename": "模拟卷线代",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
     },
     {
       "basename": "训练第2周-混合保温",
@@ -195,10 +199,6 @@
     {
       "basename": "条件概率期望",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
-    },
-    {
-      "basename": "数字特征公式直觉",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/03概率论/00卡片/数字特征公式直觉.md"
     }
   ],
   "omittedPaths": [
