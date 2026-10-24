@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792850254534-nj5jcz0uz",
+  "providerId": "codex",
+  "title": "创建附题解的算法模板分类训练并统一归档练习题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792850254539,
+  "updatedAt": 1792852326075,
+  "lastResponseAt": 1792852326075,
+  "sessionId": "01a16e33-e7df-7603-9a7c-68bd1da15afc",
+  "providerState": {
+    "threadId": "01a16e33-e7df-7603-9a7c-68bd1da15afc",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T21-57-42-01a16e33-e7df-7603-9a7c-68bd1da15afc.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 81812,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 81664,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 81812,
+    "percentage": 32,
+    "model": "gpt-6.1-sol"
+  }
+}
