@@ -1,0 +1,23 @@
+{
+  "id": "conv-1792935533372-eaj3dorb7",
+  "providerId": "claude",
+  "title": "又出现这种错误了 我能不能直接把那个插件关了 这样影响吗",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1792935533374,
+  "updatedAt": 1792935928349,
+  "lastResponseAt": 1792935862783,
+  "sessionId": "0990424b-3183-4776-bf02-78d6a12913e1",
+  "providerState": {
+    "providerSessionId": "0990424b-3183-4776-bf02-78d6a12913e1"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 619,
+    "cacheReadInputTokens": 62448,
+    "contextWindow": 1000000,
+    "contextTokens": 63068,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

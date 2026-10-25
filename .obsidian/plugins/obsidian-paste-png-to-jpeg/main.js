@@ -234,7 +234,7 @@ var PastePngToJpegPlugin = class extends import_obsidian.Plugin {
         }
         newPath = imagePath;
       } else {
-        newPath = file.parent.path + +"/" + this.settings.dirpath;
+        newPath = file.parent.path + "/" + this.settings.dirpath;
       }
       const originName = file.name;
       if (this.settings.pngToJpeg) {
@@ -246,30 +246,25 @@ var PastePngToJpegPlugin = class extends import_obsidian.Plugin {
       const linkText = this.makeLinkText(file, sourcePath);
       newPath = path.join(newPath, newName);
       try {
-        yield this.app.vault.rename(file, newPath);
+        yield this.app.fileManager.renameFile(file, newPath);
       } catch (err) {
         new import_obsidian.Notice(`Failed to rename ${newName}: ${err}`);
         throw err;
       }
       const newLinkText = this.makeLinkText(file, sourcePath);
       debugLog("replace text", linkText, newLinkText);
-      const editor = this.getActiveEditor(sourcePath);
-      if (!editor) {
-        new import_obsidian.Notice(`Failed to rename ${newName}: no active editor`);
-        return;
-      }
-      const cursor = editor.getCursor();
-      const line = editor.getLine(cursor.line);
-      debugLog("current line", line);
-      editor.transaction({
-        changes: [
-          {
-            from: __spreadProps(__spreadValues({}, cursor), { ch: 0 }),
-            to: __spreadProps(__spreadValues({}, cursor), { ch: line.length }),
-            text: line.replace(linkText, newLinkText)
+      if (linkText !== newLinkText) {
+        const editor = this.getActiveEditor(sourcePath);
+        if (editor) {
+          const content = editor.getValue();
+          const idx = content.indexOf(linkText);
+          if (idx !== -1) {
+            editor.replaceRange(newLinkText, editor.offsetToPos(idx), editor.offsetToPos(idx + linkText.length));
           }
-        ]
-      });
+        } else {
+          yield this.app.vault.process(activeFile, (data) => data.split(linkText).join(newLinkText));
+        }
+      }
       new import_obsidian.Notice(`Renamed ${originName} to ${newName}`);
     });
   }

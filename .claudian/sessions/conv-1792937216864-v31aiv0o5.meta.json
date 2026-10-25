@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792937216864-v31aiv0o5",
+  "providerId": "claude",
+  "title": "现在，我发现几个问题",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1792937216864,
+  "updatedAt": 1792937340646,
+  "lastResponseAt": 1792937340646,
+  "sessionId": "5011b036-0214-464a-aa10-026b6f84f365",
+  "providerState": {
+    "providerSessionId": "5011b036-0214-464a-aa10-026b6f84f365"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 13495,
+    "cacheReadInputTokens": 37598,
+    "contextWindow": 1000000,
+    "contextTokens": 51094,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
