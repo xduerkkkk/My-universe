@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "高数变式题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
+    },
+    {
+      "basename": "03曲线面积分，空间几何",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "概率论建模",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/概率论建模.md"
+    },
+    {
+      "basename": "极坐标换元",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/极坐标换元.md"
+    },
+    {
+      "basename": "配方法补丁",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md"
+    },
+    {
+      "basename": "反函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/反函数.md"
+    },
+    {
+      "basename": "二次型配方法原理",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md"
+    },
+    {
+      "basename": "概率论建模好题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "概率薄弱",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md"
+    },
+    {
+      "basename": "线代薄弱",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代薄弱.md"
+    },
+    {
+      "basename": "02导数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
+    },
+    {
+      "basename": "03积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md"
+    },
+    {
+      "basename": "01极限函数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "05级数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "00数学记忆-原版备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-原版备份.md"
+    },
+    {
       "basename": "史纲2",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
     },
@@ -13,28 +109,8 @@
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
     },
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
       "basename": "初见杀",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
       "basename": "01计算机记忆",
@@ -45,24 +121,12 @@
       "path": "_attachments/image/Pasted image 20261025213211.jpeg"
     },
     {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
       "basename": "伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/卡片/伴随矩阵 $A^$ 的秩与 $A$ 的秩的关系.md"
     },
     {
       "basename": "笔记",
       "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "算法分类训练-整理与校验记录",
@@ -135,70 +199,6 @@
     {
       "basename": "03算法题模板",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md"
-    },
-    {
-      "basename": "高数变式题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
-    },
-    {
-      "basename": "02导数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/02导数.md"
-    },
-    {
-      "basename": "01极限函数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/01极限函数.md"
-    },
-    {
-      "basename": "03翻译",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译.md"
-    },
-    {
-      "basename": "小作文模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
-    },
-    {
-      "basename": "大作文模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
-    },
-    {
-      "basename": "错误集合",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md"
-    },
-    {
-      "basename": "素材积累2",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md"
-    },
-    {
-      "basename": "素材积累",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "03强化课--PV操作整理版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作整理版.md"
-    },
-    {
-      "basename": "03强化课--PV操作",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作.md"
-    },
-    {
-      "basename": "02思维导图-进程",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/02思维导图-进程.md"
-    },
-    {
-      "basename": "配方法补丁",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "模拟卷线代",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
     }
   ],
   "omittedPaths": [
