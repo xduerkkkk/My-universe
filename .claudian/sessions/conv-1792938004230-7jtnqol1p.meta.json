@@ -1,0 +1,26 @@
+{
+  "id": "conv-1792938004230-7jtnqol1p",
+  "providerId": "codex",
+  "title": "优化数学与408计算稳定性及考研冲刺计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792938004230,
+  "updatedAt": 1792938196836,
+  "lastResponseAt": 1792938183918,
+  "sessionId": "01a1736e-cfc5-7092-a21d-527b46eb0ec7",
+  "providerState": {
+    "threadId": "01a1736e-cfc5-7092-a21d-527b46eb0ec7",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\25\\rollout-2026-10-25T22-20-09-01a1736e-cfc5-7092-a21d-527b46eb0ec7.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 24845,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17664,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 24845,
+    "percentage": 10,
+    "model": "gpt-6.1-sol"
+  }
+}
