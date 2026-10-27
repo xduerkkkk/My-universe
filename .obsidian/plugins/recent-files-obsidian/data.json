@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "cache代码访存缺失类题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
+      "basename": "大作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "素材积累",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "408 杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "cache代码访存缺失类题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md"
     },
     {
       "basename": "透明",
@@ -15,10 +31,6 @@
     {
       "basename": "cache访存缺失规律总结",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache访存缺失规律总结.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "与ln相关的大全",
@@ -187,18 +199,6 @@
     {
       "basename": "算法分类训练-06-H堆与排序",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-06-H堆与排序.md"
-    },
-    {
-      "basename": "DS",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS.md"
-    },
-    {
-      "basename": "01 笔记",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md"
-    },
-    {
-      "basename": "03 强化",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md"
     }
   ],
   "omittedPaths": [
