@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "史纲2",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
+      "basename": "与ln相关的大全",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
-      "basename": "线代难考点",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md"
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "05级数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
+    },
+    {
+      "basename": "03积分",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03积分.md"
+    },
+    {
+      "basename": "Drawing 2026-08-26 11.19.38.excalidraw",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/Drawing 2026-08-26 11.19.38.excalidraw.md"
     },
     {
       "basename": "思维惯性",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "初见杀",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
     },
     {
       "basename": "计算错误",
@@ -29,12 +37,52 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
     },
     {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
-    },
-    {
       "basename": "概率2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "规划",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/规划.md"
+    },
+    {
+      "basename": "02积累",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/02积累.md"
+    },
+    {
+      "basename": "01AI预测",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
+    },
+    {
+      "basename": "00模拟卷粗心记录",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/00模拟卷粗心记录.md"
+    },
+    {
+      "basename": "06概率论翻译",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
+    },
+    {
+      "basename": "线代难考点",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md"
+    },
+    {
+      "basename": "模拟卷",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/套卷诊断/模拟卷.md"
+    },
+    {
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "史纲2",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "初见杀",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
     },
     {
       "basename": "概率1",
@@ -45,16 +93,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md"
     },
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
       "basename": "手稿错题索引",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md"
-    },
-    {
-      "basename": "06概率论翻译",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md"
     },
     {
       "basename": "08概率论扫盲",
@@ -159,46 +199,6 @@
     {
       "basename": "03翻译",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译.md"
-    },
-    {
-      "basename": "单词好句5",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
-    },
-    {
-      "basename": "单词好句4",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
-    },
-    {
-      "basename": "单词句子1",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "02王道题-错题复盘-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md"
-    },
-    {
-      "basename": "02王道题-注释分类整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-注释分类整理.md"
-    },
-    {
-      "basename": "02王道题-知识点整理-重构版",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "树、森林解题--技巧大全",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/04树/卡片/树、森林解题--技巧大全.md"
     }
   ],
   "omittedPaths": [
