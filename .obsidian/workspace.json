@@ -72,17 +72,17 @@
             }
           },
           {
-            "id": "02a365de8ad7e9a5",
+            "id": "3ffd64b7986d64cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "与ln相关的大全"
+              "title": "cache代码访存缺失类题"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -304,8 +304,14 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "02a365de8ad7e9a5",
+  "active": "3ffd64b7986d64cb",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/透明.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache访存缺失规律总结.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/卡片/与ln相关的大全.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261027115446.jpeg",
     "_attachments/image/Pasted image 20261027114253.jpeg",
@@ -334,11 +340,6 @@
     "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md",
     "_attachments/image/Pasted image 20261026214414.jpeg",
     "_attachments/image/Pasted image 20261026210058.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选",
