@@ -72,37 +72,49 @@
             }
           },
           {
-            "id": "4a93b8459fb2fe32",
+            "id": "ac22ffaf65adcd94",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "03翻译"
+              "title": "06概率论翻译"
             }
           },
           {
-            "id": "a9eb3608df4f58c3",
+            "id": "0bb9b4f5354a3494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法分类训练-01-A数组与线性表"
+              "title": "线代难考点"
+            }
+          },
+          {
+            "id": "e2e214ed8aca8e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "史纲2"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,39 +332,39 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "a9eb3608df4f58c3",
+  "active": "e2e214ed8aca8e64",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-06-H堆与排序.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "_attachments/image/Pasted image 20261026214414.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/01 笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/01行列式/03 强化.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/04提防考点/线代难考点.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
-    "_attachments/image/Pasted image 20261026210058.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/同解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/手稿错题索引.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/06概率论翻译.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/08概率论扫盲.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率论建模好题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/反函数.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/概率论建模.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/极坐标换元.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md",
+    "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/模糊点史纲1---会议.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "_attachments/image/Pasted image 20261026214414.jpeg",
+    "_attachments/image/Pasted image 20261026210058.jpeg",
     "_attachments/image/Pasted image 20261026210045.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/02线性代数/02矩阵/02大观题.md",
     "_attachments/image/Pasted image 20261026205210.jpeg",
     "_attachments/image/Pasted image 20261026205205.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句4.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-错题复盘-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-注释分类整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/02王道题-知识点整理-重构版.md",
     "_attachments/image/Pasted image 20261026141854.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选",
     "_attachments/image/Pasted image 20261026114940.jpeg",
