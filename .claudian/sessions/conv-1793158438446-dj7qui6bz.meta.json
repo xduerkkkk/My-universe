@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793158438446-dj7qui6bz",
+  "providerId": "claude",
+  "title": "按要求  完成这个科技论文的报告 一定要尽量减少AI味 完成的文件输出到\"E:\\200课内\\26年春...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1793158438449,
+  "updatedAt": 1793159355809,
+  "lastResponseAt": 1793159180573,
+  "sessionId": "6b6d8442-0c84-410f-8850-1bbc4cccceb3",
+  "providerState": {
+    "providerSessionId": "6b6d8442-0c84-410f-8850-1bbc4cccceb3"
+  },
+  "currentNote": "2.知识库/26.论文/未命名.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1038,
+    "cacheReadInputTokens": 107095,
+    "contextWindow": 1000000,
+    "contextTokens": 108134,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

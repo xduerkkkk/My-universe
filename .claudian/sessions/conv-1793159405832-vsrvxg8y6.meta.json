@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793159405832-vsrvxg8y6",
+  "providerId": "codex",
+  "title": "根据指定论文与要求撰写报告",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793159405832,
+  "updatedAt": 1793160066832,
+  "lastResponseAt": 1793160066832,
+  "sessionId": "01a180a1-2ac9-7060-9c77-45592c68cd63",
+  "providerState": {
+    "threadId": "01a180a1-2ac9-7060-9c77-45592c68cd63",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\28\\rollout-2026-10-28T11-50-13-01a180a1-2ac9-7060-9c77-45592c68cd63.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 56828,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56704,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56828,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}

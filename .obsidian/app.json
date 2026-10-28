@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": true,
+  "promptDelete": false,
   "trashOption": "local",
   "uriCallbacks": true,
   "useMarkdownLinks": false,

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793159046483-64xy9atyd",
+  "providerId": "claude",
+  "title": "我今天已经完结手稿了 我现在想详细计划下真题错题和手稿错题怎么刷？   2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1793159046484,
+  "updatedAt": 1793159535994,
+  "lastResponseAt": 1793159148413,
+  "sessionId": "a861103e-1b05-4057-978d-07b94409f951",
+  "providerState": {
+    "providerSessionId": "a861103e-1b05-4057-978d-07b94409f951"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5474,
+    "cacheReadInputTokens": 56415,
+    "contextWindow": 1000000,
+    "contextTokens": 61890,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
