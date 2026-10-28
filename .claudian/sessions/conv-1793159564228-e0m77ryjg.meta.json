@@ -4,8 +4,8 @@
   "title": "我今天已经完结手稿了 我现在想详细计划下真题错题和手稿错题怎么刷？   2",
   "titleGenerationStatus": "failed",
   "createdAt": 1793159564228,
-  "updatedAt": 1793159694515,
-  "lastResponseAt": 1793159694515,
+  "updatedAt": 1793168402339,
+  "lastResponseAt": 1793168402339,
   "sessionId": "ab328b18-48e8-4ad1-8b57-eb0d901504da",
   "providerState": {
     "providerSessionId": "ab328b18-48e8-4ad1-8b57-eb0d901504da"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus[1m]",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 1184,
-    "cacheReadInputTokens": 61696,
+    "cacheCreationInputTokens": 916,
+    "cacheReadInputTokens": 78783,
     "contextWindow": 1000000,
-    "contextTokens": 62881,
-    "percentage": 6,
+    "contextTokens": 79700,
+    "percentage": 8,
     "contextWindowIsAuthoritative": true
   }
 }
