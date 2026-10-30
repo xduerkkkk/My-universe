@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+      "basename": "毛中特",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特.md"
+    },
+    {
+      "basename": "马原",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "线代2",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+      "basename": "线代1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
+    },
+    {
+      "basename": "00数学记忆-格式与公式补全前备份",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md"
+    },
+    {
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
     },
     {
       "basename": "算法分类训练-01-A数组与线性表",
@@ -39,10 +67,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/01王道笔记.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "OS",
@@ -99,14 +123,6 @@
     {
       "basename": "计算错误",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "毛中特",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特.md"
     },
     {
       "basename": "史纲2",
@@ -183,22 +199,6 @@
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "算法分类训练-整理与校验记录",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-整理与校验记录.md"
-    },
-    {
-      "basename": "00代码输出30天训练计划",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/00代码输出30天训练计划.md"
-    },
-    {
-      "basename": "多模态情感识别论文阅读报告",
-      "path": "output/reports/多模态情感识别论文阅读报告.pdf"
-    },
-    {
-      "basename": "未命名",
-      "path": "2.知识库/26.论文/未命名.md"
     }
   ],
   "omittedPaths": [

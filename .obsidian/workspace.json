@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线代1"
+              "title": "毛中特"
             }
           }
         ],
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2423095703125
+    "width": 330.42694091796875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -320,11 +320,24 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "11a51d43d4c7297e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+    "_attachments/image/Pasted image 20261029222014.jpeg",
+    "_attachments/image/Pasted image 20261029222001.jpeg",
+    "_attachments/image/Pasted image 20261029220023.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "_attachments/image/Pasted image 20261029220010.jpeg",
+    "_attachments/image/Pasted image 20261029215633.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+    "_attachments/image/Pasted image 20261029204946.jpeg",
+    "_attachments/image/Pasted image 20261029203853.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
@@ -332,7 +345,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/01王道笔记.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md",
     "_attachments/image/Pasted image 20261029153746.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DSx缀.md",
@@ -344,26 +356,14 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04计组中断细节.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
     "_attachments/image/Pasted image 20261029101516.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
     "_attachments/image/Pasted image 20261029093538.jpeg",
-    "_attachments/image/Pasted image 20261029090426.jpeg",
-    "_attachments/image/Pasted image 20261028210434.jpeg",
-    "_attachments/image/Pasted image 20261028204434.jpeg",
     "output/reports/多模态情感识别论文阅读报告.pdf",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.115056.d2c1acb71364",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.115056.1554f45865d2",
     "tmp/report-electronics/verify.py",
     "tmp/report-electronics/final.txt",
     "output/reports/msoB981.tmp",
-    "tmp/report-electronics/render/page-4.png",
-    "tmp/report-electronics/render/page-3.png",
-    "tmp/report-electronics/render/page-2.png",
-    "tmp/report-electronics/render/page-1.png",
     "output/reports/mso90EF.tmp",
     "tmp/report-electronics/render",
     "output/reports/多模态情感识别论文阅读报告.docx",
