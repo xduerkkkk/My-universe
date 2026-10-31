@@ -1,0 +1,26 @@
+{
+  "id": "conv-1793406898847-vlsd7nc8q",
+  "providerId": "codex",
+  "title": "整理考研政治三科知识体系笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793406898847,
+  "updatedAt": 1793409111986,
+  "lastResponseAt": 1793408400306,
+  "sessionId": "01a18f61-9358-7c33-912a-eb99fd596c0e",
+  "providerState": {
+    "threadId": "01a18f61-9358-7c33-912a-eb99fd596c0e",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\31\\rollout-2026-10-31T08-35-04-01a18f61-9358-7c33-912a-eb99fd596c0e.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
+  "usage": {
+    "inputTokens": 24609,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19673,
+    "contextWindow": 121600,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 24609,
+    "percentage": 20,
+    "model": "gpt-6-astra"
+  }
+}

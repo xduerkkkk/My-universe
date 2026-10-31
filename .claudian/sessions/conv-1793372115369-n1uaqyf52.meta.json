@@ -4,6 +4,23 @@
   "title": "整理政治讨论为马原、史纲、毛中特故事化知识体系笔记",
   "titleGenerationStatus": "success",
   "createdAt": 1793372115369,
-  "updatedAt": 1793372144605,
-  "sessionId": null
+  "updatedAt": 1793406679801,
+  "lastResponseAt": 1793406674012,
+  "sessionId": "01a18d4e-d2bd-7bd2-a010-2c717da33baa",
+  "providerState": {
+    "threadId": "01a18d4e-d2bd-7bd2-a010-2c717da33baa",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\30\\rollout-2026-10-30T22-55-20-01a18d4e-d2bd-7bd2-a010-2c717da33baa.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md",
+  "usage": {
+    "inputTokens": 141038,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 140160,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 141038,
+    "percentage": 12,
+    "model": "gpt-6-astra"
+  }
 }
