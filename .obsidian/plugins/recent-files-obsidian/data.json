@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
+      "basename": "模拟卷线代",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+      "basename": "01王道笔记",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/01王道笔记.md"
     },
     {
-      "basename": "模拟卷线代",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "02王道题",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/02王道题.md"
+    },
+    {
+      "basename": "组合排序",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/组合排序.md"
+    },
+    {
+      "basename": "topk",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/topk.md"
+    },
+    {
+      "basename": "对logn的理解",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/对logn的理解.md"
     },
     {
       "basename": "算法分类训练-01-A数组与线性表",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "000泰勒",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
     },
     {
       "basename": "计算错误",
@@ -27,10 +59,6 @@
     {
       "basename": "数学杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "毛中特-体系串联",
@@ -69,10 +97,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-00总入口.md"
     },
     {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
       "basename": "单词句子1",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子1.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "单词好句5",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
-    },
-    {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
       "basename": "高数变式题",
@@ -179,26 +199,6 @@
     {
       "basename": "配方法补丁",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md"
-    },
-    {
-      "basename": "史纲2",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md"
-    },
-    {
-      "basename": "新思想",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/新思想.md"
-    },
-    {
-      "basename": "算法分类训练-公共约定",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-公共约定.md"
-    },
-    {
-      "basename": "算法分类训练-旧题覆盖索引",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-旧题覆盖索引.md"
-    },
-    {
-      "basename": "02算法题重刷清单",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/02算法题重刷清单.md"
     }
   ],
   "omittedPaths": [
