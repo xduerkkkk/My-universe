@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "算法分类训练-01-A数组与线性表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md"
+    },
+    {
+      "basename": "线代2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
+    },
+    {
+      "basename": "线代变式题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "小作文背诵",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md"
+    },
+    {
+      "basename": "小作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
+    },
+    {
+      "basename": "大作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
+    },
+    {
+      "basename": "单词好句5",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
+    },
+    {
+      "basename": "01陷阱整理-原版存档",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md"
+    },
+    {
+      "basename": "01陷阱整理",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
+    },
+    {
       "basename": "模拟卷线代",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "01王道笔记",
@@ -39,14 +83,6 @@
     {
       "basename": "对logn的理解",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/07排序/对logn的理解.md"
-    },
-    {
-      "basename": "算法分类训练-01-A数组与线性表",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
     },
     {
       "basename": "000泰勒",
@@ -105,10 +141,6 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
     },
     {
-      "basename": "单词好句5",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md"
-    },
-    {
       "basename": "高数变式题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
     },
@@ -125,10 +157,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/反例库.md"
     },
     {
-      "basename": "模拟卷高数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
       "basename": "00数学记忆-格式与公式补全前备份",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆-格式与公式补全前备份.md"
     },
@@ -143,10 +171,6 @@
     {
       "basename": "02小标题",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md"
-    },
-    {
-      "basename": "小作文模板",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
     },
     {
       "basename": "01王道笔记",
@@ -175,30 +199,6 @@
     {
       "basename": "04知识点整理",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/04知识点整理.md"
-    },
-    {
-      "basename": "DS",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS.md"
-    },
-    {
-      "basename": "DS-技巧",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
-    },
-    {
-      "basename": "04OSIO流程串联",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md"
-    },
-    {
-      "basename": "04OS调用，进程切换",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md"
-    },
-    {
-      "basename": "04计组中断细节",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04计组中断细节.md"
-    },
-    {
-      "basename": "配方法补丁",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/配方法补丁.md"
     }
   ],
   "omittedPaths": [
