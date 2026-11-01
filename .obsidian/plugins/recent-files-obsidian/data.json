@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "史纲",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
+    },
+    {
+      "basename": "史纲-体系串联",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲-体系串联.md"
+    },
+    {
+      "basename": "毛中特-体系串联",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特-体系串联.md"
+    },
+    {
+      "basename": "马原-体系串联",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-体系串联.md"
+    },
+    {
+      "basename": "客观题-易错陷阱库",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/客观题-易错陷阱库.md"
+    },
+    {
+      "basename": "客观题-概念帽子总表",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/客观题-概念帽子总表.md"
+    },
+    {
+      "basename": "模糊点史纲1---会议",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/模糊点史纲1---会议.md"
+    },
+    {
       "basename": "算法分类训练-01-A数组与线性表",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md"
+    },
+    {
+      "basename": "算法分类训练-02-L链表",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md"
     },
     {
       "basename": "线代2",
@@ -97,20 +129,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
     },
     {
-      "basename": "毛中特-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特-体系串联.md"
-    },
-    {
       "basename": "马原",
       "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原.md"
-    },
-    {
-      "basename": "马原-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-体系串联.md"
-    },
-    {
-      "basename": "史纲-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲-体系串联.md"
     },
     {
       "basename": "毛中特",
@@ -123,10 +143,6 @@
     {
       "basename": "抗日",
       "path": "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/抗日.md"
-    },
-    {
-      "basename": "模糊点史纲1---会议",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/模糊点史纲1---会议.md"
     },
     {
       "basename": "算法分类训练-00总入口",
@@ -175,30 +191,6 @@
     {
       "basename": "01王道笔记",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/03网络层/01王道笔记.md"
-    },
-    {
-      "basename": "OS",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md"
-    },
-    {
-      "basename": "DSx缀",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DSx缀.md"
-    },
-    {
-      "basename": "01王道笔记",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/01王道笔记.md"
-    },
-    {
-      "basename": "02王道题",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/02王道题.md"
-    },
-    {
-      "basename": "03错题复盘",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/03错题复盘.md"
-    },
-    {
-      "basename": "04知识点整理",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/06查找/04知识点整理.md"
     }
   ],
   "omittedPaths": [

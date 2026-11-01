@@ -1,0 +1,23 @@
+{
+  "id": "conv-1793456286607-4e6nx1gkc",
+  "providerId": "claude",
+  "title": "设计辅助真题的考研政治知识总文件",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793456286607,
+  "updatedAt": 1793456593185,
+  "lastResponseAt": 1793456593185,
+  "sessionId": "72abc399-f57e-4545-9bd9-15a6e1ecdabd",
+  "providerState": {
+    "providerSessionId": "72abc399-f57e-4545-9bd9-15a6e1ecdabd"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-体系串联.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 319,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 81792,
+    "contextWindow": 1000000,
+    "contextTokens": 82111,
+    "percentage": 8
+  }
+}
