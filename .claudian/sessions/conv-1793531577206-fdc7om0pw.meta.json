@@ -1,0 +1,26 @@
+{
+  "id": "conv-1793531577206-fdc7om0pw",
+  "providerId": "codex",
+  "title": "规划考研数学与408二轮错题复盘及模拟训练",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793531577206,
+  "updatedAt": 1793535400366,
+  "lastResponseAt": 1793535400366,
+  "sessionId": "01a196d0-0434-7d00-a08b-2edd9f848286",
+  "providerState": {
+    "threadId": "01a196d0-0434-7d00-a08b-2edd9f848286",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\01\\rollout-2026-11-01T19-13-02-01a196d0-0434-7d00-a08b-2edd9f848286.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 90102,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 89088,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 90102,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
+}
