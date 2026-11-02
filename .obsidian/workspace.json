@@ -88,35 +88,23 @@
             }
           },
           {
-            "id": "8a979b4bac85faf4",
+            "id": "7cb1d4f61b6a2dd3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "单词好句"
-            }
-          },
-          {
-            "id": "41d0ed09a63e1447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00真题笔记"
+              "title": "概率1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.91925048828125
+    "width": 281.6884765625
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -208,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.53076171875
+    "width": 329.71533203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,18 +322,26 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "41d0ed09a63e1447",
+  "active": "d821850bab6d9ecb",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "0.核心/00.规划(Plan)/毕设选题分析与建议.md",
+    "0.核心/00.规划(Plan)/毕设选题.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/概率薄弱.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/高数薄弱.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
     "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
     "2.知识库/20.North_star_ZJU/203.政治/客观题-易错陷阱库.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
     "2.知识库/20.North_star_ZJU/203.政治/客观题-概念帽子总表.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "_attachments/image/Pasted image 20261101221648.jpeg",
     "_attachments/image/Pasted image 20261101220945.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md",
@@ -354,19 +350,11 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/草稿.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/未命名.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
     "_attachments/image/Pasted image 20261101185547.jpeg",
     "_attachments/image/Pasted image 20261101185300.jpeg",
     "_attachments/image/Pasted image 20261101184715.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-公共约定.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-00总入口.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/02算法题重刷清单.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/训练第2周-混合保温.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/01算法题题单.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
     "2.知识库/20.North_star_ZJU/203.政治/真题实战",
     "_attachments/image/Pasted image 20261031202607.jpeg",
     "_attachments/image/Pasted image 20261031202528.jpeg",
