@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "03翻译11-18",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md"
+    },
+    {
+      "basename": "spark",
+      "path": "2.知识库/21.AI世界/spark.md"
+    },
+    {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
+      "basename": "二刷",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md"
+    },
+    {
+      "basename": "01陷阱整理-原版存档",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md"
+    },
+    {
+      "basename": "01陷阱整理",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md"
+    },
+    {
+      "basename": "00做题框架",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00做题框架.md"
+    },
+    {
+      "basename": "毕设选题分析与建议",
+      "path": "0.核心/00.规划(Plan)/毕设选题分析与建议.md"
+    },
+    {
+      "basename": "毕设选题",
+      "path": "0.核心/00.规划(Plan)/毕设选题.md"
+    },
+    {
       "basename": "01计算机记忆",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "小作文背诵",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md"
+    },
+    {
+      "basename": "小作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md"
+    },
+    {
+      "basename": "大作文模板",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
+    },
+    {
+      "basename": "大作文表达",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md"
+    },
+    {
+      "basename": "04OS文件",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS文件.md"
+    },
+    {
+      "basename": "05O4死锁，同步，信号量",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05O4死锁，同步，信号量.md"
+    },
+    {
+      "basename": "00通用：算数，区间和数数",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00通用：算数，区间和数数.md"
     },
     {
       "basename": "00数学记忆",
@@ -39,14 +99,6 @@
     {
       "basename": "毕设任务书与研究主线",
       "path": "0.核心/00.规划(Plan)/毕设任务书与研究主线.md"
-    },
-    {
-      "basename": "毕设选题",
-      "path": "0.核心/00.规划(Plan)/毕设选题.md"
-    },
-    {
-      "basename": "毕设选题分析与建议",
-      "path": "0.核心/00.规划(Plan)/毕设选题分析与建议.md"
     },
     {
       "basename": "数学杜绝粗心",
@@ -147,58 +199,6 @@
     {
       "basename": "初见杀",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
-    },
-    {
-      "basename": "线代1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代1.md"
-    },
-    {
-      "basename": "000泰勒",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/00三大计算/极限/000泰勒.md"
-    },
-    {
-      "basename": "投影转换法理解",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/01高等数学/08三重积分，曲线面积分/卡片/投影转换法理解.md"
-    },
-    {
-      "basename": "史纲",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md"
-    },
-    {
-      "basename": "史纲-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲-体系串联.md"
-    },
-    {
-      "basename": "毛中特-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/毛中特-体系串联.md"
-    },
-    {
-      "basename": "马原-体系串联",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-体系串联.md"
-    },
-    {
-      "basename": "模糊点史纲1---会议",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/模糊点史纲1---会议.md"
-    },
-    {
-      "basename": "线代2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代2.md"
-    },
-    {
-      "basename": "线代变式题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代变式题.md"
-    },
-    {
-      "basename": "模拟卷高数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
-      "basename": "小作文背诵",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md"
     }
   ],
   "omittedPaths": [
