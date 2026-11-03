@@ -104,17 +104,19 @@
             }
           },
           {
-            "id": "19203fa4104904ab",
+            "id": "083d28d2c7997b2e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "03翻译11-18"
+              "title": "00真题笔记"
             }
           }
         ],
@@ -210,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -311,7 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.546142578125
+    "width": 333.40771484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,10 +338,20 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "19203fa4104904ab",
+  "active": "083d28d2c7997b2e",
   "lastOpenFiles": [
-    "2.知识库/21.AI世界/spark.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲-体系串联.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/史纲2.md",
+    "2.知识库/20.North_star_ZJU/203.政治/刷题笔记.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率变式题.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+    "2.知识库/21.AI世界/spark.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/二刷.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
@@ -356,16 +368,6 @@
     "_attachments/image/Pasted image 20261102184308.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05O4死锁，同步，信号量.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/00通用：算数，区间和数数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片/判断--是否是xx.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片/理解--xx的内容.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/02总卡片/记忆--变量的字节.md",
-    "0.核心/00.规划(Plan)/毕设任务书与研究主线.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261101221648.jpeg",
     "_attachments/image/Pasted image 20261101220945.jpeg",
     "_attachments/image/Pasted image 20261101185547.jpeg",
