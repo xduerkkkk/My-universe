@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793675472015-qgo5p7zbq",
+  "providerId": "codex",
+  "title": "添加 PDF 章节导航书签",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793675472015,
+  "updatedAt": 1793675917483,
+  "lastResponseAt": 1793675917483,
+  "sessionId": "01a19f63-ade6-7470-8912-7ffd91cd3ca1",
+  "providerState": {
+    "threadId": "01a19f63-ade6-7470-8912-7ffd91cd3ca1",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\03\\rollout-2026-11-03T11-11-17-01a19f63-ade6-7470-8912-7ffd91cd3ca1.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 38797,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38656,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38797,
+    "percentage": 3,
+    "model": "gpt-5.6-sol"
+  }
+}

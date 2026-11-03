@@ -69,11 +69,11 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus[1m]",
-    "codex": "gpt-6-astra"
+    "codex": "gpt-5.6-sol"
   },
   "savedProviderEffort": {
     "claude": "high",
-    "codex": "xhigh"
+    "codex": "high"
   },
   "savedProviderServiceTier": {
     "codex": "fast"
