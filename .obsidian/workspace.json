@@ -104,23 +104,23 @@
             }
           },
           {
-            "id": "e25641d770f6e9eb",
+            "id": "1cac86e30bcba067",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "概率2"
+              "title": "02王道题"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.3038635253906
+    "width": 359.2269287109375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -338,44 +338,45 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "24b9ed6a0757633b",
+  "active": "1cac86e30bcba067",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/05中心极限，大数/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/06数理统计基本概念/01基础视频.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率变式题.md",
-    "_attachments/image/Pasted image 20261103212624.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
-    "_attachments/image/Pasted image 20261103211702.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/题--多级索引计算题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--i结点与目录项.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--虚拟文件系统.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--文件系统架构.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/感悟--时间线梳理文件.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--多级索引思想.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--四种外存空闲空间管理.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/记忆--IO软件四层作用.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--随机与直接访问.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--设备名的转换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--空闲区管理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--接口、阻塞、非阻塞、异步.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/卡片/辨析--“查表翻译”和“设备分配”.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/04IO/02王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-错题复盘-重构版.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/Drawing 2026-03-16 19.52.17.excalidraw.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--引用计数器.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/校验码们.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网各协议各层各端口，控制报文.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/01计网流水线--看尾.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04计组中断细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/微分方程技巧.md",
+    "_attachments/image/Pasted image 20261104140415.jpeg",
+    "_attachments/image/Pasted image 20261104135318.jpeg",
+    "_attachments/image/Pasted image 20261103212624.jpeg",
+    "_attachments/image/Pasted image 20261103211702.jpeg",
     "_attachments/image/Pasted image 20261103115736.jpeg",
     "_attachments/image/Pasted image 20261103114321.jpeg",
     "_attachments/image/Pasted image 20261103105937.jpeg",
     "_attachments/image/Pasted image 20261102184317.jpeg",
     "_attachments/image/Pasted image 20261102184308.jpeg",
     "_attachments/image/Pasted image 20261101221648.jpeg",
-    "_attachments/image/Pasted image 20261101220945.jpeg",
-    "_attachments/image/Pasted image 20261101185547.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治/真题实战",
     "output/reports/多模态情感识别论文阅读报告.pdf",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.115056.d2c1acb71364",
@@ -387,7 +388,6 @@
     "tmp/report-electronics/render",
     "output/reports/多模态情感识别论文阅读报告.docx",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/01函数极限连续.canvas",
