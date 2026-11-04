@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "03翻译11-18",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md"
+      "basename": "00真题笔记",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "概率2",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
+    },
+    {
+      "basename": "概率变式题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率变式题.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     },
     {
       "basename": "当前冲刺规划",
       "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "01七选五",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md"
+    },
+    {
+      "basename": "03翻译11-18",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md"
     },
     {
       "basename": "大作文模板",
@@ -65,10 +89,6 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
     },
     {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
       "basename": "408 杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
     },
@@ -87,14 +107,6 @@
     {
       "basename": "数学杜绝粗心",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "概率2",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     },
     {
       "basename": "01视频笔记",
@@ -117,10 +129,6 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md"
     },
     {
-      "basename": "00真题笔记",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md"
-    },
-    {
       "basename": "线代AB=BA",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/03薄弱点/线代AB=BA.md"
     },
@@ -131,10 +139,6 @@
     {
       "basename": "Drawing 2026-11-03 10.27.02.excalidraw",
       "path": "Excalidraw/Drawing 2026-11-03 10.27.02.excalidraw.md"
-    },
-    {
-      "basename": "概率变式题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率变式题.md"
     },
     {
       "basename": "线代变式题",
@@ -195,10 +199,6 @@
     {
       "basename": "04OS文件",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS文件.md"
-    },
-    {
-      "basename": "05O4死锁，同步，信号量",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05O4死锁，同步，信号量.md"
     }
   ],
   "omittedPaths": [
