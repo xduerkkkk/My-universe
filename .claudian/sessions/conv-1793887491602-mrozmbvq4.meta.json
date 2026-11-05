@@ -1,0 +1,26 @@
+{
+  "id": "conv-1793887491602-mrozmbvq4",
+  "providerId": "codex",
+  "title": "统一408风格的数组初始化与变量命名",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793887491603,
+  "updatedAt": 1793887690502,
+  "lastResponseAt": 1793887690502,
+  "sessionId": "01a1ac06-d875-7d73-9218-7a4c26637b7a",
+  "providerState": {
+    "threadId": "01a1ac06-d875-7d73-9218-7a4c26637b7a",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\05\\rollout-2026-11-05T22-04-57-01a1ac06-d875-7d73-9218-7a4c26637b7a.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-00总入口.md",
+  "usage": {
+    "inputTokens": 27100,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23424,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 27100,
+    "percentage": 2,
+    "model": "gpt-6.1-sol"
+  }
+}
