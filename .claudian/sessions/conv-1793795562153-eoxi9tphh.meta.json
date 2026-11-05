@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793795562153-eoxi9tphh",
+  "providerId": "claude",
+  "title": "翻译我已经刷了这几年了 感觉进入瓶颈 如何进行复盘 我希望你能给我出个复盘文件？ 总结错因 然后我最...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1793795562154,
+  "updatedAt": 1793795752207,
+  "lastResponseAt": 1793795752207,
+  "sessionId": "168cfc72-96c1-4ac5-8503-3028fe3c725a",
+  "providerState": {
+    "providerSessionId": "168cfc72-96c1-4ac5-8503-3028fe3c725a"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 11879,
+    "cacheReadInputTokens": 91395,
+    "contextWindow": 1000000,
+    "contextTokens": 103275,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

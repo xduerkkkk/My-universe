@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "7096fae2a9b44005",
+            "id": "13cdd7ee5153a132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03翻译11-18"
+              "title": "00真题笔记"
             }
           }
         ],
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.71923828125
+    "width": 360.703857421875
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -323,12 +323,11 @@
               "title": "统计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.40771484375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,36 +352,38 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "3682a8a8364fef4a",
+  "active": "13cdd7ee5153a132",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-24.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "_attachments/image/Pasted image 20261104212320.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/原函数法.md",
+    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/11中值定理/泰勒公式解决问题.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/99-文字版-原版备份.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原始.pdf",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原题文字版.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09真题证明做题本-模板归类与详解.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18-瓶颈复盘.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-24.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "_attachments/image/Pasted image 20261104180454.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/微分方程技巧.md",
     "_attachments/image/Pasted image 20261104170909.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--逻辑索引 vs 物理索引 vs FAT 表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/题--多级索引计算题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--i结点与目录项.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--虚拟文件系统.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/记忆--文件系统架构.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/感悟--时间线梳理文件.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析-目录文件的样子，inode的样子.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--多级索引思想.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--文件的存储管理和内存分配.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/卡片/辨析--四种外存空闲空间管理.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-知识点整理-重构版.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/03文件管理/02王道题-错题复盘-重构版.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "_attachments/image/Pasted image 20261104140415.jpeg",
     "_attachments/image/Pasted image 20261104135318.jpeg",
@@ -391,7 +392,6 @@
     "_attachments/image/Pasted image 20261103115736.jpeg",
     "_attachments/image/Pasted image 20261103114321.jpeg",
     "_attachments/image/Pasted image 20261103105937.jpeg",
-    "_attachments/image/Pasted image 20261102184317.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治/真题实战",
     "output/reports/多模态情感识别论文阅读报告.pdf",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.115056.d2c1acb71364",
@@ -401,7 +401,6 @@
     "output/reports/msoB981.tmp",
     "output/reports/mso90EF.tmp",
     "tmp/report-electronics/render",
-    "output/reports/多模态情感识别论文阅读报告.docx",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
