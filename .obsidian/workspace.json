@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.65771484375
+    "width": 298.673095703125
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.71539306640625
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,12 +322,15 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "0479c18302632fac",
+  "active": "c3d067660b2b42ee",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/级数奇偶下标.md",
     "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/收敛半径.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
@@ -348,9 +351,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/408新题训练-00树图样稿入口.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/408新题训练-设计与校验记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-改写前留档-2026-11-05/00-留档说明.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-06-H堆与排序.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-408真题对照与冲刺取舍.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-改写前留档-2026-11-05/原版-算法分类训练-整理与校验记录.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-改写前留档-2026-11-05",
     "_attachments/image/Pasted image 20261105210902.jpeg",
     "_attachments/image/Pasted image 20261105210623.jpeg",
