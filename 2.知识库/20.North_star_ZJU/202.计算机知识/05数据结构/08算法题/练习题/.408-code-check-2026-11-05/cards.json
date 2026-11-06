@@ -1,0 +1,584 @@
+{
+  "A01": {
+    "id": "A01",
+    "title": "有序数组原地去重",
+    "level": "基础积木",
+    "source": "读写指针；不是新增冲刺任务",
+    "prompt": "非递减整数数组 A，长度 n≥0。原地去重，每种值只留一个，返回有效长度。",
+    "tests": "[1,1,2,2,3] → 3，前3项为[1,2,3]；[] → 0；[2,2] → 1。",
+    "states": "`i` 扫描原数组；`k` 是已保留元素个数，也就是下一个写入位置。",
+    "steps": [
+      "从左到右读 A[i]；A[0..k-1] 始终是已去重的有效段。",
+      "没有保留过元素，或当前值不等于最后保留值时，把它写到 A[k]。",
+      "写入后 k 加1；最终返回 k，而不是原长度 n。"
+    ],
+    "code": "int Unique(int A[], int n) {\n    int k = 0;  // 已保留元素个数\n    for (int i = 0; i < n; i++) {\n        if (k == 0 || A[i] != A[k - 1]) {\n            A[k] = A[i];\n            k++;\n        }\n    }\n    return k;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "k==0 时不能先读 A[k-1]；数组本来就必须有序。",
+    "trace": ""
+  },
+  "A02": {
+    "id": "A02",
+    "title": "稳定删除指定值",
+    "level": "基础积木",
+    "source": "读写指针",
+    "prompt": "从整数数组 A 中删除所有等于 x 的元素，保持其余元素相对顺序；原地完成，返回新长度。",
+    "tests": "[2,1,2,3]，x=2 → 2，前2项[1,3]；全删 → 0；空数组 → 0。",
+    "states": "`i` 负责读；`k` 表示已经留下多少个不等于 x 的元素。",
+    "steps": [
+      "逐项检查 A[i]。",
+      "等于 x 就跳过；不等于 x 就写入 A[k]，然后 k++。",
+      "只把前 k 项当作删除后的结果，后面的旧数据不必清零。"
+    ],
+    "code": "int RemoveValue(int A[], int n, int x) {\n    int k = 0;\n    for (int i = 0; i < n; i++) {\n        if (A[i] != x) {\n            A[k] = A[i];\n            k++;\n        }\n    }\n    return k;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "删除的是逻辑长度，不需要为每个待删元素都整体左移一次。",
+    "trace": ""
+  },
+  "A12": {
+    "id": "A12",
+    "title": "最小未出现正整数",
+    "level": "主练",
+    "source": "2018·41：按用户给出的题型改写",
+    "prompt": "给定长度 n≥0 的整数数组 A，可含负数、0和重复值。不改 A，允许 O(n) 辅助空间，求未出现的最小正整数。",
+    "tests": "[3,4,-1,1] → 2；[1,2,3] → 4；[0,-2] → 1；[] → 1。",
+    "states": "`visited[x]` 表示正整数 x 是否出现；只关心 1..n。",
+    "steps": [
+      "长度为 n，答案一定落在 1..n+1；若1..n全在，答案才是 n+1。",
+      "申请 n+1 个标记，全部置0；下标0不用。",
+      "扫描 A，只给 1≤A[i]≤n 的值打标记。",
+      "从1向上找到第一个未出现值；返回前释放辅助数组。"
+    ],
+    "code": "int FirstMissingPositive(const int A[], int n) {\n    int *visited = new int[n + 1]();\n    for (int i = 0; i < n; i++) {\n        if (A[i] >= 1 && A[i] <= n) {\n            visited[A[i]] = 1;\n        }\n    }\n    int answer = n + 1;\n    for (int x = 1; x <= n; x++) {\n        if (visited[x] == 0) {\n            answer = x;\n            break;\n        }\n    }\n    delete[] visited;\n    return answer;\n}",
+    "cost": "O(n) / O(n)（n=0 时只申请1格）。",
+    "trap": "不能把负数或大于 n 的数直接拿来当下标；这里不需要原地置换的另一套技巧。",
+    "trace": "[3,4,-1,1]，n=4：标记1、3、4，从1检查，在2处首次遇到0。"
+  },
+  "A16": {
+    "id": "A16",
+    "title": "二分查找左右边界",
+    "level": "基础积木",
+    "source": "闭区间二分；本次针对选中文段重写",
+    "prompt": "非递减数组 A，长度 n≥0。分别返回第一个≥x、第一​​个>x 的下标；不存在返回 n。",
+    "tests": "[1,2,2,4]，x=2 → 1、3；x=0 → 0、0；x=5 → 4、4；空数组 → 0、0。",
+    "states": "`[low,high]` 是待查闭区间；`answer` 是目前找到的最靠左候选，下标 n 表示还没找到。",
+    "steps": [
+      "low=0、high=n-1、answer=n；空数组自然不进入循环。",
+      "A[mid] 满足条件时，先记住 mid，再到它左边找更早的候选。",
+      "不满足时，mid 及其左侧都不可能满足，令 low=mid+1。",
+      "两个函数只差一个条件：≥x 与 >x。"
+    ],
+    "code": "int LowerBound(const int A[], int n, int x) {\n    int low = 0;\n    int high = n - 1;\n    int answer = n;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (A[mid] >= x) {\n            answer = mid;   // 记住候选，但继续向左找\n            high = mid - 1;\n        } else {\n            low = mid + 1;\n        }\n    }\n    return answer;\n}\n\nint UpperBound(const int A[], int n, int x) {\n    int low = 0;\n    int high = n - 1;\n    int answer = n;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (A[mid] > x) {\n            answer = mid;\n            high = mid - 1;\n        } else {\n            low = mid + 1;\n        }\n    }\n    return answer;\n}",
+    "cost": "O(log(n+1)) / O(1)。",
+    "trap": "本页不用 [low,high) 的另一套边界约定；返回 n 后不能读取 A[n]。x 的个数为 UpperBound-LowerBound。",
+    "trace": "A=[1,2,2,4]、x=2，找左边界：mid=1 满足，先记 answer=1，再把 high 改成0；检查下标0后结束，返回1。"
+  },
+  "A18": {
+    "id": "A18",
+    "title": "Partition 与第 k 小",
+    "level": "主练",
+    "source": "2022·42：最小 k 个数；本卡补齐与旧题“第k小”的联系",
+    "prompt": "长度 n≥1，1≤k≤n，允许修改 A。先写第 k 小，再使 A 的前 k 项成为最小 k 个数（内部不要求有序）。",
+    "tests": "[4,1,3,2]，k=2 → 第2小为2，前2项集合{1,2}；[2,2,1]，k=2 → 2；k=n → 全部。",
+    "states": "`pivot` 是枢轴值；划分后枢轴下标为 pos；`k-1` 是第 k 小在排序结果中的下标。",
+    "steps": [
+      "一次划分把枢轴放到最终秩位置，左边≤它，右边≥它。",
+      "若 pos=k-1 已找到；pos 太大只查左段，太小只查右段。",
+      "反复缩小闭区间，不对不需要的一侧排序。",
+      "找到后前 k 项就是最小 k 个数，但它们内部仍可能无序。"
+    ],
+    "code": "int Partition(int A[], int low, int high) {\n    int pivot = A[low];\n    while (low < high) {\n        while (low < high && A[high] >= pivot) {\n            high--;\n        }\n        A[low] = A[high];\n        while (low < high && A[low] <= pivot) {\n            low++;\n        }\n        A[high] = A[low];\n    }\n    A[low] = pivot;\n    return low;\n}\n\nint SelectK(int A[], int n, int k) {\n    int low = 0;\n    int high = n - 1;\n    while (low <= high) {\n        int pos = Partition(A, low, high);\n        if (pos == k - 1) {\n            return A[pos];\n        }\n        if (pos > k - 1) {\n            high = pos - 1;\n        } else {\n            low = pos + 1;\n        }\n    }\n    return 0;  // 合法的 n、k 不会走到这里\n}\n\nvoid SmallestK(int A[], int n, int k) {\n    SelectK(A, n, k);  // 前 k 项即为答案，不要求内部有序\n}",
+    "cost": "随机排列等平均分析前提下 O(n)，最坏 O(n²) / O(1)，此实现不使用递归。",
+    "trap": "第 k 小对应下标 k-1。首元素作枢轴并不保证每次折半；不能写“严格 O(n)”或“前 k 项已排序”。",
+    "trace": ""
+  },
+  "A19": {
+    "id": "A19",
+    "title": "人数最均衡且总和差最大的分组",
+    "level": "主练",
+    "source": "2016·43：按用户题型改写；允许负数，并明确奇数长度",
+    "prompt": "n≥2，把全部元素分为两组，人数之差≤1，使两组总和的绝对差最大。允许修改数组，只返回最大差，不要求最后数组一定保留最优分组布局。",
+    "tests": "[1,2,3,4] → 4；[-100,-99,1] → 200；[5,5] → 0。",
+    "states": "`k=n/2` 是较小组人数；`total` 为总和；选 k 个数的和为 s 时，两组差为 |total-2s|。",
+    "steps": [
+      "先写完整 Partition/SelectK；下面已在本卡展开，不需跳到别处补代码。",
+      "用快速选择把最小 k 个放到前面，计算这一极端的差。",
+      "若 n 为偶数，另一个极端只是交换两组，直接返回。",
+      "若 n 为奇数，还要检查最大 k 个组成较小组的情况；两种差取较大值。"
+    ],
+    "code": "int Partition(int A[], int low, int high) {\n    int pivot = A[low];\n    while (low < high) {\n        while (low < high && A[high] >= pivot) high--;\n        A[low] = A[high];\n        while (low < high && A[low] <= pivot) low++;\n        A[high] = A[low];\n    }\n    A[low] = pivot;\n    return low;\n}\n\nint SelectK(int A[], int n, int k) {\n    int low = 0;\n    int high = n - 1;\n    while (low <= high) {\n        int pos = Partition(A, low, high);\n        if (pos == k - 1) return A[pos];\n        if (pos > k - 1) high = pos - 1;\n        else low = pos + 1;\n    }\n    return 0;\n}\n\nlong long BalancedDifference(int A[], int n) {\n    int k = n / 2;\n    long long total = 0;\n    for (int i = 0; i < n; i++) total += A[i];\n\n    SelectK(A, n, k);\n    long long smallSum = 0;\n    for (int i = 0; i < k; i++) smallSum += A[i];\n    long long answer = total - 2 * smallSum;\n    if (answer < 0) answer = -answer;\n    if (n % 2 == 0) return answer;\n\n    SelectK(A, n, n - k);\n    long long largeSum = 0;\n    for (int i = n - k; i < n; i++) largeSum += A[i];\n    long long other = total - 2 * largeSum;\n    if (other < 0) other = -other;\n    if (other > answer) answer = other;\n    return answer;\n}",
+    "cost": "快速选择的平均分析前提下 O(n)，最坏 O(n²) / O(1)。",
+    "trap": "奇数 n、允许负数时，不能只检查最小 k 个；这不是背一条“排序后对半切”就结束。long long 中间运算必须可表示。",
+    "trace": "[-100,-99,1]：较小组只有1人。选-100，差2；选1，差200，所以负数情况下必须比较两个极端。"
+  },
+  "A20": {
+    "id": "A20",
+    "title": "后缀最大乘积（允许自身）",
+    "level": "主练",
+    "source": "2025·41：用户给出的是题型标题，未提供原题的 j 范围；本卡沿用 i≤j 的训练定义",
+    "prompt": "整数数组 A 可含正、负、0。求 result[i]=max{A[i]×A[j]｜i≤j<n}，允许自身；不改 A，输出与 A 不重叠。n≥0，乘积能用 long long 表示。原题若要求 i<j，改练留档中的 A21，不把两种定义混用。",
+    "tests": "[-3,2,-4] → [12,4,16]；[0,-2] → [0,4]；[] → []。",
+    "states": "`suffixMin/suffixMax` 记录已纳入后缀的最小值/最大值；本题先纳入 A[i]，再计算答案。",
+    "steps": [
+      "从右向左扫描；因为 j≥i，所以先把当前值放入后缀极值。",
+      "A[i]≥0 时，乘后缀最大值最好。",
+      "A[i]<0 时，乘后缀最小值最好，负负可以得正。",
+      "每步只保留两个极值，不必保存整个后缀；结果数组不算辅助工作空间。"
+    ],
+    "code": "void SuffixMaxProduct(const int A[], int n, long long result[]) {\n    if (n == 0) return;\n    int suffixMin = A[n - 1];\n    int suffixMax = A[n - 1];\n    for (int i = n - 1; i >= 0; i--) {\n        if (A[i] < suffixMin) suffixMin = A[i];\n        if (A[i] > suffixMax) suffixMax = A[i];\n        if (A[i] >= 0) {\n            result[i] = (long long)A[i] * suffixMax;\n        } else {\n            result[i] = (long long)A[i] * suffixMin;\n        }\n    }\n}",
+    "cost": "O(n) / O(1) 辅助空间，另有 O(n) 输出空间。",
+    "trap": "不能只维护后缀最大值；允许自身要先更新，禁止自身要先查询。两者最后一项的合法性不同。",
+    "trace": "[-3,2,-4] 从右扫：-4的后缀极值均为-4，得16；2的后缀最大为2，得4；-3的后缀最小为-4，得12。"
+  },
+  "A24": {
+    "id": "A24",
+    "title": "数组循环左移",
+    "level": "主练",
+    "source": "2010·42：按用户给出的题型改写",
+    "prompt": "长度 n≥0 的数组 A 循环左移 p 位，p≥0。要求 O(n) 时间、O(1) 辅助空间；不使用额外数组。",
+    "tests": "[1,2,3,4,5]，p=2 → [3,4,5,1,2]；p=7 同结果；p=0不变；空数组不取模。",
+    "states": "`[0,p-1]` 是要移到后面的前段；`[p,n-1]` 是要移到前面的后段。",
+    "steps": [
+      "n=0 时直接结束；否则先 p%=n，去掉整圈移动。",
+      "分别逆置前 p 个与后 n-p 个元素，使两段各自倒序。",
+      "再逆置整个数组：两段交换位置，段内次序同时恢复。"
+    ],
+    "code": "void ReverseArray(int A[], int low, int high) {\n    while (low < high) {\n        int temp = A[low];\n        A[low] = A[high];\n        A[high] = temp;\n        low++;\n        high--;\n    }\n}\n\nvoid LeftRotate(int A[], int n, int p) {\n    if (n == 0) return;\n    p = p % n;\n    if (p == 0) return;\n    ReverseArray(A, 0, p - 1);\n    ReverseArray(A, p, n - 1);\n    ReverseArray(A, 0, n - 1);\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "循环左移不是每次删除首项再插到末尾；后者重复 p 次可能是 O(np)。",
+    "trace": "12345 左移2：前段逆置成21345，后段逆置成21543，整体逆置得到34512。"
+  },
+  "A25": {
+    "id": "A25",
+    "title": "两个等长升序序列的中位数",
+    "level": "主练",
+    "source": "2011·42：训练定义为合并后第 n 小，即偶数总长度的较小中位数",
+    "prompt": "A、B 都是长度 n≥1 的非递减数组。求合并后第 n 小的元素，不实际合并，要求 O(log n) 时间、O(1) 辅助空间。",
+    "tests": "[1,3,5] 与[2,4,6] → 3；[1]与[2] → 1；[1,1]与[1,2] → 1。",
+    "states": "`[low1,high1]`、`[low2,high2]` 是等长候选区间；同时舍去相同数量的较小元素与较大元素。",
+    "steps": [
+      "比较两段中点；相等时就是所求中位数。",
+      "若 A 的中点较小，舍弃 A 的一部分左端、B 的一部分右端；反之对称。",
+      "区间长度为奇数时保留两个中点；为偶数时，小中点所在区间要额外舍弃该中点，维持两段等长。",
+      "两段各剩一个数时，返回较小者。"
+    ],
+    "code": "int EqualLengthMedian(const int A[], const int B[], int n) {\n    int low1 = 0, high1 = n - 1;\n    int low2 = 0, high2 = n - 1;\n    while (low1 < high1) {\n        int mid1 = (low1 + high1) / 2;\n        int mid2 = (low2 + high2) / 2;\n        if (A[mid1] == B[mid2]) return A[mid1];\n        int length = high1 - low1 + 1;\n        if (A[mid1] < B[mid2]) {\n            low1 = (length % 2 == 0) ? mid1 + 1 : mid1;\n            high2 = mid2;\n        } else {\n            high1 = mid1;\n            low2 = (length % 2 == 0) ? mid2 + 1 : mid2;\n        }\n    }\n    return A[low1] < B[low2] ? A[low1] : B[low2];\n}",
+    "cost": "O(log n) / O(1)。",
+    "trap": "不是两个中间数的平均值；奇偶判断看“当前候选区间长度”，不是一直看原 n。",
+    "trace": "A=[1,3,5]，B=[2,4,6]：3<4，保留[3,5]与[2,4]；当前长2，3>2，保留[3]与[4]；较小者3。"
+  },
+  "A26": {
+    "id": "A26",
+    "title": "数组主元素",
+    "level": "主练",
+    "source": "2013·41：不存在返回 -1",
+    "prompt": "找出长度 n≥0 的数组中出现次数严格大于 n/2 的主元素，不存在返回 -1，要求 O(n) 时间、O(1) 辅助空间。",
+    "tests": "[2,1,2,2] → 2；[1,2,3] → -1；[1,1,2,2] → -1；[] → -1。",
+    "states": "`candidate` 为当前候选值；`count` 第一遍是抵消后的净票数，第二遍重新统计真实次数。",
+    "steps": [
+      "票数为0时，当前值成为新候选；相同值加票，不同值减票。",
+      "不同值两两抵消，不会把真正超过半数的值完全抵消。",
+      "但有候选不代表一定有主元素，必须第二遍验证。",
+      "真实次数>n/2 才返回候选，否则返回 -1。"
+    ],
+    "code": "int Majority(const int A[], int n) {\n    int candidate = 0;\n    int count = 0;\n    for (int i = 0; i < n; i++) {\n        if (count == 0) {\n            candidate = A[i];\n            count = 1;\n        } else if (A[i] == candidate) {\n            count++;\n        } else {\n            count--;\n        }\n    }\n    count = 0;\n    for (int i = 0; i < n; i++) {\n        if (A[i] == candidate) count++;\n    }\n    return count > n / 2 ? candidate : -1;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "一定要验证，不是选出候选就直接返回；恰好一半不算主元素。若数组允许-1，返回值可能与失败码同值，这是本题接口约定。",
+    "trace": ""
+  },
+  "A27": {
+    "id": "A27",
+    "title": "三个升序数组的三元组最小距离",
+    "level": "主练",
+    "source": "2020·41：距离定义在本题明示，不与“三数之和/紧密三元组计数”混淆",
+    "prompt": "三个非递减非空整数数组 A、B、C，长度分别 n、m、t。各取一项 a、b、c，使 |a-b|+|b-c|+|c-a| 最小；返回该最小距离。",
+    "tests": "[1,4,10]、[2,15,20]、[10,12] → 10（10,15,10或10,15,12）；[1]、[1]、[1] → 0；[-5]、[0]、[3] → 16。",
+    "states": "`i/j/k` 指向三数组当前元素；`minValue/maxValue` 为当前三元组极值。距离恒等于 2×(maxValue-minValue)。",
+    "steps": [
+      "从三个数组开头取当前三元组，更新最小距离。",
+      "若想缩小极差，推进当前最小值所在的数组；只推进非最小值不会改善当前最小值固定时的极差。",
+      "若最小值并列，可任选一个推进；若距离已为0，可直接结束。",
+      "任意一个数组耗尽后停止，不再有完整三元组。"
+    ],
+    "code": "long long MinTripleDistance(const int A[], int n,\n                            const int B[], int m,\n                            const int C[], int t) {\n    int i = 0, j = 0, k = 0;\n    long long answer = LLONG_MAX;\n    while (i < n && j < m && k < t) {\n        int minValue = A[i];\n        int maxValue = A[i];\n        if (B[j] < minValue) minValue = B[j];\n        if (C[k] < minValue) minValue = C[k];\n        if (B[j] > maxValue) maxValue = B[j];\n        if (C[k] > maxValue) maxValue = C[k];\n        long long distance = 2 * ((long long)maxValue - minValue);\n        if (distance < answer) answer = distance;\n        if (answer == 0) break;\n        if (A[i] == minValue) i++;\n        else if (B[j] == minValue) j++;\n        else k++;\n    }\n    return answer;\n}",
+    "cost": "O(n+m+t) / O(1)。",
+    "trap": "三个数组必须各取一个；不是在单数组找三数之和为0，也不是统计三元组数量。差值先转 long long 再减。",
+    "trace": "当前(1,2,10)，距离18，推进最小值1；得到(4,2,10)，距离16；再推进2所在的B，继续扫描，最优在(10,15,10)，距离10。"
+  },
+  "L01": {
+    "id": "L01",
+    "title": "单链表原地逆置",
+    "level": "基础积木",
+    "source": "链表重排的前置操作；新版统一带头结点",
+    "prompt": "带头结点单链表 L，原地逆置数据结点；头结点地址不变，不新建数据结点。",
+    "tests": "L→1→2→3 → L→3→2→1；空表、单结点均合法。",
+    "states": "`pre` 是已逆置部分的首结点；`p` 是当前待处理结点；`next` 暂存原后继。",
+    "steps": [
+      "pre 置空，p 从 L->next 开始，头结点不参加逆置。",
+      "先保存 p 原来的后继，再让 p 指向 pre。",
+      "pre 前进到 p，p 前进到原后继；直到原表扫描结束。",
+      "令 L->next=pre，把头结点接到逆置后的首结点。"
+    ],
+    "code": "void ReverseList(LinkList L) {\n    LNode *pre = NULL;\n    LNode *p = L->next;\n    while (p != NULL) {\n        LNode *next = p->next;\n        p->next = pre;\n        pre = p;\n        p = next;\n    }\n    L->next = pre;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "改 p->next 之前必须保存原后继；不能把头结点当数据结点一起逆置。",
+    "trace": ""
+  },
+  "L02": {
+    "id": "L02",
+    "title": "稳定归并两个有序链表",
+    "level": "基础积木",
+    "source": "有序表操作；统一带头结点",
+    "prompt": "La、Lb 是两条带头结点的非递减单链表，不共享结点。复用全部数据结点归并到 La，相等时先取 La 原结点；保留 Lb 的头结点并使 Lb 成为空表。",
+    "tests": "La=[1,3]、Lb=[1,2] → La=[1(a),1(b),2,3]、Lb=[]；两空表仍为空。",
+    "states": "`p/q` 指向两条待归并剩余链；`tail` 指向结果表最后一个结点。",
+    "steps": [
+      "先用 p、q 保存两条数据链，再把结果尾指针放在 La 头结点。",
+      "比较 p、q 的值，把较小结点尾插到结果；相等时先 p，保持稳定。",
+      "一条耗尽后，直接接上另一条剩余链。",
+      "清空 Lb->next，避免两个头结点继续指向同一批归并结果。"
+    ],
+    "code": "void MergeLists(LinkList La, LinkList Lb) {\n    LNode *p = La->next;\n    LNode *q = Lb->next;\n    LNode *tail = La;\n    while (p != NULL && q != NULL) {\n        if (p->data <= q->data) {\n            tail->next = p;\n            p = p->next;\n        } else {\n            tail->next = q;\n            q = q->next;\n        }\n        tail = tail->next;\n    }\n    tail->next = (p != NULL) ? p : q;\n    Lb->next = NULL;\n}",
+    "cost": "O(n+m) / O(1)。",
+    "trap": "本训练保留两个头结点；若原题要求释放 Lb 头结点，则按其所有权约定另行处理，不要擅自删除数据结点。",
+    "trace": ""
+  },
+  "L05": {
+    "id": "L05",
+    "title": "找前半段尾并断链",
+    "level": "基础积木",
+    "source": "链表重排的前置操作",
+    "prompt": "带头结点链表 L，至少2个数据结点。前半保留 ceil(n/2) 个，后半 floor(n/2) 个；断开两段，返回后半首结点。",
+    "tests": "[1,2,3,4,5] → 前[1,2,3]、后[4,5]；[1,2] → [1]与[2]。",
+    "states": "`slow` 每次走一步；`fast` 每次走两步；退出时 slow 是前半段尾。",
+    "steps": [
+      "slow、fast 都从首个数据结点出发。",
+      "只要 fast 后面还有两个结点，两者分别前进1步、2步。",
+      "保存 slow->next 作为后半首，再令 slow->next=NULL 断链。"
+    ],
+    "code": "LNode *SplitHalf(LinkList L) {\n    LNode *slow = L->next;\n    LNode *fast = L->next;\n    while (fast->next != NULL && fast->next->next != NULL) {\n        slow = slow->next;\n        fast = fast->next->next;\n    }\n    LNode *second = slow->next;\n    slow->next = NULL;\n    return second;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "本函数前提 n≥2；重排题在调用相同逻辑前，先处理空表/单结点。断链前先保存后半首。",
+    "trace": ""
+  },
+  "L07": {
+    "id": "L07",
+    "title": "首尾交替重排",
+    "level": "主练",
+    "source": "2019·41：按用户给出的题型改写",
+    "prompt": "带头结点链表 L 的数据结点为 a1→a2→…→an，改排为 a1→an→a2→an-1→…；不改变数据域，不新建数据结点，O(1) 辅助空间。",
+    "tests": "[1,2,3,4,5] → [1,5,2,4,3]；[1,2,3,4] → [1,4,2,3]；空表不变。",
+    "states": "`slow` 找前半尾；`pre` 是逆置后的后半首；`p/q` 交替连接两段。",
+    "steps": [
+      "快慢指针找前半尾，奇数长度把中间结点留在前半。",
+      "保存后半首并断链，这一步防止后续重排成环。",
+      "把后半链就地逆置，得到 an→an-1→… 的顺序。",
+      "每次从后半取一个结点，插入当前前半结点后面，保存双方后继再改链。"
+    ],
+    "code": "void ReorderList(LinkList L) {\n    if (L->next == NULL || L->next->next == NULL) return;\n    LNode *slow = L->next;\n    LNode *fast = L->next;\n    while (fast->next != NULL && fast->next->next != NULL) {\n        slow = slow->next;\n        fast = fast->next->next;\n    }\n    LNode *p = slow->next;\n    slow->next = NULL;\n\n    LNode *pre = NULL;\n    while (p != NULL) {\n        LNode *next = p->next;\n        p->next = pre;\n        pre = p;\n        p = next;\n    }\n\n    p = L->next;\n    LNode *q = pre;\n    while (q != NULL) {\n        LNode *next1 = p->next;\n        LNode *next2 = q->next;\n        p->next = q;\n        q->next = next1;\n        p = next1;\n        q = next2;\n    }\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "不是把所有结点压栈；断链和保存两个后继是最容易遗漏的地方。本卡已展开全部步骤，不依赖外部辅助函数。",
+    "trace": "[1,2,3,4,5]：拆成123与45；后半逆为54；交替接成1→5→2→4→3。"
+  },
+  "L09": {
+    "id": "L09",
+    "title": "两个链表的第一个公共结点",
+    "level": "主练",
+    "source": "2012·42：共同后缀首结点；按用户题型改写",
+    "prompt": "两条带头结点、无环的单链表 La、Lb 可能共享尾部，返回第一个公共数据结点地址；不存在返回 NULL。不修改、不释放结点。",
+    "tests": "两条数据链长度5、3且共享最后2个结点 → 长链先走2步，再同步找到公共首；值相同但地址不同 → NULL。",
+    "states": "`length1/length2` 是数据结点数；`p/q` 对齐后到表尾的距离相同。",
+    "steps": [
+      "分别遍历两表统计长度，不把头结点计入。",
+      "较长表先走长度差步，让两个指针到表尾的距离相同。",
+      "同步后移，第一次地址相等就是公共后缀首；都到 NULL 表示无交点。"
+    ],
+    "code": "LNode *FirstCommonNode(LinkList La, LinkList Lb) {\n    int length1 = 0, length2 = 0;\n    for (LNode *p = La->next; p != NULL; p = p->next) length1++;\n    for (LNode *q = Lb->next; q != NULL; q = q->next) length2++;\n    LNode *p = La->next;\n    LNode *q = Lb->next;\n    while (length1 > length2) {\n        p = p->next;\n        length1--;\n    }\n    while (length2 > length1) {\n        q = q->next;\n        length2--;\n    }\n    while (p != q) {\n        p = p->next;\n        q = q->next;\n    }\n    return p;\n}",
+    "cost": "O(n+m) / O(1)。",
+    "trap": "比的是 p==q，不是 p->data==q->data；本题有共享所有权，不能删除公共链上的结点。",
+    "trace": ""
+  },
+  "L14": {
+    "id": "L14",
+    "title": "链表倒数第 k 个结点",
+    "level": "主练",
+    "source": "2009·42：按用户题型改写，保留“成功输出并返回1、失败返回0”的形式",
+    "prompt": "带头结点链表 L，k 从1计数。只遍历一次，输出倒数第 k 个结点的数据并返回1；k≤0或表长不足 k 返回0，不输出。",
+    "tests": "[1,2,3,4,5]，k=2 → 输出4，返回1；k=5 → 输出1；k=6或k=0 → 返回0；空表返回0。",
+    "states": "`p` 是先行指针，先走 k 步；`q` 从首个数据结点出发，之后与 p 同步。",
+    "steps": [
+      "若 k≤0，直接失败。",
+      "p 先走 k 步；没走够就遇到 NULL，说明结点不足。",
+      "q 从首结点出发，与 p 同步前进；p 到 NULL 时，q 恰为倒数第 k 个。",
+      "输出 q->data，返回成功标志1。"
+    ],
+    "code": "int FindKthFromEnd(LinkList L, int k) {\n    if (k <= 0) return 0;\n    LNode *p = L->next;\n    for (int i = 0; i < k; i++) {\n        if (p == NULL) return 0;\n        p = p->next;\n    }\n    LNode *q = L->next;\n    while (p != NULL) {\n        p = p->next;\n        q = q->next;\n    }\n    printf(\"%d\", q->data);\n    return 1;\n}",
+    "cost": "O(n) / O(1)。",
+    "trap": "先行指针从数据首结点走 k 步、最后停在 NULL；不要与“先走 k-1 步、最后停在尾结点”的另一套循环混搭。",
+    "trace": ""
+  },
+  "L15": {
+    "id": "L15",
+    "title": "单链表按绝对值去重",
+    "level": "主练",
+    "source": "2015·41：利用题目给出的有限值域",
+    "prompt": "带头结点链表 L，所有数据满足 |data|≤maxValue，maxValue≥0。按原顺序只保留每个绝对值首次出现的结点，释放重复结点。所有结点由 new 单独创建且归本表所有。",
+    "tests": "[21,-15,-15,-7,15]，maxValue=21 → [21,-15,-7]；[0,0] → [0]；[-3,3,-3] → [-3]。",
+    "states": "`visited[x]` 记录绝对值 x 是否已保留；`pre` 是 p 的前驱，删除后 pre 不移动。",
+    "steps": [
+      "申请 maxValue+1 个零标记，包含绝对值0。",
+      "读取 p 的绝对值；没见过就标记，并让 pre、p 后移。",
+      "已经见过则绕过 p 并 delete；p 回到 pre->next，pre 留在原处。",
+      "扫描结束后释放标记数组。"
+    ],
+    "code": "void RemoveAbsDuplicates(LinkList L, int maxValue) {\n    int *visited = new int[maxValue + 1]();\n    LNode *pre = L;\n    LNode *p = L->next;\n    while (p != NULL) {\n        int value = p->data < 0 ? -p->data : p->data;\n        if (visited[value] == 0) {\n            visited[value] = 1;\n            pre = p;\n            p = p->next;\n        } else {\n            pre->next = p->next;\n            delete p;\n            p = pre->next;\n        }\n    }\n    delete[] visited;\n}",
+    "cost": "O(n+maxValue) / O(maxValue+1)，零初始化标记数组也有成本。",
+    "trap": "按绝对值去重，不是按原值；删除后不能再访问 p->next。值域前提排除了 INT_MIN 的取负溢出。",
+    "trace": ""
+  },
+  "T01": {
+    "id": "T01",
+    "title": "树高与平衡二叉树",
+    "level": "基础积木",
+    "source": "递归返回值",
+    "prompt": "空树高度0，叶结点高度1。先求树高，再判断任意结点的左右子树高差是否≤1；后者要求 O(n)。",
+    "tests": "空树高度0且平衡；单结点高度1；连续3个左孩子形成的链不平衡。",
+    "states": "`leftHeight/rightHeight` 是两棵子树高度；平衡检查额外用 -1 表示这棵子树已经不平衡。",
+    "steps": [
+      "普通高度函数：空树返回0；非空返回左右高度较大值加1。",
+      "平衡判断用后序；任一子树返回-1，就把失败向上传递。",
+      "两个高度之差超过1也返回-1，否则返回当前真实高度。",
+      "最终返回值不是-1则整棵树平衡。"
+    ],
+    "code": "int TreeHeight(BTNode *p) {\n    if (p == NULL) return 0;\n    int leftHeight = TreeHeight(p->lchild);\n    int rightHeight = TreeHeight(p->rchild);\n    return (leftHeight > rightHeight ? leftHeight : rightHeight) + 1;\n}\n\nint BalancedHeight(BTNode *p) {\n    if (p == NULL) return 0;\n    int leftHeight = BalancedHeight(p->lchild);\n    if (leftHeight == -1) return -1;\n    int rightHeight = BalancedHeight(p->rchild);\n    if (rightHeight == -1) return -1;\n    int difference = leftHeight - rightHeight;\n    if (difference > 1 || difference < -1) return -1;\n    return (leftHeight > rightHeight ? leftHeight : rightHeight) + 1;\n}\n\nbool IsBalanced(BTNode *root) {\n    return BalancedHeight(root) != -1;\n}",
+    "cost": "两项分别为 O(n) / O(h)，h 为树高，退化树 h=n。",
+    "trap": "不要在每个结点重新遍历整棵子树求高度，否则最坏 O(n²)。",
+    "trace": ""
+  },
+  "T05": {
+    "id": "T05",
+    "title": "所有结点深度之和与带权路径长度",
+    "level": "主练",
+    "source": "2014·41：WPL；所有结点深度和仅用于对照概念",
+    "prompt": "二叉树根深度为0，叶结点 data 为权值。求 WPL=Σ(叶权×叶深度)；另写所有结点深度之和作区分。空树返回0。",
+    "tests": "根带两个叶子，权2和3 → WPL=5；单结点 → 0；根的data无论多大，都不计入WPL。",
+    "states": "`depth` 是当前结点深度，沿递归参数向下传；返回值是当前子树的总贡献。",
+    "steps": [
+      "空结点贡献0。",
+      "叶结点贡献 data×depth，注意根若也是叶子，其深度仍为0。",
+      "非叶结点不贡献自己的权值，只返回左右子树贡献和；孩子深度加1。",
+      "对比 DepthSum：它是每个结点都贡献 depth，不是只有叶子。"
+    ],
+    "code": "long long WPL(BTNode *p, int depth) {\n    if (p == NULL) return 0;\n    if (p->lchild == NULL && p->rchild == NULL) {\n        return (long long)p->data * depth;\n    }\n    return WPL(p->lchild, depth + 1) + WPL(p->rchild, depth + 1);\n}\n\nlong long DepthSum(BTNode *p, int depth) {\n    if (p == NULL) return 0;\n    return depth + DepthSum(p->lchild, depth + 1)\n                 + DepthSum(p->rchild, depth + 1);\n}\n// 调用：WPL(root, 0)；DepthSum(root, 0)",
+    "cost": "O(n) / O(h)，递归栈计入辅助空间。",
+    "trap": "只有叶子参与 WPL；根从深度0开始。不要把“树高按层数从1算”套到路径长度。",
+    "trace": "根下左叶2，右孩子下有叶3和4：WPL=2×1+3×2+4×2=16；右侧内部结点的data不参加求和。"
+  },
+  "T07": {
+    "id": "T07",
+    "title": "递归先中后序遍历",
+    "level": "基础积木",
+    "source": "表达式树、WPL、BST 的递归积木",
+    "prompt": "分别输出二叉树先序、中序、后序，每个值后输出一个空格。",
+    "tests": "根2、左1、右3：先序2 1 3；中序1 2 3；后序1 3 2；空树无输出。",
+    "states": "不额外维护全局状态；访问语句相对于“递归左、递归右”的位置决定遍历次序。",
+    "steps": [
+      "先判空；空树直接返回。",
+      "先序在递归前访问根；中序在左右递归之间访问根。",
+      "后序在左右递归都返回后访问根。"
+    ],
+    "code": "void PreOrder(BTNode *p) {\n    if (p == NULL) return;\n    printf(\"%d \", p->data);\n    PreOrder(p->lchild);\n    PreOrder(p->rchild);\n}\n\nvoid InOrder(BTNode *p) {\n    if (p == NULL) return;\n    InOrder(p->lchild);\n    printf(\"%d \", p->data);\n    InOrder(p->rchild);\n}\n\nvoid PostOrder(BTNode *p) {\n    if (p == NULL) return;\n    PostOrder(p->lchild);\n    PostOrder(p->rchild);\n    printf(\"%d \", p->data);\n}",
+    "cost": "O(n) / O(h)。",
+    "trap": "中序输出不自动有序，只有满足 BST 条件时才有序。",
+    "trace": ""
+  },
+  "T16": {
+    "id": "T16",
+    "title": "表达式树转中缀表达式",
+    "level": "主练",
+    "source": "2017·41：按用户题型改写；用充分括号保留运算结构",
+    "prompt": "表达式树的叶子是单字符操作数，非叶是二元运算符且恰有两个孩子。输出等价中缀表达式：除整棵树的根表达式外，每个非叶子表达式都加一对括号；不要求最少括号。",
+    "tests": "根*，左子树a+b，右叶c → (a+b)*c；根-，右子树b-c、左叶a → a-(b-c)；单叶a → a。",
+    "states": "`depth` 标识是否为整棵树的根：depth=0 的根不加最外层括号，其他非叶结点加。",
+    "steps": [
+      "中序输出是“左表达式、运算符、右表达式”，但只中序会丢失运算结合关系。",
+      "进入非根的非叶结点时，先输出左括号。",
+      "递归左子树，输出当前字符，再递归右子树。",
+      "离开同一个非叶结点时输出右括号；叶子不加括号。"
+    ],
+    "code": "typedef struct ExprNode {\n    char data;\n    struct ExprNode *lchild, *rchild;\n} ExprNode;\n\nvoid PrintInfix(ExprNode *p, int depth) {\n    if (p == NULL) return;\n    bool needBrackets = depth > 0 && p->lchild != NULL;\n    if (needBrackets) printf(\"(\");\n    PrintInfix(p->lchild, depth + 1);\n    printf(\"%c\", p->data);\n    PrintInfix(p->rchild, depth + 1);\n    if (needBrackets) printf(\")\");\n}\n\nvoid ExpressionToInfix(ExprNode *root) {\n    PrintInfix(root, 0);\n}",
+    "cost": "O(n) / O(h)，输出长度也为 O(n)。",
+    "trap": "本题非叶恰有两个孩子，所以可用 lchild 判断非叶。不是看到乘除才加括号；减法、除法的右子树尤其不能随便省括号。",
+    "trace": "a-(b-c)：根“-”不加最外层括号；右孩子也是“-”，进入时先输出“(”，中序输出b-c，退出时输出“)”。"
+  },
+  "T17": {
+    "id": "T17",
+    "title": "顺序存储二叉树是否为 BST",
+    "level": "主练",
+    "source": "2022·41：按用户题型改写；训练的数组与空标记规则明确如下",
+    "prompt": "数组 A[0..n-1] 顺序存储一棵合法二叉树：根下标0，左右孩子2i+1、2i+2，-1为空；非空键均为非负整数，非空结点祖先必须非空。判断是否为严格 BST，不允许重复键。空树为真。",
+    "tests": "[2,1,3] → 真；[10,5,15,-1,-1,6,20] → 假；[2,2,3] → 假；[-1]或[] → 真。",
+    "states": "`previous` 是中序中上一个访问的键；初值-1仅因本训练所有合法键≥0，不是适用于任意int的通用哨兵。",
+    "steps": [
+      "用下标递归代替指针递归，越界或空槽直接成功返回。",
+      "先检查左子树，再比较当前键与上一个中序键。",
+      "当前键必须严格更大；更新 previous 后检查右子树。",
+      "使用引用参数把同一份 previous 沿整次中序遍历共享；原题若用不同空标记，先按题意改接口。"
+    ],
+    "code": "bool CheckArrayBST(const int A[], int n, int i, int &previous) {\n    if (i >= n || A[i] == -1) return true;\n    if (!CheckArrayBST(A, n, 2 * i + 1, previous)) return false;\n    if (A[i] <= previous) return false;\n    previous = A[i];\n    return CheckArrayBST(A, n, 2 * i + 2, previous);\n}\n\nbool IsArrayBST(const int A[], int n) {\n    int previous = -1;\n    return CheckArrayBST(A, n, 0, previous);\n}",
+    "cost": "O(n) 时间上界 / O(h) 递归栈；n是存储数组长度，若空槽很多不一定访问每个槽。",
+    "trap": "只比较父子不够：例中6虽是15的左孩子，却落在根10右子树中，仍然违法。不要把数组下标当键比较。孩子下标运算假定不溢出int。",
+    "trace": "[10,5,15,-1,-1,6,20] 的非空中序为5,10,6,15,20；访问6时发现6≤10，立即判假。"
+  },
+  "T18": {
+    "id": "T18",
+    "title": "BST 最近键值",
+    "level": "主练",
+    "source": "2026·41：仅依据用户提供的题型标题；下面是明示并列规则的训练版，不冒充原题全文",
+    "prompt": "给定严格 BST 与整数 target，返回键值和 target 的绝对差最小的结点；相同差时取较小键，空树返回 NULL。不改变树，要求 O(h) 时间、O(1) 辅助空间。",
+    "tests": "BST键{2,4,6,8,10}，target=7 → 键6；target=9 → 键8；恰好命中直接返回；空树→NULL。",
+    "states": "`best` 为当前最优结点；`bestDifference` 为最小绝对差；`p` 沿普通 BST 查找路径前进。",
+    "steps": [
+      "空树直接返回 NULL，否则先用根作为候选。",
+      "每到一个结点计算绝对差，必要时更新最优候选；并列时按本训练取较小键。",
+      "target 小于当前键则走左；大于则走右；相等已经是最优，停止。",
+      "被舍弃一侧的键只会离 target 更远或不优于当前结点，所以不用遍历整棵树。"
+    ],
+    "code": "BTNode *ClosestBST(BTNode *root, int target) {\n    if (root == NULL) return NULL;\n    BTNode *best = root;\n    long long bestDifference = (long long)root->data - target;\n    if (bestDifference < 0) bestDifference = -bestDifference;\n    BTNode *p = root;\n    while (p != NULL) {\n        long long difference = (long long)p->data - target;\n        if (difference < 0) difference = -difference;\n        if (difference < bestDifference ||\n            (difference == bestDifference && p->data < best->data)) {\n            best = p;\n            bestDifference = difference;\n        }\n        if (target == p->data) break;\n        if (target < p->data) p = p->lchild;\n        else p = p->rchild;\n    }\n    return best;\n}",
+    "cost": "O(h) / O(1)，平衡时 h=O(log n)，退化时可为 O(n)。",
+    "trap": "不能因为叫BST就无条件写 O(log n)；差值先转 long long。若真实原题的并列规则/返回形式不同，按原题调整，不能据标题断定一致。",
+    "trace": "根8，左子树根4、其右孩子6，target=7：候选8差1；走到4不更优；走到6差1，依较小键规则把候选改为6。"
+  },
+  "T19": {
+    "id": "T19",
+    "title": "BST 区间内键值递增输出",
+    "level": "迁移选练",
+    "source": "自编结构内迁移，不标真题年份；仅主练稳定后选做",
+    "prompt": "严格 BST，给定 low、high。把闭区间[low,high]中的键按递增顺序写入调用者提供的 result 数组并返回个数；容量足够，low>high时返回0。",
+    "tests": "键{1,3,5,7,9}，区间[3,7] → [3,5,7]；[10,20] → []；空树→[]。",
+    "states": "`count` 是已写入个数；中序保证递增，BST大小关系用于剪掉不可能满足范围的子树。",
+    "steps": [
+      "当前键>low 才需要查左子树，否则左侧不可能落在区间内。",
+      "当前键在闭区间内就写入 result[count]，count++。",
+      "当前键<high 才需要查右子树；递归次序保持左、根、右。"
+    ],
+    "code": "void CollectRange(BTNode *p, int low, int high, int result[], int &count) {\n    if (p == NULL) return;\n    if (p->data > low) CollectRange(p->lchild, low, high, result, count);\n    if (p->data >= low && p->data <= high) {\n        result[count] = p->data;\n        count++;\n    }\n    if (p->data < high) CollectRange(p->rchild, low, high, result, count);\n}\n\nint BSTRange(BTNode *root, int low, int high, int result[]) {\n    if (low > high) return 0;\n    int count = 0;\n    CollectRange(root, low, high, result, count);\n    return count;\n}",
+    "cost": "O(h+k) / O(h)，k为输出数；退化时最坏 O(n)，输出数组另计。",
+    "trap": "这是“学过的BST＋范围条件”的小迁移，不是扩一套新算法；遍历顺序不可改成先根输出。",
+    "trace": ""
+  },
+  "S04": {
+    "id": "S04",
+    "title": "非递归中序遍历",
+    "level": "基础积木",
+    "source": "显式栈；服务树题，不单开栈队列冲刺主线",
+    "prompt": "二叉树结点数不超过 MAXSIZE，用显式栈中序输出到 result 数组并返回个数；输出数组容量足够，空树返回0。",
+    "tests": "根2左1右3 → [1,2,3]；纯右链仍从根向下输出；空树→0。",
+    "states": "`top` 统一表示栈顶下标，空栈为-1；`p` 是当前要展开的子树；`count` 为输出个数。",
+    "steps": [
+      "p 非空时沿左链逐个入栈；入栈先++top再写。",
+      "左边走尽后弹出栈顶访问；弹栈先读再top--。",
+      "把 p 转向刚访问结点的右孩子，继续同样过程。",
+      "外层条件为 p 非空或栈非空，不能只判断 p。"
+    ],
+    "code": "int IterInorder(BTNode *p, int result[]) {\n    BTNode *stack[MAXSIZE];\n    int top = -1;\n    int count = 0;\n    while (p != NULL || top != -1) {\n        while (p != NULL) {\n            stack[++top] = p;\n            p = p->lchild;\n        }\n        p = stack[top--];\n        result[count++] = p->data;\n        p = p->rchild;\n    }\n    return count;\n}",
+    "cost": "O(n) / 本固定数组分配 O(MAXSIZE)，实际最多存 O(h) 个指针；若按已知高度动态申请才是 O(h) 分配空间。",
+    "trap": "top=-1 这套约定与旧版top表示个数不同，压栈/出栈/判空须一起改；固定数组不必为了统一初始化而改成 new。",
+    "trace": ""
+  },
+  "G07": {
+    "id": "G07",
+    "title": "拓扑序是否唯一",
+    "level": "主练",
+    "source": "2024·41：按用户题型改写",
+    "prompt": "有向图用公共约定的邻接表 ALGraph 存储。返回-1表示有环、无拓扑序；0表示拓扑序不唯一；1表示唯一。空图的空序列按唯一处理。",
+    "tests": "0→1→2 → 1；0→2、1→2 → 0；0↔1 → -1；有独立点且另有环 → -1。",
+    "states": "`indegree[v]` 为剩余入度；`q[front..rear-1]` 为当前可选的零入度点；`count` 为已删除顶点数。",
+    "steps": [
+      "扫描所有边统计入度，把全部零入度点入队。",
+      "每次选点前，若队列里超过一个候选，则至少有两种选择，记住“不唯一”。",
+      "出队一个点，删除它的所有出边；相邻点入度减到0才入队。",
+      "必须处理到最后：count小于顶点数时先判有环；否则再根据此前候选数判唯一。"
+    ],
+    "code": "int UniqueTopo(const ALGraph &G) {\n    int n = G.vexnum;\n    int *indegree = new int[n]();\n    int *q = new int[n]();\n    for (int v = 0; v < n; v++) {\n        for (ArcNode *p = G.vertices[v].firstarc; p != NULL; p = p->nextarc) {\n            indegree[p->adjvex]++;\n        }\n    }\n    int front = 0, rear = 0;\n    for (int v = 0; v < n; v++) {\n        if (indegree[v] == 0) q[rear++] = v;\n    }\n    int count = 0;\n    bool unique = true;\n    while (front < rear) {\n        if (rear - front > 1) unique = false;\n        int v = q[front++];\n        count++;\n        for (ArcNode *p = G.vertices[v].firstarc; p != NULL; p = p->nextarc) {\n            int w = p->adjvex;\n            indegree[w]--;\n            if (indegree[w] == 0) q[rear++] = w;\n        }\n    }\n    delete[] indegree;\n    delete[] q;\n    if (count < n) return -1;\n    return unique ? 1 : 0;\n}",
+    "cost": "O(V+E) / O(V) 辅助数组；图本身不计入额外空间。",
+    "trap": "发现多个零入度点时不要立刻返回0，剩余子图可能还有环；零入度选择必须逐轮检查，不是只看初始队列。",
+    "trace": "0→2、1→2：初始队列有0、1两个候选，记不唯一；删完0和1后2入队，最终确实无环，才返回0。"
+  },
+  "G13": {
+    "id": "G13",
+    "title": "有向图 K 顶点（出度大于入度）",
+    "level": "主练",
+    "source": "2023·41：按用户题型改写；用户已满分，安排间隔复写而非加量",
+    "prompt": "有向图邻接表 ALGraph，统计出度严格大于入度的顶点数。顶点编号0..vexnum-1。",
+    "tests": "0→1、0→2、2→1 → 顶点0和2，共2个；空图0；只含一条自环的顶点入度=出度，不计。",
+    "states": "`outdegree[v]` 统计从 v 发出的邻接项；`indegree[w]` 统计所有指向 w 的邻接项。",
+    "steps": [
+      "申请两个长度为顶点数的零数组。",
+      "扫描 v 的每个邻接项 v→w，同时 outdegree[v]++、indegree[w]++。",
+      "扫描所有顶点，对严格 outdegree>indegree 的点计数。",
+      "释放两个辅助数组，返回计数。"
+    ],
+    "code": "int CountKVertices(const ALGraph &G) {\n    int n = G.vexnum;\n    int *indegree = new int[n]();\n    int *outdegree = new int[n]();\n    for (int v = 0; v < n; v++) {\n        for (ArcNode *p = G.vertices[v].firstarc; p != NULL; p = p->nextarc) {\n            outdegree[v]++;\n            indegree[p->adjvex]++;\n        }\n    }\n    int count = 0;\n    for (int v = 0; v < n; v++) {\n        if (outdegree[v] > indegree[v]) count++;\n    }\n    delete[] indegree;\n    delete[] outdegree;\n    return count;\n}",
+    "cost": "O(V+E) / O(V)。",
+    "trap": "某顶点邻接表长度只能直接得到出度；求入度需要看全图所有邻接表。严格>，不是≥。",
+    "trace": ""
+  },
+  "G14": {
+    "id": "G14",
+    "title": "有向图两顶点间是否存在通路",
+    "level": "迁移选练",
+    "source": "自编结构内迁移；DFS/BFS 加目标条件，不标真题年份",
+    "prompt": "有向图邻接表 ALGraph，start、target 是合法顶点。判断从 start 到 target 是否存在通路，本训练允许长度为0的通路，因此 start==target 为真。",
+    "tests": "0→1→2：0到2真，2到0假；不连通图中不可达为假；含环也必须结束。",
+    "states": "`visited[v]` 在入队时置1；`q` 存待扩展顶点，front/rear 均从0开始。",
+    "steps": [
+      "起点等于终点直接成功；否则起点入队并立刻标记。",
+      "逐个出队，检查它的所有出邻接点。",
+      "发现目标就记成功；其余未访问点入队并标记，避免环导致反复入队。",
+      "统一释放两个数组，再返回结果。"
+    ],
+    "code": "bool HasPath(const ALGraph &G, int start, int target) {\n    if (start == target) return true;\n    int n = G.vexnum;\n    int *visited = new int[n]();\n    int *q = new int[n]();\n    int front = 0, rear = 0;\n    q[rear++] = start;\n    visited[start] = 1;\n    bool found = false;\n    while (front < rear && !found) {\n        int v = q[front++];\n        for (ArcNode *p = G.vertices[v].firstarc; p != NULL; p = p->nextarc) {\n            int w = p->adjvex;\n            if (w == target) {\n                found = true;\n                break;\n            }\n            if (visited[w] == 0) {\n                visited[w] = 1;\n                q[rear++] = w;\n            }\n        }\n    }\n    delete[] visited;\n    delete[] q;\n    return found;\n}",
+    "cost": "最坏 O(V+E) / O(V)，零初始化数组本身也要 O(V)。",
+    "trap": "有向通路有方向；每个顶点最多入队一次的前提是入队时就标记，不是出队后才标记。",
+    "trace": ""
+  },
+  "H01": {
+    "id": "H01",
+    "title": "下滤与自底向上建堆",
+    "level": "基础积木",
+    "source": "堆排序/最小k个数的教材积木；冲刺主线的最小k个数在 A18",
+    "prompt": "A[0..n-1] 原地建大根堆，允许空数组。HeapAdjust 调用前，root 的左右子树已经分别成堆。全套默认0下标，因此孩子为2root+1、2root+2。",
+    "tests": "[3,1,4,2] 建堆后满足父≥孩子；[]、[1]不变；不要求得到唯一的堆数组。",
+    "states": "`value` 暂存待下滤值；`child` 每次选择较大的孩子；`root` 是当前空位。",
+    "steps": [
+      "把当前根的值暂存，找到它较大的孩子。",
+      "暂存值已经≥较大孩子时，下滤结束。",
+      "否则把较大孩子上移到空位，空位下移，继续检查下一层。",
+      "从最后一个非叶结点 n/2-1 向前逐个下滤；叶子天然成堆。"
+    ],
+    "code": "void HeapAdjust(int A[], int root, int n) {\n    int value = A[root];\n    int child = 2 * root + 1;\n    while (child < n) {\n        if (child + 1 < n && A[child + 1] > A[child]) child++;\n        if (value >= A[child]) break;\n        A[root] = A[child];\n        root = child;\n        child = 2 * root + 1;\n    }\n    A[root] = value;\n}\n\nvoid BuildMaxHeap(int A[], int n) {\n    for (int i = n / 2 - 1; i >= 0; i--) {\n        HeapAdjust(A, i, n);\n    }\n}",
+    "cost": "一次下滤 O(log n)；自底向上建堆 O(n) / O(1)。",
+    "trap": "这是0下标版本，不要与教材1下标孩子2i、2i+1混用；建堆不等于已排好序。",
+    "trace": ""
+  },
+  "G15": {
+    "id": "G15",
+    "title": "无向连通图 EL 路径判定",
+    "level": "主练",
+    "source": "2021·41：用户记录14/15分，不是10分应用题，保留代码题主线",
+    "prompt": "无向连通简单图，用邻接表 ALGraph 存储，每条无向边存两个邻接项，顶点数至少1。判断能否从某点出发恰好经过每条边一次；允许起终点相同。单顶点无边按存在零长度欧拉通路处理。",
+    "tests": "三角形：奇度点0个→真；一条链：奇度点2个→真；中心连3片叶的星形：奇度点4个→假。",
+    "states": "`degree` 是当前顶点的邻接表长度，即无向图的度；`oddCount` 是奇度顶点数。",
+    "steps": [
+      "题干已保证无向连通，不重复写DFS验证连通性。",
+      "逐顶点扫描邻接表，统计该点度数。",
+      "度为奇数就累加oddCount。",
+      "奇度点恰为0个或2个时存在所定义的通路，否则不存在。"
+    ],
+    "code": "bool HasELPath(const ALGraph &G) {\n    int oddCount = 0;\n    for (int v = 0; v < G.vexnum; v++) {\n        int degree = 0;\n        for (ArcNode *p = G.vertices[v].firstarc; p != NULL; p = p->nextarc) {\n            degree++;\n        }\n        if (degree % 2 == 1) oddCount++;\n    }\n    return oddCount == 0 || oddCount == 2;\n}",
+    "cost": "O(V+E) / O(1)。",
+    "trap": "0个奇度点对应可闭合的欧拉回路，2个对应不同起终点的欧拉通路；本题允许两者。若题干未保证连通，必须另查所有有边顶点的连通性，不能只数奇度点。",
+    "trace": ""
+  }
+}
