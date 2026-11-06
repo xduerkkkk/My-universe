@@ -1,0 +1,26 @@
+{
+  "compiler": "E:\\MinGW\\ucrt64\\bin\\g++.exe",
+  "options": [
+    "-std=c++17",
+    "-Wall",
+    "-Wextra",
+    "-Werror",
+    "-pedantic",
+    "-O2"
+  ],
+  "strict_core_cards": 8,
+  "exit": 0,
+  "stdout": "explicit note examples: passed\ntree structural rounds: 2077; child-sibling rounds: 1500\nundirected graphs: 1700 (all <=5 vertices + 600 random); directed graphs: 1431 (all <=3 vertices with loops + 900 random)\nall extracted-note code tests passed\n",
+  "stderr": "",
+  "seed": 20261106,
+  "code_sha256": {
+    "NT01": "cd3a4788bb181165acb95e3ef47b564a3119fa20af9569a25e25960e00811180",
+    "NT02": "296400d5b3d78ee024dd8e7ec97be5df5902726c8953e579ab927a730f45eb63",
+    "NT03": "fe950e808a0feab513f14b63f156f8637ddecb8e7dbdf646627c3f0aa1960f0a",
+    "NT04": "cce1422c8f82ce6b232adffb06f04545c3a79a68538cdc5764a0b30c45056942",
+    "NG01": "107e92f99dacf55a663c2a82cc7dbae0bdb28cc9777210a6d85c7a8ca5106999",
+    "NG02": "a3ea97e9decb38be847aa7507bf5d8ba8f635e9f4bf3a49cdb407685c44c599f",
+    "NG03": "6b44c740c06a85bbda1492a1d05c7b8bbce0fb43ab806dc344e276cc088476f5",
+    "NG04": "5fa9c031ed688c1e949372b7d6339667f3e7ca31280f5224000dd545c64ee58e"
+  }
+}
