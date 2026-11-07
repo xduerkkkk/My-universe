@@ -1,0 +1,26 @@
+{
+  "id": "conv-1793974370593-ofn8j8lhq",
+  "providerId": "codex",
+  "title": "为每个代码模板补充最基础的例题与通俗讲解",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793974370595,
+  "updatedAt": 1793975514826,
+  "lastResponseAt": 1793975514826,
+  "sessionId": "01a1b134-8323-7581-83b1-7e19af07cb97",
+  "providerState": {
+    "threadId": "01a1b134-8323-7581-83b1-7e19af07cb97",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\06\\rollout-2026-11-06T22-12-56-01a1b134-8323-7581-83b1-7e19af07cb97.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
+  "usage": {
+    "inputTokens": 69614,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 69504,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 69614,
+    "percentage": 6,
+    "model": "gpt-6.1-sol"
+  }
+}
