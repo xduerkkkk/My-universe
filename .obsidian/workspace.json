@@ -103,8 +103,7 @@
               "title": "高数1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,8 +321,9 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "1372fd2bda90d24e",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
@@ -331,7 +331,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "未命名 3.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
