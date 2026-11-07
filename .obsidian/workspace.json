@@ -102,23 +102,9 @@
               "icon": "lucide-file",
               "title": "高数1"
             }
-          },
-          {
-            "id": "add6e4cdfb9c8a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "模拟卷高数"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.2269287109375
+    "width": 295.71923828125
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -210,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,46 +322,47 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "918f0b32f5b4afff",
+  "active": "d821850bab6d9ecb",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-00总入口.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-公共约定.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/奇偶项.md",
-    "2.知识库/20.North_star_ZJU/201.数学/01高等数学/09级数/04幂级数大观.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/02内存管理/00卡片/辨析--程序的链接？进程的链接？.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句6.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子3.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词好句5.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/单词/6月词汇.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "未命名 3.canvas",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/级数奇偶下标.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04计组中断细节.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/互斥代码分析例子.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05O4死锁，同步，信号量.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OSIO流程串联.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "_attachments/image/Pasted image 20261107141036.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率1.md",
+    "_attachments/image/Pasted image 20261107133402.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷卡片/递推级数.md",
+    "_attachments/image/Pasted image 20261107131152.jpeg",
+    "_attachments/image/Pasted image 20261107130356.jpeg",
+    "_attachments/image/Pasted image 20261107130341.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/可以使用技巧但自己没看出的题.md",
+    "_attachments/image/Pasted image 20261107130033.jpeg",
+    "_attachments/image/Pasted image 20261107125248.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
+    "_attachments/image/Pasted image 20261107125137.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/未命名.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷卡片",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
     "_attachments/image/Pasted image 20261106094346.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-改写前留档-2026-11-05",
     "_attachments/image/Pasted image 20261105210902.jpeg",
-    "_attachments/image/Pasted image 20261105210623.jpeg",
-    "_attachments/image/Pasted image 20261105112622.jpeg",
-    "_attachments/image/Pasted image 20261105110053.jpeg",
-    "_attachments/image/Pasted image 20261105090106.jpeg",
-    "_attachments/image/76c07aeadc9e96d46eb409c5f2fe030.jpeg",
-    "_attachments/image/Pasted image 20261104212320.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/09中值定理与证明-真题证明做题本-原始.pdf",
-    "_attachments/image/Pasted image 20261104180454.jpeg",
-    "_attachments/image/Pasted image 20261104170909.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
     "2.知识库/20.North_star_ZJU/203.政治/真题实战",
     "output/reports/多模态情感识别论文阅读报告.pdf",
@@ -384,7 +371,6 @@
     "tmp/report-electronics/verify.py",
     "tmp/report-electronics/final.txt",
     "output/reports/msoB981.tmp",
-    "output/reports/mso90EF.tmp",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/02微分方程思维导图.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/01高数框架图/10中值定理与证明-分诊骨架.canvas",
@@ -392,7 +378,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/02线性代数/05特征值特征向量/未命名.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/未命名.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/03概率论/前三章思维导图.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/思维导图-存储.canvas"
+    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联计网.canvas"
   ]
 }
