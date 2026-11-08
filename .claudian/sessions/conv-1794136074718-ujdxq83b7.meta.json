@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794136074718-ujdxq83b7",
+  "providerId": "codex",
+  "title": "补充句中检测测试的答案解析，巩固扫描步骤",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794136074718,
+  "updatedAt": 1794141394774,
+  "lastResponseAt": 1794136411337,
+  "sessionId": "01a1bad7-eb77-7a83-a226-841037ef14f2",
+  "providerState": {
+    "threadId": "01a1bad7-eb77-7a83-a226-841037ef14f2",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\08\\rollout-2026-11-08T19-08-00-01a1bad7-eb77-7a83-a226-841037ef14f2.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
+  "usage": {
+    "inputTokens": 34517,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34304,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34517,
+    "percentage": 3,
+    "model": "gpt-6.1-sol"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794137317167-xd7kcywjx",
+  "providerId": "codex",
+  "title": "优化考研冲刺阶段的数学复习与408训练安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794137317168,
+  "updatedAt": 1794142678135,
+  "lastResponseAt": 1794142524239,
+  "sessionId": "01a1baea-e026-7fe0-9929-0a6ec51724bc",
+  "providerState": {
+    "threadId": "01a1baea-e026-7fe0-9929-0a6ec51724bc",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\08\\rollout-2026-11-08T19-28-42-01a1baea-e026-7fe0-9929-0a6ec51724bc.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 135776,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 135680,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 135776,
+    "percentage": 11,
+    "model": "gpt-6.1-sol"
+  }
+}

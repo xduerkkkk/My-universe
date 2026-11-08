@@ -1,0 +1,23 @@
+{
+  "id": "conv-1794135565034-dt1r7ve05",
+  "providerId": "claude",
+  "title": "这个文件 扫描步骤我看懂了 “### 6",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794135565035,
+  "updatedAt": 1794136069180,
+  "lastResponseAt": 1794136065697,
+  "sessionId": "dd9a4fbc-45f3-47ab-98a9-0c39304bad6b",
+  "providerState": {
+    "providerSessionId": "dd9a4fbc-45f3-47ab-98a9-0c39304bad6b"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 8186,
+    "cacheCreationInputTokens": 32736,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 40922,
+    "percentage": 4
+  }
+}
