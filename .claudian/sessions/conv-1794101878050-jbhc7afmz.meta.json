@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794101878050-jbhc7afmz",
+  "providerId": "codex",
+  "title": "整理中值定理证明题的起笔与冲刺训练",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794101878051,
+  "updatedAt": 1794104010282,
+  "lastResponseAt": 1794104010282,
+  "sessionId": "01a1b8ce-1ead-7970-b78c-e5208395e533",
+  "providerState": {
+    "threadId": "01a1b8ce-1ead-7970-b78c-e5208395e533",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\08\\rollout-2026-11-08T09-38-03-01a1b8ce-1ead-7970-b78c-e5208395e533.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 122020,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 121984,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 122020,
+    "percentage": 10,
+    "model": "gpt-6.1-sol"
+  }
+}
