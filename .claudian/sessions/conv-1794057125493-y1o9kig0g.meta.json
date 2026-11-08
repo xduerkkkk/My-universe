@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794057125493-y1o9kig0g",
+  "providerId": "codex",
+  "title": "梳理概率错题薄弱点并讨论专题与变式题整理方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794057125494,
+  "updatedAt": 1794061660903,
+  "lastResponseAt": 1794061660903,
+  "sessionId": "01a1b623-5fc5-7800-ba25-c399ec97828f",
+  "providerState": {
+    "threadId": "01a1b623-5fc5-7800-ba25-c399ec97828f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\07\\rollout-2026-11-07T21-12-19-01a1b623-5fc5-7800-ba25-c399ec97828f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率2.md",
+  "usage": {
+    "inputTokens": 191834,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 191744,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 191834,
+    "percentage": 16,
+    "model": "gpt-6.1-sol"
+  }
+}
