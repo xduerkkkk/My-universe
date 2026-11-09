@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "469fdf06d01eff25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概率薄弱专题-随机训练"
+            }
+          },
+          {
             "id": "c3d067660b2b42ee",
             "type": "leaf",
             "pinned": true,
@@ -94,13 +108,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "00真题笔记18"
+              "title": "00真题笔记18-20"
             }
           },
           {
@@ -120,33 +134,37 @@
             }
           },
           {
-            "id": "9b982172a50ecf12",
+            "id": "8c58c3c1a1126902",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "高数1"
+            }
+          },
+          {
+            "id": "be75dbdd8f18c611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00真题笔记18"
-            }
-          },
-          {
-            "id": "d9e5d6d8f1932df7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.15.0"
+              "title": "计算错误"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.673095703125
+    "width": 357.75
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -238,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -335,8 +353,7 @@
               "title": "统计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,46 +382,45 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d9e5d6d8f1932df7",
+  "active": "469fdf06d01eff25",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/线面模糊点.md",
+    "_attachments/image/Pasted image 20261109113654.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
+    "_attachments/image/0810ee10690f4d5e9f5a07de2ad0386.jpeg",
+    "_attachments/image/66937ce61188b1c0f137cbfdfbda358.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "_attachments/image/Pasted image 20261109100159.jpeg",
+    "_attachments/image/Pasted image 20261109094717.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/导数可导性.md",
+    "_attachments/image/Pasted image 20261109092156.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "_attachments/image/Pasted image 20261109091244.jpeg",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
     "2.知识库/20.North_star_ZJU/203.政治/2015-2018选择题复盘-方法与必备知识.md",
     "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261108215403.jpeg",
     "_attachments/image/Pasted image 20261108214535.jpeg",
     "_attachments/image/Pasted image 20261108214522.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
-    "_attachments/image/Pasted image 20261108171426.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS/外排.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS/内排.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/未命名.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/证明题起手训练-人话版.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/证明题起手训练-复测.md",
-    "_attachments/image/Pasted image 20261108142449.jpeg",
-    "_attachments/image/Pasted image 20261108113512.jpeg",
-    "_attachments/image/Pasted image 20261108111132.jpeg",
-    "_attachments/image/Pasted image 20261108105900.jpeg",
-    "_attachments/image/Pasted image 20261108104708.jpeg",
-    "_attachments/image/Pasted image 20261108104111.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/证明题资料索引.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记/原函数法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记/中值可分离法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记/真正的双中值.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记/泰勒公式解决问题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/09中值定理与证明-真题证明做题本-原始.pdf",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料",
