@@ -94,13 +94,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "00真题笔记18-"
+              "title": "00真题笔记18"
             }
           },
           {
@@ -120,21 +120,33 @@
             }
           },
           {
-            "id": "37622b219b8faac7",
+            "id": "9b982172a50ecf12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算错误"
+              "title": "00真题笔记18"
+            }
+          },
+          {
+            "id": "d9e5d6d8f1932df7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.0"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -323,7 +335,8 @@
               "title": "统计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -352,20 +365,21 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "37622b219b8faac7",
+  "active": "d9e5d6d8f1932df7",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/203.政治/2015-2018选择题复盘-方法与必备知识.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261108215403.jpeg",
     "_attachments/image/Pasted image 20261108214535.jpeg",
     "_attachments/image/Pasted image 20261108214522.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/203.政治/2015-2018选择题复盘-方法与必备知识.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
