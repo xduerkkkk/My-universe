@@ -1,0 +1,14 @@
+{
+  "id": "conv-1794212588773-qm18w8awc",
+  "providerId": "claude",
+  "title": "你看这表格渲染不出来",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794212588773,
+  "updatedAt": 1794212611812,
+  "lastResponseAt": 1794212611812,
+  "sessionId": "efc932b6-2b0c-40e6-aaeb-fa1b7eae0b4b",
+  "providerState": {
+    "providerSessionId": "efc932b6-2b0c-40e6-aaeb-fa1b7eae0b4b"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/复杂度.md"
+}

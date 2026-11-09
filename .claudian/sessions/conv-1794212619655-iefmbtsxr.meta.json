@@ -1,0 +1,16 @@
+{
+  "id": "conv-1794212619655-iefmbtsxr",
+  "providerId": "codex",
+  "title": "你看这表格渲染不出来",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794212619655,
+  "updatedAt": 1794212637785,
+  "lastResponseAt": 1794212636300,
+  "sessionId": "01a1bf67-ee36-7b63-a9c0-8d571a3f2ac1",
+  "providerState": {
+    "threadId": "01a1bf67-ee36-7b63-a9c0-8d571a3f2ac1",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\09\\rollout-2026-11-09T16-23-46-01a1bf67-ee36-7b63-a9c0-8d571a3f2ac1.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/复杂度.md"
+}

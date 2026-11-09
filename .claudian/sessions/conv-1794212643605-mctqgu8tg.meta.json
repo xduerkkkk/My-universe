@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794212643605-mctqgu8tg",
+  "providerId": "codex",
+  "title": "排查表格无法渲染的问题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794212643605,
+  "updatedAt": 1794212730377,
+  "lastResponseAt": 1794212725492,
+  "sessionId": "01a1bf68-43d7-7e52-a5a6-b64ab0166207",
+  "providerState": {
+    "threadId": "01a1bf68-43d7-7e52-a5a6-b64ab0166207",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\09\\rollout-2026-11-09T16-24-08-01a1bf68-43d7-7e52-a5a6-b64ab0166207.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/复杂度.md",
+  "usage": {
+    "inputTokens": 19040,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18816,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 19040,
+    "percentage": 2,
+    "model": "gpt-6.1-sol"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794215340119-k8ps5fb64",
+  "providerId": "codex",
+  "title": "理顺英语作文背诵与写作训练安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794215340120,
+  "updatedAt": 1794216055733,
+  "lastResponseAt": 1794216055733,
+  "sessionId": "01a1bf91-69ce-7d31-903b-a7dc0c0df951",
+  "providerState": {
+    "threadId": "01a1bf91-69ce-7d31-903b-a7dc0c0df951",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\09\\rollout-2026-11-09T17-09-05-01a1bf91-69ce-7d31-903b-a7dc0c0df951.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+  "usage": {
+    "inputTokens": 56605,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54784,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56605,
+    "percentage": 5,
+    "model": "gpt-6.1-sol"
+  }
+}

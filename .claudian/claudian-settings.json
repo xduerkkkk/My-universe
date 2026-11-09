@@ -1,8 +1,8 @@
 {
   "userName": "KK",
   "permissionMode": "yolo",
-  "model": "sonnet[1m]",
-  "thinkingBudget": "low",
+  "model": "haiku",
+  "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
@@ -34,7 +34,7 @@
       "enableOpus1M": true,
       "enableSonnet1M": true,
       "customModels": "",
-      "lastModel": "sonnet[1m]",
+      "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -68,7 +68,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet[1m]",
+    "claude": "haiku",
     "codex": "gpt-6.1-sol"
   },
   "savedProviderEffort": {
@@ -79,7 +79,7 @@
     "codex": "fast"
   },
   "savedProviderThinkingBudget": {
-    "claude": "low",
+    "claude": "off",
     "codex": "medium"
   },
   "savedProviderPermissionMode": {

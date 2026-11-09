@@ -134,23 +134,9 @@
               "icon": "lucide-file",
               "title": "高数1"
             }
-          },
-          {
-            "id": "9495122b406fd892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01王道笔记"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.75
+    "width": 375.47308349609375
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -242,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -343,7 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.4384765625
+    "width": 250.0845947265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,14 +354,19 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "9495122b406fd892",
+  "active": "86d652318c61c43f",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/02王道题.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组总线等计算题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/复杂度.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/01王道笔记.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/02王道题.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代薄弱专题-随机训练.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代薄弱专题-归类.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
@@ -384,7 +375,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/线面模糊点.md",
     "_attachments/image/Pasted image 20261109113654.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md",
     "_attachments/image/0810ee10690f4d5e9f5a07de2ad0386.jpeg",
     "_attachments/image/66937ce61188b1c0f137cbfdfbda358.jpeg",
@@ -392,7 +382,6 @@
     "_attachments/image/Pasted image 20261109094717.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/导数可导性.md",
     "_attachments/image/Pasted image 20261109092156.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
     "_attachments/image/Pasted image 20261109091244.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
@@ -403,9 +392,6 @@
     "_attachments/image/Pasted image 20261108214522.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记",

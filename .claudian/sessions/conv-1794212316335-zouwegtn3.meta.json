@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794212316335-zouwegtn3",
+  "providerId": "claude",
+  "title": "我不知道为啥里面的表格都渲染不出来",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794212316336,
+  "updatedAt": 1794212548839,
+  "lastResponseAt": 1794212548839,
+  "sessionId": "8cc8bd2d-324a-4485-9ac5-65a332b29d64",
+  "providerState": {
+    "providerSessionId": "8cc8bd2d-324a-4485-9ac5-65a332b29d64"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/05图论/卡片/复杂度.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 41745,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 41746,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": false
+  }
+}
