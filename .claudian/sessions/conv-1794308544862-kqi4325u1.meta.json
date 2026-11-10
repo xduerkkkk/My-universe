@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794308544862-kqi4325u1",
+  "providerId": "codex",
+  "title": "整理Cache代码补全题型与循序渐进训练，配套考场步骤解析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794308544862,
+  "updatedAt": 1794311636079,
+  "lastResponseAt": 1794311636079,
+  "sessionId": "01a1c51f-99ff-7243-aae3-497e76506744",
+  "providerState": {
+    "threadId": "01a1c51f-99ff-7243-aae3-497e76506744",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\10\\rollout-2026-11-10T19-02-30-01a1c51f-99ff-7243-aae3-497e76506744.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md",
+  "usage": {
+    "inputTokens": 65546,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65408,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65546,
+    "percentage": 5,
+    "model": "gpt-6.1-sol"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794311319611-xen521480",
+  "providerId": "codex",
+  "title": "起草兼顾考研安排的毕业设计工作计划初稿",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794311319612,
+  "updatedAt": 1794311557283,
+  "lastResponseAt": 1794311557283,
+  "sessionId": "01a1c549-f0df-7971-80ab-e5b8f23b2ab1",
+  "providerState": {
+    "threadId": "01a1c549-f0df-7971-80ab-e5b8f23b2ab1",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\10\\rollout-2026-11-10T19-48-44-01a1c549-f0df-7971-80ab-e5b8f23b2ab1.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+  "usage": {
+    "inputTokens": 44696,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44696,
+    "percentage": 4,
+    "model": "gpt-6.1-sol"
+  }
+}

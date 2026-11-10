@@ -4,7 +4,7 @@
   "title": "制定每天半小时的30天算法编程训练计划",
   "titleGenerationStatus": "success",
   "createdAt": 1791278412542,
-  "updatedAt": 1791280059055,
+  "updatedAt": 1794311276947,
   "lastResponseAt": 1791280059055,
   "sessionId": "01a11083-7459-7f82-831f-769ca24dff53",
   "providerState": {
@@ -12,6 +12,7 @@
     "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\10\\06\\rollout-2026-10-06T17-20-17-01a11083-7459-7f82-831f-769ca24dff53.jsonl",
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
   "usage": {
     "inputTokens": 62493,
     "cacheCreationInputTokens": 0,

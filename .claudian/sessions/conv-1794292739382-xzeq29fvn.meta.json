@@ -4,8 +4,8 @@
   "title": "分析考研政治错题并生成考场思维漏洞深度诊断报告",
   "titleGenerationStatus": "success",
   "createdAt": 1794292739382,
-  "updatedAt": 1794294738401,
-  "lastResponseAt": 1794294738401,
+  "updatedAt": 1794306943954,
+  "lastResponseAt": 1794298060173,
   "sessionId": "01a1c42e-6e2a-7ad2-980d-db135988a2b4",
   "providerState": {
     "threadId": "01a1c42e-6e2a-7ad2-980d-db135988a2b4",
@@ -14,13 +14,13 @@
   },
   "currentNote": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
   "usage": {
-    "inputTokens": 156612,
+    "inputTokens": 179276,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 155904,
+    "cacheReadInputTokens": 177280,
     "contextWindow": 1216000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 156612,
-    "percentage": 13,
+    "contextTokens": 179276,
+    "percentage": 15,
     "model": "gpt-6.1-sol"
   }
 }

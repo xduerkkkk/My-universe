@@ -120,31 +120,17 @@
             }
           },
           {
-            "id": "4567a28755b6fee3",
+            "id": "0b70ea3fa2357683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法分类训练-01-A数组与线性表"
-            }
-          },
-          {
-            "id": "9e9a73252866e65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03算法题模板"
+              "title": "高数1"
             }
           }
         ],
@@ -240,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -342,7 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.2076416015625
+    "width": 459.0692138671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,42 +355,42 @@
   },
   "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS/二分.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组Cache代码缺失率-分类渐进训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-24.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "0.核心/00.规划(Plan)/毕设任务书与研究主线.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache代码访存缺失类题.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/03存储/卡片/cache访存缺失规律总结.md",
+    "_attachments/image/Pasted image 20261110172541.jpeg",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-公共约定.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板.md",
     "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-整理与校验记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS/二分.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
-    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
-    "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/2015-2018选择题复盘-方法与必备知识.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-00总入口.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-06-H堆与排序.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261110110923.jpeg",
     "_attachments/image/Pasted image 20261110110904.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷线代.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md",
     "_attachments/image/Pasted image 20261110101946.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/证明题基本手法.md",
     "_attachments/image/Pasted image 20261110100928.jpeg",
     "_attachments/image/Pasted image 20261110100905.jpeg",
     "_attachments/image/Pasted image 20261110095340.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/微分方程考虑绝对值.md",
     "_attachments/image/Pasted image 20261110093837.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/极限好题解析.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/线代空间.md",
     "_attachments/image/Pasted image 20261110090003.jpeg",
     "_attachments/image/Pasted image 20261109214914.jpeg",
-    "_attachments/image/Pasted image 20261109214848.jpeg",
     "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/DS",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理原始笔记",

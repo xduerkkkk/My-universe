@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794307024957-qbuuhlnpo",
+  "providerId": "codex",
+  "title": "起草兼顾考研安排的毕业设计工作计划书",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794307024957,
+  "updatedAt": 1794311321272,
+  "lastResponseAt": 1794311316742,
+  "sessionId": "01a1c508-6906-76c0-8f55-5a858775e4a6",
+  "providerState": {
+    "threadId": "01a1c508-6906-76c0-8f55-5a858775e4a6",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\10\\rollout-2026-11-10T18-37-10-01a1c508-6906-76c0-8f55-5a858775e4a6.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/毕设任务书与研究主线.md",
+  "usage": {
+    "inputTokens": 56669,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52736,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56669,
+    "percentage": 5,
+    "model": "gpt-6.1-sol"
+  }
+}
