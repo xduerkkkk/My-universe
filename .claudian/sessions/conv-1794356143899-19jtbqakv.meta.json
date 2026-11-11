@@ -1,0 +1,23 @@
+{
+  "id": "conv-1794356143899-19jtbqakv",
+  "providerId": "claude",
+  "title": "Role: 你现在是我的考研政治金牌数据分析师与认知心理学教练。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794356143900,
+  "updatedAt": 1794356229319,
+  "lastResponseAt": 1794356148321,
+  "sessionId": "f4360451-771e-4bab-b0ff-1f1605a14608",
+  "providerState": {
+    "providerSessionId": "f4360451-771e-4bab-b0ff-1f1605a14608"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
