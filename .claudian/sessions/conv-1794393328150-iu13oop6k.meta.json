@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794393328150-iu13oop6k",
+  "providerId": "claude",
+  "title": "那些树 数组 链表 我的模板都已经很清晰了  就是图 复杂算法只能是基础的DFS BFS 遍历  要...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794393328150,
+  "updatedAt": 1794397900654,
+  "lastResponseAt": 1794397900654,
+  "sessionId": "3535c19c-cd76-4162-8021-5e461d9d13a2",
+  "providerState": {
+    "providerSessionId": "3535c19c-cd76-4162-8021-5e461d9d13a2"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 666,
+    "cacheReadInputTokens": 106433,
+    "contextWindow": 1000000,
+    "contextTokens": 107103,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
