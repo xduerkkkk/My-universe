@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794466457086-2wfwf6ncp",
+  "providerId": "codex",
+  "title": "按模板修改毕业设计工作计划并保留原格式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794466457095,
+  "updatedAt": 1794469543023,
+  "lastResponseAt": 1794468219251,
+  "sessionId": "01a1ce89-280c-7621-8434-79d70697aab0",
+  "providerState": {
+    "threadId": "01a1ce89-280c-7621-8434-79d70697aab0",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\12\\rollout-2026-11-12T14-54-22-01a1ce89-280c-7621-8434-79d70697aab0.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 115946,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 115840,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 115946,
+    "percentage": 10,
+    "model": "gpt-6.1-sol"
+  }
+}
