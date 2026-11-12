@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "00真题笔记21-26",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记21-26.md"
+    },
+    {
+      "basename": "00真题笔记18-20",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md"
+    },
+    {
+      "basename": "00真题笔记15-17",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md"
+    },
+    {
+      "basename": "考研政治考场思维漏洞深度诊断报告",
+      "path": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md"
+    },
+    {
       "basename": "高数1",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "03翻译19-24",
+      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-24.md"
     },
     {
       "basename": "算法分类训练-05-G图",
@@ -61,48 +101,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/02技巧大全.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
-      "basename": "00真题笔记21-26",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记21-26.md"
-    },
-    {
-      "basename": "00真题笔记18-20",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md"
-    },
-    {
-      "basename": "考研政治考场思维漏洞深度诊断报告",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md"
-    },
-    {
-      "basename": "考研政治考场思维漏洞诊断-Claude版",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞诊断-Claude版.md"
-    },
-    {
-      "basename": "00真题笔记15-17",
-      "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md"
-    },
-    {
       "basename": "初见杀",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
     },
     {
       "basename": "未命名看板",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/未命名看板.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
     },
     {
       "basename": "概率薄弱专题-随机训练",
@@ -131,10 +135,6 @@
     {
       "basename": "03翻译11-18复盘",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md"
-    },
-    {
-      "basename": "03翻译19-24",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-24.md"
     },
     {
       "basename": "毕设任务书与研究主线",
@@ -195,10 +195,6 @@
     {
       "basename": "03翻译11-18",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md"
-    },
-    {
-      "basename": "小作文背诵",
-      "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md"
     }
   ],
   "omittedPaths": [
