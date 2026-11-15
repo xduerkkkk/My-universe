@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794749992910-haver9ca8",
+  "providerId": "codex",
+  "title": "调整408与数学冲刺复习及限时模考安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794749992916,
+  "updatedAt": 1794750278748,
+  "lastResponseAt": 1794750278748,
+  "sessionId": "01a1df6f-9147-7422-b893-ba5db6d0937b",
+  "providerState": {
+    "threadId": "01a1df6f-9147-7422-b893-ba5db6d0937b",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\15\\rollout-2026-11-15T21-39-58-01a1df6f-9147-7422-b893-ba5db6d0937b.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 30657,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27392,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30657,
+    "percentage": 3,
+    "model": "gpt-6.1-sol"
+  }
+}
