@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794664065459-qxzfkhcro",
+  "providerId": "codex",
+  "title": "调研毛玉仁的近期论文、研究方向与实习政策",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794664065470,
+  "updatedAt": 1794665510990,
+  "lastResponseAt": 1794665510990,
+  "sessionId": "01a1da50-6b52-73d3-84ac-d3b6e1418e21",
+  "providerState": {
+    "threadId": "01a1da50-6b52-73d3-84ac-d3b6e1418e21",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\14\\rollout-2026-11-14T21-47-50-01a1da50-6b52-73d3-84ac-d3b6e1418e21.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 56344,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22784,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56344,
+    "percentage": 5,
+    "model": "gpt-6.1-sol"
+  }
+}

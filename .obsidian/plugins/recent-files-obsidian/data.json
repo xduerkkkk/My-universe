@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "模拟卷高数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
+    },
+    {
+      "basename": "计算错误",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
+    },
+    {
+      "basename": "数学杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
+    },
+    {
+      "basename": "思维惯性",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
+    },
+    {
+      "basename": "可以使用技巧但自己没看出的题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/可以使用技巧但自己没看出的题.md"
+    },
+    {
+      "basename": "02积累",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/02积累.md"
+    },
+    {
+      "basename": "01AI预测",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
+    },
+    {
+      "basename": "模拟卷概率",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
+    },
+    {
+      "basename": "规划",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/规划.md"
+    },
+    {
       "basename": "大作文模板",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
     },
@@ -53,28 +93,12 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/03操作系统/01进程与线程/03强化课--PV操作.md"
     },
     {
-      "basename": "数学杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md"
-    },
-    {
       "basename": "00真题笔记21-26",
       "path": "2.知识库/20.North_star_ZJU/203.政治/00真题笔记21-26.md"
     },
     {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
       "basename": "二次型配方法原理",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/二次型配方法原理.md"
-    },
-    {
-      "basename": "思维惯性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
       "basename": "作文背诵训练",
@@ -175,30 +199,6 @@
     {
       "basename": "00数学记忆",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "线代薄弱专题-随机训练",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代薄弱专题-随机训练.md"
-    },
-    {
-      "basename": "线代薄弱专题-归类",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代薄弱专题-归类.md"
-    },
-    {
-      "basename": "06 实对称矩阵、正交与投影",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/02线性代数/00串联章节/06 实对称矩阵、正交与投影.md"
-    },
-    {
-      "basename": "概率薄弱专题-归类",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-归类.md"
-    },
-    {
-      "basename": "概率薄弱专题-随机训练",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md"
-    },
-    {
-      "basename": "初见杀",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/初见杀.md"
     }
   ],
   "omittedPaths": [
