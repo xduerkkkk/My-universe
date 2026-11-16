@@ -118,37 +118,9 @@
               "icon": "lucide-file",
               "title": "高数1"
             }
-          },
-          {
-            "id": "68e7860bd230d590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/线面积分对称性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线面积分对称性"
-            }
-          },
-          {
-            "id": "40334f1a574aabef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考研政治考场思维漏洞深度诊断报告"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,12 +192,11 @@
               "title": "当前冲刺规划"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.7961730957031
+    "width": 387.2884826660156
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -241,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,11 +338,19 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "40334f1a574aabef",
+  "active": "918f0b32f5b4afff",
   "lastOpenFiles": [
+    "_attachments/image/Pasted image 20261116115246.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+    "_attachments/image/Pasted image 20261116110841.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/线面积分对称性.md",
+    "_attachments/image/Pasted image 20261116104950.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/03曲线面积分，空间几何.md",
+    "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷卡片/放缩注意事项.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.64d6500dfb77",
     "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.64d6500dfb77",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.ca76e39c6169",
     "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告-11月15日改版前备份.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.621885dd0bbb",
@@ -384,7 +363,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划-11月16日改版前备份.md",
     "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/线面积分对称性.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/未命名看板.md",
@@ -399,11 +377,7 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-22.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
     "_attachments/image/Pasted image 20261115193449.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
     "_attachments/image/Pasted image 20261114221515.jpeg",
     "_attachments/image/Pasted image 20261114220604.jpeg",
     "_attachments/image/Pasted image 20261114214622.jpeg",
@@ -411,8 +385,6 @@
     "_attachments/image/Pasted image 20261114213044.jpeg",
     "_attachments/image/Pasted image 20261114213028.jpeg",
     "_attachments/image/Pasted image 20261114205209.jpeg",
-    "_attachments/image/Pasted image 20261114205156.jpeg",
-    "_attachments/image/Pasted image 20261114203137.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
     "未命名 3.canvas",
