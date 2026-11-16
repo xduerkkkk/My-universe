@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794752640756-xleaadfee",
+  "providerId": "claude",
+  "title": "现在有新一批素材，2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794752640757,
+  "updatedAt": 1794753641624,
+  "lastResponseAt": 1794753641624,
+  "sessionId": "0cb39977-1b29-461b-a259-63aa55fa2a73",
+  "providerState": {
+    "providerSessionId": "0cb39977-1b29-461b-a259-63aa55fa2a73"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 529,
+    "cacheReadInputTokens": 255610,
+    "contextWindow": 1000000,
+    "contextTokens": 256147,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

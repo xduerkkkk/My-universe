@@ -4,20 +4,20 @@
   "title": "现在是这样：",
   "titleGenerationStatus": "failed",
   "createdAt": 1794750000142,
-  "updatedAt": 1794750213964,
-  "lastResponseAt": 1794750213964,
+  "updatedAt": 1794754306374,
+  "lastResponseAt": 1794754306374,
   "sessionId": "c9049a2e-5c27-4ebb-b2a1-9a3b15e68278",
   "providerState": {
     "providerSessionId": "c9049a2e-5c27-4ebb-b2a1-9a3b15e68278"
   },
   "usage": {
-    "model": "opus[1m]",
-    "inputTokens": 30,
-    "cacheCreationInputTokens": 14627,
-    "cacheReadInputTokens": 58628,
+    "model": "sonnet[1m]",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 124037,
+    "cacheReadInputTokens": 0,
     "contextWindow": 1000000,
-    "contextTokens": 73285,
-    "percentage": 7,
+    "contextTokens": 124045,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }
