@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "高数1",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
+    },
+    {
+      "basename": "算法分类训练-05-G图",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md"
+    },
+    {
+      "basename": "算法分类训练-03-T树与递归",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md"
+    },
+    {
+      "basename": "算法分类训练-04-S栈与队列",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md"
+    },
+    {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "当前冲刺规划",
+      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "CO",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选/CO.md"
+    },
+    {
+      "basename": "DS",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选/DS.md"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "02DS数据结构排序",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/02DS数据结构排序.md"
+    },
+    {
+      "basename": "DS-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/DS-技巧.md"
+    },
+    {
+      "basename": "CO-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CO-技巧.md"
+    },
+    {
+      "basename": "CN-技巧",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md"
+    },
+    {
       "basename": "认识论",
       "path": "2.知识库/20.North_star_ZJU/203.政治/分析题/认识论.md"
     },
@@ -23,18 +79,6 @@
     {
       "basename": "03算法题模板-基础例题与讲解",
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
-    },
-    {
-      "basename": "408 杜绝粗心",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
-    },
-    {
-      "basename": "高数1",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
       "basename": "大作文模板",
@@ -79,10 +123,6 @@
     {
       "basename": "小作文背诵",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md"
-    },
-    {
-      "basename": "当前冲刺规划",
-      "path": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md"
     },
     {
       "basename": "大作文表达",
@@ -145,10 +185,6 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/01陷阱整理-原版存档.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "03翻译11-18复盘",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "模拟卷高数",
       "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷高数.md"
-    },
-    {
-      "basename": "计算错误",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md"
-    },
-    {
-      "basename": "可以使用技巧但自己没看出的题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/可以使用技巧但自己没看出的题.md"
-    },
-    {
-      "basename": "02积累",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/02积累.md"
-    },
-    {
-      "basename": "01AI预测",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/01AI预测.md"
-    },
-    {
-      "basename": "模拟卷概率",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/模拟卷概率.md"
-    },
-    {
-      "basename": "规划",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/06模拟卷/规划.md"
-    },
-    {
-      "basename": "互斥代码分析例子",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/互斥代码分析例子.md"
-    },
-    {
-      "basename": "05O4死锁，同步，信号量",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/05O4死锁，同步，信号量.md"
-    },
-    {
-      "basename": "DS",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选/DS.md"
     }
   ],
   "omittedPaths": [
