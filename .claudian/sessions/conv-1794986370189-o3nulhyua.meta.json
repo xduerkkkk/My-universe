@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794986370189-o3nulhyua",
+  "providerId": "codex",
+  "title": "分类盘点408真题中的薄弱知识点，细化到具体考法与易卡情形",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794986370189,
+  "updatedAt": 1794987829980,
+  "lastResponseAt": 1794987829980,
+  "sessionId": "01a1ed86-659d-78f1-99f0-541265d034db",
+  "providerState": {
+    "threadId": "01a1ed86-659d-78f1-99f0-541265d034db",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\18\\rollout-2026-11-18T15-19-35-01a1ed86-659d-78f1-99f0-541265d034db.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
+  "usage": {
+    "inputTokens": 113525,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 104704,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 113525,
+    "percentage": 9,
+    "model": "gpt-6.2-astra"
+  }
+}

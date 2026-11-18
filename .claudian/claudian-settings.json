@@ -69,7 +69,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "sonnet[1m]",
-    "codex": "gpt-6.2-sol"
+    "codex": "gpt-6.2-astra"
   },
   "savedProviderEffort": {
     "claude": "high",

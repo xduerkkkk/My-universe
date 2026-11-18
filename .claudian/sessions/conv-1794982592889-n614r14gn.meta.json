@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794982592889-n614r14gn",
+  "providerId": "codex",
+  "title": "精简考研冲刺期的408与数学粗心复盘",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794982592889,
+  "updatedAt": 1794983184841,
+  "lastResponseAt": 1794983184841,
+  "sessionId": "01a1ed4c-c292-77b0-9b33-28824eb4894c",
+  "providerState": {
+    "threadId": "01a1ed4c-c292-77b0-9b33-28824eb4894c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\18\\rollout-2026-11-18T14-16-38-01a1ed4c-c292-77b0-9b33-28824eb4894c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
+  "usage": {
+    "inputTokens": 44765,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40064,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44765,
+    "percentage": 4,
+    "model": "gpt-6.2-sol"
+  }
+}
