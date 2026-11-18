@@ -139,16 +139,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/分析题/辩证法.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辩证法"
+              "title": "思维惯性"
+            }
+          },
+          {
+            "id": "d5239900fbe8ae12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.核心/00.规划(Plan)/2.当前项目/考前复测-打开就做.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考前复测-打开就做"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -240,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/分析题/辩证法.md",
+                "file": "0.核心/00.规划(Plan)/2.当前项目/考前复测-打开就做.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -337,11 +351,12 @@
               "title": "统计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 290.1307373046875
+    "width": 340.34619140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,12 +381,16 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "26c48042bc21171b",
+  "active": "d22f01a07477a310",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/认识论.md",
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/辩证法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+    "0.核心/00.规划(Plan)/2.当前项目/考前复测-打开就做.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "_attachments/image/Pasted image 20261118083708.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "2.知识库/20.North_star_ZJU/203.政治/分析题/辩证法.md",
+    "2.知识库/20.North_star_ZJU/203.政治/分析题/认识论.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "_attachments/image/Pasted image 20261117215209.jpeg",
     "_attachments/image/Pasted image 20261117212850.jpeg",
     "_attachments/image/Pasted image 20261117204033.jpeg",
@@ -381,7 +400,6 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译19-22.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md",
@@ -398,13 +416,10 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
     "2.知识库/20.North_star_ZJU/203.政治/政治模糊点/模糊1.md",
     "2.知识库/20.North_star_ZJU/203.政治/分析题",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/抽象级数判敛.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/线面积分对称性.md",
     "_attachments/image/710664feca7e7103a2f2820be941e92.jpeg",
     "_attachments/image/a5d9337b6d47a572213732fe11ba739.jpeg",
     "_attachments/image/ca379bea50f5d331c52a6b0b8e03df0.jpeg",
     "_attachments/image/Pasted image 20261116203804.jpeg",
-    "_attachments/image/Pasted image 20261116201424.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.64d6500dfb77",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.ca76e39c6169",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.621885dd0bbb",

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1794962785319-woxr7o1e3",
+  "providerId": "codex",
+  "title": "核算模拟后数学与408复盘时间，判断是否只剩7天或更少",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794962785320,
+  "updatedAt": 1794963031613,
+  "lastResponseAt": 1794962937329,
+  "sessionId": "01a1ec1e-84e2-77c0-a354-dc261b3764c7",
+  "providerState": {
+    "threadId": "01a1ec1e-84e2-77c0-a354-dc261b3764c7",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\18\\rollout-2026-11-18T08-46-30-01a1ec1e-84e2-77c0-a354-dc261b3764c7.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 26739,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26739,
+    "percentage": 10,
+    "model": "gpt-6.2-astra"
+  }
+}
