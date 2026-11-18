@@ -139,16 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法分类训练-05-G图"
+              "title": "思维惯性"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.71923828125
+    "width": 269.8730773925781
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -366,16 +366,28 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "6ec3e34385c88fef",
+  "active": "918f0b32f5b4afff",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
+    "_attachments/image/Pasted image 20261118210951.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/大作文1.md",
+    "_attachments/image/Pasted image 20261118203533.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/小作文1.md",
+    "_attachments/image/Pasted image 20261118200841.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-04-S栈与队列.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-03-T树与递归.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-公共约定.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-05-G图.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408真题卡点总览.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/OS-技巧.md",
@@ -385,15 +397,6 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/拓展知识.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/CN-技巧.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选/CO.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/09模拟卷精选/DS.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS调用，进程切换.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/04OS进程状态转换时发生的事.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/CN.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/OS.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/08错题变式强化/CO.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "0.核心/00.规划(Plan)/2.当前项目/考前复测-打开就做.md",
     "_attachments/image/Pasted image 20261118083708.jpeg",
     "_attachments/image/Pasted image 20261117215209.jpeg",
     "_attachments/image/Pasted image 20261117212850.jpeg",
@@ -402,9 +405,6 @@
     "_attachments/image/Pasted image 20261117162839.jpeg",
     "2.知识库/20.North_star_ZJU/203.政治/分析题",
     "_attachments/image/710664feca7e7103a2f2820be941e92.jpeg",
-    "_attachments/image/a5d9337b6d47a572213732fe11ba739.jpeg",
-    "_attachments/image/ca379bea50f5d331c52a6b0b8e03df0.jpeg",
-    "_attachments/image/Pasted image 20261116203804.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.64d6500dfb77",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.ca76e39c6169",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.69944.621885dd0bbb",
