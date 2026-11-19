@@ -1,0 +1,40 @@
+{
+  "target": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01级数奇偶下标.md",
+  "backup": ".claudian-backups/2026-11-19-series-index/01级数奇偶下标-重构前.md",
+  "sourceSha256": "103482dd33949522799622eea5bb94e495caa09c33cace93e74ae4674492ff52",
+  "items": [
+    [
+      "01",
+      "原第2题：双展开奇偶系数，保留常数例外"
+    ],
+    [
+      "02",
+      "原第1题：a1、递推范围、奇偶通项"
+    ],
+    [
+      "03",
+      "原第3题：a1、a2、递推证明、奇偶通项"
+    ],
+    [
+      "04",
+      "原例1：高阶导数与最低四次项"
+    ],
+    [
+      "05",
+      "原例2：独立二次项与4k+3阶"
+    ],
+    [
+      "06",
+      "原例3：3k+1阶与其余阶为零"
+    ]
+  ],
+  "images": [],
+  "checks": {
+    "savedExactly": true,
+    "backupUnchanged": true,
+    "sixExercises": true,
+    "mathDelimiters": true,
+    "noReplacementCharacters": true,
+    "recurrenceInitialTerms": true
+  }
+}

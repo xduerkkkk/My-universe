@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795053753728-f7kw1ruex",
+  "providerId": "codex",
+  "title": "重构幂级数笔记，统一奇偶拆分下标",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795053753731,
+  "updatedAt": 1795053960874,
+  "lastResponseAt": 1795053960874,
+  "sessionId": "01a1f18a-96e5-7d23-a71c-a8dbd7feb9ae",
+  "providerState": {
+    "threadId": "01a1f18a-96e5-7d23-a71c-a8dbd7feb9ae",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\19\\rollout-2026-11-19T10-02-39-01a1f18a-96e5-7d23-a71c-a8dbd7feb9ae.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01级数奇偶下标.md",
+  "usage": {
+    "inputTokens": 32792,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32640,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32792,
+    "percentage": 13,
+    "model": "gpt-6.1-sol"
+  }
+}
