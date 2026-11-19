@@ -69,7 +69,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus[1m]",
-    "codex": "gemini-4-carbon"
+    "codex": "gpt-6.1-sol"
   },
   "savedProviderEffort": {
     "claude": "high",

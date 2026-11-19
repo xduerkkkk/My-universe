@@ -1,0 +1,16 @@
+{
+  "id": "conv-1795087823616-cip4g2fx8",
+  "providerId": "codex",
+  "title": "2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795087823616,
+  "updatedAt": 1795088034107,
+  "lastResponseAt": 1795088026709,
+  "sessionId": "01a1f392-73cc-7b62-aeaa-0d0ba8a8de0e",
+  "providerState": {
+    "threadId": "01a1f392-73cc-7b62-aeaa-0d0ba8a8de0e",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\19\\rollout-2026-11-19T19-30-28-01a1f392-73cc-7b62-aeaa-0d0ba8a8de0e.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md"
+}

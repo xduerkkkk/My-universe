@@ -1,0 +1,23 @@
+{
+  "id": "conv-1795086245164-i1mnc2aaa",
+  "providerId": "claude",
+  "title": "2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795086245165,
+  "updatedAt": 1795086279109,
+  "lastResponseAt": 1795086277126,
+  "sessionId": "b1f9b0fb-514e-42a2-8b6a-9c0e1c5d269b",
+  "providerState": {
+    "providerSessionId": "b1f9b0fb-514e-42a2-8b6a-9c0e1c5d269b"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

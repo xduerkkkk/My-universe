@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795090840220-yf3h692w2",
+  "providerId": "codex",
+  "title": "制定冲刺阶段外刊词句摘录的高效复习方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795090840220,
+  "updatedAt": 1795091742032,
+  "lastResponseAt": 1795091742032,
+  "sessionId": "01a1f3c0-7b63-7382-9130-9e4ec02b3a06",
+  "providerState": {
+    "threadId": "01a1f3c0-7b63-7382-9130-9e4ec02b3a06",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\19\\rollout-2026-11-19T20-20-45-01a1f3c0-7b63-7382-9130-9e4ec02b3a06.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 97194,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 97152,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 97194,
+    "percentage": 38,
+    "model": "gpt-6.1-sol"
+  }
+}

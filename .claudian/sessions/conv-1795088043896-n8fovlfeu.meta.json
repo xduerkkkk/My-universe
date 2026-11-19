@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795088043896-n8fovlfeu",
+  "providerId": "codex",
+  "title": "编写计组Cache缺失率标准化流程训练笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795088043896,
+  "updatedAt": 1795090753925,
+  "lastResponseAt": 1795088730516,
+  "sessionId": "01a1f395-d032-7a42-b243-b793289a8a61",
+  "providerState": {
+    "threadId": "01a1f395-d032-7a42-b243-b793289a8a61",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\19\\rollout-2026-11-19T19-34-09-01a1f395-d032-7a42-b243-b793289a8a61.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 55181,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55040,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 55181,
+    "percentage": 21,
+    "model": "gpt-6.1-sol"
+  }
+}
