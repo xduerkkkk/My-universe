@@ -4,7 +4,7 @@
   "title": "精简考研冲刺期的408与数学粗心复盘",
   "titleGenerationStatus": "success",
   "createdAt": 1794982592889,
-  "updatedAt": 1794983184841,
+  "updatedAt": 1795077210423,
   "lastResponseAt": 1794983184841,
   "sessionId": "01a1ed4c-c292-77b0-9b33-28824eb4894c",
   "providerState": {
@@ -17,10 +17,10 @@
     "inputTokens": 44765,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 40064,
-    "contextWindow": 1216000,
-    "contextWindowIsAuthoritative": true,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": false,
     "contextTokens": 44765,
-    "percentage": 4,
-    "model": "gpt-6.2-sol"
+    "percentage": 22,
+    "model": "gpt-6.1-sol"
   }
 }

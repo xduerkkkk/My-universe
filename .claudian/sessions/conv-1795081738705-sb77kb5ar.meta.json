@@ -1,0 +1,16 @@
+{
+  "id": "conv-1795081738705-sb77kb5ar",
+  "providerId": "codex",
+  "title": "我准备就用这个模式 我今天用这个练了。  你结合此文件的题，以及2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795081738705,
+  "updatedAt": 1795081862761,
+  "lastResponseAt": 1795081862761,
+  "sessionId": "01a1f335-9ab0-7760-9847-9183d1e02d89",
+  "providerState": {
+    "threadId": "01a1f335-9ab0-7760-9847-9183d1e02d89",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\19\\rollout-2026-11-19T17-49-03-01a1f335-9ab0-7760-9847-9183d1e02d89.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md"
+}

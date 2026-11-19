@@ -1,0 +1,23 @@
+{
+  "id": "conv-1795081515898-9yfs0axdz",
+  "providerId": "claude",
+  "title": "我准备就用这个模式 我今天用这个练了。  你结合此文件的题，以及2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795081515899,
+  "updatedAt": 1795081594497,
+  "lastResponseAt": 1795081592087,
+  "sessionId": "3970d068-7734-4a93-93c1-c1c7ec42bcd9",
+  "providerState": {
+    "providerSessionId": "3970d068-7734-4a93-93c1-c1c7ec42bcd9"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
