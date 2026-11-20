@@ -1,0 +1,8 @@
+### IMG097
+
+数学一 · 第18题 $\nearrow$ 解答题 $\quad$ $\textsf{X}$ 自评做错 $\quad$ 第 1 次 · 上次今天 $\quad$ 难度 3
+
+计算二重积分 $I = \iint_{D} \frac{(1+x^2)(x^2+y^2-xy)}{2+x^2+y^2} \mathrm{d}\sigma$，其中
+$$D = \{(x, y) \mid (x-1)^2 + (y-1)^2 \leqslant 1\}.$$
+
+$\boxed{\text{🔒}}$ 考点与招法（点开看）

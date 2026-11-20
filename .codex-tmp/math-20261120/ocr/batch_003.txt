@@ -1,0 +1,56 @@
+### IMG016
+
+一个正态总体均值的检验法（显著性水平为 $\alpha$）
+
+| | 原假设 $H_0$ | 备择假设 $H_1$ | 检验统计量 | 拒绝域 |
+| :--- | :--- | :--- | :--- | :--- |
+| $\sigma$ 已知 | $\mu \le \mu_0$ <br> $\mu \ge \mu_0$ <br> $\mu = \mu_0$ | $\mu > \mu_0$ [橙色圈出] <br> $\mu < \mu_0$ <br> $\mu \neq \mu_0$ | $Z = \frac{\bar{X} - \mu_0}{\sigma / \sqrt{n}}$ [$\mu_0$ 橙色圈出] | ※ $z > z_\alpha$ [红色下划线，手写批注：记住！] <br> ※ $z < -z_\alpha$ [红色下划线，手写批注：记住！] <br> $|z| > z_{\alpha/2}$ |
+| $\sigma$ 未知 | $\mu \le \mu_0$ <br> $\mu \ge \mu_0$ <br> $\mu = \mu_0$ | $\mu > \mu_0$ <br> $\mu < \mu_0$ <br> $\mu \neq \mu_0$ | $t = \frac{\bar{X} - \mu_0}{S / \sqrt{n}}$ | $t > t_\alpha(n-1)$ <br> $t < -t_\alpha(n-1)$ <br> $|t| > t_{\alpha/2}(n-1)$ |
+
+### IMG017
+
+6. [红色框选] 拒绝域，指的是拒绝 $H_0$。[黄色高亮] 此题若改为 $H_0: \mu \le 0$，在计算的时候，代入的仍然是 $\mu = 0$！
+
+[黄色高亮] $H_0: \mu \le 0$ 和 $H_0: \mu = 0$ 这两种形式是等价的，记住即可，计算的时候若需要代入 $\mu$ 的值，则取 $\mu = 0$。
+
+[例题1] 设 $X_1, X_2, \cdots, X_{100}$ 是来自正态总体 $X \sim N(\mu, 2^2)$ 的样本，假设检验 $H_0: \mu = 0, H_1: \mu > 0$，若取拒绝域为 $W = \{ \bar{X} > 0.4 \}$ [红色波浪线]，则犯第一类错误的概率为 [红色波浪线] ( B )。
+(A) $\Phi(2)$ \quad (B) $\Phi(-2)$ \quad (C) $\Phi(\frac{1}{2})$ \quad (D) $\Phi(-\frac{1}{2})$
+
+[手写批注]：
+$P \{ \text{拒绝 } H_0 | H_0 \text{ 为真} \} = P \{ \bar{X} > 0.4 | \mu = 0 \}$ [$\mu=0$ 处有蓝色下划线，并标注：当作已知条件]
+$\frac{\bar{X} - \mu}{\sigma / \sqrt{n}} \sim N(0, 1)$
+$= P \{ 5\bar{X} > 5 \times 0.4 \}$
+$= 1 - P \{ 5\bar{X} \le 2 \}$
+$\therefore \frac{\bar{X} - 0}{2 / \sqrt{100}} = 5\bar{X} \sim N(0, 1)$ [此行有蓝色箭头指向上一行]
+
+※ [紫色框选]：
+$X \sim N(\mu, \sigma^2)$
+$\bar{X} \sim N(\mu, \frac{\sigma^2}{n})$
+$\therefore \frac{\bar{X} - \mu}{\sigma / \sqrt{n}} \sim N(0, 1)$
+
+### IMG018
+
+[解题思路归纳]
+$\chi^2, t, F$ 三大分布规律如下表：
+
+| 分布 | 形式 | 自由度 | 性质 | 注意事项 |
+| :--- | :--- | :--- | :--- | :--- |
+| $\chi^2(n)$ | $X_1^2 + \cdots + X_n^2$ | $n = \text{求和中平方个数}$ | $E[\chi^2(n)] = n$ <br> $D[\chi^2(n)] = 2n$ | $X_i \sim N(0, 1)$ <br> $X_1, \cdots, X_n$ 相互独立 |
+| $t(n)$ | $\frac{X}{\sqrt{(Y_1^2 + \cdots + Y_n^2)/n}}$ | $n = \text{根号内平方个数}$ | 概率密度为偶函数，$t_\alpha(n) = -t_{1-\alpha}(n)$ | $X, Y_1, Y_2, \cdots, Y_n$ 均服从 $N(0, 1)$ 且相互独立 |
+| $F(m, n)$ | $\frac{(X_1^2 + \cdots + X_m^2)/m}{(Y_1^2 + \cdots + Y_n^2)/n}$ | $m = \text{分子中平方个数}$ <br> $n = \text{分母中平方个数}$ | 若 $F \sim F(m, n)$，则 $\frac{1}{F} \sim F(n, m)$ | $X_1, \cdots, X_m, Y_1, \cdots, Y_n$ 均服从 $N(0, 1)$ 且相互独立 |
+
+### IMG019
+
+以后做题，把所有等价无穷小公式里的 $x$ 都看成一个“框” $\square$：
+$$\sin \square \sim \square$$
+$$1 - \cos \square \sim \frac{1}{2} \square^2$$
+$$e^\square - 1 \sim \square$$
+
+代换的充要条件只有两个字：$\square \to 0$ (且 $\square \neq 0$)。
+管这个框里装的是 $x, x^2, \sqrt{|x|}$ 还是 $\tan(\sqrt[3]{x})$，只要它趋于 0，直接套公式代换，绝不可能出错！
+
+### IMG020
+
+对任一函数 $f(x)$，令 $u(x) = \frac{1}{2}[f(x) + f(-x)]$，$v(x) = \frac{1}{2}[f(x) - f(-x)]$，则 $u(x)$ 是偶函数，$v(x)$ 是奇函数。由
+$$f(x) = \frac{1}{2}[f(x) + f(-x)] + \frac{1}{2}[f(x) - f(-x)] = u(x) + v(x),$$
+可知任何一个函数都可以写成一个奇函数与一个偶函数之和的形式。（重要结论）

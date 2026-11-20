@@ -1,0 +1,8 @@
+### IMG162
+
+4 已知 $f(t)$ 连续, 令 $F(x, y) = \int_{0}^{x-y} (x - y - t) f(t) \mathrm{d}t$, 则 ($\color{red}{C}$)
+
+(A) $\frac{\partial F}{\partial x} = \frac{\partial F}{\partial y}, \frac{\partial^2 F}{\partial x^2} = \frac{\partial^2 F}{\partial y^2}.$
+(B) $\frac{\partial F}{\partial x} = \frac{\partial F}{\partial y}, \frac{\partial^2 F}{\partial x^2} = -\frac{\partial^2 F}{\partial y^2}.$
+(C) $\frac{\partial F}{\partial x} = -\frac{\partial F}{\partial y}, \frac{\partial^2 F}{\partial x^2} = \frac{\partial^2 F}{\partial y^2}.$
+(D) $\frac{\partial F}{\partial x} = -\frac{\partial F}{\partial y}, \frac{\partial^2 F}{\partial x^2} = -\frac{\partial^2 F}{\partial y^2}.$

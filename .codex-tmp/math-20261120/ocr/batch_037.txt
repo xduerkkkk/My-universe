@@ -1,0 +1,30 @@
+### IMG186
+
+【7.75】 设 $a_n = \int_0^{\frac{\pi}{4}} \tan^n x dx$. (P523)
+
+(1) 求 $\sum_{n=1}^{\infty} \frac{1}{n}(a_n + a_{n+2})$ 的值.
+
+(2) 试证：对任意的常数 $\lambda > 0$, 级数 $\sum_{n=1}^{\infty} \frac{a_n}{n^\lambda}$ 收敛.
+
+### IMG187
+
+【7.30】 设 $u_n \neq 0(n = 1, 2, \dots)$, 且 $\lim_{n \to \infty} \frac{n}{u_n} = 1$, 则级数 $\sum_{n=1}^{\infty} (-1)^{n+1} \left( \frac{1}{u_n} + \frac{1}{u_{n+1}} \right)$ ( ) (P485)
+
+A. 发散. $\quad$ B. 绝对收敛. $\quad$ C. 条件收敛. $\quad$ D. 敛散性不定.
+
+### IMG188
+
+【7.86】 (数一) 证明 $\sum_{n=1}^{\infty} \frac{(-1)^{n-1} \cos nx}{n^2} = \frac{\pi^2}{12} - \frac{x^2}{4}, -\pi \leqslant x \leqslant \pi$, 并求数项级数 $\sum_{n=1}^{\infty} \frac{(-1)^{n-1}}{n^2}$ 的和。 (P534)
+
+### IMG189
+
+【7.76】 记 $a_n = \int_0^1 x^2 (\ln x)^n dx, n = 0, 1, 2, \dots$ (P525)
+
+(1) 求 $\lim_{n \to \infty} \frac{(-1)^n}{a_n}$;
+
+(2) 求 $\sum_{n=0}^{\infty} \frac{x^n}{a_n}$ 的收敛域，并计算其和函数.
+
+### IMG190
+
+[彩色批注：左上角有一蓝色圆圈]
+【7.82】 (数一) 将 $f(x) = x^2$ 在 $(0, \pi)$ 上分别展开为正弦级数和余弦级数。 (P530)

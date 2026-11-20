@@ -1,0 +1,39 @@
+### IMG131
+
+【2.5】 矩阵 $\boldsymbol{A} = \begin{pmatrix} 1 & 1 & 2 \\ 2 & 3 & 7 \\ 2 & 0 & -2 \end{pmatrix}, \boldsymbol{B} = \begin{pmatrix} 1 & 0 & -1 \\ 2 & 1 & 1 \\ 2 & 1 & 1 \end{pmatrix}$, 求所有满足 $\boldsymbol{PA=B}$ 的可逆矩阵 $\boldsymbol{P}$. (P37)
+
+### IMG132
+
+【4.35】 设总体 $X$ 的概率分布为
+
+$$
+\begin{array}{c|ccc}
+X & 1 & 2 & 3 \\
+\hline
+P & 1 - \theta & \theta - \theta^2 & \theta^2
+\end{array}
+$$
+
+其中参数 $\theta \in (0, 1)$ 未知. 以 $N_i$ 表示来自总体 $X$ 的简单随机样本（样本容量为 $n$）中等于 $i$ 的个数 $(i = 1, 2, 3)$. 试求常数 $a_1, a_2, a_3$, 使 $T = \sum_{i=1}^3 a_i N_i$ 为 $\theta$ 的无偏估计量, 并求 $T$ 的方差. (P137)
+
+### IMG133
+
+$$
+\iint_R = \int_{-1}^1 (\sqrt{1+y^2} - |y|) \, dy = 2 \int_0^1 (\sqrt{1+y^2} - y) \, dy.
+$$
+
+由 $\int_0^1 \sqrt{1+y^2} \, dy = \frac{1}{2} \left[ y\sqrt{1+y^2} + \ln(y + \sqrt{1+y^2}) \right]_0^1 = \frac{1}{2} (\sqrt{2} + \ln(1 + \sqrt{2})), \int_0^1 y \, dy = \frac{1}{2}$
+
+$$
+\iint_R = 2 \left( \frac{\sqrt{2}}{2} + \frac{\ln(1 + \sqrt{2})}{2} - \frac{1}{2} \right) = \sqrt{2} + \ln(1 + \sqrt{2}) - 1.
+$$
+
+### IMG134
+
+【4.9】 设随机变量 $X$ 与 $Y$ 相互独立, 且 $X \sim B(1, p), Y \sim B(2, p), p \in (0, 1)$, 则 $X + Y$ 与 $X - Y$ 的相关系数为 \_\_\_\_\_\_. (P118)
+
+### IMG135
+
+4 (2019 年第 20 题) 设向量组 $\boldsymbol{\alpha}_1 = (1, 2, 1)^\text{T}, \boldsymbol{\alpha}_2 = (1, 3, 2)^\text{T}, \boldsymbol{\alpha}_3 = (1, a, 3)^\text{T}$ 为 $\mathbf{R}^3$ 的一个基, $\boldsymbol{\beta} = (1, 1, 1)^\text{T}$ 在这个基下的坐标为 $(b, c, 1)^\text{T}$.
+( I ) 求 $a, b, c$;
+( II ) 证明 $\boldsymbol{\alpha}_2, \boldsymbol{\alpha}_3, \boldsymbol{\beta}$ 为 $\mathbf{R}^3$ 的一个基, 并求 $\boldsymbol{\alpha}_2, \boldsymbol{\alpha}_3, \boldsymbol{\beta}$ 到 $\boldsymbol{\alpha}_1, \boldsymbol{\alpha}_2, \boldsymbol{\alpha}_3$ 的过渡矩阵.

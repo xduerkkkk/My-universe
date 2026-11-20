@@ -1,0 +1,76 @@
+### IMG066
+
+两个幂级数相乘（先阅读 7.6 小节的内容）：
+
+若幂级数 $\sum_{n=0}^{\infty} a_n x^n$ 和 $\sum_{n=0}^{\infty} b_n x^n$ 的收敛半径分别为 $R_a$ 和 $R_b$，如果已知
+$\lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \frac{1}{R_a}, \lim_{n \to \infty} \left| \frac{b_{n+1}}{b_n} \right| = \frac{1}{R_b}$，则可根据比值法推出 $\sum_{n=0}^{\infty} a_n b_n x^n$
+的收敛半径为 $R_a R_b$。若已知开 $n$ 次根号后的极限，也可根据根值法
+同理推出收敛半径为 $R_a R_b$。但若仅知道 $\sum_{n=0}^{\infty} a_n x^n$ 和 $\sum_{n=0}^{\infty} b_n x^n$ 的收敛
+半径分别为 $R_a$ 和 $R_b$，则推不出 $\sum_{n=0}^{\infty} a_n b_n x^n$ 的收敛半径为 $R_a R_b$。
+
+【红色手写批注】：$\lim_{n \to \infty} \left| \frac{a_{n+1} b_{n+1}}{a_n b_n} \right| = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| \cdot \lim_{n \to \infty} \left| \frac{b_{n+1}}{b_n} \right| = \frac{1}{R_a R_b} \therefore R = R_a R_b$
+【红色下划线】：标注在“则可根据比值法推出 $\sum_{n=0}^{\infty} a_n b_n x^n$ 的收敛半径为 $R_a R_b$”以及“也可根据根值法同理推出收敛半径为 $R_a R_b$”下方。
+
+### IMG067
+
+取 $u_n = v_n = \frac{(-1)^n}{\sqrt{n}}, \sum_{n=1}^{\infty} u_n$ 与 $\sum_{n=1}^{\infty} v_n$ 都（条件）收敛，但 $\sum_{n=1}^{\infty} u_n v_n = \sum_{n=1}^{\infty} \frac{1}{n}$ 发散。
+
+【红色手写批注】：在第一个 $\sum$ 上方标有 $n=1$。
+
+### IMG068
+
+又
+16 若 $\sum_{n=1}^{\infty} u_n$ 收敛，$\sum_{n=1}^{\infty} v_n$ 收敛，则
+$\begin{cases} u_n \ge 0, v_n \ge 0 \text{ 时, } \sum_{n=1}^{\infty} u_n v_n \text{ 收敛 } (u_n \cdot v_n \le \frac{u_n^2 + v_n^2}{2}), \\ u_n \text{ 任意, } v_n \ge 0 \text{ 时, } \sum_{n=1}^{\infty} |u_n| \cdot v_n \text{ 收敛 } (\lim_{n \to \infty} \frac{|u_n| \cdot v_n}{v_n} = \lim_{n \to \infty} |u_n| = 0), \\ u_n \text{ 任意, } v_n \text{ 任意时, } \sum_{n=1}^{\infty} u_n v_n \text{ 不定. (见 ③)} \end{cases}$
+
+【紫色手写批注】：$u_n = v_n = (-1)^n \cdot \frac{1}{\sqrt{n}}, u_n v_n = \frac{1}{n}$
+【彩色波浪下划线】：第一种情况下方有红色波浪线；第二种情况下方有蓝色波浪线；第三种情况下方有紫色波浪线。
+【蓝色标注】：第二种情况的 $\sum |u_n| \cdot v_n$ 中，$|u_n|$ 和 $v_n$ 下方各有一个蓝色小三角。
+
+### IMG069
+
+(3) 设 $u_n = \frac{|a_n| + a_n}{2}, v_n = \frac{|a_n| - a_n}{2}$，则下列四个级数
+(I) $\sum_{n=1}^{\infty} a_n$, (II) $\sum_{n=1}^{\infty} |a_n|$, (III) $\sum_{n=1}^{\infty} u_n$, (IV) $\sum_{n=1}^{\infty} v_n$
+敛性关系是 ( B )。
+A. 若 (I) 收敛，则 (III) 和 (IV) 都收敛
+B. 若 (II) 收敛，则 (I), (III) 和 (IV) 都收敛
+C. 若 (III) 和 (IV) 发散，则 (I) 和 (II) 都发散
+D. (I)(II)(III)(IV) 的收敛性无确定的关系
+
+3) B.
+解 若 $\sum_{n=1}^{\infty} |a_n|$ 收敛，则 $\sum_{n=1}^{\infty} a_n$ 收敛。由
+$0 \le u_n = \frac{|a_n| + a_n}{2} \le |a_n|, 0 \le v_n = \frac{|a_n| - a_n}{2} \le |a_n|,$
+较审敛法，知 $\sum_{n=1}^{\infty} u_n$ 与 $\sum_{n=1}^{\infty} v_n$ 都收敛。
+
+【红色手写批注】：
+方法一：
+$u_n = \begin{cases} a_n, a_n \ge 0 \\ 0, a_n < 0 \end{cases} v_n = \begin{cases} 0, a_n \ge 0 \\ -a_n, a_n < 0 \end{cases}$
+$\therefore |u_n| \le |a_n|, |v_n| \le |a_n|$
+$\therefore$ 若 $\sum_{n=1}^{\infty} |a_n|$ 收敛，则 $\sum_{n=1}^{\infty} |u_n|$ 和 $\sum_{n=1}^{\infty} |v_n|$ 收敛
+$\therefore$ B 正确
+
+方法二：$u_n + v_n = |a_n|, u_n - v_n = a_n$
+$\sum_{n=1}^{\infty} |a_n|$ 收敛 $\Rightarrow \sum_{n=1}^{\infty} (u_n + v_n)$ 和 $\sum_{n=1}^{\infty} (u_n - v_n)$ 均收敛
+二者相加可得 $\sum_{n=1}^{\infty} u_n$ 收敛，相减可得 $\sum_{n=1}^{\infty} v_n$ 收敛
+$\therefore$ B 正确
+
+【绿色手写批注】：
+三：若 $\sum_{n=1}^{\infty} |a_n|$ 收敛
+则 $\sum_{n=1}^{\infty} a_n$ 收敛
+则 $\sum_{n=1}^{\infty} (|a_n| \pm a_n)$ 收敛
+则 $u_n, v_n$ 均收敛
+
+### IMG070
+
+$\therefore$ B 正确
+
+, 若 $\lim_{n \to \infty} b_n = 0$，则 ( B )。
+B. 当 $\sum |a_n|$ 收敛时，$\sum a_n b_n$ 收敛
+
+【蓝色手写批注】：
+$\because \lim_{n \to \infty} \frac{|a_n b_n|}{|a_n|} = |b_n| = 0$
+若 $\sum_{n=1}^{\infty} |a_n|$ 收敛，则 $\sum_{n=1}^{\infty} |a_n b_n|$ 收敛
+$\therefore \sum_{n=1}^{\infty} a_n b_n$ 收敛
+
+【红色波浪下划线】：标注在“若 $\lim_{n \to \infty} b_n = 0$”下方。
+【蓝色手写】：括号内的“B”。

@@ -1,0 +1,22 @@
+### IMG161
+
+二、填空题：11~16 小题，每小题 5 分，共 30 分。
+
+(11) $\lim_{n \to \infty} \int_{0}^{1} \frac{\sqrt[n]{1 + n \arctan x^2}}{1 + x^2} dx = \underline{\qquad}.$
+
+[右上角印刷文字]：
+广义积分中值定理：
+若 $f(x)$ 与 $g(x)$ 在 $[a, b]$ 上连续，且 $g(x)$ 不变号，则存在 $\xi \in [a, b],$
+使得 $\int_{a}^{b} f(x)g(x)dx = f(\xi) \int_{a}^{b} g(x)dx$
+[红色箭头从题干指向上述定理]
+
+答案 填 “$\frac{\pi}{4}$”.
+
+[红色手写批注]：广义积分中值定理：$\lim_{n \to \infty} \sqrt[n]{1 + n \arctan \xi^2} \cdot \int_{0}^{1} \frac{1}{1 + x^2} dx = 1 \times \frac{\pi}{4} = \frac{\pi}{4}$
+[蓝色手写批注]：在 $\sqrt[n]{1 + n \arctan \xi^2}$ 下方标有 $1$，在 $\int_{0}^{1} \frac{1}{1 + x^2} dx$ 下方标有 $\frac{\pi}{4}$。
+
+解 $\int_{0}^{1} \frac{\sqrt[n]{1 + n \arctan x^2}}{1 + x^2} dx \leqslant \int_{0}^{1} \frac{1}{1 + x^2} dx \cdot \sqrt[n]{1 + n \arctan 1^2} \leqslant \sqrt[n]{1 + n} \cdot \int_{0}^{1} \frac{1}{1 + x^2} dx = \frac{\pi}{4} \sqrt[n]{1 + n},$
+
+[紫色手写批注]：答案的放缩手法：利用积分上下限进行放缩，$x=0, x=1$
+
+$\int_{0}^{1} \frac{\sqrt[n]{1 + n \arctan x^2}}{1 + x^2} dx \geqslant \int_{0}^{1} \frac{1}{1 + x^2} dx = \frac{\pi}{4}$ [注：此行位于图片底部，部分字符被遮挡]

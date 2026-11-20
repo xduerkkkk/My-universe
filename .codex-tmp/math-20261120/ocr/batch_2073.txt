@@ -1,0 +1,4 @@
+### IMG073
+
+[蓝色圆圈批注]
+$= \lim_{x \to +\infty} \mathrm{e}^{\frac{1}{\ln x} \cdot \ln \left( \frac{\pi}{2} - \arctan x \right)}$

@@ -1,0 +1,11 @@
+﻿import fs from 'node:fs';
+const c=JSON.parse(fs.readFileSync('C:/Users/kkkkkk/.agents/skills/vision-support/config.json','utf8'));
+const m=c.models[0];
+const key=m.apiKey?.startsWith('$')?process.env[m.apiKey.slice(1)]:m.apiKey;
+const image='_attachments/image/Pasted image 20261108104111.jpeg';
+const url=new URL(m.baseUrl);
+const endpoint=url.origin+'/gemini/v1beta/models/'+m.model+':generateContent';
+const response=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':key,'Authorization':'Bearer '+key},body:JSON.stringify({contents:[{role:'user',parts:[{text:'仅转录图片中的题干、选项、公式。不要解题，不要推理。不确定处明确标注。'},{inlineData:{mimeType:'image/jpeg',data:fs.readFileSync(image).toString('base64')}}]}],generationConfig:{temperature:0,maxOutputTokens:4096}}),signal:AbortSignal.timeout(60000)});
+console.log('HTTP',response.status);
+const text=await response.text();
+if(response.ok){const data=JSON.parse(text);const result=(data.candidates?.[0]?.content?.parts||[]).map(p=>p.text||'').join('\n');fs.writeFileSync('.codex-tmp/math-20261120/vision-test.txt',result,'utf8');console.log(result);}else console.log(text.slice(0,400));

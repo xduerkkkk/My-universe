@@ -1,0 +1,107 @@
+### IMG026
+
+对于此题而言，关于数列最大值的处理是比较简单的，和我们之前讲的方法一样，我们无需判断具体在哪个点取得最大值，直接按照之前的办法处理就行了。数列的极限是 1，而 $a_2 = \sqrt{2}$，比极限值大。前有限项当中有比极限值大的，所以数列一定能取得最大值。这个方法比答案的方法要简单很多，因为我们无需判断最值所取得的位置。
+<u>此题最特殊的一点在于，我们前有限项当中没有比 1 小的，此时一定就意味着没有最小值吗？答案是否定的。数列的极限值是 1，而前有限项当中，$a_1$ 恰好等于 1，和极限值相等。</u>
+此时应该怎么处理这个 $a_1$ 呢？这个时候，我个人觉得最好的办法就是像答案那样，把这个数列转化为函数，之后分析函数图像。此题的函数图像比较好画，画完之后我们可以判断出来 $a_1$ 为最小值。
+若把此题的 $a_n$ 表达式加上一个负号，函数图像会颠倒过来，此时 $a_1$ 就是最大值了。
+此题可以说是“补齐了数列最值问题的最后一块拼图”。当数列当中存在前有限项的值和数列极限相等时，该点仍然可能为最值点，至于最大值还是最小值，这个时候把数列表达式转化为函数，需要画个大致图像进行判断即可。
+
+3 设数列 $\{a_n\}$ 满足 $a_n = \sqrt[n]{n}, n = 1, 2, \cdots$, 则下列命题中, 正确的是( )
+(A) 数列 $\{a_n\}$ 能取到最小值, 但取不到最大值.
+(B) 数列 $\{a_n\}$ 能取到最大值, 但取不到最小值.
+(C) 数列 $\{a_n\}$ 既能取到最大值, 又能取到最小值.
+(D) 数列 $\{a_n\}$ 既不能取到最大值, 又不能取到最小值.
+答案 C.
+解 将数列问题转化为函数问题.
+令 $f(x) = x^{\frac{1}{x}} (x > 0)$, 则 $f(x) = e^{\frac{1}{x} \ln x}$. 记 $g(x) = \frac{\ln x}{x}$. 由于 $e^u$ 关于 $u$ 单调增加, 故 $g(x)$ 的最...
+
+[手写批注]
+$\lim_{n \to \infty} a_n = 1$
+$a_1 = 1 ??$
+$a_2 = \sqrt{2} > 1$
+$a_{3,4,5,6 \cdots} > 1$
+$\therefore$ 有最大值
+
+[图示文字]
+坐标轴 $x, y$
+曲线起始点 $(1, 1)$
+水平虚线 $y=1$
+垂直虚线对应 $x=1$
+红色箭头指向曲线最高点
+
+---
+### IMG027
+
+例 1.83 2023 李艳芳三套卷，分母 k 是同量级，sin 是次量级，忽略次量级，分母等价成 n+k
+
+求极限 $\lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n + k - \sin^2 n}$
+
+[手写批注]
+分母 $\sim n+k$
+原式 $= \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k} = \lim_{n \to \infty} \frac{1}{n} \sum_{k=1}^n \frac{1}{1 + \frac{k}{n}}$
+$= \int_0^1 \frac{1}{1+x} dx$
+$= \ln(1+x) |_0^1 = \ln 2$
+
+[解析文字]
+解法 1 考虑凑定积分的定义计算该极限。
+将区间 $[0,1]$ 分成 $n$ 等份, 注意到 $\frac{1}{n+k-\sin^2 n} = \frac{1}{n} \cdot \frac{1}{1+\frac{k}{n}-\frac{\sin^2 n}{n}}$, 且 $\frac{k-1}{n} \le \frac{k}{n} - \frac{\sin^2 n}{n} \le \frac{k}{n}$, 故可取 $x_k = \frac{k}{n} - \frac{\sin^2 n}{n}$, 于是,
+$\lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k-\sin^2 n} = \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n} \cdot \frac{1}{1+\frac{k}{n}-\frac{\sin^2 n}{n}} = \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n} \cdot \frac{1}{1+x_k} = \int_0^1 \frac{1}{1+x} dx = \ln(1+x) |_0^1 = \ln 2$.
+解法 2 利用定积分的定义和夹逼准则计算该极限。
+同解法 1 注意到 $\frac{1}{n+k} \le \frac{1}{n+k-\sin^2 n} \le \frac{1}{n+k-1}$, 且 $\frac{k-1}{n} \le \frac{k}{n} - \frac{\sin^2 n}{n} \le \frac{k}{n}$ [不确定]
+$\lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k} \le \text{原极限} = \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k-\sin^2 n} \le \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k-1}$
+注意到 $\lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k}, \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n+k-1}$ 均可写成 $\int_0^1 \frac{1}{1+x} dx$, 而 $\int_0^1 \frac{1}{1+x} dx = \ln(1+x) |_0^1 = \ln 2$, 由夹逼准则可知, 原极限 $= \ln 2$.
+
+---
+### IMG028
+
+例 1.84 武忠祥严选题
+
+26. 极限 $\lim_{n \to \infty} \frac{\sqrt{1} + \sqrt{2} + \cdots + \sqrt{n}}{\sqrt{n(1 + 2 + \cdots + n)}} = \underline{\qquad\qquad}$.
+
+[手写批注]
+分母 $= \sqrt{\frac{n^2(n+1)}{2}} \sim \sqrt{\frac{n^3}{2}} = \frac{1}{\sqrt{2}} n^{\frac{3}{2}}$
+分子 : $k = \frac{1}{2}, \sim \frac{2}{3} n^{\frac{3}{2}}$
+$\therefore$ 原式 $= \lim_{n \to \infty} \frac{\frac{2}{3} n^{\frac{3}{2}}}{\frac{1}{\sqrt{2}} n^{\frac{3}{2}}} = \frac{2\sqrt{2}}{3}$
+
+---
+### IMG029
+
+5 (2002 年试题) 设 $0 < x_1 < 3, x_{n+1} = \sqrt{x_n(3 - x_n)} (n = 1, 2, \cdots)$, 证明数列 $\{x_n\}$ 的极限存在, 并求此极限.
+
+[手写批注]
+$\therefore$ 显然 $x_{n+1} \ge 0$
+$a+b \ge 2\sqrt{ab} \implies \sqrt{ab} \le \frac{a+b}{2}$
+解: $x_{n+1} = \sqrt{x_n(3-x_n)} \le \frac{3}{2}$ (从 $x_2$ 开始才满足)
+此处也可写“$n>1$时”
+$\therefore n$ 充分大时, $0 \le x_n \le \frac{3}{2}$ (前有限项可以不满足 例如 $x_1$ 可以大于 $\frac{3}{2}$)
+$x_{n+1} - x_n = \sqrt{x_n(3-x_n)} - x_n = \frac{3x_n - 2x_n^2}{\sqrt{x_n(3-x_n)} + x_n} = \frac{x_n(3-2x_n)}{\sqrt{x_n(3-x_n)} + x_n} \ge 0$
+由单调有界准则知, $\lim_{n \to \infty} x_n$ 存在
+尽量写出这句话 方便阅卷
+设 $\lim_{n \to \infty} x_n = a$, 则 $a = \sqrt{a(3-a)}$, 解得 $a = \frac{3}{2}$ 或 $a = 0$ (舍)
+$\because \{x_n\}$ 单增, 且 $x_1 > 0$
+$\therefore \lim_{n \to \infty} x_n = \frac{3}{2}$
+$\therefore x_n > x_1 > 0 \implies \lim_{n \to \infty} x_n \ge \lim_{n \to \infty} x_1 \implies a \ge x_1 > 0 \therefore a > 0$
+
+[蓝色框内文字]
+数列极限研究的就是后面无穷多项
+当 $n$ 充分大时
+$a \le x_{n+k} \le b \iff a \le x_n \le b$
+$\lim_{n \to \infty} x_n = A \iff \lim_{n \to \infty} x_{n+k} = A$
+令 $n+k=t$ 换元即可证明
+
+[橙色框内文字]
+只需后无穷多项满足单调有界准则即可
+
+---
+### IMG030
+
+1.2.5.2 压缩映射
+
+(4) 利用压缩映射原理. (简化版)
+原理一 对数列 $\{x_n\}$, 若存在常数 $k (0 < k < 1)$, 使得 $|x_{n+1} - a| \le k|x_n - a|, n = 1, 2, \cdots$, 则 $\{x_n\}$ 收敛于 $a$.
+证 $0 \le |x_{n+1} - a| \le k|x_n - a| \le k^2|x_{n-1} - a| \le \cdots \le k^n|x_1 - a|$, 由于 $\lim_{n \to \infty} k^n = 0$, 根据夹逼准则, 有 $\lim_{n \to \infty} |x_{n+1} - a| = 0$, 即 $\{x_n\}$ 收敛于 $a$.
+
+[黄色高亮文字]
+见到大题, 优先考虑单调有界, 面对以下几种情况, 可以考虑使用压缩映射:
+①数列不单调, 或者使用单调有界准则实在是做不出来
+②题中给了极为明显的 “$a = f(a)$” 这种可以把极限值转化成函数值的情况, 且题中给出导数的信息, 那么可以利用 $|x_n - a| = |f(x_{n-1}) - f(a)| = |f'(\xi)| |x_{n-1} - a|$, 再对导数进行放缩, 进而构造压缩映射的形式。

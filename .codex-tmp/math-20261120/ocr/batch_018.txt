@@ -1,0 +1,36 @@
+### IMG091
+
+设函数 $f(x)$ 在 $[0,2]$ 上有连续导数，且满足 $0 < f(x) < 2, |f'(x)| < 1$.
+(I) 证明存在唯一的 $x_0 \in (0,2)$, 使得 $f(x_0) = x_0$.
+(II) 设 $0 < x_1 < 2, 2x_{n+1} = x_n + f(x_n)$, 证明 $\lim_{n \to \infty} x_n = x_0$.
+
+---
+### IMG092
+
+求函数 $u = x^2 + 2y^2 + z^2$ 在曲线 $\Gamma : \begin{cases} z = x^2 + 4y^2, \\ x + 2y + z = 1 \end{cases}$ 上的最大方向导数.
+
+---
+### IMG093
+
+三、解答题
+17. 由拉格朗日函数求法知，可设
+$F(x) = x^2 + 2y^2 + z^2 + \lambda(x + 2y + x^2 + 4y^2 - 1)$
+（由于函数梯度为 $(2x, 4y, 2z)$, 最大方向导数为梯度模长）
+$\begin{cases} F'_x = 2x + \lambda + 2x\lambda ; F'_y = 8y + 2\lambda + 8y\lambda \\ F'_z = 2z \\ F'_\lambda = x + 2y + x^2 + 4y^2 - 1 \end{cases}$
+
+请在各题目的答题区域内作答，超出答题区域的答案无效
+
+---
+### IMG094
+
+【例2】设 $A = \begin{bmatrix} 2 & 1 & 0 \\ 1 & 2 & 0 \\ 0 & 0 & 1 \end{bmatrix}$ 与 $B = \begin{bmatrix} a & b & c \\ 0 & 1 & 0 \\ -1 & -2 & 4 \end{bmatrix}$ 相似.
+(I) 求 $a, b, c$ 的值；
+(II) 求可逆矩阵 $P$，使得 $P^{-1}AP = B$；
+(III) 求可逆矩阵 $C$，使得 $A = C^T C$.
+
+---
+### IMG095
+
+设 $\alpha_1, \alpha_2, \alpha_3, \alpha_4$ 是四元非齐次线性方程组 $Ax = b$ 的 4 个解向量，且 $\alpha_1 + \alpha_2 = (2, 4, 6, 8)^T, \alpha_2 + \alpha_3 + \alpha_4 = (3, 5, 7, 9)^T, \alpha_1 + 2\alpha_2 - \alpha_3 = (2, 0, 0, 2)^T$. 若秩 $r(A) = 2$, 则方程组 $Ax = b$ 的通解是 \_\_\_\_.
+
+考点与招法（点开看）

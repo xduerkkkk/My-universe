@@ -1,0 +1,65 @@
+### IMG201
+
+【7.71】 已知函数 $f(x)$ 可导，且 $f(0) = 1, 0 < f'(x) < \frac{1}{2}$. 设数列 $\{x_n\}$ 满足 $x_{n+1} = f(x_n) (n = 1, 2, \cdots)$. 证明： (P518)
+
+(1) 级数 $\sum_{n=1}^{\infty} (x_{n+1} - x_n)$ 绝对收敛；
+
+(2) $\lim_{n \to \infty} x_n$ 存在，且 $0 < \lim_{n \to \infty} x_n < 2$.
+
+### IMG202
+
+【例 18.1】 设 $l_1 : \frac{x-2}{1} = \frac{y-3}{2} = \frac{z-2}{2}$ 与 $l_2 : \frac{x-1}{1} = \frac{y-1}{1} = \frac{z}{0}$. (P563)
+
+(1) 求 $l_1, l_2$ 的交点和夹角.
+
+(2) 设 $\Sigma$ 为 $l_1$ 绕 $l_2$ 旋转一周所得曲面，求 $\Sigma$ 的方程.
+
+### IMG203
+
+【18.57】 设 $u = z(x^2 + 3)$，求向量场 $\boldsymbol{A} = \text{grad } u$ 穿过球面 $x^2 + y^2 + z^2 = 1$ 上半部分流向外侧的通量 $Q$. (P610)
+
+### IMG204
+
+※※ (3) $\oint_L (2yz + 2zx + 2xy) \text{d}s$, 其中 $L$ 是空间圆周 $\begin{cases} x^2 + y^2 + z^2 = a^2, \\ x + y + z = \frac{3}{2}a; \end{cases}$
+[批注] ※ 改编于2018数一真题 (红色手写)
+[批注] 红色波浪线划在方程组下方，并有红色箭头指向右侧图示。
+
+※※ (4) $\oint_L (x^2 + y^2) \text{d}s$, 其中 $L$ 是空间圆周 $\begin{cases} x^2 + y^2 + z^2 = 1, \\ x + y + z = 0; \end{cases}$
+[批注] 蓝色下划线划在 $x+y+z=0$ 下方，旁有蓝色手写：过原点 (球心)
+
+※ (5) $\oint_C (2x^2 + 3y^2) \text{d}s$, 其中 $C$ 是曲线 $x^2 + y^2 = 2(x+y)$.
+
+[图示文字]
+※勾股定理 (绿色手写)
+过原点 (球心) (蓝色手写)
+图示为一个球体，内部有一个被平面截出的圆。标注有 $a$ (半径) 和 $d$ (球心到平面的距离)。
+
+### IMG205
+
+※※ (3) 球心 $(0,0,0)$ 到平面 $x+y+z = \frac{3a}{2}$ 的距离为
+$$d = \frac{|0+0+0 - \frac{3a}{2}|}{\sqrt{1^2 + 1^2 + 1^2}} = \frac{\sqrt{3}}{2}a.$$
+[图示文字]
+※勾股定理 (绿色手写)
+图示为一个球体，内部有一个被平面截出的圆。标注有 $a, d, r$。
+
+圆 $L: \begin{cases} x^2 + y^2 + z^2 = a^2, \\ x + y + z = \frac{3}{2}a \end{cases}$ 的半径为 $r = \sqrt{a^2 - \left(\frac{\sqrt{3}a}{2}\right)^2} = \frac{a}{2}$, 圆 $L$ 的周长为 $2\pi r = \pi a$, 于是
+$$\oint_L (2yz + 2zx + 2xy) \text{d}s$$
+$$= \oint_L [(x+y+z)^2 - (x^2 + y^2 + z^2)] \text{d}s$$
+$$\overset{(*)}{=} \oint_L \left[\left(\frac{3a}{2}\right)^2 - a^2\right] \text{d}s = \frac{5a^2}{4} \oint_L \text{d}s = \frac{5}{4}a^2 \cdot \pi a = \frac{5}{4}\pi a^3.$$
+[批注] 第二行公式上方有红色手写 ※※。最后结果 $\frac{5}{4}\pi a^3$ 被红色圈起。
+
+【注】$(*)$ 处来自于边界方程 $x+y+z = \frac{3}{2}a, x^2 + y^2 + z^2 = a^2$, 可直接代入被积函数，从而化简计算。
+
+(4) 由轮换对称性知 $\oint_L x^2 \text{d}s = \oint_L y^2 \text{d}s = \oint_L z^2 \text{d}s$, 于是
+$$\oint_L (x^2 + y^2) \text{d}s = \oint_L x^2 \text{d}s + \oint_L y^2 \text{d}s$$
+$$= 2 \oint_L x^2 \text{d}s = \frac{2}{3} \left(\oint_L x^2 \text{d}s + \oint_L y^2 \text{d}s + \oint_L z^2 \text{d}s\right)$$
+$$= \frac{2}{3} \oint_L (x^2 + y^2 + z^2) \text{d}s = \frac{2}{3} \oint_L 1 \text{d}s = \frac{2}{3} \times 2\pi \times 1 = \frac{4}{3}\pi.$$
+[批注] $2 \oint_L x^2 \text{d}s$ 被红色圈起。
+
+(5) $C$ 是圆 $(x-1)^2 + (y-1)^2 = 2$, 关于 $y=x$ 对称，由轮换对称性知
+$$\oint_C x^2 \text{d}s = \oint_C y^2 \text{d}s.$$
+故 $\oint_C (2x^2 + 3y^2) \text{d}s = \frac{5}{2} \oint_C (x^2 + y^2) \text{d}s = 5 \oint_C (x+y) \text{d}s$
+$$= 5 \oint_C [(x-1) + (y-1) + 2] \text{d}s = 10 \oint_C \text{d}s = 20\sqrt{2}\pi.$$
+[批注] $(x-1)^2 + (y-1)^2 = 2$ 下方有红色下划线，并标注 $r = \sqrt{2}$。
+[批注] $\frac{5}{2} \oint_C (x^2 + y^2) \text{d}s$ 被红色圈起，并有红色箭头指向 $5 \oint_C (x+y) \text{d}s$。
+[批注] 最后一行公式中，$(x-1)$ 和 $(y-1)$ 下方分别有蓝色圈，圈下写有 $0$。

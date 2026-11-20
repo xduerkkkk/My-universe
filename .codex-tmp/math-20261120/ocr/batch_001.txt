@@ -1,0 +1,63 @@
+### IMG006
+
+为了直观理解，我们构造一个简单的三阶上三角矩阵 $A$（上三角矩阵的特征值就是其主对角线上的元素）：
+
+$$A = \begin{pmatrix} 1 & 4 & 5 \\ 0 & 2 & 6 \\ 0 & 0 & 3 \end{pmatrix}$$
+
+**1. 确定特征值与两两乘积之和**
+
+*   特征值为：$\lambda_1 = 1, \lambda_2 = 2, \lambda_3 = 3$
+*   特征值两两乘积之和：
+    $$\lambda_1\lambda_2 + \lambda_2\lambda_3 + \lambda_3\lambda_1 = (1 \times 2) + (2 \times 3) + (3 \times 1) = 2 + 6 + 3 = 11$$
+
+**2. 计算所有二阶主子式**
+
+三阶矩阵共有 3 个 二阶主子式（即删去某一行和对应某一列后，由剩余交叉元素组成的行列式）：
+
+---
+
+### IMG007
+
+| 矩阵类型 | 原矩阵 $A$ | 伴随矩阵形式（分块则加负号/求逆） | 逆矩阵 $A^{-1}$ 公式 |
+| :--- | :--- | :--- | :--- |
+| 二阶数字矩阵 | $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ | $\begin{pmatrix} d & -b \\ -c & a \end{pmatrix}$ | $\frac{1}{ad-bc} \begin{pmatrix} d & -b \\ -c & a \end{pmatrix}$ |
+| 对角分块矩阵 | $\begin{pmatrix} A & 0 \\ 0 & B \end{pmatrix}$ | — | $\begin{pmatrix} A^{-1} & 0 \\ 0 & B^{-1} \end{pmatrix}$ |
+| 副对角分块矩阵 | $\begin{pmatrix} 0 & A \\ B & 0 \end{pmatrix}$ | — | $\begin{pmatrix} 0 & B^{-1} \\ A^{-1} & 0 \end{pmatrix}$ |
+
+---
+
+### IMG008
+
+数学一 · 第19题 $\nearrow$ 解答题 $\quad$ 难度 3
+
+设函数 $f(x)$ 在 $[-1, 1]$ 上连续，在点 $x = 0$ 处可导且 $f'(0) \neq 0$.
+(I) 证明对任意 $x \in [0, 1]$, 存在 $\theta \in (0, 1)$, 使得
+$$\int_0^x f(t) \text{d}t + \int_0^{-x} f(t) \text{d}t = x[f(\theta x) - f(-\theta x)];$$
+(II) 求极限 $\lim_{x \to 0^+} \theta$.
+
+---
+
+### IMG009
+
+[彩色批注：左侧和右侧各有红色叉号标记]
+[蓝色文本框]：注 由本题的分析过程也得到一条常用的结论：设 $f(x) = \varphi(x)|x - a|$，其中 $\varphi(x)$ 在 $x = a$ 处连续，则 $f(x)$ 在 $x = a$ 处可导的充要条件是 $\varphi(a) = 0$。
+
+例 2.21 1998 年数一真题，[彩色批注：此题直接利用上一题的结论进行秒杀！]
+
+【例 4】 函数 $f(x) = (x^2 - x - 2)|x^3 - x|$ 不可导的点的个数是
+(A) 3. $\quad$ (B) 2. $\quad$ (C) 1. $\quad$ (D) 0.
+
+【解】（方法一） $\quad f(x) = (x^2 - x - 2)|x^3 - x|$
+$\qquad \qquad \qquad \quad = (x - 2)(x + 1)|x + 1||x - 1||x|.$
+显然 $f(x)$ 不可导的点最多有三个，即 $x = -1, x = 1, x = 0.$
+对于 $x = 1, f(x) = (x - 2)(x + 1)|x + 1||x - 1||x| = |x - 1|\varphi(x),$
+其中 $\varphi(x) = (x - 2)(x + 1)|x + 1||x|.$ [彩色批注：下划线] <u>由于 $\varphi(1) = -4 \neq 0,$ 由上题的注可知，$f(x)$ 在 $x = 1$ 处不可导. 同理可知，$f(x)$ 在 $x = 0$ 处不可导，而在 $x = -1$ 处可导，故应选 (B).</u>
+
+---
+
+### IMG010
+
+[手写文字与公式]：
+$\sqrt{a^2 - x^2} \longleftarrow \underline{\frac{x}{2}}\sqrt{a^2 - x^2} + \underline{\frac{a^2}{2}}\arcsin\frac{x}{a}$
+
+$\sqrt{x^2 \pm a^2} \longleftarrow \underline{\frac{x}{2}}\sqrt{x^2 \pm a^2} \pm \underline{\frac{a^2}{2}}\ln|x + \sqrt{x^2 \pm a^2}|$

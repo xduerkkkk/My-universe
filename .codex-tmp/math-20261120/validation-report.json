@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "cards": 115,
+  "first_round": 36,
+  "training": 115,
+  "source_files_unchanged_or_original_backed_up": 27,
+  "image_occurrences": 214,
+  "source_linked": 110,
+  "reference_only": 51,
+  "out_of_scope": 53,
+  "ocr_missing": [],
+  "errors": [],
+  "warnings": []
+}

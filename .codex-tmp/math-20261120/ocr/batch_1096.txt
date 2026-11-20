@@ -1,0 +1,7 @@
+### IMG096
+
+数学一 · 第21题 $\nearrow$ 解答题 $\bullet$ 自评部分掌握 第 1 次 · 上次今天 难度 3
+
+设 $A$ 为 3 阶矩阵, $\alpha_1, \alpha_2, \alpha_3$ 为线性无关的三维列向量, 且 $A\alpha_1 = 2\alpha_1 + \alpha_2 + \alpha_3, A\alpha_2 = \alpha_1 + 2\alpha_2 - \alpha_3, A\alpha_3 = 3\alpha_3$. (I) 求 $A$ 的特征值及对应的线性无关的特征向量; (II) 求 $(A^2 - 4A + E)^{-1}$.
+
+🔒 考点与招法 (点开看)

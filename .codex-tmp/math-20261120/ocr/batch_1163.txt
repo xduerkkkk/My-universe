@@ -1,0 +1,7 @@
+### IMG163
+
+5 设函数 $f(u, v)$ 满足 $f\left(x+y, \frac{y}{x}\right)=x^{2}-y^{2}$, 则 $\left.\frac{\partial f}{\partial u}\right|_{\substack{u=1 \\ v=1}}, \left.\frac{\partial f}{\partial v}\right|_{\substack{u=1 \\ v=1}}$ 依次是 ( $\color{red}{D}$ )
+
+(A) $\frac{1}{2}, 0$. $\quad$ (B) $0, \frac{1}{2}$. $\quad$ (C) $-\frac{1}{2}, 0$. $\quad$ (D) $0, -\frac{1}{2}$.
+
+[注：题干括号内有红色手写字母“D”；选项(C)分数上方有红色划线；选项(D)上方有红色划线。]

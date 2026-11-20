@@ -1,0 +1,57 @@
+### IMG146
+
+设 $\Sigma$ 为整个椭球面 $\frac{x^2}{4} + \frac{y^2}{9} + z^2 = 1$ 的外侧。
+快速判断下列两个积分是 0 还是 非 0（不用算具体数，只说是不是 0）：
+
+1. $I_1 = \iint_{\Sigma} (x^4 + y^2 \sin z) \mathrm{d}S$
+2. $I_2 = \iint_{\Sigma} (x^4 + y^2 \sin z) \mathrm{d}x\mathrm{d}y$
+
+---
+### IMG147
+
+第 1 小问（第一类）：$I_1 = \iint_{\Sigma} (x^4 + y^2 \sin z) \mathrm{d}S$
+
+【严谨式子证明】：
+拆成上下两块皮：
+$$I_1 = \iint_{\Sigma_{\text{上}}} (x^4 + y^2 \sin z) \mathrm{d}S + \iint_{\Sigma_{\text{下}}} (x^4 + y^2 \sin z) \mathrm{d}S$$
+因为上下两块皮关于 $xOy$ 面完全对称，下半球上的点坐标为 $(x, y, -z)$，且面积 $\mathrm{d}S$ 不变：
+$$I_1 = \iint_{\Sigma_{\text{上}}} (x^4 + y^2 \sin z) \mathrm{d}S + \iint_{\Sigma_{\text{上}}} [x^4 + y^2 \sin(-z)] \mathrm{d}S$$
+合并同类项：
+$$I_1 = \iint_{\Sigma_{\text{上}}} [x^4 + x^4 + y^2 \sin z - y^2 \sin z] \mathrm{d}S = 2 \iint_{\Sigma_{\text{上}}} x^4 \mathrm{d}S + 0$$
+• 结论：$y^2 \sin z$ 正好抵消为 0，但 $x^4$ 变成了 2 倍！总结果是非 0！（你第1题直觉是对的，不要怀疑自己！）
+
+---
+### IMG148
+
+第 2 小问（第二类）：$I_2 = \iint_{\Sigma} (x^4 + y^2 \sin z) \mathrm{d}x\mathrm{d}y$
+
+【严谨式子证明（投影法）】：
+记椭球面在 $xOy$ 面上的投影区域为椭圆平面 $D$。
+
+• 上半球 $\Sigma_{\text{上}}$ 取外侧（即上侧），投影带正号：
+$$\iint_{\Sigma_{\text{上}}} (x^4 + y^2 \sin z) \mathrm{d}x\mathrm{d}y = + \iint_{D} [x^4 + y^2 \sin(z_{\text{上}})] \mathrm{d}x\mathrm{d}y$$
+• 下半球 $\Sigma_{\text{下}}$ 取外侧（即下侧），投影必须带负号：
+$$\iint_{\Sigma_{\text{下}}} (x^4 + y^2 \sin z) \mathrm{d}x\mathrm{d}y = - \iint_{D} [x^4 + y^2 \sin(z_{\text{下}})] \mathrm{d}x\mathrm{d}y$$
+注意！下半球的 $z_{\text{下}} = -z_{\text{上}}$，代进去：
+$$= - \iint_{D} [x^4 + y^2 \sin(-z_{\text{上}})] \mathrm{d}x\mathrm{d}y = - \iint_{D} [x^4 - y^2 \sin(z_{\text{上}})] \mathrm{d}x\mathrm{d}y$$
+现在把上下两半球加起来：
+$$I_2 = \iint_{D} [x^4 + y^2 \sin(z_{\text{上}})] \mathrm{d}x\mathrm{d}y - \iint_{D} [x^4 - y^2 \sin(z_{\text{上}})] \mathrm{d}x\mathrm{d}y$$
+$$I_2 = \iint_{D} [x^4 - x^4] \mathrm{d}x\mathrm{d}y + \iint_{D} [y^2 \sin(z_{\text{上}}) + y^2 \sin(z_{\text{上}})] \mathrm{d}x\mathrm{d}y$$
+$$I_2 = 0 + 2 \iint_{D} y^2 \sin(z_{\text{上}}) \mathrm{d}x\mathrm{d}y$$
+注意！虽然 $x^4$ 抵消了，但剩下的 $2 \iint_{D} y^2 \sin(z_{\text{上}}) \mathrm{d}x\mathrm{d}y$ 里，上半球的 $z_{\text{上}} > 0$，所以 $\sin(z_{\text{上}}) > 0$，被积函数严格大于 0，积出来也是非 0！
+
+---
+### IMG149
+
+又 $F'_y = \varphi'_y(y, z) = 2y$，解得 $\varphi(y, z) = y^2 + \psi(z)$，所以 $F(x, y, z) = x^2 + y^2 + \psi(z)$.
+再 $F'_z = \psi'(z) = 2z$，解得 $\psi(z) = z^2 + C$，所以 $F(x, y, z) = x^2 + y^2 + z^2 + C$. 代入初始条件 $F(0, 0, 0) = -1$，有 $C = -1$
+曲面方程为 $\Sigma : x^2 + y^2 + z^2 - 1 = 0$，即 $x^2 + y^2 + z^2 = 1$。记 $\Sigma_1 : z = \sqrt{1 - x^2 - y^2}, D : x^2 + y^2 \le 1$。
+$$\mathrm{d}S = \sqrt{1 + (z'_x)^2 + (z'_y)^2} \mathrm{d}x\mathrm{d}y = \frac{\mathrm{d}x\mathrm{d}y}{\sqrt{1 - x^2 - y^2}},$$
+$$I = 2 \iint_{\Sigma_1} (x^2 + y^2)^2 \mathrm{d}S = 2 \iint_{D} (x^2 + y^2)^2 \cdot \frac{1}{\sqrt{1 - x^2 - y^2}} \mathrm{d}x\mathrm{d}y$$
+$$= 2 \int_{0}^{2\pi} \mathrm{d}\theta \int_{0}^{1} r^4 \cdot \frac{1}{\sqrt{1 - r^2}} \cdot r \mathrm{d}r (r = \sin t)$$
+$$= 4\pi \int_{0}^{\frac{\pi}{2}} \frac{\sin^5 t}{\cos t} \cdot \cos t \mathrm{d}t = 4\pi \cdot \frac{4}{5} \cdot \frac{2}{3} \cdot 1 = \frac{32}{15}\pi.$$
+
+---
+### IMG150
+
+【7.74】 已知 $\cos 2x - \frac{1}{(1 + x)^2} = \sum_{n=0}^{\infty} a_n x^n (-1 < x < 1)$，求 $a_n$。 (P522)

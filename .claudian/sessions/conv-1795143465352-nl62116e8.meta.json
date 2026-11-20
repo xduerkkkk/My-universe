@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795143465352-nl62116e8",
+  "providerId": "codex",
+  "title": "整理级数解题框架，补充数列卡片与高数概念题笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795143465352,
+  "updatedAt": 1795147144557,
+  "lastResponseAt": 1795147144557,
+  "sessionId": "01a1f6e3-7b4e-70d0-9eac-be8bfd261211",
+  "providerState": {
+    "threadId": "01a1f6e3-7b4e-70d0-9eac-be8bfd261211",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\20\\rollout-2026-11-20T10-57-50-01a1f6e3-7b4e-70d0-9eac-be8bfd261211.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md",
+  "usage": {
+    "inputTokens": 249620,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 249472,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 249620,
+    "percentage": 21,
+    "model": "gpt-6.1-sol"
+  }
+}

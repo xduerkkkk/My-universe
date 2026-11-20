@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795133824700-g9uh047sp",
+  "providerId": "codex",
+  "title": "整理带逻辑串讲的十天史纲分期复习笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795133824700,
+  "updatedAt": 1795135050711,
+  "lastResponseAt": 1795135050711,
+  "sessionId": "01a1f650-6049-7201-b26c-0ce4fe1e946b",
+  "providerState": {
+    "threadId": "01a1f650-6049-7201-b26c-0ce4fe1e946b",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\20\\rollout-2026-11-20T08-17-10-01a1f650-6049-7201-b26c-0ce4fe1e946b.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 120133,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 119936,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 120133,
+    "percentage": 46,
+    "model": "gpt-6.1-sol"
+  }
+}

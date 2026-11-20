@@ -1,0 +1,61 @@
+### IMG171
+
+【2.31】 设函数 $f(x)$ 有二阶导数，且 $\lim_{x \to 0} \frac{f(x) - a}{\ln(1 + x)} = 0, \lim_{x \to 0} \frac{f''(x) - 1}{e^{x^2} - 1} = 2021$，则 ( ) (P141)
+
+A. $f(0)$ 是 $f(x)$ 的极大值.
+
+B. $f(0)$ 是 $f(x)$ 的极小值.
+
+C. $(0, f(0))$ 是曲线 $y = f(x)$ 的拐点.
+
+D. $f(0)$ 不是 $f(x)$ 的极值，$(0, f(0))$ 也不是曲线 $y = f(x)$ 的拐点.
+
+---
+### IMG172
+
+【2.32】 设函数 $f(x)$ 具有四阶连续的导数，且 $\lim_{x \to 0} \frac{f(x)}{x^4} = 1$，则 ( ) (P141)
+
+A. 点 $(0,0)$ 为曲线 $y = f'(x)$ 的拐点，点 $x=0$ 为 $f''(x)$ 的极小值点
+
+B. 点 $(0,0)$ 为曲线 $y = f'(x)$ 的拐点，点 $x=0$ 为 $f''(x)$ 的极大值点
+
+C. 点 $(0,0)$ 为曲线 $y = f''(x)$ 的拐点，点 $x=0$ 为 $f'(x)$ 的极小值点
+
+D. 点 $(0,0)$ 为曲线 $y = f''(x)$ 的拐点，点 $x=0$ 为 $f'(x)$ 的极大值点
+
+---
+### IMG173
+
+蓝圈批注：○
+
+【2.6】 下列命题中正确的个数为 ( ) . (P111)
+
+(1) 设 $\lim_{x \to x_0^-} f'(x)$ 与 $\lim_{x \to x_0^+} f'(x)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；
+
+(2) 设 $f'_-(x_0)$ 与 $f'_+(x_0)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；
+
+(3) 设 $f(x_0^-)$ 与 $f(x_0^+)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；
+
+(4) 设 $\lim_{x \to x_0^-} f'(x)$ 与 $\lim_{x \to x_0^+} f'(x)$ 中至少有一个不存在，则 $f(x)$ 在 $x = x_0$ 处必不可导。
+
+A. 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; C. 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. 4
+
+---
+### IMG174
+
+【7.37】 设级数 (1) $\sum_{n=1}^{\infty} \frac{1}{n^{1+\frac{1}{n}}}$, (2) $\sum_{n=2}^{\infty} \frac{1}{n^{1+\frac{1}{\sqrt{\ln n}}}}$, 则 ( ) (P488)
+
+A. (1) 收敛, (2) 发散. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. (1) 发散, (2) 收敛.
+
+C. (1)(2) 均收敛. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. (1)(2) 均发散.
+
+---
+### IMG175
+
+蓝圈批注：○
+
+【7.33】 下列级数中发散的是 ( ) . (P486)
+
+A. $\sum_{n=2}^{\infty} \frac{\sqrt{\ln n}}{n^3}$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. $\sum_{n=2}^{\infty} \frac{\ln n}{n^2}$
+
+C. $\sum_{n=2}^{\infty} \frac{(-1)^n}{n - \ln n}$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. $\sum_{n=3}^{\infty} \frac{1}{n \ln n \ln(\ln n)}$

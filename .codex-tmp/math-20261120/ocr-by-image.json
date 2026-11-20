@@ -1,0 +1,858 @@
+{
+  "IMG001": {
+    "text": "※ **要先看 $D_k$ 和前一项有关还是和前两项有关**\n\n$f_n$ 只与 $f_{n-1}$ 有关时，用第一数学归纳法\n\n(1) ① 验证 $n=1$ 时，命题 $f_n$ 正确，\n② 假设 $n=k$ 时，命题 $f_n$ 正确，\n③ 证明 $n=k+1$ 时，命题 $f_n$ 正确。\n\n$f_n$ 与 $f_{n-1}$ 和 $f_{n-2}$ 都有关时，用第二数学归纳法\n\n(2) ① 验证 $n=1$ 和 $n=2$ 时命题 $f_n$ 都正确，\n② 假设 $n < k$ 时，命题 $f_n$ 正确，\n③ 证明 $n=k$ 时，命题 $f_n$ 正确。\n\n[左侧边缘有部分文字：确。]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_000.txt"
+  },
+  "IMG002": {
+    "text": "6. 设 $\\alpha_1, \\alpha_2, \\alpha_3$ 与 $\\beta_1, \\beta_2, \\beta_3$ 是 $\\mathbb{R}^3$ 的两个基，$(\\beta_1, \\beta_2, \\beta_3) = (\\alpha_1, \\alpha_2, \\alpha_3)P$. 若存在非零向量在这两个基下的坐标相同，则必有\n(A) $|P| = 1$\n(B) $\\text{tr } P = 3$\n(C) $P$ 为正交矩阵\n(D) $|P - E| = 0$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_000.txt"
+  },
+  "IMG003": {
+    "text": "[顶部边缘红色文字：...在第二步结论公式 $(A+aE)(A+bE)=O$ ... [不确定] 结论]\n\n$n$ 阶矩阵 $A$ 满足 $(A+aE)(A+bE)=O (a \\neq b)$，证明 $r(A+aE) + r(A+bE) = n$\n\n【注】(1) 证 [此处有一段被划掉的手写文字]，得 $(A-k_1E)(A-k_2E)=O$，于是\n$r(A-k_1E) + r(A-k_2E) \\le n$.\n又 $r(A-k_1E) + r(A-k_2E) = r(k_1E-A) + r(A-k_2E) \\ge r(k_1E-A+A-k_2E)$\n$= r[(k_1-k_2)E]$\n$= r(E) = n$.\n综上，$r(A-k_1E) + r(A-k_2E) = n$.\n\n(2) 设 $A$ 为 $n$ 阶方阵，则由上述结论可知\n① 若 $A^2=A$，则 $r(A) + r(A-E) = n$;\n② 若 $A^2=E$，则 $r(A+E) + r(A-E) = n$.\n\n[彩色批注：]\n- 红色下划线：$(A-k_1E)(A-k_2E)=O$\n- 红色下划线：$r(A-k_1E)$ 和 $r(k_1E-A)$\n- 红色手写公式：$r(A)+r(B) \\ge r(A+B)$\n- 蓝色手写批注：$k_1 \\neq k_2$，故 $k_1-k_2 \\neq 0$\n- 蓝色手写公式：$A^2=A \\Rightarrow A(A-E)=O$\n- 蓝色手写公式：$A^2=E \\Rightarrow (A+E)(A-E)=O$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_000.txt"
+  },
+  "IMG004": {
+    "text": "设 $A, B$ 均为 $n$ 阶方阵，$AB=BA$ 的充分条件如下：\n① $A$ 和 $B$ 至少有一个是零矩阵\n② $A$ 和 $B$ 至少有一个是 $k$ 倍的单位矩阵\n③ $A$ 和 $B$ 均为对角矩阵\n④ $B=f(A)$，其中 $f(A)$ 表示 $A^k, A^{-1}, A^*$ 的线性组合的形式，如 $B=4A^3+2A^{-1}+3A^*$\n⑤ $AB=kE (k \\neq 0)$\n⑥ $AB=aA+bB (ab \\neq 0)$\n⑦ $A^2+aAB=bE (a \\neq 0 \\text{ 且 } b \\neq 0)$\n\n[蓝色及红色手写推导：]\n④ $A \\cdot A^k = A^{k+1} = A^k \\cdot A$\n$AA^{-1} = A^{-1}A = E$\n$AA^* = A^*A = |A|E$\n$\\therefore A \\cdot f(A) = f(A) \\cdot A$\n\n⑤ $AB=kE$\n$A \\cdot (\\frac{1}{k}B) = E \\Rightarrow A^{-1} = \\frac{1}{k}B$\n$\\therefore A^{-1}A = \\frac{1}{k}BA = E \\Rightarrow BA = kE$\n红色框内：$\\therefore AB=kE \\Rightarrow BA=AB=kE$\n同理 $(\\frac{1}{k}A) \\cdot B = E \\Rightarrow B^{-1} = \\frac{1}{k}A$\n\n⑥ $AB=aA+bB \\Rightarrow AB-aA-bB=0$\n$\\Rightarrow (A-bE)(B-aE) = abE$\n$\\Rightarrow (B-aE)(A-bE) = abE$\n$\\therefore (A-bE)(B-aE) = (B-aE)(A-bE)$\n$\\therefore AB-aA-bB+abE = BA-bB-aA+abE$\n$\\therefore AB=BA$\n\n⑦ $A^2+aAB=bE$\n$\\Rightarrow A(A+aB)=bE$\n$\\Rightarrow (A+aB)A=bE$\n$\\therefore A(A+aB) = (A+aB)A$\n$A^2+aAB = A^2+aBA$\n$\\therefore AB=BA$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_000.txt"
+  },
+  "IMG005": {
+    "text": "(2) 若 $\\lambda_1, \\lambda_2, \\cdots, \\lambda_n$ 是 $A$ 的 $n$ 个特征值，则\n$\\begin{cases} |A| = \\lambda_1 \\lambda_2 \\cdots \\lambda_n, \\\\ \\text{tr}(A) = \\lambda_1 + \\lambda_2 + \\cdots + \\lambda_n. \\end{cases}$\n\n(3) 重要结论.\n① 记住下表.\n\n| 矩阵 | $A$ | $kA$ | $A^k$ | $f(A)$ | $A^{-1}$ | $A^*$ | $P^{-1}AP \\xlongequal{\\text{记}} B$ | $P^{-1}f(A)P \\xlongequal{\\text{记}} f(B)$ |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| 特征值 | $\\lambda$ | $k\\lambda$ | $\\lambda^k$ | $f(\\lambda)$ | $\\frac{1}{\\lambda}$ | $\\frac{|A|}{\\lambda}$ | $\\lambda$ | $f(\\lambda)$ |\n| 对应的特征向量 | $\\xi$ | $\\xi$ | $\\xi$ | $\\xi$ | $\\xi$ | $\\xi$ | $P^{-1}\\xi$ | $P^{-1}\\xi$ |\n\n[蓝色手写批注：]\n- 右上角：$D_{23}$ (化归经典形式)\n- $|bE - (-aA)| = (-a)^n |\\frac{b}{-a}E - A| = 0$. 则 $\\lambda_0 = -\\frac{b}{a}$\n- 表格中 $f(A)$ 处有虚线圈并引出箭头：如 $f(A) = A^3 + 2A^2 - A + 5E$，则 $f(\\lambda) = \\lambda^3 + 2\\lambda^2 - \\lambda + 5$.\n- 多项式形式是重点，见到它们要立即想到 $f(A) \\leftrightarrow f(\\lambda)$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_000.txt"
+  },
+  "IMG006": {
+    "text": "为了直观理解，我们构造一个简单的三阶上三角矩阵 $A$（上三角矩阵的特征值就是其主对角线上的元素）：\n\n$$A = \\begin{pmatrix} 1 & 4 & 5 \\\\ 0 & 2 & 6 \\\\ 0 & 0 & 3 \\end{pmatrix}$$\n\n**1. 确定特征值与两两乘积之和**\n\n*   特征值为：$\\lambda_1 = 1, \\lambda_2 = 2, \\lambda_3 = 3$\n*   特征值两两乘积之和：\n    $$\\lambda_1\\lambda_2 + \\lambda_2\\lambda_3 + \\lambda_3\\lambda_1 = (1 \\times 2) + (2 \\times 3) + (3 \\times 1) = 2 + 6 + 3 = 11$$\n\n**2. 计算所有二阶主子式**\n\n三阶矩阵共有 3 个 二阶主子式（即删去某一行和对应某一列后，由剩余交叉元素组成的行列式）：\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_001.txt"
+  },
+  "IMG007": {
+    "text": "| 矩阵类型 | 原矩阵 $A$ | 伴随矩阵形式（分块则加负号/求逆） | 逆矩阵 $A^{-1}$ 公式 |\n| :--- | :--- | :--- | :--- |\n| 二阶数字矩阵 | $\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$ | $\\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix}$ | $\\frac{1}{ad-bc} \\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix}$ |\n| 对角分块矩阵 | $\\begin{pmatrix} A & 0 \\\\ 0 & B \\end{pmatrix}$ | — | $\\begin{pmatrix} A^{-1} & 0 \\\\ 0 & B^{-1} \\end{pmatrix}$ |\n| 副对角分块矩阵 | $\\begin{pmatrix} 0 & A \\\\ B & 0 \\end{pmatrix}$ | — | $\\begin{pmatrix} 0 & B^{-1} \\\\ A^{-1} & 0 \\end{pmatrix}$ |\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_001.txt"
+  },
+  "IMG008": {
+    "text": "数学一 · 第19题 $\\nearrow$ 解答题 $\\quad$ 难度 3\n\n设函数 $f(x)$ 在 $[-1, 1]$ 上连续，在点 $x = 0$ 处可导且 $f'(0) \\neq 0$.\n(I) 证明对任意 $x \\in [0, 1]$, 存在 $\\theta \\in (0, 1)$, 使得\n$$\\int_0^x f(t) \\text{d}t + \\int_0^{-x} f(t) \\text{d}t = x[f(\\theta x) - f(-\\theta x)];$$\n(II) 求极限 $\\lim_{x \\to 0^+} \\theta$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_001.txt"
+  },
+  "IMG009": {
+    "text": "[彩色批注：左侧和右侧各有红色叉号标记]\n[蓝色文本框]：注 由本题的分析过程也得到一条常用的结论：设 $f(x) = \\varphi(x)|x - a|$，其中 $\\varphi(x)$ 在 $x = a$ 处连续，则 $f(x)$ 在 $x = a$ 处可导的充要条件是 $\\varphi(a) = 0$。\n\n例 2.21 1998 年数一真题，[彩色批注：此题直接利用上一题的结论进行秒杀！]\n\n【例 4】 函数 $f(x) = (x^2 - x - 2)|x^3 - x|$ 不可导的点的个数是\n(A) 3. $\\quad$ (B) 2. $\\quad$ (C) 1. $\\quad$ (D) 0.\n\n【解】（方法一） $\\quad f(x) = (x^2 - x - 2)|x^3 - x|$\n$\\qquad \\qquad \\qquad \\quad = (x - 2)(x + 1)|x + 1||x - 1||x|.$\n显然 $f(x)$ 不可导的点最多有三个，即 $x = -1, x = 1, x = 0.$\n对于 $x = 1, f(x) = (x - 2)(x + 1)|x + 1||x - 1||x| = |x - 1|\\varphi(x),$\n其中 $\\varphi(x) = (x - 2)(x + 1)|x + 1||x|.$ [彩色批注：下划线] <u>由于 $\\varphi(1) = -4 \\neq 0,$ 由上题的注可知，$f(x)$ 在 $x = 1$ 处不可导. 同理可知，$f(x)$ 在 $x = 0$ 处不可导，而在 $x = -1$ 处可导，故应选 (B).</u>\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_001.txt"
+  },
+  "IMG010": {
+    "text": "[手写文字与公式]：\n$\\sqrt{a^2 - x^2} \\longleftarrow \\underline{\\frac{x}{2}}\\sqrt{a^2 - x^2} + \\underline{\\frac{a^2}{2}}\\arcsin\\frac{x}{a}$\n\n$\\sqrt{x^2 \\pm a^2} \\longleftarrow \\underline{\\frac{x}{2}}\\sqrt{x^2 \\pm a^2} \\pm \\underline{\\frac{a^2}{2}}\\ln|x + \\sqrt{x^2 \\pm a^2}|$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_001.txt"
+  },
+  "IMG011": {
+    "text": "| 维度 | 当 $x \\to 0$ 时 | 当 $x \\to \\infty$ 时 |\n| :--- | :--- | :--- |\n| $x$ 与 $x^2$ 的身份 | 都是**无穷小**（趋于 0） | 都是**无穷大**（趋于 $\\infty$） |\n| 指数谁大谁更高阶？ | 指数大的是**高阶无穷小**<br> ($x^2$ 衰减更快) | 指数大的是**高阶无穷大**<br> ($x^2$ 膨胀更快) |\n| $o$ 记号怎么写？ | $x^2 = o(x)$<br> (二次是高阶无穷小) | $x = o(x^2)$<br> (一次项被二次项压制) |\n| 求极限抓什么？ | **抓最低次（主部）**<br> $x + x^2 = x + o(x) \\sim x$ | **抓最高次（大头）**<br> $x^2 + x = x^2 + o(x^2) \\sim x^2$ |\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_002.txt"
+  },
+  "IMG012": {
+    "text": "$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} \\le 1$\n椭球体体积公式：$\\frac{4}{3} \\pi abc$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_002.txt"
+  },
+  "IMG013": {
+    "text": "和“成功率、胜率、及格率”等词语一样，所谓曲（qu 一声）率，指的是曲线的弯曲程度。曲率越大，弯曲程度就越大。\n\n1. 曲率的定义\n$$K = \\lim_{\\Delta s \\to 0} \\left| \\frac{\\Delta \\alpha}{\\Delta s} \\right|$$\n\n2. 曲率的计算\n(1) 若曲线由直角坐标方程 $y = y(x)$ 给出，则\n$$K = \\frac{|y''|}{(1 + y'^2)^{\\frac{3}{2}}}$$ [蓝色批注：背!!]\n\n(2) 若曲线由参数方程 $\\begin{cases} x = x(t) \\\\ y = y(t) \\end{cases}$ 给出，则\n$$K = \\frac{|y''x' - y'x''|}{(x'^2 + y'^2)^{\\frac{3}{2}}}$$\n\n3. 曲率圆与曲率半径\n曲率半径 $R = \\frac{1}{K}$\n\n[红色批注：不用背，手推即可]\n[红色批注：\n$\\frac{dy}{dx} = \\frac{y'(t)}{x'(t)}$\n$\\frac{d^2y}{dx^2} = \\frac{d(\\frac{dy}{dx})}{dx} = \\frac{\\frac{d(\\frac{dy}{dx})}{dt}}{\\frac{dx}{dt}}$\n$= \\frac{d(\\frac{y'(t)}{x'(t)})/dt}{dx/dt}$\n$= \\frac{\\frac{y''(t)x'(t) - y'(t)x''(t)}{x'^2(t)}}{x'(t)}$\n$= \\frac{y''(t)x'(t) - y'(t)x''(t)}{x'^3(t)}$\n]\n\n例 2.93\n曲线 $y = \\ln x$ 在点 $P$ 处的曲率半径最小，则该最小半径是 [不确定]。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_002.txt"
+  },
+  "IMG014": {
+    "text": "看到问 $E(Y)$\n$\\llcorner$ —— 绝不求 $Y$ 的任何分布，直接用 $X$ 积分：$\\int g(x) f_X(x) dx$\n\n看到问 $P(Y \\in \\text{某个范围})$\n$\\llcorner$ —— 翻译法：把不等式解开，化成 $X$ 的范围，去积 $f_X(x)$\n\n看到问 $F_Y(y)$\n$\\llcorner$ —— 定义法：从 $P\\{g(X) \\le y\\}$ 出发，根据 $y$ 的大小分段讨论解不等式\n\n看到问单点概率 $P\\{Y = c\\}$\n$\\llcorner$ —— 左极限法：$P\\{Y = c\\} = F_Y(c) - F_Y(c^-)$\n\n看到问 $f_Y(y)$\n$\\llcorner$ —— 先看 $F_Y(y)$ 是否处处连续：\n$\\vdash$ —— 若处处连续：直接分段求导\n$\\llcorner$ —— 若有跳跃点：直接回答“非连续型变量，概率密度不存在”\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_002.txt"
+  },
+  "IMG015": {
+    "text": "我们要将以下结论记住，小题直接用，可以大大简化计算：\n\n若 $Z \\sim N(0, 1)$，则 $E|Z| = \\sqrt{\\frac{2}{\\pi}}$，$D|Z| = 1 - \\frac{2}{\\pi}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_002.txt"
+  },
+  "IMG016": {
+    "text": "一个正态总体均值的检验法（显著性水平为 $\\alpha$）\n\n| | 原假设 $H_0$ | 备择假设 $H_1$ | 检验统计量 | 拒绝域 |\n| :--- | :--- | :--- | :--- | :--- |\n| $\\sigma$ 已知 | $\\mu \\le \\mu_0$ <br> $\\mu \\ge \\mu_0$ <br> $\\mu = \\mu_0$ | $\\mu > \\mu_0$ [橙色圈出] <br> $\\mu < \\mu_0$ <br> $\\mu \\neq \\mu_0$ | $Z = \\frac{\\bar{X} - \\mu_0}{\\sigma / \\sqrt{n}}$ [$\\mu_0$ 橙色圈出] | ※ $z > z_\\alpha$ [红色下划线，手写批注：记住！] <br> ※ $z < -z_\\alpha$ [红色下划线，手写批注：记住！] <br> $|z| > z_{\\alpha/2}$ |\n| $\\sigma$ 未知 | $\\mu \\le \\mu_0$ <br> $\\mu \\ge \\mu_0$ <br> $\\mu = \\mu_0$ | $\\mu > \\mu_0$ <br> $\\mu < \\mu_0$ <br> $\\mu \\neq \\mu_0$ | $t = \\frac{\\bar{X} - \\mu_0}{S / \\sqrt{n}}$ | $t > t_\\alpha(n-1)$ <br> $t < -t_\\alpha(n-1)$ <br> $|t| > t_{\\alpha/2}(n-1)$ |",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_003.txt"
+  },
+  "IMG017": {
+    "text": "6. [红色框选] 拒绝域，指的是拒绝 $H_0$。[黄色高亮] 此题若改为 $H_0: \\mu \\le 0$，在计算的时候，代入的仍然是 $\\mu = 0$！\n\n[黄色高亮] $H_0: \\mu \\le 0$ 和 $H_0: \\mu = 0$ 这两种形式是等价的，记住即可，计算的时候若需要代入 $\\mu$ 的值，则取 $\\mu = 0$。\n\n[例题1] 设 $X_1, X_2, \\cdots, X_{100}$ 是来自正态总体 $X \\sim N(\\mu, 2^2)$ 的样本，假设检验 $H_0: \\mu = 0, H_1: \\mu > 0$，若取拒绝域为 $W = \\{ \\bar{X} > 0.4 \\}$ [红色波浪线]，则犯第一类错误的概率为 [红色波浪线] ( B )。\n(A) $\\Phi(2)$ \\quad (B) $\\Phi(-2)$ \\quad (C) $\\Phi(\\frac{1}{2})$ \\quad (D) $\\Phi(-\\frac{1}{2})$\n\n[手写批注]：\n$P \\{ \\text{拒绝 } H_0 | H_0 \\text{ 为真} \\} = P \\{ \\bar{X} > 0.4 | \\mu = 0 \\}$ [$\\mu=0$ 处有蓝色下划线，并标注：当作已知条件]\n$\\frac{\\bar{X} - \\mu}{\\sigma / \\sqrt{n}} \\sim N(0, 1)$\n$= P \\{ 5\\bar{X} > 5 \\times 0.4 \\}$\n$= 1 - P \\{ 5\\bar{X} \\le 2 \\}$\n$\\therefore \\frac{\\bar{X} - 0}{2 / \\sqrt{100}} = 5\\bar{X} \\sim N(0, 1)$ [此行有蓝色箭头指向上一行]\n\n※ [紫色框选]：\n$X \\sim N(\\mu, \\sigma^2)$\n$\\bar{X} \\sim N(\\mu, \\frac{\\sigma^2}{n})$\n$\\therefore \\frac{\\bar{X} - \\mu}{\\sigma / \\sqrt{n}} \\sim N(0, 1)$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_003.txt"
+  },
+  "IMG018": {
+    "text": "[解题思路归纳]\n$\\chi^2, t, F$ 三大分布规律如下表：\n\n| 分布 | 形式 | 自由度 | 性质 | 注意事项 |\n| :--- | :--- | :--- | :--- | :--- |\n| $\\chi^2(n)$ | $X_1^2 + \\cdots + X_n^2$ | $n = \\text{求和中平方个数}$ | $E[\\chi^2(n)] = n$ <br> $D[\\chi^2(n)] = 2n$ | $X_i \\sim N(0, 1)$ <br> $X_1, \\cdots, X_n$ 相互独立 |\n| $t(n)$ | $\\frac{X}{\\sqrt{(Y_1^2 + \\cdots + Y_n^2)/n}}$ | $n = \\text{根号内平方个数}$ | 概率密度为偶函数，$t_\\alpha(n) = -t_{1-\\alpha}(n)$ | $X, Y_1, Y_2, \\cdots, Y_n$ 均服从 $N(0, 1)$ 且相互独立 |\n| $F(m, n)$ | $\\frac{(X_1^2 + \\cdots + X_m^2)/m}{(Y_1^2 + \\cdots + Y_n^2)/n}$ | $m = \\text{分子中平方个数}$ <br> $n = \\text{分母中平方个数}$ | 若 $F \\sim F(m, n)$，则 $\\frac{1}{F} \\sim F(n, m)$ | $X_1, \\cdots, X_m, Y_1, \\cdots, Y_n$ 均服从 $N(0, 1)$ 且相互独立 |",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_003.txt"
+  },
+  "IMG019": {
+    "text": "以后做题，把所有等价无穷小公式里的 $x$ 都看成一个“框” $\\square$：\n$$\\sin \\square \\sim \\square$$\n$$1 - \\cos \\square \\sim \\frac{1}{2} \\square^2$$\n$$e^\\square - 1 \\sim \\square$$\n\n代换的充要条件只有两个字：$\\square \\to 0$ (且 $\\square \\neq 0$)。\n管这个框里装的是 $x, x^2, \\sqrt{|x|}$ 还是 $\\tan(\\sqrt[3]{x})$，只要它趋于 0，直接套公式代换，绝不可能出错！",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_003.txt"
+  },
+  "IMG020": {
+    "text": "对任一函数 $f(x)$，令 $u(x) = \\frac{1}{2}[f(x) + f(-x)]$，$v(x) = \\frac{1}{2}[f(x) - f(-x)]$，则 $u(x)$ 是偶函数，$v(x)$ 是奇函数。由\n$$f(x) = \\frac{1}{2}[f(x) + f(-x)] + \\frac{1}{2}[f(x) - f(-x)] = u(x) + v(x),$$\n可知任何一个函数都可以写成一个奇函数与一个偶函数之和的形式。（重要结论）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_003.txt"
+  },
+  "IMG021": {
+    "text": "**[例 1.12]** 设 $y = \\sin x, 0 \\le x \\le 2\\pi$, 求其所有单调区间上的反函数.\n\n**[分析]** 分单调区间, 分别讨论反函数 (用诱导公式).\n\n**[解]** 当 $0 \\le x \\le \\frac{\\pi}{2}$ 时, 对于 $y = \\sin x$, 有 $x = \\arcsin y, y \\in [0, 1]$;\n[蓝色手写批注]：只有当 $x$ 落在 $[-\\frac{\\pi}{2}, \\frac{\\pi}{2}]$ 上时, 才有反函数 $x = \\arcsin y, y \\in [-1, 1]$. (箭头指向下一行)\n\n当 $\\frac{\\pi}{2} < x \\le \\frac{3\\pi}{2}$ 时 (见图 1-14), 有 $-\\frac{\\pi}{2} < x - \\pi \\le \\frac{\\pi}{2}$, 此时 $\\sin(x - \\pi) = -\\sin(\\pi - x) = -\\sin x = -y$, 于是有 $x - \\pi = -\\arcsin y$, 故 $x = \\pi - \\arcsin y, y \\in [-1, 1)$;\n[蓝色手写批注]：(箭头指向 $x-\\pi$) 放到主值区间中\n\n当 $\\frac{3\\pi}{2} < x \\le 2\\pi$ 时 (见图 1-14), 有 $-\\frac{\\pi}{2} < x - 2\\pi \\le 0$, 此时 $\\sin(x - 2\\pi) = \\sin x = y$, 于是有 $x - 2\\pi = \\arcsin y$, 故\n$$x = 2\\pi + \\arcsin y, y \\in (-1, 0].$$\n\n[图示文字与坐标]：\n图 1-14\n$y$ 轴, $x$ 轴, 原点 $O$\n曲线标注：$y = \\sin x$\n$x$ 轴坐标点：$\\frac{\\pi}{2}, \\pi, \\frac{3\\pi}{2}, 2\\pi$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_004.txt"
+  },
+  "IMG022": {
+    "text": "例 1.74 严选题, D 选项可以巧用逆否命题 (反证法的本质也是逆否命题)\n\n设有数列 $\\{x_n\\}$ 与 $\\{y_n\\}$, 以下结论正确的是 (D)\n(A) 若 $\\lim_{n \\to \\infty} x_n y_n = 0$, 则必有 $\\lim_{n \\to \\infty} x_n = 0$ 或 $\\lim_{n \\to \\infty} y_n = 0$.\n(B) 若 $\\lim_{n \\to \\infty} x_n y_n = \\infty$, 则必有 $\\lim_{n \\to \\infty} x_n = \\infty$ 或 $\\lim_{n \\to \\infty} y_n = \\infty$.\n(C) 若 $x_n y_n$ 有界, 则必有 $x_n$ 与 $y_n$ 都有界.\n(D) 若 $x_n y_n$ 无界, 则必有 $x_n$ 无界或 $y_n$ 无界.\n\n[红色手写批注]：\n排除 ABC\n$x_n = \\begin{cases} n & n \\text{为偶数} \\\\ 0 & n \\text{为奇数} \\end{cases} \\quad y_n = \\begin{cases} 0 & n \\text{为偶数} \\\\ n & n \\text{为奇数} \\end{cases}$\n$x_n = \\begin{cases} n & n \\text{为偶数} \\\\ 1 & n \\text{为奇数} \\end{cases} \\quad y_n = \\begin{cases} 1 & n \\text{为偶数} \\\\ n & n \\text{为奇数} \\end{cases}$\n$C: x_n = n, y_n = 0$\n\n[蓝色手写批注]：\n※ D: 逆否命题: ※ ※\n若 $x_n$ 有界且 $y_n$ 有界, 则 $x_n y_n$ 有界\n显然成立. 有界 $\\times$ 有界 = 有界\n\n[紫色框内手写批注]：\n※ 一个命题一定等价于其逆否命题.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_004.txt"
+  },
+  "IMG023": {
+    "text": "定有上界, 所以 $S_n = \\sum a_n$ 一定收敛, 所以 $a_n$ 一定趋于 0\n[红色手写批注]：※ 数列收敛 $\\iff$ 数列极限存在\n\n设 $a_n > 0 (n = 1, 2, \\dots), S_n = a_1 + a_2 + \\dots + a_n$, 则数列 $\\{S_n\\}$ 有界是数列 $\\{a_n\\}$ 收敛的 (B)\n(A) 充分必要条件. (B) 充分非必要条件. (C) 必要非必要条件. (D) 既非充分也非必要条件.\n\n[红色手写批注]：\n$A \\implies B$, 则 $B$ 是 $A$ 的必要条件.\n[蓝色手写批注]：\n$b\\grave{e}i$ 被箭头指着的是必要条件\n把拼音的拼写读出来!!\n\"bèi 波误被\"\n\"bì 波意必\"\n我到现在都记得高中生物 \"钠离子内流\". 因为 nà 钠. nèi 内\n思维课第二章还会讲 \"浮屠\" 谐音 \"负凸\"\n$\\therefore$ 二阶导为负, 则函数为凸函数\n\n[红色手写批注]：\n框选：※ 数列收敛 $\\iff$ 数列极限存在\n① 若 $\\{a_n\\}$ 收敛, 则推不出 $\\{S_n\\}$ 有界. 例: $a_n = 1$\n② 若 $\\{S_n\\}$ 有界, 条件反射 $\\implies$ 单调有界准则 $\\implies$ 判断是否 $\\{S_n\\}$ 单调\n死皮赖脸把 $a_n$ 往 $S_n$ 上凑!!! $S_n - S_{n-1} = a_n > 0 \\therefore \\{S_n\\} \\uparrow$ 单调增加\n由单调有界准则可知, $\\{S_n\\}$ 收敛. 令 $\\lim_{n \\to \\infty} S_n = k$, 则 $\\lim_{n \\to \\infty} a_n = \\lim_{n \\to \\infty} (S_n - S_{n-1}) = \\lim_{n \\to \\infty} S_n - \\lim_{n \\to \\infty} S_{n-1} = k - k = 0$\n$\\therefore \\{S_n\\}$ 有界 $\\implies \\{a_n\\}$ 收敛 $\\therefore$ 选择 B\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_004.txt"
+  },
+  "IMG024": {
+    "text": "(1) 证明: 方程 $x^n + x^{n-1} + \\dots + x = 1 (n > 1 \\text{为整数})$ 在区间 $(\\frac{1}{2}, 1)$ 内有且仅有一个实根;\n\n(2) 记 (1) 中的实根为 $x_n$, 证明 $\\lim_{n \\to \\infty} x_n$ 存在, 并求此极限\n\n[底部标签]：\n单调有界准则 (含递推数列 $x_{n+1} = f(x_n)$)\n夹逼准则与放缩\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_004.txt"
+  },
+  "IMG025": {
+    "text": "题型 3 考察极限的定义及性质 (难点, 易错点)\n\n【例 7】(2022 数三) 已知 $a_n = \\sqrt[n]{n} - \\frac{(-1)^n}{n} (n = 1, 2, \\dots)$, 则 $\\{a_n\\}$ ( )\n(A) 有最大值, 有最小值. (B) 有最大值, 没有最小值.\n(C) 没有最大值, 有最小值. (D) 没有最大值, 没有最小值.\n\n[红色手写批注]：\n$\\begin{cases} a_1 = 1 + 1 = 2 \\\\ a_2 = \\sqrt{2} - \\frac{1}{2} \\\\ a_3 = \\sqrt[3]{3} + \\frac{1}{3} \\\\ a_n \\to 1 \\end{cases}$\n\n[图示文字与坐标]：\n左图：纵轴 $a_n$, 横轴 $n=1 \\to \\dots \\to n \\to +\\infty$. 水平红线标为 1. 点 $a_1$ 在上方, 之后点在 1 上下波动趋向 1.\n右图：手绘曲线, 带有蓝色批注点.\n[手写文字]：咋了, 没了, 没了, $a_n \\to 1$, $[1, +\\infty)$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_004.txt"
+  },
+  "IMG026": {
+    "text": "对于此题而言，关于数列最大值的处理是比较简单的，和我们之前讲的方法一样，我们无需判断具体在哪个点取得最大值，直接按照之前的办法处理就行了。数列的极限是 1，而 $a_2 = \\sqrt{2}$，比极限值大。前有限项当中有比极限值大的，所以数列一定能取得最大值。这个方法比答案的方法要简单很多，因为我们无需判断最值所取得的位置。\n<u>此题最特殊的一点在于，我们前有限项当中没有比 1 小的，此时一定就意味着没有最小值吗？答案是否定的。数列的极限值是 1，而前有限项当中，$a_1$ 恰好等于 1，和极限值相等。</u>\n此时应该怎么处理这个 $a_1$ 呢？这个时候，我个人觉得最好的办法就是像答案那样，把这个数列转化为函数，之后分析函数图像。此题的函数图像比较好画，画完之后我们可以判断出来 $a_1$ 为最小值。\n若把此题的 $a_n$ 表达式加上一个负号，函数图像会颠倒过来，此时 $a_1$ 就是最大值了。\n此题可以说是“补齐了数列最值问题的最后一块拼图”。当数列当中存在前有限项的值和数列极限相等时，该点仍然可能为最值点，至于最大值还是最小值，这个时候把数列表达式转化为函数，需要画个大致图像进行判断即可。\n\n3 设数列 $\\{a_n\\}$ 满足 $a_n = \\sqrt[n]{n}, n = 1, 2, \\cdots$, 则下列命题中, 正确的是( )\n(A) 数列 $\\{a_n\\}$ 能取到最小值, 但取不到最大值.\n(B) 数列 $\\{a_n\\}$ 能取到最大值, 但取不到最小值.\n(C) 数列 $\\{a_n\\}$ 既能取到最大值, 又能取到最小值.\n(D) 数列 $\\{a_n\\}$ 既不能取到最大值, 又不能取到最小值.\n答案 C.\n解 将数列问题转化为函数问题.\n令 $f(x) = x^{\\frac{1}{x}} (x > 0)$, 则 $f(x) = e^{\\frac{1}{x} \\ln x}$. 记 $g(x) = \\frac{\\ln x}{x}$. 由于 $e^u$ 关于 $u$ 单调增加, 故 $g(x)$ 的最...\n\n[手写批注]\n$\\lim_{n \\to \\infty} a_n = 1$\n$a_1 = 1 ??$\n$a_2 = \\sqrt{2} > 1$\n$a_{3,4,5,6 \\cdots} > 1$\n$\\therefore$ 有最大值\n\n[图示文字]\n坐标轴 $x, y$\n曲线起始点 $(1, 1)$\n水平虚线 $y=1$\n垂直虚线对应 $x=1$\n红色箭头指向曲线最高点\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_005.txt"
+  },
+  "IMG027": {
+    "text": "例 1.83 2023 李艳芳三套卷，分母 k 是同量级，sin 是次量级，忽略次量级，分母等价成 n+k\n\n求极限 $\\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n + k - \\sin^2 n}$\n\n[手写批注]\n分母 $\\sim n+k$\n原式 $= \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k} = \\lim_{n \\to \\infty} \\frac{1}{n} \\sum_{k=1}^n \\frac{1}{1 + \\frac{k}{n}}$\n$= \\int_0^1 \\frac{1}{1+x} dx$\n$= \\ln(1+x) |_0^1 = \\ln 2$\n\n[解析文字]\n解法 1 考虑凑定积分的定义计算该极限。\n将区间 $[0,1]$ 分成 $n$ 等份, 注意到 $\\frac{1}{n+k-\\sin^2 n} = \\frac{1}{n} \\cdot \\frac{1}{1+\\frac{k}{n}-\\frac{\\sin^2 n}{n}}$, 且 $\\frac{k-1}{n} \\le \\frac{k}{n} - \\frac{\\sin^2 n}{n} \\le \\frac{k}{n}$, 故可取 $x_k = \\frac{k}{n} - \\frac{\\sin^2 n}{n}$, 于是,\n$\\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k-\\sin^2 n} = \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n} \\cdot \\frac{1}{1+\\frac{k}{n}-\\frac{\\sin^2 n}{n}} = \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n} \\cdot \\frac{1}{1+x_k} = \\int_0^1 \\frac{1}{1+x} dx = \\ln(1+x) |_0^1 = \\ln 2$.\n解法 2 利用定积分的定义和夹逼准则计算该极限。\n同解法 1 注意到 $\\frac{1}{n+k} \\le \\frac{1}{n+k-\\sin^2 n} \\le \\frac{1}{n+k-1}$, 且 $\\frac{k-1}{n} \\le \\frac{k}{n} - \\frac{\\sin^2 n}{n} \\le \\frac{k}{n}$ [不确定]\n$\\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k} \\le \\text{原极限} = \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k-\\sin^2 n} \\le \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k-1}$\n注意到 $\\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k}, \\lim_{n \\to \\infty} \\sum_{k=1}^n \\frac{1}{n+k-1}$ 均可写成 $\\int_0^1 \\frac{1}{1+x} dx$, 而 $\\int_0^1 \\frac{1}{1+x} dx = \\ln(1+x) |_0^1 = \\ln 2$, 由夹逼准则可知, 原极限 $= \\ln 2$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_005.txt"
+  },
+  "IMG028": {
+    "text": "例 1.84 武忠祥严选题\n\n26. 极限 $\\lim_{n \\to \\infty} \\frac{\\sqrt{1} + \\sqrt{2} + \\cdots + \\sqrt{n}}{\\sqrt{n(1 + 2 + \\cdots + n)}} = \\underline{\\qquad\\qquad}$.\n\n[手写批注]\n分母 $= \\sqrt{\\frac{n^2(n+1)}{2}} \\sim \\sqrt{\\frac{n^3}{2}} = \\frac{1}{\\sqrt{2}} n^{\\frac{3}{2}}$\n分子 : $k = \\frac{1}{2}, \\sim \\frac{2}{3} n^{\\frac{3}{2}}$\n$\\therefore$ 原式 $= \\lim_{n \\to \\infty} \\frac{\\frac{2}{3} n^{\\frac{3}{2}}}{\\frac{1}{\\sqrt{2}} n^{\\frac{3}{2}}} = \\frac{2\\sqrt{2}}{3}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_005.txt"
+  },
+  "IMG029": {
+    "text": "5 (2002 年试题) 设 $0 < x_1 < 3, x_{n+1} = \\sqrt{x_n(3 - x_n)} (n = 1, 2, \\cdots)$, 证明数列 $\\{x_n\\}$ 的极限存在, 并求此极限.\n\n[手写批注]\n$\\therefore$ 显然 $x_{n+1} \\ge 0$\n$a+b \\ge 2\\sqrt{ab} \\implies \\sqrt{ab} \\le \\frac{a+b}{2}$\n解: $x_{n+1} = \\sqrt{x_n(3-x_n)} \\le \\frac{3}{2}$ (从 $x_2$ 开始才满足)\n此处也可写“$n>1$时”\n$\\therefore n$ 充分大时, $0 \\le x_n \\le \\frac{3}{2}$ (前有限项可以不满足 例如 $x_1$ 可以大于 $\\frac{3}{2}$)\n$x_{n+1} - x_n = \\sqrt{x_n(3-x_n)} - x_n = \\frac{3x_n - 2x_n^2}{\\sqrt{x_n(3-x_n)} + x_n} = \\frac{x_n(3-2x_n)}{\\sqrt{x_n(3-x_n)} + x_n} \\ge 0$\n由单调有界准则知, $\\lim_{n \\to \\infty} x_n$ 存在\n尽量写出这句话 方便阅卷\n设 $\\lim_{n \\to \\infty} x_n = a$, 则 $a = \\sqrt{a(3-a)}$, 解得 $a = \\frac{3}{2}$ 或 $a = 0$ (舍)\n$\\because \\{x_n\\}$ 单增, 且 $x_1 > 0$\n$\\therefore \\lim_{n \\to \\infty} x_n = \\frac{3}{2}$\n$\\therefore x_n > x_1 > 0 \\implies \\lim_{n \\to \\infty} x_n \\ge \\lim_{n \\to \\infty} x_1 \\implies a \\ge x_1 > 0 \\therefore a > 0$\n\n[蓝色框内文字]\n数列极限研究的就是后面无穷多项\n当 $n$ 充分大时\n$a \\le x_{n+k} \\le b \\iff a \\le x_n \\le b$\n$\\lim_{n \\to \\infty} x_n = A \\iff \\lim_{n \\to \\infty} x_{n+k} = A$\n令 $n+k=t$ 换元即可证明\n\n[橙色框内文字]\n只需后无穷多项满足单调有界准则即可\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_005.txt"
+  },
+  "IMG030": {
+    "text": "1.2.5.2 压缩映射\n\n(4) 利用压缩映射原理. (简化版)\n原理一 对数列 $\\{x_n\\}$, 若存在常数 $k (0 < k < 1)$, 使得 $|x_{n+1} - a| \\le k|x_n - a|, n = 1, 2, \\cdots$, 则 $\\{x_n\\}$ 收敛于 $a$.\n证 $0 \\le |x_{n+1} - a| \\le k|x_n - a| \\le k^2|x_{n-1} - a| \\le \\cdots \\le k^n|x_1 - a|$, 由于 $\\lim_{n \\to \\infty} k^n = 0$, 根据夹逼准则, 有 $\\lim_{n \\to \\infty} |x_{n+1} - a| = 0$, 即 $\\{x_n\\}$ 收敛于 $a$.\n\n[黄色高亮文字]\n见到大题, 优先考虑单调有界, 面对以下几种情况, 可以考虑使用压缩映射:\n①数列不单调, 或者使用单调有界准则实在是做不出来\n②题中给了极为明显的 “$a = f(a)$” 这种可以把极限值转化成函数值的情况, 且题中给出导数的信息, 那么可以利用 $|x_n - a| = |f(x_{n-1}) - f(a)| = |f'(\\xi)| |x_{n-1} - a|$, 再对导数进行放缩, 进而构造压缩映射的形式。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_005.txt"
+  },
+  "IMG031": {
+    "text": "当 $n \\to \\infty$ 时, $n^n \\gg n! \\gg a^n \\gg n^k \\gg \\ln^p n$, 其中 $a > 1, k > 0, p > 0$, $\\gg$ 表示 “远远大于”\n\n数一数三的同学请记住以下这个结论, 在无穷级数部分会用到:\n\n[黄色背景区域]\n$\\lim_{n \\to \\infty} \\frac{\\sqrt[n]{n!}}{n} = e^{-1}$, 即当 $n \\to \\infty$ 时, $\\sqrt[n]{n!} \\sim e^{-1} n$\n\n[蓝色手写批注]\n考研数学当中, 默认 $n$ 为非负整数\n$\\therefore n \\to \\infty \\iff n \\to +\\infty$\n\n[红色手写批注]\n令 $y_n = \\lim_{n \\to \\infty} \\frac{\\sqrt[n]{n!}}{n}$ 则 $\\ln y_n = \\lim_{n \\to \\infty} (\\frac{1}{n} \\ln n! - \\ln n)$\n$= \\lim_{n \\to \\infty} \\frac{1}{n} (\\ln 1 + \\ln 2 + \\ln 3 \\cdots - n \\ln n)$ [此处有蓝色箭头指示分组]\n$= \\lim_{n \\to \\infty} \\frac{1}{n} (\\ln \\frac{1}{n} + \\ln \\frac{2}{n} \\cdots + \\ln \\frac{n}{n})$\n$= \\int_0^1 \\ln x dx = x \\ln x |_0^1 - 1 = -1$\n$\\ln y_n = -1 \\therefore y_n = e^{-1}$ 即 $\\lim_{n \\to \\infty} \\frac{\\sqrt[n]{n!}}{n} = e^{-1}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_006.txt"
+  },
+  "IMG032": {
+    "text": "[黄色背景区域]\n②只有能够保证洛完之后的极限存在, 才可以洛必达, 故有以下重要结论:\n1. 若 $f(x)$ 在某点 $n$ 阶导数连续, 则最多可以洛到 $n$ 阶\n2. 若 $f(x)$ 在某点 $n$ 阶可导, 则最多可以洛到 $n-1$ 阶\n3. 若 $f(x)$ 在某点邻域内 $n$ 阶可导, 则最多可以洛到 $n-1$ 阶\n4. 即便没有告诉你导数连续, 但只要满足洛必达的使用条件, 能够证明出来洛完之后极限存在, 就可以洛\n\n[蓝色手写批注]\n例 1.23 2009 考研\n\n但实际上, 即便题中告诉你 $n$ 阶导连续, 也不一定能够洛到 $n$ 阶\n甚至就算题中告诉你 100 阶可导, 你可能连一次洛必达都用不了\n(如果你真的感兴趣能洛到多少阶, 可以去 B 站搜 BV1gp4y197wb, 但这个问题对于考研数学来说并没有帮助, 我个人不建议大家在此处纠结, 你的目的是提分, 不是成为数学家)\n然而, 考研数学这么多年来, 无论是考研真题, 还是名师的练习题, 从未在此难过大家, 主流老师们也没有强调过这个问题, 因此对于考研人来说, 可以不严谨地认为:\n\n[红色框线内, 黄色背景区域]\n1. 若 $f(x)$ 在某点 $n$ 阶导数连续, 则可以洛到 $n$ 阶\n2. 若 $f(x)$ 在某点 $n$ 阶可导, 则可以洛到 $n-1$ 阶\n3. 若 $f(x)$ 在某点邻域内 $n$ 阶可导, 则可以洛到 $n-1$ 阶\n\n大家一定一定要注重题中给你的条件是导数存在还是导数连续!\n\n[红色手写批注]\n左侧有一叉号, 右侧有一类似星号的标记。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_006.txt"
+  },
+  "IMG033": {
+    "text": "3. 洛必达法则\n\n| 未定式 | 条件 | 结论 |\n| :--- | :--- | :--- |\n| $\\frac{0}{0}$ 型 | 设(1) $\\lim_{x \\to a} f(x) = 0$ 且 $\\lim_{x \\to a} F(x) = 0$;<br>(2) 在点 $a$ 的某去心邻域内, $f'(x)$ 及 $F'(x)$ 都存在且 $F'(x) \\neq 0$;<br>(3) $\\lim_{x \\to a} \\frac{f'(x)}{F'(x)}$ 存在 (或为无穷大) | 则 $\\lim_{x \\to a} \\frac{f(x)}{F(x)} = \\lim_{x \\to a} \\frac{f'(x)}{F'(x)}$ |\n| $\\frac{\\infty}{\\infty}$ 型 | 设(1) $\\lim_{x \\to a} f(x) = \\infty$ 且 $\\lim_{x \\to a} F(x) = \\infty$;<br>(2) 在点 $a$ 的某去心邻域内, $f'(x)$ 及 $F'(x)$ 都存在且 $F'(x) \\neq 0$;<br>(3) $\\lim_{x \\to a} \\frac{f'(x)}{F'(x)}$ 存在 (或为无穷大) | |\n| $\\frac{*}{\\infty}$ 型 | 设(1) $\\lim_{x \\to a} F(x) = \\infty$ (不要求 $\\lim_{x \\to a} f(x) = \\infty$);<br>(2) 在点 $a$ 的某去心邻域内, $f'(x)$ 及 $F'(x)$ 都存在且 $F'(x) \\neq 0$;<br>(3) $\\lim_{x \\to a} \\frac{f'(x)}{F'(x)}$ 存在 (或为无穷大) | |\n\n[手写批注]\n左侧: $\\frac{f(x)}{F(x)}$\n左侧红色: 25 年数一 首次出现 例 1.24\n表格中 $\\frac{*}{\\infty}$ 的 $*$ 被红圈圈起。\n\n① $a$ 可以等于 $\\infty$.\n② $\\frac{*}{\\infty}$ 型洛必达法则不用考虑分子的极限情况.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_006.txt"
+  },
+  "IMG034": {
+    "text": "① 设 $\\lim_{x \\to x_0^-} f'(x)$ 与 $\\lim_{x \\to x_0^+} f'(x)$ 均存在, 则 $f(x)$ 在 $x = x_0$ 处必连续;\n② 设 $f'_-(x_0)$ 与 $f'_+(x_0)$ 均存在, 则 $f(x)$ 在 $x = x_0$ 处必连续; [红色对勾]\n③ 设 $f(x_0^-)$ 与 $f(x_0^+)$ 均存在, 则 $f(x)$ 在 $x = x_0$ 处必连续;\n④ 设 $\\lim_{x \\to x_0^-} f'(x)$ 与 $\\lim_{x \\to x_0^+} f'(x)$ 中至少有一个不存在, 则 $f(x)$ 在 $x = x_0$ 处必不可导;\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_006.txt"
+  },
+  "IMG035": {
+    "text": "例 1.112 在 “函数性质” 这一小节中的 “有界性” 选取过此题, 此题 C 选项当做基本结论。\nD 直接秒, 函数推不出导数 (除非给你一点处的导数定义式), 倒反天罡!\n[黄色背景区域]\n此题的 C 选项也高中物理的角度来理解, 把变量 $x$ 看作时间, 函数看作位移, 导数看作速度, 位移对时间的导数就是速度。当时间有限时, 若速度有界, 则位移一定有界。\n\n[蓝色背景 4] (2005 年试题) 以下四个命题中, 正确的是( )\n(A) 若 $f'(x)$ 在 $(0,1)$ 内连续, 则 $f(x)$ 在 $(0,1)$ 内有界.\n(B) 若 $f(x)$ 在 $(0,1)$ 内连续, 则 $f(x)$ 在 $(0,1)$ 内有界.\n(C) 若 $f'(x)$ 在 $(0,1)$ 内有界, 则 $f(x)$ 在 $(0,1)$ 内有界.\n(D) 若 $f(x)$ 在 $(0,1)$ 内有界, 则 $f'(x)$ 在 $(0,1)$ 内有界.\n[红色手写批注: D 选项字母上有一叉号]\n\n[红色框线内文字, 被红色叉号划掉]\n2. 有限区间内, 若导数有界, 则函数一定有界! (当基本结论记住, 例 1.112, C 选项[不确定]案给出了证明过程) 无穷区间上则不成立, 如: $f(x) = x$ 无界, $f'(x) = 1$ 有界. 导数描述的是函数的变化, 类比一下高中物理中的速度和位移, 速度是位移对时间的导数, 把速度看做导数, 把位移看做函数, 把时间看做变量 $x$, 在时间有限的前提下, 若速度有界, 则位移一定有界。\n\n[蓝色背景 答案] C.\n\n[蓝色背景 分析] 拉格朗日中值定理中, 同时涉及了 $f(x)$ 与 $f'(x)$ 的值. 因此, 可考虑使用拉格朗日中值定理, 利用 $f'(x)$ 的有界性推出 $f(x)$ 的有界性.\n\n[蓝色背景 解] 由于 $f'(x)$ 在 $(0,1)$ 内有界, 不妨设 $|f'(x)| \\le M, M > 0, x \\in (0,1)$.\n对任意的 $x \\in (0,1)$, 由拉格朗日中值定理可得 $f(x) = f(\\frac{1}{2}) + f'(\\xi)(x - \\frac{1}{2}), \\xi$ 介于 $x$ 与 $\\frac{1}{2}$ 之间. 由绝对值不等式可得,\n$$|f(x)| \\le \\left| f\\left(\\frac{1}{2}\\right) \\right| + |f'(\\xi)| \\cdot \\left| x - \\frac{1}{2} \\right| \\le \\left| f\\left(\\frac{1}{2}\\right) \\right| + \\frac{1}{2} M, \\quad x \\in (0,1).$$\n因此, $f(x)$ 在 $(0,1)$ 内有界. 应选 C.\n下面分别说明选项 A、B、D 不正确.\n取 $f(x) = \\frac{1}{x}$, 则 $f(x)$ 以及 $f'(x) = -\\frac{1}{x^2}$ 均在 $(0,1)$ 内连续, 但 $f(x)$ 在 $(0,1)$ 内无界. 选项 A、",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_006.txt"
+  },
+  "IMG036": {
+    "text": "此题 B 选项显然正确，反证法即可，如果导数的极限存在且不为 0，那么导数的极限如果大于 0，则函数最终一定趋于正无穷。如果导数的极限小于 0，则函数最终一定趋于负无穷。这均和题干中的“函数有界”矛盾。所以导数的极限只能是 0，B 选项正确。可以从几何意义上来理解：导数和 x 轴围成的面积即代表了函数的变化。\n\n或从高中物理的角度来理解，把变量 x 看作时间，函数看作位移，导数看作速度，位移对时间的导数就是速度。当时间趋于无穷时，若速度的极限大于 0，则最终的位移肯定会趋于正无穷。若速度的极限小于 0，则最终的位移肯定会趋于负无穷。均和题干的“位移有界”相矛盾。所以速度的极限只能是 0。 (注：此段文字在蓝色框内，且有蓝色下划线和左侧蓝色“※”标记)\n\n4 (2002 年试题) 设函数 $y = f(x)$ 在 $(0, +\\infty)$ 内有界且可导，则 ( )\n(A) 当 $\\lim_{x \\to +\\infty} f(x) = 0$ 时，必有 $\\lim_{x \\to +\\infty} f'(x) = 0$. (题号 A 有红色圆圈和叉号批注)\n(B) 当 $\\lim_{x \\to +\\infty} f'(x)$ 存在时，必有 $\\lim_{x \\to +\\infty} f'(x) = 0$.\n(C) 当 $\\lim_{x \\to 0^+} f(x) = 0$ 时，必有 $\\lim_{x \\to 0^+} f'(x) = 0$. (题号 C 有红色圆圈和叉号批注)\n(D) 当 $\\lim_{x \\to 0^+} f'(x)$ 存在时，必有 $\\lim_{x \\to 0^+} f'(x) = 0$.\n\n手写红色批注：B 的严格证明见答案\n手写蓝色批注：“函数推不出导数”的例子不重要. D 纯扯淡. 如 $f(x) = \\sin x$.\n\n答案 B.\n\n解 假设 $\\lim_{x \\to +\\infty} f'(x) = a > 0$, 则由极限的定义可知, 对 $\\frac{a}{2} > 0$, 存在 $N > 0$, 当 $x > N$ 时,\n$|f'(x) - a| < \\frac{a}{2}$, 即 $\\frac{a}{2} < f'(x) < \\frac{3}{2}a$.\n对 $[N, x]$ 上的 $f(x)$ 使用拉格朗日中值定理, 对 $x > N$, 有\n\n手写绿色批注：\n若去掉“$\\lim_{x \\to +\\infty} f'(x)$ 存在”这一前提, $\\lim_{x \\to +\\infty} f'(x)$ 甚至可以趋于无穷, 如 $f(x) = \\begin{cases} \\sqrt{x}, & 0 < x \\le 1 \\\\ 1, & x \\ge 1 \\end{cases}$\n$f(x)$ 有界\n但 $x \\to 0^+$ 时, $f'(x) \\to +\\infty$\n$\\frac{1}{2\\sqrt{x}}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_007.txt"
+  },
+  "IMG037": {
+    "text": "例 2.8 24 超越模拟卷，AD 直接秒，函数推不出导数（除非给你一点处的导数定义式），更何况二阶导！此题的 C 选项实际上和上一题的 B 选项一样。此题的 B 选项是错误的，函数最后可能出现震荡的情况，涉及到震荡的反例通常都和三角函数有关。\n\n此题的 C 选项，最好的证明方式是反证法，仍可以从高中物理的角度来理解。把 x 看作时间，函数看作位移，导数看作速度，二阶导看作加速度。当时间趋于无穷时，如果加速度的极限大于 0，那么最终速度一定会趋于正无穷，位移也肯定趋于正无穷。同理，如果加速度的极限小于 0，那么最终速度一定会趋于负无穷，位移也肯定趋于负无穷。这都和题干中的“位移有界”相矛盾。所以加速度的极限如果存在的话，则只能为 0 (注：此段文字在蓝色框内，且左侧有蓝色“※”标记)\n\n设函数 $f(x)$ 在区间 $(0, +\\infty)$ 内有界且存在二阶导数，则下列说法正确的是 ( ).\n(A) 若 $\\lim_{x \\to +\\infty} f(x)$ 存在，则 $\\lim_{x \\to +\\infty} f''(x)$ 存在 (题号 A 有红色叉号批注)\n(B) 若 $\\lim_{x \\to +\\infty} f''(x)$ 存在，则 $\\lim_{x \\to +\\infty} f(x)$ 存在\n(C) 若 $\\lim_{x \\to +\\infty} f''(x)$ 存在，则 $\\lim_{x \\to +\\infty} f''(x) = 0$\n(D) 若 $\\lim_{x \\to +\\infty} f(x) = 0$ 存在，则 $\\lim_{x \\to +\\infty} f''(x) = 0$ (题号 D 有红色叉号批注)\n\n红色框内手写批注：\n※ 若 $f(x)$ 有界, 则\n$\\lim_{x \\to +\\infty} f'(x)$ 存在 $\\nRightarrow \\lim_{x \\to +\\infty} f(x)$ 存在\n$\\lim_{x \\to +\\infty} f''(x)$ 存在 $\\nRightarrow \\lim_{x \\to +\\infty} f(x)$ 存在\n反例均为 $f(x) = \\sin \\sqrt{x}$\n$f(x)$ 最终为震荡的形式\n\n(2) 答案 选 (C).\n解 取 $f(x) = \\frac{\\sin x^2}{x}$, 则\n$f'(x) = \\frac{2x^2 \\cos x^2 - \\sin x^2}{x^2} = 2 \\cos x^2 - \\frac{\\sin x^2}{x^2}$, $f''(x) = -4x \\sin x^2 - \\frac{2x^2 \\cos x^2 - 2 \\sin x^2}{x^3}$.\n显然 $\\lim_{x \\to +\\infty} f(x) = 0, \\lim_{x \\to +\\infty} f''(x)$ 不存在, 故选项 (A), (D) 均不正确.\n取\n$f(x) = \\sin \\sqrt{x}, f'(x) = \\frac{\\cos \\sqrt{x}}{2\\sqrt{x}}, f''(x) = \\frac{-\\sin \\sqrt{x} - \\frac{1}{\\sqrt{x}} \\cos \\sqrt{x}}{4x}$.\n显然 $\\lim_{x \\to +\\infty} f''(x) = 0$, 但 $\\lim_{x \\to +\\infty} f(x)$ 不存在, 故选项 (B) 不正确.\n\n手写蓝色批注：“函数推不出导数”的例子不重要, 但“导数推不出函数”的例子需要积累!!!",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_007.txt"
+  },
+  "IMG040": {
+    "text": "例 2.20 1995 年数一真题，请将此题的结论死死记住!!!!! 非常非常重要!!!!!!!!! (黄色高亮)\n\n【例 3】 设 $f(x)$ 可导, $F(x) = f(x)(1 + |\\sin x|)$, 则 $f(0) = 0$ 是 $F(x)$ 在 $x = 0$ 可导的\n(A) 充分必要条件.\n(B) 充分条件但非必要条件.\n(C) 必要条件但非充分条件.\n(D) 既非充分条件又非必要条件.\n\n手写红色批注：拆 (带箭头指向绝对值符号)\n\n解 由于 $F(x) = f(x)(1 + |\\sin x|) = f(x) + f(x)|\\sin x|$, 而 $f(x)$ 可导, 则 $F(x)$ 在 $x = 0$ 可导的充要条件是 $f(x)|\\sin x|$ 在 $x = 0$ 可导. 令 $\\varphi(x) = f(x)|\\sin x|$, 则\n$\\lim_{x \\to 0} \\frac{\\varphi(x) - \\varphi(0)}{x - 0} = \\lim_{x \\to 0} \\frac{f(x)|\\sin x|}{x} = \\begin{cases} f(0), & x \\to 0^+, \\\\ -f(0), & x \\to 0^-. \\end{cases}$\n从而 $f(0) = 0$ 是 $\\varphi(x)$ 在 $x = 0$ 可导的充要条件, 故应选 (A).\n\n红色框内文字 (左右两侧有红色“※”标记)：\n注 由本题的分析过程也得到一条常用的结论: 设 $f(x) = \\varphi(x)|x - a|$, 其中 $\\varphi(x)$ 在 $x = a$ 处连续, 则 $f(x)$ 在 $x = a$ 处可导的充要条件是 $\\varphi(a) = 0$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_007.txt"
+  },
+  "IMG046": {
+    "text": "求一次导，根的重数减少一次，因此，$f(x)$的重根，一定也是 $f'(x)$的根，因此重根一定在驻点处取得。\n[注：最后一句有蓝色直线批注]\n\n**例 2.68 武忠祥严选题**\n\n已知方程 $x^4 + 2x^3 - 3x^2 - 4x + a = 0$ 有两个重根，则 $a = \\underline{\\qquad\\qquad}$。\n\n[图示：直角坐标系中 $x$ 轴上有标注 $-2, -\\frac{1}{2}, 1$。红色曲线呈“W”型，在 $x=-2$ 和 $x=1$ 处与 $x$ 轴相切。]\n[红色手写批注：$\\because f(-2) = f(1) = 0$]\n[蓝色手写批注：重根一定在驻点处取得 $x = 1, -2, -\\frac{1}{2}$]\n\n27.【解】 $a = 4$.\n令 $f(x) = x^4 + 2x^3 - 3x^2 - 4x + a$, 则\n$$f'(x) = 4x^3 + 6x^2 - 6x - 4 = 2(x - 1)(x + 2)(2x + 1).$$\n令 $f'(x) = 0$, 得 $x = -2, x = -\\frac{1}{2}, x = 1$。$f(x)$ 在 $(-\\infty, -2)$ 上单调减，在 $(-2, -\\frac{1}{2})$ 上单调增，在 $(-\\frac{1}{2}, 1)$ 上单调减，在 $(1, +\\infty)$ 上单调增，$f(-2) = f(1) = a - 4$, 则 $a = 4$ 时原方程有两个重根.\n[注：解题过程中“得 $x = -2, x = -\\frac{1}{2}, x = 1$”以及“在 $(-\\frac{1}{2}, 1)$ 上单调减，在 $(1, +\\infty)$ 上单调增”下方有蓝色波浪线批注]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_009.txt"
+  },
+  "IMG047": {
+    "text": "设函数 $f(x) = (x^3 - 1)^n \\sin x$, 则对任意正整数 $n, f^{(n)}(1) = \\underline{\\qquad\\qquad}$。\n[手写填空答案：$n! \\cdot 3^n \\cdot \\sin 1$]\n\n[绿色手写批注：没考过，了解此题处理手法即可]\n[红色手写批注：非 0 点处的 $n$ 阶导，求 $f^{(n)}(a) \\implies$ 构造因式 $(x - a)^k$]\n[蓝色手写批注：$x^3 - 1 = (x - 1)(x^2 + x + 1)$]\n[蓝色手写批注：$a^3 - b^3 = (a - b)(a^2 + ab + b^2)$]\n[红色手写批注：$b \\to -b$（带箭头指向 $b^3$）]\n[蓝色手写批注：$a^3 + b^3 = a^3 - (-b)^3 = (a + b)(a^2 - ab + b^2)$]\n[红色手写批注：\n$f(x) = (x - 1)^n \\cdot (x^2 + x + 1)^n \\cdot \\sin x$\n令 $u(x) = (x - 1)^n \\quad v(x) = (x^2 + x + 1)^n \\cdot \\sin x \\quad f(x) = u(x) \\cdot v(x)$\n$u(1) = u'(1) = \\cdots = u^{(n-1)}(1) = 0, \\quad u^{(n)}(1) = n!$\n由莱布尼茨求导法则可知 $f^{(n)}(1) = \\sum_{k=0}^{n} C_n^k \\cdot u^{(k)}(1) \\cdot v^{(n-k)}(1) = C_n^n \\cdot u^{(n)}(1) \\cdot v(1) = n! \\cdot 3^n \\cdot \\sin 1$\n]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_009.txt"
+  },
+  "IMG048": {
+    "text": "* 求一阶导：\n$$h'(x) = e^x \\sin x + e^x \\cos x = \\sqrt{2} e^x \\left( \\frac{\\sqrt{2}}{2} \\sin x + \\frac{\\sqrt{2}}{2} \\cos x \\right) = \\sqrt{2} e^x \\sin \\left( x + \\frac{\\pi}{4} \\right)$$\n\n* 大脑识别规律：\n每求导一次：前面乘一个 $\\sqrt{2}$，正弦内部的相位加一个 $\\frac{\\pi}{4}$。\n\n* 草稿纸直接写出 $n$ 阶通项（不需要再算二阶、三阶）：\n$$h^{(n)}(x) = (\\sqrt{2})^n e^x \\sin \\left( x + \\frac{n\\pi}{4} \\right)$$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_009.txt"
+  },
+  "IMG049": {
+    "text": "[红色手写公式：]\n$$\\{\\ln |f(x)|\\}' = \\frac{f'(x)}{f(x)}$$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_009.txt"
+  },
+  "IMG050": {
+    "text": "题型二：试根 + 罗尔定理推论\n\n罗尔定理推论：\n[蓝色背景框：]\n注 若 $f(x)$ 在区间 $I$ 上 $n$ 阶可导，且 $f^{(n)}(x) \\neq 0$, 即 $f^{(n)}(x) = 0$ 无实根（至多有 0 个根），于是 $f(x) = 0$ 至多有 $n$ 个根. 如 $f'''(x) \\neq 0$, 则 $f(x) = 0$ 至多 3 个根（以阶数换个数）.\n\n例 2.66 证明出来至少有三个根，且至多有三个根，则根的个数一定为 3\n\n[蓝色图标] 例 6.16 证明 $2^x - x^2 - 1 = 0$ 有且仅有三个根.\n[红色手写批注：试根]\n\n[蓝色背景框：]\n证 ①存在性.\n[绿色手写批注：观察法]\n令 $f(x) = 2^x - x^2 - 1 = 0$, 显然 $x_1 = 0, x_2 = 1$ 为根，又 $f(2) = -1 < 0, f(5) = 2^5 - 25 - 1 = 6 > 0$, 则 $f(x) = 0$ 在 $(2, 5)$ 内至少有一个根，即 $f(x) = 0$ 至少有三个根.\n[蓝色手写批注：$\\to$ 零点定理，不具唯一性]\n\n②唯一性.\n由 $f'(x) = 2^x \\cdot \\ln 2 - 2x, f''(x) = 2^x \\cdot \\ln^2 2 - 2, f'''(x) = 2^x \\cdot \\ln^3 2 \\neq 0$, 知 $f(x) = 0$ 至多有三个根，即 $f(x) = 0$ 有且仅有三个根.\n[蓝色手写批注：\n(指向 $f'(x)$): $\\to$ 单调性不好判断就继续求导\n(指向 $f'''(x)$): $\\to f'''(x) = 0$ 至多 0 个根 $\\xrightarrow{\\text{个数}} \\xrightarrow{\\text{阶数换}} f(x) = 0$ 至多 $0 + 3 = 3$ 个根\n]\n\n[右上角手写批注：]\n[蓝色：] $a_1 + a_2 x^1 + a_3 x^2 + \\cdots + a_k x^{k-1} + a_{k+1} x^k \\quad (a_{k+1} \\neq 0)$\n[红色：] 若 $f(x)$ 是 $x$ 的 $k$ 次多项式，则 $f^{(k)}(x) \\neq 0$, 即 $x$ 的 $k$ 次多项式最多有 $k$ 个零点.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_009.txt"
+  },
+  "IMG051": {
+    "text": "**2.11.1 曲率和曲率半径**\n\n和“成功率、胜率、及格率”等词语一样，所谓曲（qu 一声）率，指的是曲线的弯曲程度。曲率越大，弯曲程度就越大。\n\n1. 曲率的定义\n$$K = \\lim_{\\Delta s \\to 0} \\left| \\frac{\\Delta \\alpha}{\\Delta s} \\right| .$$\n\n2. 曲率的计算\n(1) 若曲线由直角坐标方程 $y = y(x)$ 给出，则\n框选公式：$$K = \\frac{|y''|}{(1 + y'^2)^{\\frac{3}{2}}}$$\n[手写批注]：背!!\n\n(2) 若曲线由参数方程 $\\begin{cases} x = x(t) \\\\ y = y(t) \\end{cases}$ 给出，则\n$$K = \\frac{|y''x' - y'x''|}{(x'^2 + y'^2)^{\\frac{3}{2}}} .$$\n[手写批注]：不用背，手推即可\n\n3. 曲率圆与曲率半径\n框选公式：曲率半径 $R = \\frac{1}{K} .$\n\n**例 2.93**\n曲线 $y = \\ln x$ 在点 $P$ 处的曲率半径最小，则该最小半径是______。\n\n[右侧手写推导批注]：\n$\\frac{dy}{dx} = \\frac{y'(t)}{x'(t)}$\n$\\frac{d^2y}{dx^2} = \\frac{d(\\frac{dy}{dx})}{dx} = \\frac{d(\\frac{dy}{dx})}{dt} \\cdot \\frac{dt}{dx}$\n$= \\frac{d(\\frac{y'(t)}{x'(t)})/dt}{dx/dt}$  $\\frac{1}{\\frac{dx}{dt}}$\n$= \\frac{\\frac{y''(t)x'(t) - y'(t)x''(t)}{x'^2(t)}}{x'(t)}$\n$= \\frac{y''(t)x'(t) - y'(t)x''(t)}{x'^3(t)}$\n\n[右上角蓝色图示：曲线与切线/法线示意图]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_010.txt"
+  },
+  "IMG052": {
+    "text": "根据点积公式：\n$$\\nabla f \\cdot \\mathbf{u} = |\\nabla f| |\\mathbf{u}| \\cos \\theta$$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_010.txt"
+  },
+  "IMG053": {
+    "text": "也就是方向 $\\mathbf{u}$ 和梯度 $\\nabla f$ 同方向时，\n$$\\cos \\theta = 1$$\n于是：\n$$D_{\\max} f = |\\nabla f|$$\n这就是“最大方向导数等于梯度模长”的原因。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_010.txt"
+  },
+  "IMG054": {
+    "text": "**例 18.7** 计算 $I = \\iiint_{\\Omega} | \\sqrt{x^2 + y^2 + z^2} - 1 | \\, dx dy dz$，其中 $\\Omega: \\sqrt{x^2 + y^2} \\leqslant z \\leqslant 1$. [手写批注]：$=\\frac{1}{60}\\pi R^5$ [不确定]\n\n【解】如图 18-14 所示，积分区域 $\\Omega$ 被球面 $x^2 + y^2 + z^2 = 1$ 剖分成上下两部分，依次为 $\\Omega_1, \\Omega_2$，故\n$$I = \\iiint_{\\Omega_1} (\\sqrt{x^2 + y^2 + z^2} - 1) \\, dx dy dz + \\iiint_{\\Omega_2} (1 - \\sqrt{x^2 + y^2 + z^2}) \\, dx dy dz \\triangleq I_1 + I_2 .$$\n对于 $I_1$ 和 $I_2$ 均采用球面坐标计算，有\n$$I_2 = \\int_0^{2\\pi} d\\theta \\int_0^{\\frac{\\pi}{4}} d\\varphi \\int_0^1 (1 - r) r^2 \\sin \\varphi \\, dr$$\n$$= 2\\pi \\int_0^{\\frac{\\pi}{4}} \\sin \\varphi \\, d\\varphi \\int_0^1 (1 - r) r^2 \\, dr = \\frac{\\pi}{12} (2 - \\sqrt{2}) ,$$\n\n[图 18-14 坐标与文字]：\n坐标轴：$x, y, z, O$\n区域标注：$\\Omega_1, \\Omega_2$\n[手写标注]：\n$z=1 \\Rightarrow r = \\frac{1}{\\cos \\varphi}$\n$\\sqrt{x^2 + y^2 + z^2} - 1 = 0 \\Rightarrow r = 1$\n图中虚线标注：$1$, $\\sqrt{2}$ [不确定]\n\n385\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_010.txt"
+  },
+  "IMG055": {
+    "text": "$$ds = \\sqrt{x'^2 + y'^2} \\, dt$$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_010.txt"
+  },
+  "IMG056": {
+    "text": "**对比演示：以包含 $z$ 的全微分项为例**\n\n假设积分里含有项：$I_{\\text{部分}} = \\oint_L z^2 \\mathrm{d}x + 2xz \\mathrm{d}z$\n空间平面约束条件为：$x + y + z = 1 \\Longrightarrow z = 1 - x - y$，其微分为 $\\mathrm{d}z = -\\mathrm{d}x - \\mathrm{d}y$。\n\n**路线 A：一眼看穿全微分 (0.1 秒)**\n\n你一眼看出 $z^2 \\mathrm{d}x + 2xz \\mathrm{d}z = \\mathrm{d}(xz^2)$。\n因为是闭曲线，直接写：\n$\\oint_L \\mathrm{d}(xz^2) \\equiv 0$\n秒杀，直接不写进草稿纸。\n\n---\n\n**路线 B：你不划掉，跟着大部队硬代入消元（看它是怎么变成 0 的）**\n\n你不划掉，把 $\\mathrm{d}z = -\\mathrm{d}x - \\mathrm{d}y$ 老老实实代入式子：\n$I_{\\text{部分}} = \\oint_L z^2 \\mathrm{d}x + 2xz (-\\mathrm{d}x - \\mathrm{d}y)$\n$= \\oint_{L'} \\underbrace{(z^2 - 2xz)}_{P^*} \\mathrm{d}x + \\underbrace{(-2xz)}_{Q^*} \\mathrm{d}y$\n\n现在套格林公式，求偏导相减 $\\frac{\\partial Q^*}{\\partial x} - \\frac{\\partial P^*}{\\partial y}$（其中 $\\frac{\\partial z}{\\partial x} = -1, \\frac{\\partial z}{\\partial y} = -1$）：\n\n1. **求 $\\frac{\\partial Q^*}{\\partial x}$（用乘积求导法则）：**\n   $\\frac{\\partial}{\\partial x}(-2xz) = -2z - 2x \\cdot \\frac{\\partial z}{\\partial x} = -2z - 2x(-1) = -2z + 2x$\n\n2. **求 $\\frac{\\partial P^*}{\\partial y}$（对复合函数求导）：**\n   $\\frac{\\partial}{\\partial y}(z^2 - 2xz) = 2z \\cdot \\frac{\\partial z}{\\partial y} - 2x \\cdot \\frac{\\partial z}{\\partial y} = 2z(-1) - 2x(-1) = -2z + 2x$\n\n3. **格林公式相减：**\n   $\\frac{\\partial Q^*}{\\partial x} - \\frac{\\partial P^*}{\\partial y} = (-2z + 2x) - (-2z + 2x) \\equiv 0!$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_011.txt"
+  },
+  "IMG057": {
+    "text": "我们定义广义极坐标：\n$\\begin{cases} x = ar \\cos \\theta \\\\ y = br \\sin \\theta \\end{cases}$\n\n* **几何本质：** 在 $x$ 轴缩放 $a$ 倍，在 $y$ 轴缩放 $b$ 倍，把扁平的椭圆强行“拉伸”还原成半径为 1 的标准正圆！\n* **代数奇迹：** 代入椭圆方程：\n  $\\frac{(ar \\cos \\theta)^2}{a^2} + \\frac{(br \\sin \\theta)^2}{b^2} = r^2 \\cos^2 \\theta + r^2 \\sin^2 \\theta = r^2 \\leqslant 1$\n  上下限瞬间变成了全常数的矩形：$0 \\leqslant r \\leqslant 1, \\quad 0 \\leqslant \\theta \\leqslant 2\\pi!$\n* **代价（微元面积）：** 因为两个轴分别放大了 $a$ 和 $b$ 倍，所以面积微元多了 $ab$：\n  $\\mathrm{d}x\\mathrm{d}y = abr \\mathrm{d}r\\mathrm{d}\\theta$\n\n**举例（刚才那道题）：**\n区域是 $x^2 + \\frac{y^2}{4} \\leqslant 1 \\quad (a=1, b=2)$。\n令 $\\begin{cases} x = 1 \\cdot r \\cos \\theta \\\\ y = 2 \\cdot r \\sin \\theta \\end{cases}$，微元直接写成 $\\mathrm{d}x\\mathrm{d}y = (1 \\times 2 \\times r) \\mathrm{d}r\\mathrm{d}\\theta = 2r \\mathrm{d}r\\mathrm{d}\\theta$。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_011.txt"
+  },
+  "IMG058": {
+    "text": "斯托克斯公式到底需要记什么？只需要记一个三阶行列式：\n$\\text{rot} \\vec{F} = \\nabla \\times \\vec{F} = \\begin{vmatrix} \\vec{i} & \\vec{j} & \\vec{k} \\\\ \\frac{\\partial}{\\partial x} & \\frac{\\partial}{\\partial y} & \\frac{\\partial}{\\partial z} \\\\ P & Q & R \\end{vmatrix}$\n\n* **算 $\\vec{i}$ 分量：** 把 $x$ 当常数，算 $\\frac{\\partial R}{\\partial y} - \\frac{\\partial Q}{\\partial z}$；\n* **算 $\\vec{j}$ 分量：** 把 $y$ 当常数，算 $\\frac{\\partial P}{\\partial z} - \\frac{\\partial R}{\\partial x}$；\n* **算 $\\vec{k}$ 分量：** 把 $z$ 当常数，算 $\\frac{\\partial Q}{\\partial x} - \\frac{\\partial P}{\\partial y}$。\n\n**在整个过程中，$x, y, z$ 各自独立，没有任何开根号、没有隐函数复合求导。**\n算完这个行列式之后，第二类曲线积分就直接变成了第二类曲面积分：\n$\\oint_L P \\mathrm{d}x + Q \\mathrm{d}y + R \\mathrm{d}z = \\iint_{\\Sigma} \\text{rot} \\vec{F} \\cdot \\mathrm{d}\\vec{S}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_011.txt"
+  },
+  "IMG059": {
+    "text": "(4) 两类曲面积分的关系.\n[彩色批注：$\\alpha$ 缺 $x$ (蓝)，$\\beta$ 缺 $y$ (蓝)，$\\gamma$ 缺 $z$ (蓝)；$\\mathrm{d}S \\cdot \\cos \\alpha = \\mathrm{d}y \\mathrm{d}z$ (红)，$\\mathrm{d}S \\cdot \\cos \\beta = \\mathrm{d}z \\mathrm{d}x$ (红)，$\\mathrm{d}S \\cdot \\cos \\gamma = \\mathrm{d}x \\mathrm{d}y$ (红)]\n$\\iint_{\\Sigma} P \\mathrm{d}y\\mathrm{d}z + Q \\mathrm{d}z\\mathrm{d}x + R \\mathrm{d}x\\mathrm{d}y = \\iint_{\\Sigma} (P \\cos \\alpha + Q \\cos \\beta + R \\cos \\gamma) \\mathrm{d}S$\n其中 $(\\cos \\alpha, \\cos \\beta, \\cos \\gamma)$ 为 $\\Sigma$ 在点 $(x, y, z)$ 处与 $\\Sigma$ 同侧的单位法向量.\n\n**此题若直接使用此公式，处理过程为：**\n\n由于 $\\Sigma_2$ 的法向量 $(1, 1, 1)$ 的方向余弦 $\\cos \\alpha = \\cos \\beta = \\cos \\gamma = \\frac{1}{\\sqrt{3}}$，故 $\\mathrm{d}y\\mathrm{d}z = \\mathrm{d}z\\mathrm{d}x = \\mathrm{d}x\\mathrm{d}y$，\n$\\iint_{\\Sigma_2} x \\mathrm{d}y\\mathrm{d}z + (y + 1) \\mathrm{d}z\\mathrm{d}x + (z + 2) \\mathrm{d}x\\mathrm{d}y \\xlongequal{z = 1 - x - y} \\iint_{\\Sigma_2} x \\mathrm{d}y\\mathrm{d}z + (y + 1) \\mathrm{d}z\\mathrm{d}x + (3 - x - y) \\mathrm{d}x\\mathrm{d}y$\n$= \\iint_{\\Sigma_2} 4 \\mathrm{d}x\\mathrm{d}y = \\frac{4}{\\sqrt{3}} \\iint_{\\Sigma_2} \\mathrm{d}S = \\frac{4}{\\sqrt{3}} \\Sigma_2 \\text{ 的面积.}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_011.txt"
+  },
+  "IMG060": {
+    "text": "[手写红色批注]\n$D_{xy}$ [左上]\n$\\iint_{\\Sigma_2} \\mathrm{d}S = \\iint_{D_{xy}} \\sqrt{1 + z_x'^2 + z_y'^2} \\mathrm{d}x\\mathrm{d}y = \\sqrt{3} \\iint_{D_{xy}} \\mathrm{d}x\\mathrm{d}y$\n[蓝色波浪线]\n$D_{xy}$ [右上，不完整]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_011.txt"
+  },
+  "IMG061": {
+    "text": "$I_2 = \\iint_{\\Sigma_1} x \\, dydz + y \\, dzdx + z \\, dxdy$\n\n$= \\iint_{D_{xy}} [x \\cdot (-\\frac{\\partial z}{\\partial x}) + y \\cdot (-\\frac{\\partial z}{\\partial y}) + z] \\, dxdy$\n\n$= \\iint_{D_{xy}} (x+y+z) \\, dxdy$\n\n设 $I_3 = \\iint_{\\Sigma_1} (x+y+z) \\, dS$\n\n第一型曲面积分没有方向，投影后不存在正负号\n\n则 $I_3 = \\iint_{D_{xy}} (x+y+z) \\cdot \\underbrace{\\sqrt{1+z'^2_x+z'^2_y}}_{\\sqrt{3}} \\, dxdy = \\sqrt{3} \\iint_{D_{xy}} (x+y+z) \\, dxdy = -\\sqrt{3} I_2$\n\n且 $I_3 = \\iint_{\\Sigma_1} (x+y+z) \\, dS = \\sqrt{3} \\iint_{\\Sigma_1} \\, dS$\n\n$\\therefore I_3 = 3\\sqrt{3}\\pi = -\\sqrt{3}I_2 \\quad \\therefore I_2 = -3\\pi$\n\n$\\therefore I = I_1 - I_2 = 5\\pi - (-3\\pi) = 8\\pi$\n\n**[彩色/手写批注]**\n$x+y+z = \\sqrt{3} \\Rightarrow \\frac{\\partial z}{\\partial x} = \\frac{\\partial z}{\\partial y} = -1$\n\n$\\begin{cases} x+y+z = \\sqrt{3} \\\\ x^2+y^2+z^2 = 4 \\end{cases} \\Rightarrow 2x^2+2y^2-2\\sqrt{3}x-2\\sqrt{3}y+2xy = 1$\n\n$D_{xy}$ 的边界方程难以处理 $\\Downarrow$ 转化为 $dS$\n\n※ 勾股定理\n$d = \\frac{|0+0+0-\\sqrt{3}|}{\\sqrt{1^2+1^2+1^2}} = 1$\n$d$ 为球心(原点)到 $\\Sigma_1$ 的距离，计算可得 $d=1$\n$R$ 为球的半径，$R=2$\n$\\therefore \\Sigma_1$ 圆的半径为 $\\sqrt{R^2-d^2} = \\sqrt{3}$\n$\\therefore \\iint_{\\Sigma_1} \\, dS = \\pi \\cdot (\\sqrt{3})^2 = 3\\pi$\n\n**[图示文字]**\n右上图：\n坐标轴：$y, z$\n圆方程：$y^2+z^2=4$\n直线：$z=1$\n点：$(\\sqrt{3}, 1)$\n角度：$\\frac{\\pi}{6}$\n文字：$\\cos \\varphi = \\frac{1}{\\sqrt{3}}$ [不确定], $\\frac{\\pi}{3}$ [不确定], $2, -2$\n\n右下图：\n球体示意图，标注有 $R, d, r$。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_012.txt"
+  },
+  "IMG062": {
+    "text": "重极限中的二级结论（小题直接用！）：\n\n$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{x^p y^q}{x^m + y^n}$\n\n① 若 $m$ 和 $n$ 至少有一个为奇数，则极限不存在（有歧义，考研不会考）\n\n② 当 $m$ 和 $n$ 均为偶数时\n类比趋于无穷时的 $P$ 积分\n若 $\\frac{p}{m} + \\frac{q}{n} > 1 \\Rightarrow$ 收敛，极限为 0\n若 $\\frac{p}{m} + \\frac{q}{n} \\le 1 \\Rightarrow$ 发散，极限不存在\n\n例：$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{x^4 y^6}{x^2 + y^3}$\n$y^3 = -x^2$ 为无定义路径\n分母存在无定义路径\n有歧义，考研不会考\n\n$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{xy^3}{x^2 + y^4} \\quad \\frac{1}{2} + \\frac{3}{4} > 1 \\Rightarrow$ 极限为 0\n\n$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{x^2}{x^4 + y^4} = \\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{x^2 \\cdot y^0}{x^4 + y^4} \\quad \\frac{2}{4} + \\frac{0}{4} \\le 1$\n$\\therefore$ 极限不存在\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_012.txt"
+  },
+  "IMG063": {
+    "text": "例 13.11 函数 $f(x,y) = \\begin{cases} x^2, & y=0, \\\\ y^2, & x=0, \\\\ 1, & \\text{其他} \\end{cases}$ 在点 $(0,0)$ 处 ( )\n\n(A) 两个偏导数均连续，且函数可微\n(B) 两个偏导数均连续，且函数不可微\n(C) 两个偏导数均不连续，且函数可微\n(D) 两个偏导数均不连续，且函数不可微\n\n**[彩色/手写批注]**\n$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} f(x,y) = \\begin{cases} ① \\lim_{\\substack{x \\to 0 \\\\ y = 0}} x^2 = 0 \\\\ ② \\lim_{\\substack{x = 0 \\\\ y \\to 0}} y^2 = 0 \\\\ ③ \\lim_{\\substack{x \\ne 0, x \\ne 0 \\\\ y \\ne 0, y \\ne 0}} 1 = 1 \\end{cases}$\n\n$f(0,0) = 0. \\quad \\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} f(x,y)$ 不存在\n$\\therefore f(x,y)$ 在 $(0,0)$ 处不连续\n\n可微 $\\Rightarrow$ 连续 $\\xrightarrow{\\text{逆否命题}}$ 不连续 $\\Rightarrow$ 不可微\n\n$f'_x$ 和 $f'_y$ 均连续 $\\Rightarrow$ 可微 $\\xrightarrow{\\text{逆否命题}}$ 不可微 $\\Rightarrow f'_x$ 和 $f'_y$ 至少有一个不连续\n\n此题 $x$ 和 $y$ 具有对称性（互换 $x$ 和 $y$，不会产生任何变化）\n所以 $f'_x$ 和 $f'_y$ 的连续性相同 $\\Rightarrow$ 此题 $f'_x$ 和 $f'_y$ 均不连续 $\\therefore$ 选择 D\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_012.txt"
+  },
+  "IMG064": {
+    "text": "严格证明：$f'_x(0,0) = \\lim_{\\Delta x \\to 0} \\frac{f(\\Delta x, 0) - f(0,0)}{\\Delta x} = \\lim_{\\Delta x \\to 0} \\frac{\\Delta x^2 - 0}{\\Delta x} = 0$. 同理/对称性 $f'_y(0,0) = 0$\n\n判断可微：$\\lim_{\\rho \\to 0} \\frac{\\Delta z - dz}{\\rho} = \\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} \\frac{f(x,y) - 0}{\\sqrt{x^2+y^2}} = \\begin{cases} ① \\lim_{\\substack{x \\to 0 \\\\ y = 0}} \\frac{x^2}{|x|} = 0 \\\\ ② \\lim_{\\substack{x = 0 \\\\ y \\to 0}} \\frac{y^2}{|y|} = 0 \\\\ ③ \\lim_{\\substack{x \\ne 0, x \\ne 0 \\\\ y \\ne 0, y \\ne 0}} \\frac{1}{\\sqrt{x^2+y^2}} \\text{ 不存在} \\end{cases} \\therefore$ 不可微\n\n判断 $f'_x$ 连续：验证是否满足 $\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} f'_x(x,y) = f'_x(0,0)$\n\n求 $f'_x(x,y)$ 当 $xy \\ne 0$ 时，某点去心邻域内表达式不变，用公式法：$f'_x(x,y) = \\frac{\\partial 1}{\\partial x} = 0$\n当 $x=0$ 或 $y=0$ 时，某点去心邻域内表达式发生变化，用定义法\n$f'_x(x,y) = \\lim_{\\Delta x \\to 0} \\frac{f(x+\\Delta x, y) - f(x,y)}{\\Delta x} = \\begin{cases} ① y=0, \\text{左式} = \\lim_{\\Delta x \\to 0} \\frac{(x+\\Delta x)^2 - x^2}{\\Delta x} = \\lim_{\\Delta x \\to 0} \\frac{2x\\Delta x + (\\Delta x)^2}{\\Delta x} = 2x \\\\ ② y \\ne 0, \\text{左式} = \\lim_{\\Delta x \\to 0} \\frac{1 - f(x,y)}{\\Delta x}. \\quad \\begin{cases} y = \\pm 1 \\text{ 时}, f'_x = 0 \\\\ y \\ne \\pm 1 \\text{ 时}, f'_x \\text{ 不存在} \\end{cases} \\end{cases}$\n\n$\\lim_{\\substack{x \\to 0 \\\\ y \\to 0}} f'_x(x,y)$ 不存在 $\\therefore f'_x(x,y)$ 不连续\n同理/对称性 $f'_y(x,y)$ 不连续\n\n【解】应选(D).\n\n函数 $f(x,y)$ 对 $x,y$ 的偏导数分别为\n$\\frac{\\partial f(x,y)}{\\partial x} = \\begin{cases} 2x, & y=0, \\\\ \\text{不存在}, & y \\ne 0, \\pm 1, x=0, \\\\ 0, & \\text{其他}, \\end{cases} \\quad \\frac{\\partial f(x,y)}{\\partial y} = \\begin{cases} 2y, & x=0, \\\\ \\text{不存在}, & x \\ne 0, \\pm 1, y=0, \\\\ 0, & \\text{其他}, \\end{cases}$\n\n**[彩色/手写批注]**\n$y$ 当作常数，类比一元函数 $f'(x) = \\lim_{\\Delta x \\to 0} \\frac{f(x+\\Delta x) - f(x)}{\\Delta x}$\n抓小头，$x$ 视为常数\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_012.txt"
+  },
+  "IMG065": {
+    "text": "**应试总结与记忆卡片**\n\n| 运算类型 | 组合形态 | 敛散性结果 | 记忆逻辑 |\n| :--- | :--- | :--- | :--- |\n| 加减法 | 绝 $\\pm$ 绝 | 绝对收敛 | 封闭稳定 |\n| 加减法 | 绝 $\\pm$ 条 | 条件收敛 | 条收的“弱收敛性”无法被抹去 |\n| 加减法 | 条 $\\pm$ 条 | 不确定 | 取决于是否恰好抵消 |\n| 通项积 $a_n b_n$ | 绝 $\\times$ 收敛(或有界) | 绝对收敛 | 利用 $b_n \\to 0$ 有界性直接放缩 |\n| 通项积 $a_n b_n$ | 条 $\\times$ 条 | 不确定（常发散） | 警惕负负得正破坏交错对消（用 $\\frac{(-1)^n}{\\sqrt{n}}$ 验证） |\n| 柯西乘积 | 至少一个绝收 | 收敛 | 绝对收敛具有强大的抗干扰能力 |",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_012.txt"
+  },
+  "IMG066": {
+    "text": "两个幂级数相乘（先阅读 7.6 小节的内容）：\n\n若幂级数 $\\sum_{n=0}^{\\infty} a_n x^n$ 和 $\\sum_{n=0}^{\\infty} b_n x^n$ 的收敛半径分别为 $R_a$ 和 $R_b$，如果已知\n$\\lim_{n \\to \\infty} \\left| \\frac{a_{n+1}}{a_n} \\right| = \\frac{1}{R_a}, \\lim_{n \\to \\infty} \\left| \\frac{b_{n+1}}{b_n} \\right| = \\frac{1}{R_b}$，则可根据比值法推出 $\\sum_{n=0}^{\\infty} a_n b_n x^n$\n的收敛半径为 $R_a R_b$。若已知开 $n$ 次根号后的极限，也可根据根值法\n同理推出收敛半径为 $R_a R_b$。但若仅知道 $\\sum_{n=0}^{\\infty} a_n x^n$ 和 $\\sum_{n=0}^{\\infty} b_n x^n$ 的收敛\n半径分别为 $R_a$ 和 $R_b$，则推不出 $\\sum_{n=0}^{\\infty} a_n b_n x^n$ 的收敛半径为 $R_a R_b$。\n\n【红色手写批注】：$\\lim_{n \\to \\infty} \\left| \\frac{a_{n+1} b_{n+1}}{a_n b_n} \\right| = \\lim_{n \\to \\infty} \\left| \\frac{a_{n+1}}{a_n} \\right| \\cdot \\lim_{n \\to \\infty} \\left| \\frac{b_{n+1}}{b_n} \\right| = \\frac{1}{R_a R_b} \\therefore R = R_a R_b$\n【红色下划线】：标注在“则可根据比值法推出 $\\sum_{n=0}^{\\infty} a_n b_n x^n$ 的收敛半径为 $R_a R_b$”以及“也可根据根值法同理推出收敛半径为 $R_a R_b$”下方。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_013.txt"
+  },
+  "IMG067": {
+    "text": "取 $u_n = v_n = \\frac{(-1)^n}{\\sqrt{n}}, \\sum_{n=1}^{\\infty} u_n$ 与 $\\sum_{n=1}^{\\infty} v_n$ 都（条件）收敛，但 $\\sum_{n=1}^{\\infty} u_n v_n = \\sum_{n=1}^{\\infty} \\frac{1}{n}$ 发散。\n\n【红色手写批注】：在第一个 $\\sum$ 上方标有 $n=1$。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_013.txt"
+  },
+  "IMG068": {
+    "text": "又\n16 若 $\\sum_{n=1}^{\\infty} u_n$ 收敛，$\\sum_{n=1}^{\\infty} v_n$ 收敛，则\n$\\begin{cases} u_n \\ge 0, v_n \\ge 0 \\text{ 时, } \\sum_{n=1}^{\\infty} u_n v_n \\text{ 收敛 } (u_n \\cdot v_n \\le \\frac{u_n^2 + v_n^2}{2}), \\\\ u_n \\text{ 任意, } v_n \\ge 0 \\text{ 时, } \\sum_{n=1}^{\\infty} |u_n| \\cdot v_n \\text{ 收敛 } (\\lim_{n \\to \\infty} \\frac{|u_n| \\cdot v_n}{v_n} = \\lim_{n \\to \\infty} |u_n| = 0), \\\\ u_n \\text{ 任意, } v_n \\text{ 任意时, } \\sum_{n=1}^{\\infty} u_n v_n \\text{ 不定. (见 ③)} \\end{cases}$\n\n【紫色手写批注】：$u_n = v_n = (-1)^n \\cdot \\frac{1}{\\sqrt{n}}, u_n v_n = \\frac{1}{n}$\n【彩色波浪下划线】：第一种情况下方有红色波浪线；第二种情况下方有蓝色波浪线；第三种情况下方有紫色波浪线。\n【蓝色标注】：第二种情况的 $\\sum |u_n| \\cdot v_n$ 中，$|u_n|$ 和 $v_n$ 下方各有一个蓝色小三角。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_013.txt"
+  },
+  "IMG069": {
+    "text": "(3) 设 $u_n = \\frac{|a_n| + a_n}{2}, v_n = \\frac{|a_n| - a_n}{2}$，则下列四个级数\n(I) $\\sum_{n=1}^{\\infty} a_n$, (II) $\\sum_{n=1}^{\\infty} |a_n|$, (III) $\\sum_{n=1}^{\\infty} u_n$, (IV) $\\sum_{n=1}^{\\infty} v_n$\n敛性关系是 ( B )。\nA. 若 (I) 收敛，则 (III) 和 (IV) 都收敛\nB. 若 (II) 收敛，则 (I), (III) 和 (IV) 都收敛\nC. 若 (III) 和 (IV) 发散，则 (I) 和 (II) 都发散\nD. (I)(II)(III)(IV) 的收敛性无确定的关系\n\n3) B.\n解 若 $\\sum_{n=1}^{\\infty} |a_n|$ 收敛，则 $\\sum_{n=1}^{\\infty} a_n$ 收敛。由\n$0 \\le u_n = \\frac{|a_n| + a_n}{2} \\le |a_n|, 0 \\le v_n = \\frac{|a_n| - a_n}{2} \\le |a_n|,$\n较审敛法，知 $\\sum_{n=1}^{\\infty} u_n$ 与 $\\sum_{n=1}^{\\infty} v_n$ 都收敛。\n\n【红色手写批注】：\n方法一：\n$u_n = \\begin{cases} a_n, a_n \\ge 0 \\\\ 0, a_n < 0 \\end{cases} v_n = \\begin{cases} 0, a_n \\ge 0 \\\\ -a_n, a_n < 0 \\end{cases}$\n$\\therefore |u_n| \\le |a_n|, |v_n| \\le |a_n|$\n$\\therefore$ 若 $\\sum_{n=1}^{\\infty} |a_n|$ 收敛，则 $\\sum_{n=1}^{\\infty} |u_n|$ 和 $\\sum_{n=1}^{\\infty} |v_n|$ 收敛\n$\\therefore$ B 正确\n\n方法二：$u_n + v_n = |a_n|, u_n - v_n = a_n$\n$\\sum_{n=1}^{\\infty} |a_n|$ 收敛 $\\Rightarrow \\sum_{n=1}^{\\infty} (u_n + v_n)$ 和 $\\sum_{n=1}^{\\infty} (u_n - v_n)$ 均收敛\n二者相加可得 $\\sum_{n=1}^{\\infty} u_n$ 收敛，相减可得 $\\sum_{n=1}^{\\infty} v_n$ 收敛\n$\\therefore$ B 正确\n\n【绿色手写批注】：\n三：若 $\\sum_{n=1}^{\\infty} |a_n|$ 收敛\n则 $\\sum_{n=1}^{\\infty} a_n$ 收敛\n则 $\\sum_{n=1}^{\\infty} (|a_n| \\pm a_n)$ 收敛\n则 $u_n, v_n$ 均收敛",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_013.txt"
+  },
+  "IMG070": {
+    "text": "$\\therefore$ B 正确\n\n, 若 $\\lim_{n \\to \\infty} b_n = 0$，则 ( B )。\nB. 当 $\\sum |a_n|$ 收敛时，$\\sum a_n b_n$ 收敛\n\n【蓝色手写批注】：\n$\\because \\lim_{n \\to \\infty} \\frac{|a_n b_n|}{|a_n|} = |b_n| = 0$\n若 $\\sum_{n=1}^{\\infty} |a_n|$ 收敛，则 $\\sum_{n=1}^{\\infty} |a_n b_n|$ 收敛\n$\\therefore \\sum_{n=1}^{\\infty} a_n b_n$ 收敛\n\n【红色波浪下划线】：标注在“若 $\\lim_{n \\to \\infty} b_n = 0$”下方。\n【蓝色手写】：括号内的“B”。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_013.txt"
+  },
+  "IMG076": {
+    "text": "类型三 求极值、凹凸性、拐点\n\n【例 4】设定义在 $(-\\infty, +\\infty)$ 内的连续函数 $f(x)$ 满足 $f(x)f(y) = f(x+y)$，$\\lim_{x \\to 0} \\frac{1-f(x)}{x} = 1$，求\n\n30\n\n27 考研《解答串讲突破课》By 没咋了 内部资料\n\n$F(x) = |x|f(x)$ 的极值.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_015.txt"
+  },
+  "IMG077": {
+    "text": "【例 3】设 $f(x) = [\\ln(1+x)]^2 - \\frac{x^2}{1+x}$.\n\n(I) 求 $f(x)$ 的单调区间;\n\n(II) 若对任意的正整数 $n$，有 $\\left(1+\\frac{1}{n}\\right)^{n+k} \\le e$ 成立，求 $k$ 的最大值.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_015.txt"
+  },
+  "IMG078": {
+    "text": "$\\Rightarrow k \\le \\frac{1}{\\ln\\left(1+\\frac{1}{n}\\right)} - n$ .",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_015.txt"
+  },
+  "IMG079": {
+    "text": "【例 1】设 $A = E - kuu^T (k \\neq 0)$ 是正交矩阵，其中 $E$ 是 3 阶单位矩阵，$u$ 是 3 维单位列向量.\n\n(I) 求 $k$ 的值;\n\n(II) 对于第 (I) 问中的 $k$ 值，若 $A \\begin{bmatrix} 1 \\\\ 0 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$，求 $A$;\n\n(III) 对于第 (II) 问中的 $A$，求正交矩阵 $Q$ 及 $\\Lambda$，使得 $Q^{-1}AQ = \\Lambda$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_015.txt"
+  },
+  "IMG080": {
+    "text": "方法二：利用对称性与正交性直接“拼”出 $A$（小题/大题秒杀法）\n\n既然你已经看出了**“$A$ 的第一列是 $(0, 1, 0)^T$”**，我们来看看 $A$ 有什么特殊性质：\n\n1. 对称性：$A^T = (E - 2uu^T)^T = E - 2uu^T = A$。说明 $A$ 是实对称矩阵！\n\n2. 正交性：题目已知 $A$ 是正交矩阵（每行、每列都是单位向量，且两两正交）。\n\n3. 迹（主对角线元素之和）：你已经知道特征值是 $-1, 1, 1$，所以 $\\text{tr}(A) = -1 + 1 + 1 = 1$。\n\n现在我们来填九宫格：\n\n* 已知第一列是 $\\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$，因为对称，所以第一行也是 $\\begin{bmatrix} 0 & 1 & 0 \\end{bmatrix}$。此时矩阵长这样：\n$$A = \\begin{bmatrix} 0 & 1 & 0 \\\\ 1 & a & b \\\\ 0 & b & c \\end{bmatrix}$$\n\n* 因为是正交矩阵，每一行的模长必须等于 1：\n看第二行：$1^2 + a^2 + b^2 = 1 \\Rightarrow a = 0, b = 0$。\n矩阵瞬间只剩下一个未知数 $c$：\n$$A = \\begin{bmatrix} 0 & 1 & 0 \\\\ 1 & 0 & 0 \\\\ 0 & 0 & c \\end{bmatrix}$$\n\n* 最后用迹 $\\text{tr}(A) = 0 + 0 + c = 1 \\Rightarrow c = 1$。直接写出答案！",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_015.txt"
+  },
+  "IMG081": {
+    "text": "16. 设随机变量 $X, Y, Z$ 满足 $D(X) = D(Z), D(Y) = 4D(X)$, 相关系数 $\\rho_{XY} = -1, \\rho_{XZ} = \\frac{1}{2}$, 则 $X$ 与 $Y+Z$ 的相关系数 $\\rho_{X(Y+Z)}$ 为______.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_016.txt"
+  },
+  "IMG082": {
+    "text": "9. 设随机变量 $X_1, X_2, \\cdots$ 独立同分布，其概率密度为 $f(x) = 3x^2 (0 < x < 1)$，在其他点处 $f(x) = 0$，则当 $n \\to \\infty$ 时，$\\sum_{i=1}^n X_i / \\sum_{i=1}^n X_i^2$ 依概率收敛于\n(A) $\\frac{3}{4}$\n(B) $\\frac{3}{5}$\n(C) $\\frac{4}{5}$\n(D) $\\frac{5}{4}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_016.txt"
+  },
+  "IMG083": {
+    "text": "已知 $f(x) = 3x^2 (0 < x < 1)$，直接算分子、分母对应的期望：\n\n1. 分子收敛于 $E(X)$:\n$$E(X) = \\int_0^1 x \\cdot 3x^2 dx = \\int_0^1 3x^3 dx = \\frac{3}{4}$$\n\n2. 分母收敛于 $E(X^2)$:\n$$E(X^2) = \\int_0^1 x^2 \\cdot 3x^2 dx = \\int_0^1 3x^4 dx = \\frac{3}{5}$$\n\n3. 相除得出答案：\n$$\\frac{E(X)}{E(X^2)} = \\frac{3/4}{3/5} = \\frac{5}{4} \\implies \\text{直接选 (D)}$$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_016.txt"
+  },
+  "IMG084": {
+    "text": "【例 20】 设锥面 $\\Sigma$ 的顶点是 $A(0, 1, 1)$，准线是 $\\begin{cases} x^2 + y^2 = 1, \\\\ z = 0, \\end{cases}$ 直线 $L$ 过顶点 $A$ 和准线上任一点 $M_1(x_1, y_1, 0), \\Omega$ 是 $\\Sigma (0 \\le z \\le 1)$ 与平面 $z = 0$ 所围成的锥体. (P687)\n(1) 求 $L$ 和 $\\Sigma$ 的方程；\n(2) 求 $\\Omega$ 的形心坐标.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_016.txt"
+  },
+  "IMG085": {
+    "text": "例 3.19 早年的概率论九讲。此题最终要求的是联合概率密度 $f(x, y)$，而题干条件给的是两个条件概率密度，条件概率密度乘以边缘概率密度，即可得到联合概率密度。因此此题要求出边缘概率密度 $f_X(x)$ 或 $f_Y(y)$。如何求解边缘概率密度呢？两个条件概率密度相除，得到的结果即为边缘概率密度之比，后续处理过程详见答案。此题难度较大，但每一步其实都是基本定义和基本处理手法，希望各位掌握。\n\n设二维正态随机变量 $(X, Y)$ 的概率密度为 $f(x, y)$，已知条件概率密度 $f_{X|Y}(x|y) = \\sqrt{\\frac{2}{3\\pi}} e^{-\\frac{2}{3}(x-\\frac{y}{2})^2}$ 和 $f_{Y|X}(y|x) = \\sqrt{\\frac{2}{3\\pi}} e^{-\\frac{2}{3}(y-\\frac{x}{2})^2}$，则 $f(x, y) = \\_\\_\\_\\_\\_\\_$\n\n【分析】 由于 $f_{X|Y}(x|y) = \\frac{f(x, y)}{f_Y(y)}, f_{Y|X}(y|x) = \\frac{f(x, y)}{f_X(x)}$，则 $\\frac{f_{X|Y}(x|y)}{f_{Y|X}(y|x)} = \\frac{f_X(x)}{f_Y(y)}$，从而将 $x, y$ 的函数分离。再由 $f(x, y) = f_{X|Y}(x|y) \\cdot f_Y(y)$ 即可求得 $f(x, y)$。\n\n【解】 应填 $\\frac{1}{\\sqrt{3}\\pi} e^{-\\frac{2}{3}(x^2-xy+y^2)}$。\n\n由于\n$\\frac{f_{X|Y}(x|y)}{f_{Y|X}(y|x)} = \\frac{f_X(x)}{f_Y(y)} = e^{-\\frac{2}{3} \\left[ \\left( x^2-xy+\\frac{y^2}{4} \\right) - \\left( y^2-xy+\\frac{x^2}{4} \\right) \\right]} = e^{-\\frac{x^2-y^2}{2}} = \\frac{e^{-\\frac{x^2}{2}}}{e^{-\\frac{y^2}{2}}}$，[彩色批注] 分离 $x$ 和 $y$\n\n且二维正态分布的两个边缘分布都是正态分布的形式，故可令 $f_X(x) = C e^{-\\frac{x^2}{2}}, f_Y(y) = C e^{-\\frac{y^2}{2}}$，$C$ 为常数。\n由 $\\int_{-\\infty}^{+\\infty} f_X(x) dx = 1, \\int_{-\\infty}^{+\\infty} f_Y(y) dy = 1$，得 $C = \\frac{1}{\\sqrt{2\\pi}}$，即 $f_X(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{x^2}{2}}, f_Y(y) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{y^2}{2}}$\n故 $f(x, y) = f_{X|Y}(x|y) \\cdot f_Y(y) = \\sqrt{\\frac{2}{3\\pi}} e^{-\\frac{2}{3}(x-\\frac{y}{2})^2} \\cdot \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{y^2}{2}} = \\frac{1}{\\sqrt{3}\\pi} e^{-\\frac{2}{3}(x^2-xy+y^2)}$。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_016.txt"
+  },
+  "IMG086": {
+    "text": "设函数 $y = y(x)$ 由方程 $x^2 + y^2 - xy = 1$ 确定, 曲线 $L$ 为 $y = y(x)$ 介于 $(-1, 0)$ 和 $(0, 1)$, 且位于第二象限的一段, 则 $\\int_L \\frac{(y^2 - xy)(2y - x)}{\\sqrt{5 - 3xy}} \\mathrm{d}s = (\\quad)$.\n\nA $\\frac{1}{2}$\n\nB $\\frac{1}{3}$\n\nC $\\frac{2}{3}$\n\nD 1\n\n排除法：右键（手机长按）选项可以把它划掉",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_017.txt"
+  },
+  "IMG087": {
+    "text": "数学一 · 第22题 $\\nearrow$ 解答题 $\\quad$ 难度 3 $\\quad$ [星标]\n\n设随机变量 $X$ 的分布函数 $F_X(x) = \\begin{cases} 0, & x < 0 \\\\ \\frac{1}{4} + \\frac{x}{2}, & 0 \\le x < 1, \\\\ 1, & x \\ge 1, \\end{cases}$ 记事件 $A = \\{0 < X < 1\\}$, 随机变量 $Y$ 服从参数为 1 的指数分布, 且 $X$ 和 $Y$ 独立. 求: (I) 在事件 $A$ 发生的条件下, 随机变量 $X$ 的条件概率密度 $f_X(x \\mid A)$; (II) $Z = X + Y$ 的分布函数.\n\n[锁图标] 考点与招法（点开看）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_017.txt"
+  },
+  "IMG088": {
+    "text": "设 $L$ 为椭圆周 $4x^2 + (y - 2)^2 = 4$, 取逆时针方向, 则曲线积分 $\\oint_L |x| \\mathrm{d}y - y \\mathrm{d}x = \\underline{\\quad\\quad}$.\n\n[锁图标] 考点与招法（点开看）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_017.txt"
+  },
+  "IMG089": {
+    "text": "数学一 · 第2题 $\\nearrow$ 选择题 $\\quad$ $\\times$ 错题 $\\quad$ 第1次 · 上次今天 $\\quad$ 难度 3 $\\quad$ [星标]\n\n设函数 $f(x, y) = \\sqrt[3]{x^4 + y^4}$, 在点 $(0, 0)$ 处下列命题正确的个数为 ( ).\n\n① 连续\n② 可偏导\n③ 可微\n④ 偏导数连续\n\nA 1\n\nB 2\n\nC 3\n\nD 4",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_017.txt"
+  },
+  "IMG090": {
+    "text": "(22) (本题满分 12 分) 设总体 $X$ 的密度函数为 $f(x) = \\begin{cases} \\frac{a}{(x - \\theta)^2}, & x > \\theta + 1, \\\\ 0, & x \\le \\theta + 1, \\end{cases}$ 其中 $a$ 为已知正常数, $\\theta$ 为未知正实数, $X_1, X_2, \\cdots, X_n (n \\ge 2)$ 为来自总体 $X$ 的简单随机样本.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_017.txt"
+  },
+  "IMG091": {
+    "text": "设函数 $f(x)$ 在 $[0,2]$ 上有连续导数，且满足 $0 < f(x) < 2, |f'(x)| < 1$.\n(I) 证明存在唯一的 $x_0 \\in (0,2)$, 使得 $f(x_0) = x_0$.\n(II) 设 $0 < x_1 < 2, 2x_{n+1} = x_n + f(x_n)$, 证明 $\\lim_{n \\to \\infty} x_n = x_0$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_018.txt"
+  },
+  "IMG092": {
+    "text": "求函数 $u = x^2 + 2y^2 + z^2$ 在曲线 $\\Gamma : \\begin{cases} z = x^2 + 4y^2, \\\\ x + 2y + z = 1 \\end{cases}$ 上的最大方向导数.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2092.txt"
+  },
+  "IMG093": {
+    "text": "三、解答题\n17. 由拉格朗日函数求法知，可设\n$F(x) = x^2 + 2y^2 + z^2 + \\lambda(x + 2y + x^2 + 4y^2 - 1)$\n（由于函数梯度为 $(2x, 4y, 2z)$, 最大方向导数为梯度模长）\n$\\begin{cases} F'_x = 2x + \\lambda + 2x\\lambda ; F'_y = 8y + 2\\lambda + 8y\\lambda \\\\ F'_z = 2z \\\\ F'_\\lambda = x + 2y + x^2 + 4y^2 - 1 \\end{cases}$\n\n请在各题目的答题区域内作答，超出答题区域的答案无效\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_018.txt"
+  },
+  "IMG094": {
+    "text": "【例2】设 $A = \\begin{bmatrix} 2 & 1 & 0 \\\\ 1 & 2 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$ 与 $B = \\begin{bmatrix} a & b & c \\\\ 0 & 1 & 0 \\\\ -1 & -2 & 4 \\end{bmatrix}$ 相似.\n(I) 求 $a, b, c$ 的值；\n(II) 求可逆矩阵 $P$，使得 $P^{-1}AP = B$；\n(III) 求可逆矩阵 $C$，使得 $A = C^T C$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_018.txt"
+  },
+  "IMG095": {
+    "text": "设 $\\alpha_1, \\alpha_2, \\alpha_3, \\alpha_4$ 是四元非齐次线性方程组 $Ax = b$ 的 4 个解向量，且 $\\alpha_1 + \\alpha_2 = (2, 4, 6, 8)^T, \\alpha_2 + \\alpha_3 + \\alpha_4 = (3, 5, 7, 9)^T, \\alpha_1 + 2\\alpha_2 - \\alpha_3 = (2, 0, 0, 2)^T$. 若秩 $r(A) = 2$, 则方程组 $Ax = b$ 的通解是 \\_\\_\\_\\_.\n\n考点与招法（点开看）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_018.txt"
+  },
+  "IMG111": {
+    "text": "【3.42】 设二维随机变量 $(X, Y)$ 在区域 $D = \\{(x, y) \\mid 0 < x < 1, x^2 < y < \\sqrt{x}\\}$ 上服从均匀分布，令\n$$U = \\begin{cases} 1, & X \\leqslant Y, \\\\ 0, & X > Y. \\end{cases}$$\n(P103)\n(1) 写出 $(X, Y)$ 的概率密度；\n(2) 问 $U$ 与 $X$ 是否相互独立？并说明理由；\n(3) 求 $Z = U + X$ 的分布函数 $F_Z(z)$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_022.txt"
+  },
+  "IMG112": {
+    "text": "(5) 设光滑有向曲面 $S$ 的边界曲线为光滑有向闭曲线 $L$，方向符合右手法则，则 $I = \\oint_L \\text{grad} \\sin(x + y + z) \\cdot ds = \\underline{\\qquad\\qquad}$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_022.txt"
+  },
+  "IMG113": {
+    "text": "(1) 设曲线 $L$ 为 $x^2 + y^2 = 1$，取逆时针方向，$f(x, y) > 0$，$f(x, -y) = f(x, y)$。$L_1, L_2, L_3$ 如图示，记 $I_1 = \\int_{L_1} f(x, y) dx, I_2 = \\int_{L_2} f(x, y) ds, I_3 = \\int_{L_3} f(x, y) dx$，则 ( )。\n\n图示内容：\n坐标系中有一单位圆，原点为 $0$。\n$x$ 轴上标注有 $1, -1$；$y$ 轴上标注有 $1, -1$。\n$L_1$ 为第一象限的圆弧，方向为逆时针。\n$L_2$ 为第二象限的圆弧，方向为逆时针。\n$L_3$ 为第三象限的圆弧，方向为逆时针。\n\nA. $I_1 > I_2 > I_3$\nB. $I_2 > I_3 > I_1$\nC. $I_3 > I_2 > I_1$\nD. $I_2 > I_1 > I_3$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_022.txt"
+  },
+  "IMG114": {
+    "text": "计算 $I = \\int_L (2x + y - \\cos y) dx + x \\sin y dy$\n其中 $L$ 是从 $A(-\\pi, 0)$ 沿曲线 $y = \\cos(x + \\frac{\\pi}{2})$ 到 $B(\\pi, 0)$ 的弧段.\n解: $y = \\cos(x + \\frac{\\pi}{2}) = -\\sin x$\n\n[红色手写批注]：\n其实熟练之后，基本就是一眼\n盯真，曲线在 $x$ 上的方向一直\n向右，而 $2x$ 在 $x$ 左半轴 $A(-\\pi, 0)$\n向左，因此做负功，在 $x$\n右半轴向右，因此做正功.\n正负相抵 $\\int_L 2x dx = 0$\n而同理 $\\int_L y dx = 0$\n再看 $\\int_L \\cos y dx$\n由于 $L$ 在 $x$ 左半轴 $0 < y \\leqslant 1$\n故 $\\cos y > 0$ 向右做正功.\n$L$ 在 $x$ 右半轴 $-1 \\leqslant y < 0$\n故 $\\cos y > 0$ 向右依旧做\n正功. 故 $\\int_L \\cos y dx = 2 \\int_{L_1} \\cos y dx$\n其中 $L_1$ 为 $L$ 在第二象限的部分. 再看 $\\int_L x \\sin y dy$\n\n[图示内容]：\n共有三个坐标系，均绘制了曲线 $y = -\\sin x$ 在 $[-\\pi, \\pi]$ 范围内的图形。\n坐标轴标注有 $x, y, O$。\n点标注有 $A(-\\pi, 0), B(\\pi, 0)$。\n曲线上的箭头表示从 $A$ 到 $B$ 的方向。\n第三个图中包含红色虚线标注 $x = -\\frac{\\pi}{2}$ 和 $x = \\frac{\\pi}{2}$，以及红色标注的“正功”、“正功”和受力分析箭头 $F_y, F_x$。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_022.txt"
+  },
+  "IMG115": {
+    "text": "设随机变量 $X$ 的概率密度为 $f_X(x) = \\begin{cases} x, & 0 \\leqslant x < 1, \\\\ 2 - x, & 1 \\leqslant x \\leqslant 2, \\\\ 0, & \\text{其他}, \\end{cases}$ 令\n$$Y = \\begin{cases} -1, & 0 \\leqslant X < 1, \\\\ 1, & 1 \\leqslant X \\leqslant 2. \\end{cases}$$\n求，(I) $Z = XY$ 的概率密度 $f_Z(z)$;\n(II) $\\text{cov}(X, Z)$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_022.txt"
+  },
+  "IMG116": {
+    "text": "已知曲线积分 $\\int_L \\left( yf \\left( \\frac{2y}{x} \\right) - \\frac{2xy^2}{x^2+4y^2} \\right) \\mathrm{d}x + \\left( xf \\left( \\frac{2y}{x} \\right) + \\frac{2x^2y}{x^2+4y^2} \\right) \\mathrm{d}y$ 在第一象限内与路径无关，其中 $f(t)$ 具有连续导数，且 $f(1) = \\frac{\\pi}{4}$. (I) 求 $f(t)$; (II) 取 $L : y = x^2 - 2x + 2$ 上 $(1,1)$ 到 $(2,2)$ 的一段，计算曲线积分\n\n$I = \\int_L \\left( yf \\left( \\frac{2y}{x} \\right) - \\frac{2xy^2}{x^2+4y^2} \\right) \\mathrm{d}x + \\left( xf \\left( \\frac{2y}{x} \\right) + \\frac{2x^2y}{x^2+4y^2} \\right) \\mathrm{d}y$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_023.txt"
+  },
+  "IMG117": {
+    "text": "数学一 · 第14题 $\\nearrow$ 填空题 [X 自评做错] 第 1 次 · 上次今天 难度 3\n\n已知 $f'_x(x,y) + f(x,y) = xy$, 且 $f(0,y) = y$. 则 $f(x,y) = \\_\\_\\_\\_\\_\\_$.\n\n$\\text{\\textsf{\\small \\textbullet \\hspace{0.1cm} 分部积分（含循环型与建立递推）}}$ $\\text{\\textsf{\\small \\textbullet \\hspace{0.1cm} 一阶线性方程}}$ $\\text{\\textsf{\\small \\textbullet \\hspace{0.1cm} 变量代换化偏微分方程（消项 / 化为常微分方程）}}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_023.txt"
+  },
+  "IMG118": {
+    "text": "设曲面 $\\Sigma : y = 1 - 2x^2 - 2z^2 (0 \\leqslant y \\leqslant 1)$, 取右侧，计算曲面积分\n\n$I = \\iint_{\\Sigma} (xy^2 + x) \\mathrm{d}y\\mathrm{d}z + (y^3 - z^2) \\mathrm{d}z\\mathrm{d}x + (zy^2 - x^2) \\mathrm{d}x\\mathrm{d}y$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_023.txt"
+  },
+  "IMG119": {
+    "text": "求二元函数 $f(x,y) = (x^2 + y^2) \\mathrm{e}^{-(x^2 + 2y^2)}$ 的极值.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_023.txt"
+  },
+  "IMG120": {
+    "text": "(14) 微分方程 $y''' - 2y'' - 3y' = \\mathrm{e}^{3x}$ 满足 $y(0) = -\\frac{1}{36}, y'(0) = 0, y''(0) = \\frac{1}{4}$ 的特解为 \\_\\_\\_\\_\\_\\_.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_023.txt"
+  },
+  "IMG121": {
+    "text": "【4.49】 设二维随机变量 $(X, Y)$ 在以点 $(0, 1)$、$(1, 0)$、$(1, 1)$ 为顶点的三角形区域上服从均匀分布，则 $E[\\max(X, Y)] = (\\quad)$ (P145)\nA. $\\frac{1}{6}$\nB. $\\frac{5}{6}$\nC. $\\frac{2}{3}$\nD. $\\frac{3}{4}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_024.txt"
+  },
+  "IMG122": {
+    "text": "【4.24】 设随机变量 $X$ 的概率密度为 $f(x)$，$DX = 2$，随机变量 $Y$ 的概率密度为 $f(-y)$，且 $\\rho_{XY} = -\\frac{1}{3}$，则 $D(X - 2Y) = \\underline{\\qquad}$. (P129)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_024.txt"
+  },
+  "IMG123": {
+    "text": "【4.29】 一商店经销某商品，每周进货的数量 $X$ 与顾客对该种商品的需求量 $Y$ 是相互独立的随机变量，且都服从区间 $\\underline{[10, 20] \\text{ 上的均匀分布}}$. 商店每售出一单位商品可得利润 1000 元；若需求量超过了进货量，商店可从其他商店调剂供应，这时每单位商品获利润为 500 元. 试计算此商店经销该种商品每周所得利润的期望值. (P132)\n\n注：红色下划线位于“[10, 20] 上的均匀分布”下方。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_024.txt"
+  },
+  "IMG124": {
+    "text": "【4.43】 设 $X_1, X_2, \\cdots, X_n$ ($n > 2$) 为来自总体 $N(0, \\sigma^2)$ 的简单随机样本，其样本均值为 $\\underline{\\bar{X}}$. 记 $Y_i = X_i - \\bar{X}$，$i = 1, 2, \\cdots, n$. (P143)\n(1) 求 $Y_i$ 的方差 $D(Y_i)$，$i = 1, 2, \\cdots, n$;\n(2) 求 $Y_1$ 与 $Y_n$ 的协方差 $\\text{Cov}(Y_1, Y_n)$;\n(3) 若 $c(Y_1 + Y_n)^2$ 是 $\\sigma^2$ 的无偏估计量，求常数 $c$.\n\n注：红色下划线位于 $\\bar{X}$ 下方。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_024.txt"
+  },
+  "IMG125": {
+    "text": "数学一/数学三/数学二 $\\cdot$ 2016 $\\cdot$ 第21题 解答题 | 自评部分掌握 | 第4次 $\\cdot$ 上次13天前 | 难度 5 | [星标]\n\n已知矩阵 $A = \\begin{pmatrix} 0 & -1 & 1 \\\\ 2 & -3 & 0 \\\\ 0 & 0 & 0 \\end{pmatrix}$.\n\n(1) 求 $A^{99}$;\n\n(2) 设 3 阶矩阵 $B = (\\alpha_1, \\alpha_2, \\alpha_3)$ 满足 $B^2 = BA$, 记 $B^{100} = (\\beta_1, \\beta_2, \\beta_3)$, 将 $\\beta_1, \\beta_2, \\beta_3$ 分别表示为 $\\alpha_1, \\alpha_2, \\alpha_3$ 的线性组合",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_024.txt"
+  },
+  "IMG126": {
+    "text": "数学一 · 2016 · 第20题 解答题  自评部分掌握  第 4 次 · 上次25 天前  难度 4 [星标]\n\n设矩阵 $A = \\begin{pmatrix} 1 & -1 & -1 \\\\ 2 & a & 1 \\\\ -1 & 1 & a \\end{pmatrix}, B = \\begin{pmatrix} 2 & 2 \\\\ 1 & a \\\\ -a-1 & -2 \\end{pmatrix},$\n\n当 $a$ 为何值时, 方程 $AX = B$ 无解、有唯一解、有无穷多解?\n\n在有解时, 求解此方程\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_025.txt"
+  },
+  "IMG127": {
+    "text": "[蓝色圆圈批注]\n$= \\lim_{x \\to +\\infty} e^{\\frac{1}{\\ln x} \\cdot \\ln \\left( \\frac{\\pi}{2} - \\arctan x \\right)}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_025.txt"
+  },
+  "IMG128": {
+    "text": "[红色圈线批注] 【2.43】 设 $A = \\begin{bmatrix} 3 & 1 & 0 & 0 \\\\ 0 & 3 & 0 & 0 \\\\ 0 & 0 & 3 & 9 \\\\ 0 & 0 & 1 & 3 \\end{bmatrix}$, 则 $A^n = \\underline{\\qquad\\qquad}$. (P77)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_025.txt"
+  },
+  "IMG129": {
+    "text": "【1.11】 设 $\\begin{vmatrix} 2 & 1 & 0 & -1 \\\\ -1 & 2 & -5 & 3 \\\\ 3 & 0 & a & b \\\\ 1 & -3 & 5 & 0 \\end{vmatrix} = A_{41} - A_{42} + A_{43} + 10$, 其中 $A_{ij}$ 为元素 $a_{ij}$ 的代数余子式, 则 $a,$\n$b$ 的值为 ( ). (P17)\nA. $a=4, b=1$\nB. $a=1, b=4$\nC. $a=4, b$ 为任意常数\nD. $a=1, b$ 为任意常数\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_025.txt"
+  },
+  "IMG130": {
+    "text": "数学三 · 2025 · 第15题 填空题  难度 2? [星标]\n\n已知 $f(x) = \\begin{vmatrix} 2x+1 & 3 & 2x+1 & 1 \\\\ 2x & -3 & 4x & -2 \\\\ 2x+1 & 2 & 2x+1 & 1 \\\\ 2x & -4 & 4x & -2 \\end{vmatrix}, g(x) = \\begin{vmatrix} 2x+1 & 1 & 2x+1 & 3 \\\\ 5x+1 & -2 & 4x & -3 \\\\ 0 & 1 & 2x+1 & 2 \\\\ 2x & -2 & 4x & -4 \\end{vmatrix}$, 则方程 $f(x) = g(x)$ 的\n不同的根的个数为 $\\underline{\\qquad\\qquad}$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_025.txt"
+  },
+  "IMG131": {
+    "text": "【2.5】 矩阵 $\\boldsymbol{A} = \\begin{pmatrix} 1 & 1 & 2 \\\\ 2 & 3 & 7 \\\\ 2 & 0 & -2 \\end{pmatrix}, \\boldsymbol{B} = \\begin{pmatrix} 1 & 0 & -1 \\\\ 2 & 1 & 1 \\\\ 2 & 1 & 1 \\end{pmatrix}$, 求所有满足 $\\boldsymbol{PA=B}$ 的可逆矩阵 $\\boldsymbol{P}$. (P37)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_026.txt"
+  },
+  "IMG132": {
+    "text": "【4.35】 设总体 $X$ 的概率分布为\n\n$$\n\\begin{array}{c|ccc}\nX & 1 & 2 & 3 \\\\\n\\hline\nP & 1 - \\theta & \\theta - \\theta^2 & \\theta^2\n\\end{array}\n$$\n\n其中参数 $\\theta \\in (0, 1)$ 未知. 以 $N_i$ 表示来自总体 $X$ 的简单随机样本（样本容量为 $n$）中等于 $i$ 的个数 $(i = 1, 2, 3)$. 试求常数 $a_1, a_2, a_3$, 使 $T = \\sum_{i=1}^3 a_i N_i$ 为 $\\theta$ 的无偏估计量, 并求 $T$ 的方差. (P137)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_026.txt"
+  },
+  "IMG133": {
+    "text": "$$\n\\iint_R = \\int_{-1}^1 (\\sqrt{1+y^2} - |y|) \\, dy = 2 \\int_0^1 (\\sqrt{1+y^2} - y) \\, dy.\n$$\n\n由 $\\int_0^1 \\sqrt{1+y^2} \\, dy = \\frac{1}{2} \\left[ y\\sqrt{1+y^2} + \\ln(y + \\sqrt{1+y^2}) \\right]_0^1 = \\frac{1}{2} (\\sqrt{2} + \\ln(1 + \\sqrt{2})), \\int_0^1 y \\, dy = \\frac{1}{2}$\n\n$$\n\\iint_R = 2 \\left( \\frac{\\sqrt{2}}{2} + \\frac{\\ln(1 + \\sqrt{2})}{2} - \\frac{1}{2} \\right) = \\sqrt{2} + \\ln(1 + \\sqrt{2}) - 1.\n$$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_026.txt"
+  },
+  "IMG134": {
+    "text": "【4.9】 设随机变量 $X$ 与 $Y$ 相互独立, 且 $X \\sim B(1, p), Y \\sim B(2, p), p \\in (0, 1)$, 则 $X + Y$ 与 $X - Y$ 的相关系数为 \\_\\_\\_\\_\\_\\_. (P118)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_026.txt"
+  },
+  "IMG135": {
+    "text": "4 (2019 年第 20 题) 设向量组 $\\boldsymbol{\\alpha}_1 = (1, 2, 1)^\\text{T}, \\boldsymbol{\\alpha}_2 = (1, 3, 2)^\\text{T}, \\boldsymbol{\\alpha}_3 = (1, a, 3)^\\text{T}$ 为 $\\mathbf{R}^3$ 的一个基, $\\boldsymbol{\\beta} = (1, 1, 1)^\\text{T}$ 在这个基下的坐标为 $(b, c, 1)^\\text{T}$.\n( I ) 求 $a, b, c$;\n( II ) 证明 $\\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3, \\boldsymbol{\\beta}$ 为 $\\mathbf{R}^3$ 的一个基, 并求 $\\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3, \\boldsymbol{\\beta}$ 到 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3$ 的过渡矩阵.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_026.txt"
+  },
+  "IMG136": {
+    "text": "【4.7】 设 $A = \\begin{pmatrix} 1 & a \\\\ 1 & 0 \\end{pmatrix}, B = \\begin{pmatrix} 0 & 1 \\\\ 1 & b \\end{pmatrix}$. 当 $a, b$ 为何值时, 存在矩阵 $C$ 使得 $AC - CA = B$, 并求所有矩阵 $C$. (P157)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_027.txt"
+  },
+  "IMG137": {
+    "text": "【5.24】 已知矩阵 $A = \\begin{pmatrix} -2 & -2 & 1 \\\\ 2 & x & -2 \\\\ 0 & 0 & -2 \\end{pmatrix}$ 与 $B = \\begin{pmatrix} 2 & 1 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & y \\end{pmatrix}$ 相似. (P204)\n\n(1) 求 $x, y$;\n(2) 求可逆矩阵 $P$, 使得 $P^{-1}AP = B$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_027.txt"
+  },
+  "IMG138": {
+    "text": "随机变量 $X \\sim B(2, p), Y \\sim B(3, p)$, 若 $P\\{X \\ge 1\\} = \\frac{5}{9}$, 则 $P\\{Y \\ge 1\\} = \\_\\_\\_\\_\\_\\_, P\\{Y \\ge 2\\} = \\_\\_\\_\\_\\_\\_$\n\n[蓝色手写批注]：$P\\{x=1\\} + P\\{x=2\\} = \\frac{5}{9}$\n\n[红色手写批注]：\n$\\underline{P\\{X \\ge 1\\} = \\frac{5}{9}} \\Rightarrow P\\{X < 1\\} = \\frac{4}{9}$. 即 $P\\{X = 0\\} = \\frac{4}{9}$ (注：下划线为蓝色)\n$C_2^0 p^0 (1-p)^2 \\therefore \\underbrace{(1-p)^2} = \\frac{4}{9} \\Rightarrow p = \\frac{1}{3}$ 或 $p = \\frac{5}{3}$ (舍) (注：花括号处为紫色波浪线)\n$P\\{Y \\ge 1\\} = 1 - P\\{Y < 1\\} = 1 - P\\{Y = 0\\} = 1 - (1 - \\frac{1}{3})^3 = \\frac{19}{27}$\n$P\\{Y \\ge 2\\} = P\\{Y = 2\\} + P\\{Y = 3\\} = C_3^2 (\\frac{1}{3})^2 \\cdot (\\frac{2}{3})^1 + (\\frac{1}{3})^3 = \\frac{7}{27}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_027.txt"
+  },
+  "IMG139": {
+    "text": "【4.39】 设总体 $X$ 的概率密度为 $f(x) = \\frac{1}{2} e^{-|x|} \\ (-\\infty < x < +\\infty)$, $X_1, X_2, \\cdots, X_n$ 为总体 $X$ 的简单随机样本, 其样本方差为 $S^2$, 则 $E(S^2) = \\_\\_\\_\\_\\_\\_\\_\\_. \\text{(P141)}$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_027.txt"
+  },
+  "IMG140": {
+    "text": "【4.11】 设随机变量 $X$ 的概率密度为\n$$f(x) = \\begin{cases} 2^{-x} \\ln 2, & x > 0, \\\\ 0, & x \\le 0. \\end{cases}$$\n对 $X$ 进行独立重复的观测, 直到第 2 个大于 3 的观测值出现时停止, 记 $Y$ 为观测次数. (P120)\n\n(1) 求 $Y$ 的概率分布;\n(2) 求 $E(Y)$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_027.txt"
+  },
+  "IMG141": {
+    "text": "【例 3】 求曲线积分 $I = \\int_{L} 2yzdx + (2z - z^2)dy + (y^2 + 2xy + 3y)dz$, 其中 L 为闭曲线\n$\\begin{cases} x^2 + y^2 + z^2 = 1, \\\\ x + y + z = 3/2, \\end{cases}$ 从原点向 L 看去, L 沿顺时针方向. <font color=\"#336699\">(P664)</font>\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_028.txt"
+  },
+  "IMG142": {
+    "text": "【3.22】 设向量组 $\\boldsymbol{\\alpha}_1 = [1, 1, 1, 3]^T, \\boldsymbol{\\alpha}_2 = [-1, -3, 5, 1]^T, \\boldsymbol{\\alpha}_3 = [3, 2, -1, a + 2]^T, \\boldsymbol{\\alpha}_4 = [-2, -6, 10, a]^T$.\n<font color=\"#336699\">(P119)</font>\n(1) $a$ 为何值时, 该向量组线性无关? 并在此时将<ins>向量 $\\boldsymbol{\\alpha}$</ins> $= [4, 1, 6, 10]^T$ 用 <ins>$\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3, \\boldsymbol{\\alpha}_4$ 线性表</ins>示;\n(2) $a$ 为何值时, 该向量组线性相关? 并在此时求出它的秩和一个极大线性无关组.\n\n注：(1)中“向量 $\\boldsymbol{\\alpha}$”和“$\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3, \\boldsymbol{\\alpha}_4$ 线性表”下方有红色手写下划线。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_028.txt"
+  },
+  "IMG143": {
+    "text": "<font color=\"#336699\">○</font>\n【6.23】 设二次型 $f(x_1, x_2, x_3) = x_1^2 + x_2^2 + x_3^2 + 2ax_1x_2 + 2ax_1x_3 + 2ax_2x_3$ 经可逆线性变换\n$\\begin{pmatrix} x_1 \\\\ x_2 \\\\ x_3 \\end{pmatrix} = \\boldsymbol{P} \\begin{pmatrix} y_1 \\\\ y_2 \\\\ y_3 \\end{pmatrix}$ 化为二次型 $g(y_1, y_2, y_3) = y_1^2 + y_2^2 + 4y_3^2 + 2y_1y_2$. <font color=\"#336699\">(P241/244)</font>\n(1) 求 $a$ 的值;\n(2) 求可逆矩阵 $\\boldsymbol{P}$.\n\n注：题号上方有一个蓝色圆圈批注。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_028.txt"
+  },
+  "IMG144": {
+    "text": "【例 12】 设 P 为椭球面 $S : x^2 + y^2 + z^2 - yz = 1$ 上的动点, 若 S 在点 P 处的切平面与 xOy 面垂直, 求点 P 的轨迹 C, 并计算曲面积分 $I = \\iint\\limits_{\\Sigma} \\frac{(x + \\sqrt{3})|y - 2z|}{\\sqrt{4 + y^2 + z^2 - 4yz}} dS$, 其中 $\\Sigma$ 是椭球面 S 位于曲线 C 上方的部分. <font color=\"#336699\">(P678)</font>\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_028.txt"
+  },
+  "IMG145": {
+    "text": "<font color=\"#336699\">○</font>\n【0.1】 若 $\\boldsymbol{A} = \\begin{bmatrix} 0 & 1 & 3 \\\\ 1 & -1 & 0 \\\\ -1 & 2 & 1 \\end{bmatrix}$, 则 $\\boldsymbol{A}^{-1} = \\underline{\\qquad\\qquad}$. <font color=\"#336699\">(P1)</font>\n\n注：题号上方有一个蓝色圆圈批注。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_028.txt"
+  },
+  "IMG146": {
+    "text": "设 $\\Sigma$ 为整个椭球面 $\\frac{x^2}{4} + \\frac{y^2}{9} + z^2 = 1$ 的外侧。\n快速判断下列两个积分是 0 还是 非 0（不用算具体数，只说是不是 0）：\n\n1. $I_1 = \\iint_{\\Sigma} (x^4 + y^2 \\sin z) \\mathrm{d}S$\n2. $I_2 = \\iint_{\\Sigma} (x^4 + y^2 \\sin z) \\mathrm{d}x\\mathrm{d}y$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_029.txt"
+  },
+  "IMG147": {
+    "text": "第 1 小问（第一类）：$I_1 = \\iint_{\\Sigma} (x^4 + y^2 \\sin z) \\mathrm{d}S$\n\n【严谨式子证明】：\n拆成上下两块皮：\n$$I_1 = \\iint_{\\Sigma_{\\text{上}}} (x^4 + y^2 \\sin z) \\mathrm{d}S + \\iint_{\\Sigma_{\\text{下}}} (x^4 + y^2 \\sin z) \\mathrm{d}S$$\n因为上下两块皮关于 $xOy$ 面完全对称，下半球上的点坐标为 $(x, y, -z)$，且面积 $\\mathrm{d}S$ 不变：\n$$I_1 = \\iint_{\\Sigma_{\\text{上}}} (x^4 + y^2 \\sin z) \\mathrm{d}S + \\iint_{\\Sigma_{\\text{上}}} [x^4 + y^2 \\sin(-z)] \\mathrm{d}S$$\n合并同类项：\n$$I_1 = \\iint_{\\Sigma_{\\text{上}}} [x^4 + x^4 + y^2 \\sin z - y^2 \\sin z] \\mathrm{d}S = 2 \\iint_{\\Sigma_{\\text{上}}} x^4 \\mathrm{d}S + 0$$\n• 结论：$y^2 \\sin z$ 正好抵消为 0，但 $x^4$ 变成了 2 倍！总结果是非 0！（你第1题直觉是对的，不要怀疑自己！）\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_029.txt"
+  },
+  "IMG148": {
+    "text": "第 2 小问（第二类）：$I_2 = \\iint_{\\Sigma} (x^4 + y^2 \\sin z) \\mathrm{d}x\\mathrm{d}y$\n\n【严谨式子证明（投影法）】：\n记椭球面在 $xOy$ 面上的投影区域为椭圆平面 $D$。\n\n• 上半球 $\\Sigma_{\\text{上}}$ 取外侧（即上侧），投影带正号：\n$$\\iint_{\\Sigma_{\\text{上}}} (x^4 + y^2 \\sin z) \\mathrm{d}x\\mathrm{d}y = + \\iint_{D} [x^4 + y^2 \\sin(z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y$$\n• 下半球 $\\Sigma_{\\text{下}}$ 取外侧（即下侧），投影必须带负号：\n$$\\iint_{\\Sigma_{\\text{下}}} (x^4 + y^2 \\sin z) \\mathrm{d}x\\mathrm{d}y = - \\iint_{D} [x^4 + y^2 \\sin(z_{\\text{下}})] \\mathrm{d}x\\mathrm{d}y$$\n注意！下半球的 $z_{\\text{下}} = -z_{\\text{上}}$，代进去：\n$$= - \\iint_{D} [x^4 + y^2 \\sin(-z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y = - \\iint_{D} [x^4 - y^2 \\sin(z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y$$\n现在把上下两半球加起来：\n$$I_2 = \\iint_{D} [x^4 + y^2 \\sin(z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y - \\iint_{D} [x^4 - y^2 \\sin(z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y$$\n$$I_2 = \\iint_{D} [x^4 - x^4] \\mathrm{d}x\\mathrm{d}y + \\iint_{D} [y^2 \\sin(z_{\\text{上}}) + y^2 \\sin(z_{\\text{上}})] \\mathrm{d}x\\mathrm{d}y$$\n$$I_2 = 0 + 2 \\iint_{D} y^2 \\sin(z_{\\text{上}}) \\mathrm{d}x\\mathrm{d}y$$\n注意！虽然 $x^4$ 抵消了，但剩下的 $2 \\iint_{D} y^2 \\sin(z_{\\text{上}}) \\mathrm{d}x\\mathrm{d}y$ 里，上半球的 $z_{\\text{上}} > 0$，所以 $\\sin(z_{\\text{上}}) > 0$，被积函数严格大于 0，积出来也是非 0！\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_029.txt"
+  },
+  "IMG149": {
+    "text": "又 $F'_y = \\varphi'_y(y, z) = 2y$，解得 $\\varphi(y, z) = y^2 + \\psi(z)$，所以 $F(x, y, z) = x^2 + y^2 + \\psi(z)$.\n再 $F'_z = \\psi'(z) = 2z$，解得 $\\psi(z) = z^2 + C$，所以 $F(x, y, z) = x^2 + y^2 + z^2 + C$. 代入初始条件 $F(0, 0, 0) = -1$，有 $C = -1$\n曲面方程为 $\\Sigma : x^2 + y^2 + z^2 - 1 = 0$，即 $x^2 + y^2 + z^2 = 1$。记 $\\Sigma_1 : z = \\sqrt{1 - x^2 - y^2}, D : x^2 + y^2 \\le 1$。\n$$\\mathrm{d}S = \\sqrt{1 + (z'_x)^2 + (z'_y)^2} \\mathrm{d}x\\mathrm{d}y = \\frac{\\mathrm{d}x\\mathrm{d}y}{\\sqrt{1 - x^2 - y^2}},$$\n$$I = 2 \\iint_{\\Sigma_1} (x^2 + y^2)^2 \\mathrm{d}S = 2 \\iint_{D} (x^2 + y^2)^2 \\cdot \\frac{1}{\\sqrt{1 - x^2 - y^2}} \\mathrm{d}x\\mathrm{d}y$$\n$$= 2 \\int_{0}^{2\\pi} \\mathrm{d}\\theta \\int_{0}^{1} r^4 \\cdot \\frac{1}{\\sqrt{1 - r^2}} \\cdot r \\mathrm{d}r (r = \\sin t)$$\n$$= 4\\pi \\int_{0}^{\\frac{\\pi}{2}} \\frac{\\sin^5 t}{\\cos t} \\cdot \\cos t \\mathrm{d}t = 4\\pi \\cdot \\frac{4}{5} \\cdot \\frac{2}{3} \\cdot 1 = \\frac{32}{15}\\pi.$$\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_029.txt"
+  },
+  "IMG150": {
+    "text": "【7.74】 已知 $\\cos 2x - \\frac{1}{(1 + x)^2} = \\sum_{n=0}^{\\infty} a_n x^n (-1 < x < 1)$，求 $a_n$。 (P522)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_029.txt"
+  },
+  "IMG151": {
+    "text": "【2.73】 设 $f(x)$ 在 $[a, b]$ 上连续，在 $(a, b)$ 内可导，$0 < a < b$，且 $f(a) = 0$，证明：至少存在一个点 $\\xi \\in (a, b)$，使得 $af(\\xi) + (\\xi - b)f'(\\xi) = 0$。 [彩色批注：(P172) 为蓝色]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_030.txt"
+  },
+  "IMG152": {
+    "text": "【2.78】 设函数 $f(x)$ 在闭区间 $[0, 1]$ 上连续，在开区间 $(0, 1)$ 内可导，且 $f(0) = 0, f(1) = \\frac{1}{3}$。证明：存在 $\\xi \\in (0, \\frac{1}{2}), \\eta \\in (\\frac{1}{2}, 1)$，使得 $f'(\\xi) + f'(\\eta) = \\xi^2 + \\eta^2$。 [彩色批注：(P177) 为蓝色]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_030.txt"
+  },
+  "IMG153": {
+    "text": "设 $f(x)$ 非负连续，且 $f(x) \\int_{0}^{x} f(x-t)dt = \\sin^4 x$ ，则 $f(x)$ 在 $[0, \\frac{\\pi}{2}]$ 上的平均值为 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n注：\n1. “平均值为”下方有蓝色波浪线。\n2. $\\sin^4 x$ 后的逗号下方有蓝色手写批注 [不确定]。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2153.txt"
+  },
+  "IMG154": {
+    "text": "【例 1】 设 $f''(x)$ 在 $x = 0$ 处连续，$f'(0) = 0$，$f''(0) = 1$，求 $\\lim_{x \\to 0} \\frac{\\int_0^x \\{f(t) - f[\\ln(1 + t)]\\}dt}{x^4}$。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_030.txt"
+  },
+  "IMG155": {
+    "text": "【1.69】 设有数列 $\\{x_n\\}$，已知 $\\lim_{n \\to \\infty} (x_{n+1} - x_n) = 0$，则以下 4 个结论中正确的个数是 ( ) [彩色批注：(P49) 为蓝色]\n(1) $\\{x_n\\}$ 必收敛；\n(2) 若 $\\{x_n\\}$ 单调，则 $\\{x_n\\}$ 必收敛；\n(3) 若 $\\{x_n\\}$ 有界，则 $\\{x_n\\}$ 必收敛；\n(4) 若 $\\{x_{3n}\\}$ 收敛，则 $\\{x_n\\}$ 必收敛。\nA. 1\nB. 2\nC. 3\nD. 4",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_030.txt"
+  },
+  "IMG156": {
+    "text": "【1.71】 设数列 $\\{a_n\\}$ 满足 $a_n = \\sqrt[n]{n}, n = 1, 2, \\dots$ , 则下列命题中, 正确的是( ) (P52)\n\nA. 数列 $\\{a_n\\}$ 能取到最小值, 但取不到最大值.\n\nB. 数列 $\\{a_n\\}$ 能取到最大值, 但取不到最小值.\n\nC. 数列 $\\{a_n\\}$ 既能取到最大值, 又能取到最小值.\n\nD. 数列 $\\{a_n\\}$ 既不能取到最大值, 又不能取到最小值.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_031.txt"
+  },
+  "IMG157": {
+    "text": "【1.76】 设 $\\{a_n\\}, \\{b_n\\}$ 均为正项数列, 其中 $\\{a_n\\}$ 无界, $\\{b_n\\}$ 有界, 则下列数列中, 一定有界的是( ) (P55)\n\nA. $\\{\\frac{b_n}{a_n}\\}$.\n\nB. $\\{\\frac{b_n}{1 + a_n b_n}\\}$.\n\nC. $\\{\\sqrt[n]{a_n b_n}\\}$.\n\nD. $\\{a_n b_n - a_{n-1} b_{n-1}\\}$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_031.txt"
+  },
+  "IMG158": {
+    "text": "【1.84】 极限 $\\lim_{n \\to \\infty} \\frac{\\sqrt{1} + \\sqrt{2} + \\dots + \\sqrt{n}}{\\sqrt{n(1 + 2 + \\dots + n)}} = \\underline{\\qquad\\qquad}$ (P65)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_031.txt"
+  },
+  "IMG159": {
+    "text": "【1.91】 设 $f(x)$ 是区间 $[0, +\\infty)$ 上单调减少且非负的连续函数, $a_n = \\sum_{k=1}^{n} f(k) - \\int_{1}^{n} f(x) \\mathrm{d}x (n = 1, 2, \\dots)$, 证明数列 $\\{a_n\\}$ 的极限存在。 (P72)\n\n[图示批注：一个带有“转符号”文字及操作手柄的矩形选框]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_031.txt"
+  },
+  "IMG160": {
+    "text": "(18) (本题满分 12 分) 设函数 $f(x)$ 在 $(-\\infty, +\\infty)$ 内可导, 且 $f(0) = 1, f'(x) > 1$. 若 $x_1 > 0, f(x_{n+1}) = f(x_n) - x_n$.\n\n(Ⅰ) 证明 $\\lim_{n \\to \\infty} x_n$ 存在, 并求之;\n\n(Ⅱ) 求极限 $\\lim_{n \\to \\infty} (x_1 + x_2 + \\dots + x_n)$.\n\n[红色手写批注]：\n在 $x_1 > 0$ 下方有波浪线。\n右侧标注：给出首项信息、想到数学归纳法",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_031.txt"
+  },
+  "IMG166": {
+    "text": "【2.79】 已知函数 $f(x)$ 在 $[0, 1]$ 上具有 2 阶导数，且 $f(0) = 0, f(1) = 1, \\int_0^1 f(x) dx = 1$. 证明：\n(P178)\n(1) 存在 $\\xi \\in (0, 1)$, 使得 $f'(\\xi) = 0$;\n(2) 存在 $\\eta \\in (0, 1)$, 使得 $f''(\\eta) < -2$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_033.txt"
+  },
+  "IMG167": {
+    "text": "【2.76】 设 $f(x)$ 在 $[0, 1]$ 上二阶可导，且 $\\lim_{x \\to 0^+} \\frac{f(x)}{x} = \\lim_{x \\to 1^-} \\frac{f(x)}{x - 1} = 1$, 证明： (P175)\n(1) 至少存在一点 $\\xi \\in (0, 1)$, 使得 $f(\\xi) = 0$;\n(2) 至少存在一点 $\\eta \\in (0, 1)$, 使得 $f''(\\eta) = f(\\eta)$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_033.txt"
+  },
+  "IMG168": {
+    "text": "【2.26】 设函数 $f(x)$ 连续，给出下列四个条件 (P131)\n(1) $\\lim_{x \\to 0} \\frac{|f(x)| - f(0)}{x}$ 存在；\n(2) $\\lim_{x \\to 0} \\frac{f(x) - |f(0)|}{x}$ 存在；\n(3) $\\lim_{x \\to 0} \\frac{|f(x)|}{x}$ 存在；\n(4) $\\lim_{x \\to 0} \\frac{|f(x)| - |f(0)|}{x}$ 存在；\n其中能得到 “$f(x)$ 在 $x = 0$ 处可导” 的条件个数是 ( ).\nA. 1.\nB. 2.\nC. 3.\nD. 4.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_033.txt"
+  },
+  "IMG169": {
+    "text": "【2.23】 若函数 $f(x) = |\\ln x - ax|$ 有两个不可导点，则常数 $a$ 的取值范围为 ( ). (P129)\nA. $a \\le 0$\nB. $0 < a < e^{-1}$\nC. $a < e^{-1}$\nD. $a \\ge e^{-1}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_033.txt"
+  },
+  "IMG170": {
+    "text": "【2.19】 已知函数 $f(x)$ 连续且 $\\lim_{x \\to 0} \\frac{f(x)}{x} = 1, g(x) = \\int_0^1 f(xt) dt$, 求 $g'(x)$ 并证明 $g'(x)$ 在 $x = 0$ 处连续. (P125)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_033.txt"
+  },
+  "IMG171": {
+    "text": "【2.31】 设函数 $f(x)$ 有二阶导数，且 $\\lim_{x \\to 0} \\frac{f(x) - a}{\\ln(1 + x)} = 0, \\lim_{x \\to 0} \\frac{f''(x) - 1}{e^{x^2} - 1} = 2021$，则 ( ) (P141)\n\nA. $f(0)$ 是 $f(x)$ 的极大值.\n\nB. $f(0)$ 是 $f(x)$ 的极小值.\n\nC. $(0, f(0))$ 是曲线 $y = f(x)$ 的拐点.\n\nD. $f(0)$ 不是 $f(x)$ 的极值，$(0, f(0))$ 也不是曲线 $y = f(x)$ 的拐点.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_034.txt"
+  },
+  "IMG172": {
+    "text": "【2.32】 设函数 $f(x)$ 具有四阶连续的导数，且 $\\lim_{x \\to 0} \\frac{f(x)}{x^4} = 1$，则 ( ) (P141)\n\nA. 点 $(0,0)$ 为曲线 $y = f'(x)$ 的拐点，点 $x=0$ 为 $f''(x)$ 的极小值点\n\nB. 点 $(0,0)$ 为曲线 $y = f'(x)$ 的拐点，点 $x=0$ 为 $f''(x)$ 的极大值点\n\nC. 点 $(0,0)$ 为曲线 $y = f''(x)$ 的拐点，点 $x=0$ 为 $f'(x)$ 的极小值点\n\nD. 点 $(0,0)$ 为曲线 $y = f''(x)$ 的拐点，点 $x=0$ 为 $f'(x)$ 的极大值点\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_034.txt"
+  },
+  "IMG173": {
+    "text": "蓝圈批注：○\n\n【2.6】 下列命题中正确的个数为 ( ) . (P111)\n\n(1) 设 $\\lim_{x \\to x_0^-} f'(x)$ 与 $\\lim_{x \\to x_0^+} f'(x)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；\n\n(2) 设 $f'_-(x_0)$ 与 $f'_+(x_0)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；\n\n(3) 设 $f(x_0^-)$ 与 $f(x_0^+)$ 均存在，则 $f(x)$ 在 $x = x_0$ 处必连续；\n\n(4) 设 $\\lim_{x \\to x_0^-} f'(x)$ 与 $\\lim_{x \\to x_0^+} f'(x)$ 中至少有一个不存在，则 $f(x)$ 在 $x = x_0$ 处必不可导。\n\nA. 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; C. 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. 4\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_034.txt"
+  },
+  "IMG174": {
+    "text": "【7.37】 设级数 (1) $\\sum_{n=1}^{\\infty} \\frac{1}{n^{1+\\frac{1}{n}}}$, (2) $\\sum_{n=2}^{\\infty} \\frac{1}{n^{1+\\frac{1}{\\sqrt{\\ln n}}}}$, 则 ( ) (P488)\n\nA. (1) 收敛, (2) 发散. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. (1) 发散, (2) 收敛.\n\nC. (1)(2) 均收敛. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. (1)(2) 均发散.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_034.txt"
+  },
+  "IMG175": {
+    "text": "蓝圈批注：○\n\n【7.33】 下列级数中发散的是 ( ) . (P486)\n\nA. $\\sum_{n=2}^{\\infty} \\frac{\\sqrt{\\ln n}}{n^3}$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; B. $\\sum_{n=2}^{\\infty} \\frac{\\ln n}{n^2}$\n\nC. $\\sum_{n=2}^{\\infty} \\frac{(-1)^n}{n - \\ln n}$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; D. $\\sum_{n=3}^{\\infty} \\frac{1}{n \\ln n \\ln(\\ln n)}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_034.txt"
+  },
+  "IMG176": {
+    "text": "【7.64】 若 $a_0 = 1, a_1 = 0, a_{n+1} = \\frac{1}{n+1}(na_n + a_{n-1})(n = 1, 2, 3, \\cdots), S(x)$ 为幂级数 $\\sum_{n=0}^{\\infty} a_n x^n$ 的和函数. (P512/524)\n\n(1) 证明 $\\sum_{n=0}^{\\infty} a_n x^n$ 的收敛半径不小于 1;\n(2) 证明 $(1 - x)S'(x) - xS(x) = 0(x \\in (-1, 1))$, 并求 $S(x)$ 的表达式.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_035.txt"
+  },
+  "IMG177": {
+    "text": "【7.19】 设正值数列 $\\{a_n\\}, \\{b_n\\}$ 满足 $b_1 = 1, b_{n+1}(b_{n+1} - b_n) = a_n(n = 1, 2, \\cdots)$, 则 $\\{b_n\\}$ 收敛是级数 $\\sum_{n=1}^{\\infty} a_n$ 收敛的 ( ). (P478)\n\n[彩色批注：$\\{b_n\\}$ 收敛 被红色圈起，$\\sum_{n=1}^{\\infty} a_n$ 下方有红色下划线]\n\nA. 充分非必要条件\nB. 必要非充分条件\nC. 充分必要条件\nD. 既非充分也非必要条件\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_035.txt"
+  },
+  "IMG178": {
+    "text": "[蓝色方框内手写文字：]\n$\\sum_{n=1}^{\\infty} (u_{n+1} - u_n) = u_2 - u_1 + u_3 - u_2 \\cdots + u_{n+1} - u_n = u_{n+1} - u_1$\n$\\therefore \\sum_{n=1}^{\\infty} (u_{n+1} - u_n)$ 收敛 $\\Leftrightarrow \\lim_{n \\to \\infty} u_{n+1}$ 存在 $\\Leftrightarrow \\lim_{n \\to \\infty} u_n$ 存在\n\n[彩色批注：方框左侧有一紫色箭头指向第二行；方框右侧有一蓝色符号 ※]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_035.txt"
+  },
+  "IMG179": {
+    "text": "【7.85】 (数一) 将函数 $f(x) = 2 + |x|(-1 \\leqslant x \\leqslant 1)$ 展开成以 2 为周期的傅里叶级数, 并由此求级数 $\\sum_{n=1}^{\\infty} \\frac{1}{n^2}$ 的和. (P533)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_035.txt"
+  },
+  "IMG180": {
+    "text": "[彩色批注：题号左侧有一蓝色圆圈]\n\n【7.39】 设 $\\sum_{n=1}^{\\infty} \\frac{(x - a)^n}{n}$ 在 $x = -2$ 处条件收敛, 则 $\\sum_{n=1}^{\\infty} n^2(x - a)^n$ 在 $x = \\ln \\frac{1}{2}$ 处 ( ) (P490)\n\nA. 绝对收敛.\nB. 条件收敛.\nC. 必发散.\nD. 敛散性由 $a$ 确定.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_035.txt"
+  },
+  "IMG181": {
+    "text": "【7.67】 设数列 $\\{a_n\\}$ 满足 $a_0 = 1$，且当 $n \\geqslant 1$ 时，$2na_n = \\left(n + \\frac{3}{2}\\right)a_{n-1}$。 (P514)\n\n(1) 求幂级数 $\\sum_{n=0}^{\\infty} a_n x^n$ 的收敛半径 $R$;\n\n(2) 求幂级数 $\\sum_{n=0}^{\\infty} a_n x^n$ 在 $(-R, R)$ 上的和函数.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_036.txt"
+  },
+  "IMG182": {
+    "text": "【7.11】 设有两个数列 $\\{a_n\\}, \\{b_n\\}$，若 $\\lim_{n \\to \\infty} a_n = 0$，则 ( ) (P471)\n\nA. 当 $\\sum_{n=1}^{\\infty} b_n$ 收敛时，$\\sum_{n=1}^{\\infty} a_n b_n$ 收敛.\n\nB. 当 $\\sum_{n=1}^{\\infty} b_n$ 发散时，$\\sum_{n=1}^{\\infty} a_n b_n$ 发散.\n\nC. 当 $\\sum_{n=1}^{\\infty} |b_n|$ 收敛时，$\\sum_{n=1}^{\\infty} a_n^2 b_n^2$ 收敛.\n\nD. 当 $\\sum_{n=1}^{\\infty} |b_n|$ 发散时，$\\sum_{n=1}^{\\infty} a_n^2 b_n^2$ 发散.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_036.txt"
+  },
+  "IMG183": {
+    "text": "【7.59】 $f(x) = \\frac{1}{x^2 + 3x + 2}$ 在 $x = 1$ 处展开成幂级数 (P507)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_036.txt"
+  },
+  "IMG184": {
+    "text": "【7.42】 设幂级数 $\\sum_{n=0}^{\\infty} a_{2n}(x - 1)^{2n}$ 在 $x = 5$ 处条件收敛，则 $\\sum_{n=0}^{\\infty} n a_{2n}^2 (x - 3)^{4n+1}$ 的收敛区间为 ( ) (P492)\n\nA. $(1, 5)$ $\\quad$ B. $(-1, 7)$ $\\quad$ C. $(-5, 11)$ $\\quad$ D. $(-13, 19)$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_036.txt"
+  },
+  "IMG185": {
+    "text": "【7.65】 已知幂级数 $\\sum_{n=1}^{\\infty} a_{2n} x^{2n}$ 的收敛域为 $[-1, 1]$，其和函数 $S(x)$ 满足方程 $x S'(x) - S(x) = \\frac{x^2}{1 + x^2}$，求： (P513)\n\n(1) $S(x)$ 的解析式；\n\n(2) $S(x)$ 在 $x=0$ 处的 $n$ 阶导数 $S^{(n)}(0)$；\n\n(3) 数项级数 $\\sum_{n=1}^{\\infty} \\frac{a_{2n}}{n}$ 的和.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_036.txt"
+  },
+  "IMG186": {
+    "text": "【7.75】 设 $a_n = \\int_0^{\\frac{\\pi}{4}} \\tan^n x dx$. (P523)\n\n(1) 求 $\\sum_{n=1}^{\\infty} \\frac{1}{n}(a_n + a_{n+2})$ 的值.\n\n(2) 试证：对任意的常数 $\\lambda > 0$, 级数 $\\sum_{n=1}^{\\infty} \\frac{a_n}{n^\\lambda}$ 收敛.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_037.txt"
+  },
+  "IMG187": {
+    "text": "【7.30】 设 $u_n \\neq 0(n = 1, 2, \\dots)$, 且 $\\lim_{n \\to \\infty} \\frac{n}{u_n} = 1$, 则级数 $\\sum_{n=1}^{\\infty} (-1)^{n+1} \\left( \\frac{1}{u_n} + \\frac{1}{u_{n+1}} \\right)$ ( ) (P485)\n\nA. 发散. $\\quad$ B. 绝对收敛. $\\quad$ C. 条件收敛. $\\quad$ D. 敛散性不定.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_037.txt"
+  },
+  "IMG188": {
+    "text": "【7.86】 (数一) 证明 $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1} \\cos nx}{n^2} = \\frac{\\pi^2}{12} - \\frac{x^2}{4}, -\\pi \\leqslant x \\leqslant \\pi$, 并求数项级数 $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1}}{n^2}$ 的和。 (P534)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_037.txt"
+  },
+  "IMG189": {
+    "text": "【7.76】 记 $a_n = \\int_0^1 x^2 (\\ln x)^n dx, n = 0, 1, 2, \\dots$ (P525)\n\n(1) 求 $\\lim_{n \\to \\infty} \\frac{(-1)^n}{a_n}$;\n\n(2) 求 $\\sum_{n=0}^{\\infty} \\frac{x^n}{a_n}$ 的收敛域，并计算其和函数.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_037.txt"
+  },
+  "IMG190": {
+    "text": "[彩色批注：左上角有一蓝色圆圈]\n【7.82】 (数一) 将 $f(x) = x^2$ 在 $(0, \\pi)$ 上分别展开为正弦级数和余弦级数。 (P530)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_037.txt"
+  },
+  "IMG191": {
+    "text": "【7.68】 设 $a_1 = a_2 = 1, a_{n+1} = a_n + a_{n-1} (n = 2, 3, \\cdots)$, 试证 $\\sum_{n=1}^{\\infty} a_n x^{n-1}$ 在 $|x| < \\frac{1}{2}$ 处必收敛，并求其和函数。 (P516)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_038.txt"
+  },
+  "IMG192": {
+    "text": "【7.47.1】 求幂级数 $\\sum_{n=1}^{\\infty} \\frac{1}{3^n + (-2)^n} \\frac{x^n}{n}$ 的收敛区间，并讨论该区间端点处的收敛性。 (P499)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_038.txt"
+  },
+  "IMG193": {
+    "text": "方法一：拆项法（推荐，直接实现你“抹掉次要项”的直觉）\n\n既然你想把分母上的杂项 $(-2)^n$ 剥离出来，就做恒等变形（分子加一项减一项）：\n\n通项变形为：\n$a_n = \\frac{(-3)^n}{3^n + (-2)^n} \\cdot \\frac{1}{n} = \\frac{(-1)^n}{1 + (-\\frac{2}{3})^n} \\cdot \\frac{1}{n}$\n$= \\frac{(-1)^n [1 + (-\\frac{2}{3})^n - (-\\frac{2}{3})^n]}{1 + (-\\frac{2}{3})^n} \\cdot \\frac{1}{n}$\n$= \\frac{(-1)^n}{n} - \\frac{(-1)^n (-\\frac{2}{3})^n}{1 + (-\\frac{2}{3})^n} \\cdot \\frac{1}{n}$\n\n现在原级数被精确拆成了两个级数 $\\sum a_n = \\sum b_n - \\sum c_n$:\n\n1. 第一部分 $\\sum_{n=1}^{\\infty} \\frac{(-1)^n}{n}$: 由莱布尼兹判别法，显然收敛；\n\n2. 第二部分 $\\sum_{n=1}^{\\infty} c_n$: 直接加绝对值判绝对收敛：\n$|c_n| = \\frac{(\\frac{2}{3})^n}{|1 + (-\\frac{2}{3})^n|} \\cdot \\frac{1}{n} \\le \\frac{(\\frac{2}{3})^n}{1 - \\frac{2}{3}} \\cdot 1 = 3 \\cdot (\\frac{2}{3})^n$\n因为等比级数 $\\sum (\\frac{2}{3})^n$ 收敛，由比较审敛法， $\\sum c_n$ 绝对收敛（故收敛）。\n\n两个收敛级数的差必然收敛！\n（这种写法完全顺应了你的直觉：把主项 $\\frac{(-1)^n}{n}$ 提出来，剩下的尾巴被公比为 $\\frac{2}{3}$ 的指数迅速衰减压制住。）\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_038.txt"
+  },
+  "IMG194": {
+    "text": "【7.15】 设 $\\{u_n\\}$ 为正项数列，级数 $\\sum_{n=1}^{\\infty} (-1)^{n-1} u_n$ 条件收敛，则 $\\sum_{n=1}^{\\infty} (2u_{2n} - u_{2n-1}) (\\quad)$ (P475)\n\nA. 条件收敛.\nB. 绝对收敛.\nC. 发散.\nD. 敛散性不确定.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_038.txt"
+  },
+  "IMG195": {
+    "text": "【7.84】 （数一）将函数 $f(x) = 1 - x^2 (0 \\le x \\le \\pi)$ 展开成余弦级数，并求 $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1}}{n^2}$ 的和。 (P532)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_038.txt"
+  },
+  "IMG196": {
+    "text": "【7.77】 (数一) 函数 $f(x) = \\begin{cases} -1, -\\pi < x < 0, \\\\ 1, 0 \\leqslant x \\leqslant \\pi, \\end{cases}$ 在 $[-\\pi, \\pi]$ 上展开为傅里叶级数的和函数 $S(x) = \\underline{\\qquad\\qquad}$. (P527)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_039.txt"
+  },
+  "IMG197": {
+    "text": "【7.32】 判别下列级数的敛散性： (P486)\n(1) $\\sum_{n=1}^{\\infty} \\left( \\frac{4n}{5n-2} \\right)^n$;\n(2) $\\sum_{n=1}^{\\infty} \\frac{3^n + (-2)^n}{n^2}$;\n(3) $\\sum_{n=2}^{\\infty} \\frac{n^{\\ln n}}{(\\ln n)^n}$.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_039.txt"
+  },
+  "IMG198": {
+    "text": "【7.29】 设常数 $\\lambda > 0$, 且级数 $\\sum_{n=1}^{\\infty} a_n^2$ 收敛, 则级数 $\\sum_{n=1}^{\\infty} (-1)^n \\frac{|a_n|}{\\sqrt{n^2 + \\lambda}}$ ( ) (P484)\nA. 发散.\nB. 条件收敛.\nC. 绝对收敛.\nD. 敛散性与 $\\lambda$ 有关.\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_039.txt"
+  },
+  "IMG199": {
+    "text": "【7.60】 $f(x) = \\frac{1}{(x+2)^2}$ 在 $x = -1$ 处展开成幂级数 (P507)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_039.txt"
+  },
+  "IMG200": {
+    "text": "【7.14】 若 $\\sum_{n=1}^{\\infty} n u_n$ 绝对收敛, $\\sum_{n=1}^{\\infty} \\frac{v_n}{n}$ 条件收敛, 则 ( ) (P474)\nA. $\\sum_{n=1}^{\\infty} u_n v_n$ 条件收敛.\nB. $\\sum_{n=1}^{\\infty} u_n v_n$ 绝对收敛.\nC. $\\sum_{n=1}^{\\infty} (u_n + v_n)$ 收敛.\nD. $\\sum_{n=1}^{\\infty} (u_n + v_n)$ 发散.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_039.txt"
+  },
+  "IMG201": {
+    "text": "【7.71】 已知函数 $f(x)$ 可导，且 $f(0) = 1, 0 < f'(x) < \\frac{1}{2}$. 设数列 $\\{x_n\\}$ 满足 $x_{n+1} = f(x_n) (n = 1, 2, \\cdots)$. 证明： (P518)\n\n(1) 级数 $\\sum_{n=1}^{\\infty} (x_{n+1} - x_n)$ 绝对收敛；\n\n(2) $\\lim_{n \\to \\infty} x_n$ 存在，且 $0 < \\lim_{n \\to \\infty} x_n < 2$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_040.txt"
+  },
+  "IMG202": {
+    "text": "【例 18.1】 设 $l_1 : \\frac{x-2}{1} = \\frac{y-3}{2} = \\frac{z-2}{2}$ 与 $l_2 : \\frac{x-1}{1} = \\frac{y-1}{1} = \\frac{z}{0}$. (P563)\n\n(1) 求 $l_1, l_2$ 的交点和夹角.\n\n(2) 设 $\\Sigma$ 为 $l_1$ 绕 $l_2$ 旋转一周所得曲面，求 $\\Sigma$ 的方程.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_040.txt"
+  },
+  "IMG203": {
+    "text": "【18.57】 设 $u = z(x^2 + 3)$，求向量场 $\\boldsymbol{A} = \\text{grad } u$ 穿过球面 $x^2 + y^2 + z^2 = 1$ 上半部分流向外侧的通量 $Q$. (P610)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_040.txt"
+  },
+  "IMG204": {
+    "text": "※※ (3) $\\oint_L (2yz + 2zx + 2xy) \\text{d}s$, 其中 $L$ 是空间圆周 $\\begin{cases} x^2 + y^2 + z^2 = a^2, \\\\ x + y + z = \\frac{3}{2}a; \\end{cases}$\n[批注] ※ 改编于2018数一真题 (红色手写)\n[批注] 红色波浪线划在方程组下方，并有红色箭头指向右侧图示。\n\n※※ (4) $\\oint_L (x^2 + y^2) \\text{d}s$, 其中 $L$ 是空间圆周 $\\begin{cases} x^2 + y^2 + z^2 = 1, \\\\ x + y + z = 0; \\end{cases}$\n[批注] 蓝色下划线划在 $x+y+z=0$ 下方，旁有蓝色手写：过原点 (球心)\n\n※ (5) $\\oint_C (2x^2 + 3y^2) \\text{d}s$, 其中 $C$ 是曲线 $x^2 + y^2 = 2(x+y)$.\n\n[图示文字]\n※勾股定理 (绿色手写)\n过原点 (球心) (蓝色手写)\n图示为一个球体，内部有一个被平面截出的圆。标注有 $a$ (半径) 和 $d$ (球心到平面的距离)。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_040.txt"
+  },
+  "IMG205": {
+    "text": "※※ (3) 球心 $(0,0,0)$ 到平面 $x+y+z = \\frac{3a}{2}$ 的距离为\n$$d = \\frac{|0+0+0 - \\frac{3a}{2}|}{\\sqrt{1^2 + 1^2 + 1^2}} = \\frac{\\sqrt{3}}{2}a.$$\n[图示文字]\n※勾股定理 (绿色手写)\n图示为一个球体，内部有一个被平面截出的圆。标注有 $a, d, r$。\n\n圆 $L: \\begin{cases} x^2 + y^2 + z^2 = a^2, \\\\ x + y + z = \\frac{3}{2}a \\end{cases}$ 的半径为 $r = \\sqrt{a^2 - \\left(\\frac{\\sqrt{3}a}{2}\\right)^2} = \\frac{a}{2}$, 圆 $L$ 的周长为 $2\\pi r = \\pi a$, 于是\n$$\\oint_L (2yz + 2zx + 2xy) \\text{d}s$$\n$$= \\oint_L [(x+y+z)^2 - (x^2 + y^2 + z^2)] \\text{d}s$$\n$$\\overset{(*)}{=} \\oint_L \\left[\\left(\\frac{3a}{2}\\right)^2 - a^2\\right] \\text{d}s = \\frac{5a^2}{4} \\oint_L \\text{d}s = \\frac{5}{4}a^2 \\cdot \\pi a = \\frac{5}{4}\\pi a^3.$$\n[批注] 第二行公式上方有红色手写 ※※。最后结果 $\\frac{5}{4}\\pi a^3$ 被红色圈起。\n\n【注】$(*)$ 处来自于边界方程 $x+y+z = \\frac{3}{2}a, x^2 + y^2 + z^2 = a^2$, 可直接代入被积函数，从而化简计算。\n\n(4) 由轮换对称性知 $\\oint_L x^2 \\text{d}s = \\oint_L y^2 \\text{d}s = \\oint_L z^2 \\text{d}s$, 于是\n$$\\oint_L (x^2 + y^2) \\text{d}s = \\oint_L x^2 \\text{d}s + \\oint_L y^2 \\text{d}s$$\n$$= 2 \\oint_L x^2 \\text{d}s = \\frac{2}{3} \\left(\\oint_L x^2 \\text{d}s + \\oint_L y^2 \\text{d}s + \\oint_L z^2 \\text{d}s\\right)$$\n$$= \\frac{2}{3} \\oint_L (x^2 + y^2 + z^2) \\text{d}s = \\frac{2}{3} \\oint_L 1 \\text{d}s = \\frac{2}{3} \\times 2\\pi \\times 1 = \\frac{4}{3}\\pi.$$\n[批注] $2 \\oint_L x^2 \\text{d}s$ 被红色圈起。\n\n(5) $C$ 是圆 $(x-1)^2 + (y-1)^2 = 2$, 关于 $y=x$ 对称，由轮换对称性知\n$$\\oint_C x^2 \\text{d}s = \\oint_C y^2 \\text{d}s.$$\n故 $\\oint_C (2x^2 + 3y^2) \\text{d}s = \\frac{5}{2} \\oint_C (x^2 + y^2) \\text{d}s = 5 \\oint_C (x+y) \\text{d}s$\n$$= 5 \\oint_C [(x-1) + (y-1) + 2] \\text{d}s = 10 \\oint_C \\text{d}s = 20\\sqrt{2}\\pi.$$\n[批注] $(x-1)^2 + (y-1)^2 = 2$ 下方有红色下划线，并标注 $r = \\sqrt{2}$。\n[批注] $\\frac{5}{2} \\oint_C (x^2 + y^2) \\text{d}s$ 被红色圈起，并有红色箭头指向 $5 \\oint_C (x+y) \\text{d}s$。\n[批注] 最后一行公式中，$(x-1)$ 和 $(y-1)$ 下方分别有蓝色圈，圈下写有 $0$。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_040.txt"
+  },
+  "IMG206": {
+    "text": "例 18.16 计算 $I = \\oint_L \\sqrt{x^2 + y^2} \\mathrm{d}s$, 其中 $L: x^2 + y^2 = -2y$.\n\n彩色批注：\n左侧有一红色斜线。\n题干中 $x^2 + y^2 = -2y$ 下方有蓝色下划线，末尾有一蓝色箭头指向右侧。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_041.txt"
+  },
+  "IMG207": {
+    "text": "例 18.16 计算 $I = \\oint_L \\sqrt{x^2 + y^2} \\mathrm{d}s$, 其中 $L: x^2 + y^2 = -2y$.\n\n【解】本题不宜用直角坐标直接计算。\n将曲线方程用极坐标表示: $r = -2\\sin \\theta (-\\pi \\leqslant \\theta \\leqslant 0)$, 则\n$$x = r\\cos \\theta, y = r\\sin \\theta, \\mathrm{d}s = \\sqrt{[r(\\theta)]^2 + [r'(\\theta)]^2} \\mathrm{d}\\theta = 2\\mathrm{d}\\theta.$$\n故\n$$I = \\int_{-\\pi}^0 (-2\\sin \\theta) \\cdot 2\\mathrm{d}\\theta = -4 \\int_{-\\pi}^0 \\sin \\theta \\mathrm{d}\\theta = 8.$$\n\n彩色批注：\n1. 左侧有一红色对勾。\n2. 题干中 $x^2 + y^2 = -2y$ 下方有蓝色下划线。\n3. 蓝色手写：$x^2 + (y+1)^2 = 1$\n4. 红色手写：在 $(-\\pi \\leqslant \\theta \\leqslant 0)$ 上方标注 $\\Leftrightarrow \\pi \\leqslant \\theta \\leqslant 2\\pi$，下方有红色波浪线。\n5. 蓝色手写图示：坐标系中 $x$ 轴与 $y$ 轴，圆心在 $y$ 轴负半轴的圆。\n6. 右侧蓝色手写：\n平移 (圆心为原点)\n$\\begin{cases} x = \\cos \\theta \\\\ y = -1 + \\sin \\theta \\end{cases}$ $\\mathrm{d}s = \\sqrt{(x'_\\theta)^2 + (y'_\\theta)^2} \\mathrm{d}\\theta = \\mathrm{d}\\theta$\n$I = \\oint_L \\sqrt{x^2 + y^2} \\mathrm{d}s = \\oint_L \\sqrt{-2y} \\mathrm{d}s$\n[此处有一划掉的公式：$\\oint_L \\sqrt{x^2+y^2} \\mathrm{d}s$]\n$= \\sqrt{2} \\int_0^{2\\pi} \\sqrt{1 - \\sin \\theta} \\mathrm{d}\\theta$\n$= \\sqrt{2} \\int_0^{2\\pi} \\sqrt{\\sin^2 \\frac{\\theta}{2} + \\cos^2 \\frac{\\theta}{2} - 2\\sin \\frac{\\theta}{2} \\cos \\frac{\\theta}{2}} \\mathrm{d}\\theta$\n$= \\sqrt{2} \\int_0^{2\\pi} |\\sin \\frac{\\theta}{2} - \\cos \\frac{\\theta}{2}| \\mathrm{d}\\theta$\n$= 2\\sqrt{2} \\int_0^\\pi |\\sin u - \\cos u| \\mathrm{d}u$\n$= 2\\sqrt{2} [\\int_0^{\\frac{\\pi}{4}} (\\cos u - \\sin u) \\mathrm{d}u + \\int_{\\frac{\\pi}{4}}^\\pi (\\sin u - \\cos u) \\mathrm{d}u]$\n7. 右侧红色手写：一个波形图示及箭头。\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_041.txt"
+  },
+  "IMG208": {
+    "text": "【18.40】 设 $L$ 为曲线 $x^2 + y^2 = R^2$ (常数 $R > 0$) 按逆时针绕一周, $\\boldsymbol{n}$ 为 $L$ 的外法线方向向量, $u(x, y)$ 具有二阶连续偏导数且 $\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = x^2 + y^2$. 求 $\\oint_L \\frac{\\partial u}{\\partial \\boldsymbol{n}} \\mathrm{d}s$. (P597)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_041.txt"
+  },
+  "IMG209": {
+    "text": "【例 14】 设直线 $l: \\begin{cases} x + y + b = 0, \\\\ x + ay - z - 3 = 0 \\end{cases}$ 在平面 $\\pi$ 上, 而平面 $\\pi$ 与曲面 $z = x^2 + y^2$ 相切于点 $(1, -2, 5)$, 求 $a, b$ 之值. (P681)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_041.txt"
+  },
+  "IMG210": {
+    "text": "【例 16】 设 $f'(u) \\neq 0$, 且 $x_0^2 + y_0^2 \\neq 0$, 则曲面 $z = f(\\sqrt{x^2 + y^2})$ 上点 $M_0(x_0, y_0, z_0)$ 处的法线与 $z$ 轴的位置关系是 ( ) (P683)\nA. 垂直相交\nB. 不垂直相交\nC. 平行.\nD. 异面直线.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_041.txt"
+  },
+  "IMG211": {
+    "text": "【17.11】 函数 $f(x, y, z) = x^2y + z^2$ 在点 $(1, 2, 0)$ 处沿向量 $n = (1, 2, 2)$ 的方向导数为 ( ). (P547)\n\nA. 12 $\\qquad$ B. 6 $\\qquad$ C. 4 $\\qquad$ D. 2\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_042.txt"
+  },
+  "IMG212": {
+    "text": "【例 15】 求椭球面 $x^2 + 2y^2 + 3z^2 = 21$ 上某点 M 处的切平面 $\\pi$ 的方程, 使 $\\pi$ 过已知直线 $L: \\frac{x - 6}{2} = \\frac{y - 3}{1} = \\frac{2z - 1}{-2}$. (P682)\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_042.txt"
+  },
+  "IMG213": {
+    "text": "见例 18. 40.\n[左侧红色手写批注：一个叉号 $\\times$ 和一个对勾 $\\checkmark$]\n[例 18. 40] 设 $L$ 为曲线 $x^2 + y^2 = R^2$ (常数 $R > 0$) 按逆时针绕一周, $n$ 为 $L$ 的外法线方向[红色下划线]向量[红色下划线], $u(x, y)$ 具有二阶连续偏导数且 $\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = x^2 + y^2$. 求 $\\oint_L \\frac{\\partial u}{\\partial n} ds$. [右侧红色手写批注：转 $n$ 为切向量]\n\n---",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_042.txt"
+  },
+  "IMG214": {
+    "text": "向量, $u(x, y)$ 具有二阶连续偏导数且 $\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = x^2 + y^2$. 求 $\\oint_L \\frac{\\partial u}{\\partial n} ds$.\n\n【解】 如图 18-40 所示, 设 $\\tau^\\circ = (\\cos \\alpha, \\sin \\alpha)$ 为 $L$ 沿逆时针方向的单位切向量. 将它按顺时针方向转 $\\frac{\\pi}{2}$, 便得 $L$ 的外法线方向的单位向量\n$$n^\\circ = (\\sin \\alpha, -\\cos \\alpha).$$\n[蓝色手写批注：$\\vec{n} = (\\cos(\\alpha - \\frac{\\pi}{2}), \\sin(\\alpha - \\frac{\\pi}{2})) = (\\sin \\alpha, -\\cos \\alpha)$]\n故方向导数 $\\frac{\\partial u}{\\partial n} = \\frac{\\partial u}{\\partial x} \\sin \\alpha + \\frac{\\partial u}{\\partial y} (-\\cos \\alpha)$, 于是\n[左侧蓝色手写批注：一个圆圈 $\\bigcirc$]\n$$\\oint_L \\frac{\\partial u}{\\partial n} ds = \\oint_L \\left( \\frac{\\partial u}{\\partial x} \\sin \\alpha - \\frac{\\partial u}{\\partial y} \\cos \\alpha \\right) ds$$\n[公式左侧有蓝色波浪下划线]\n408\n[红色手写批注：$ds \\cdot \\cos \\alpha = dx$, $ds \\cdot \\sin \\alpha = dy$]\n$$= \\oint_L \\frac{\\partial u}{\\partial x} dy - \\frac{\\partial u}{\\partial y} dx \\xlongequal{\\text{格林公式}} \\iint_D \\left( \\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} \\right) d\\sigma$$\n$$= \\iint_D (x^2 + y^2) d\\sigma = \\int_0^{2\\pi} d\\theta \\int_0^R r^3 dr = \\frac{\\pi}{2} R^4,$$\n其中 $D = \\{(x, y) \\mid x^2 + y^2 \\leqslant R^2\\}$ 为 $L$ 所围成的有界区域.\n\n[图 18-40 标注：曲线 $L$, 向量 $\\tau^\\circ$, 向量 $n^\\circ$, 角度 $\\alpha$, 角度 $\\alpha - \\frac{\\pi}{2}$]\n\n【注】 将向量 $\\tau^\\circ = (\\cos \\alpha, \\sin \\alpha)$ 顺时针转 $\\frac{\\pi}{2}$, 即将 $\\alpha$ 改为 $\\alpha - \\frac{\\pi}{2}$, 便得外法线方向单位向量\n$$n^\\circ = \\left( \\cos \\left( \\alpha - \\frac{\\pi}{2} \\right), \\sin \\left( \\alpha - \\frac{\\pi}{2} \\right) \\right) = (\\sin \\alpha, -\\cos \\alpha).$$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_042.txt"
+  },
+  "IMG041": {
+    "text": "题型二：试根 + 罗尔定理推论\n\n罗尔定理推论：\n\n[蓝色手写批注]：若 $f(x)$ 是 $x$ 的 $k$ 次多项式 $a_1 + a_2 x + a_3 x^2 + \\dots + a_k x^{k-1} + a_m x^k$ ($a_m \\neq 0$)\n则 $f^{(k)}(x) \\neq 0$,\n即 $x$ 的 $k$ 次多项式最多有 $k$ 个零点\n\n[蓝色背景注]：注 若 $f(x)$ 在区间 $I$ 上 $n$ 阶可导，且 $f^{(n)}(x) \\neq 0$，即 $f^{(n)}(x) = 0$ 无实根（至多有 0 个根），于是 $f(x) = 0$ 至多有 $n$ 个根. 如 $f'''(x) \\neq 0$，则 $f(x) = 0$ 至多 3 个根（以阶数换个数）.\n\n例 2.66 证明出来至少有三个根，且至多有三个根，则根的个数一定为 3\n\n[蓝色图标] 例 6.16 证明 $2^x - x^2 - 1 = 0$ 有且仅有三个根. [红色波浪线标注]\n\n[红色手写批注]：试根\n\n证 ①存在性. [绿色手写批注]：观察法\n令 $f(x) = 2^x - x^2 - 1 = 0$，显然 $x_1 = 0, x_2 = 1$ 为根，又 $f(2) = -1 < 0, f(5) = 2^5 - 25 - 1 = 6 > 0$，则 $f(x) = 0$ 在 $(2, 5)$ 内至少有一个根，即 $f(x) = 0$ 至少有三个根. [蓝色波浪线标注]\n[蓝色手写批注]：$\\rightarrow$ 零点定理，不具唯一性\n\n②唯一性.\n由 $f'(x) = 2^x \\cdot \\ln 2 - 2x, f''(x) = 2^x \\cdot \\ln^2 2 - 2, f'''(x) = 2^x \\cdot \\ln^3 2 \\neq 0$，知 $f(x) = 0$ 至多有三个根，即 $f(x) = 0$ 有且仅有三个根. [蓝色波浪线标注]\n\n[蓝色手写批注]：\n$\\rightarrow$ 单调性不好判断就继续求导\n$\\rightarrow f'''(x) = 0$ 至多 0 个根 $\\xrightarrow[\\text{个数}]{\\text{阶数换}} f(x) = 0$ 至多 $0 + 3 = 3$ 个根",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1041.txt"
+  },
+  "IMG042": {
+    "text": "设 $x_0$ 是方程 $f(x) = 0$ 的 $n$ 重根, 即 $f(x) = (x - x_0)^n g(x)$ 且 $g(x_0) \\neq 0$. 若 $g(x)$ 具有 $n$ 阶导数, 则\n\n(1) 当 $n = 1$ 时, $f'(x_0) \\neq 0$, 即 $x_0$ 不是 $f'(x) = 0$ 的根;\n\n(2) 当 $n \\geq 2$ 时, $x_0$ 是 $f'(x) = 0$ 的 $n - 1$ 重根. 依此类推, $x_0$ 是 $f^{(k)}(x) = 0$ 的 $n - k$ 重根, $k = 1, 2, \\cdots, n - 1$, 且 $x_0$ 不是 $f^{(n)}(x) = 0$ 的根.\n\n上述结论可简单表述为 [红框：求一次导, 根的重数减少一次] ※ [红色手写批注]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1042.txt"
+  },
+  "IMG043": {
+    "text": "(1) 曲线 $y = (x-1)(x-2)^2(x-3)^3(x-4)^4$ 的拐点是 ( $C$ )\n(A) (1,0). (B) (2,0).\n(C) (3,0). (D) (4,0).\n\n例 2.27 改编自 2011 年数一真题\n求 $f(x) = (x-1)(x-2)^2(x-3)^3(x-4)^4$ 的零点、驻点、极值点、拐点个数\n\n$f(x)=0 \\quad x: 1 \\overbrace{\\quad}^{x_1} 2 \\overbrace{\\quad}^{x_2} 3 \\overbrace{\\quad}^{x_3} 4 \\quad 10$ 次多项式 $\\therefore 4$ 个零点\n重数: $1 \\quad 2 \\quad 3 \\quad 4 \\quad$ 总共 $10$ 重\n\n$f'(x)=0 \\quad x: x_1 \\overbrace{\\quad}^{\\xi_1} 2 \\overbrace{\\quad}^{\\xi_2} x_2 \\overbrace{\\quad}^{\\xi_3} 3 \\overbrace{\\quad}^{\\xi_4} x_3 \\overbrace{\\quad}^{\\xi_5} 4 \\quad 9$ 次多项式 $\\therefore 6$ 个驻点\n重数: $1 \\quad 1 \\quad 1 \\quad 2 \\quad 1 \\quad 3 \\quad$ 总共 $9$ 重\n$f'(x) = (x-x_1)(x-2)(x-x_2)(x-3)^2(x-x_3)(x-4)^3 \\quad$ “奇穿偶不穿”\n极值点: 邻域内 $f'(x)$ 变号 $\\therefore$ 找奇数次幂\n$\\therefore x = x_1, 2, x_2, x_3, 4$ 为极值点 $\\therefore 5$ 个极值点\n\n图示：\n$f'(x)$\n[坐标轴上标有点：$x_1, 2, x_2, 3, x_3, 4$。曲线在 $x_1, 2, x_2, x_3, 4$ 处穿过 $x$ 轴，在 $3$ 处与 $x$ 轴相切但不穿过。]\n\n$f''(x)=0 \\quad x: \\xi_1 \\quad \\xi_2 \\quad \\xi_3 \\quad 3 \\quad \\xi_4 \\quad \\xi_5 \\quad 4 \\quad 8$ 次多项式\n重数: $1 \\quad 1 \\quad 1 \\quad 1 \\quad 1 \\quad 1 \\quad 2 \\quad$ 总共 $8$ 重\n拐点: 邻域内 $f''(x)$ 变号 $\\therefore$ 找奇数次幂\n$\\therefore x = \\xi_1, \\xi_2, \\xi_3, 3, \\xi_4, \\xi_5$ 为拐点 $\\therefore 6$ 个拐点",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1043.txt"
+  },
+  "IMG044": {
+    "text": "巩固题·高数·第2章·A类·14\n\n3. 曲线 $y = (x - 1)x^{\\frac{4}{3}}$ 的拐点个数为 ( )\n\nA 0\nB 1\nC 2\nD 3\n\n同招： 拐点的求法 ($f'' = 0$ 或不存在，且两侧变号)\n\n收起解析 ▲  ☆ 收藏  + 错题本",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1044.txt"
+  },
+  "IMG071": {
+    "text": "由于推导过程中我们在分母除了 $t$（即除以 $-x$），导致 $x = 0$ 时代入该式分母为 0 失效。\n\n但看原题级数：\n\n代入 $x = 0$ 时，每一项都含有 $0^n = 0$，所以 $S(0) = 0$。\n\n【考场最终标准答案】：\n\n收敛域为 $(-\\infty, +\\infty)$，和函数为：\n\n$$S(x) = \\begin{cases} e^{-x} \\left(x^2 + 1 + \\frac{1}{x}\\right) - \\frac{1}{x}, & x \\neq 0 \\\\ 0, & x = 0 \\end{cases}$$\n\n（如果没写 $x = 0$ 的分段，由于表达式无定义，必扣 2 分！）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1071.txt"
+  },
+  "IMG072": {
+    "text": "数学一 · 2019 · 第11题 填空题 $\\quad$ 难度 3\n\n幂级数 $\\sum_{n=0}^{\\infty} \\frac{(-1)^{n}}{(2 n) !} x^{n}$ 在 $(0,+\\infty)$ 内的和函数 $S(x)=$ \\_\\_\\_\\_\\_\\_\n\n[泰勒（麦克劳林）展开取主部] [函数展开成幂级数（间接展开）]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1072.txt"
+  },
+  "IMG075": {
+    "text": "例 1】计算 $\\lim_{n \\to \\infty} \\frac{1}{n^2} \\prod_{i=1}^{2n} (n+i)^{\\frac{1}{n}}$ .",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1075.txt"
+  },
+  "IMG096": {
+    "text": "数学一 · 第21题 $\\nearrow$ 解答题 $\\bullet$ 自评部分掌握 第 1 次 · 上次今天 难度 3\n\n设 $A$ 为 3 阶矩阵, $\\alpha_1, \\alpha_2, \\alpha_3$ 为线性无关的三维列向量, 且 $A\\alpha_1 = 2\\alpha_1 + \\alpha_2 + \\alpha_3, A\\alpha_2 = \\alpha_1 + 2\\alpha_2 - \\alpha_3, A\\alpha_3 = 3\\alpha_3$. (I) 求 $A$ 的特征值及对应的线性无关的特征向量; (II) 求 $(A^2 - 4A + E)^{-1}$.\n\n🔒 考点与招法 (点开看)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1096.txt"
+  },
+  "IMG097": {
+    "text": "数学一 · 第18题 $\\nearrow$ 解答题 $\\quad$ $\\textsf{X}$ 自评做错 $\\quad$ 第 1 次 · 上次今天 $\\quad$ 难度 3\n\n计算二重积分 $I = \\iint_{D} \\frac{(1+x^2)(x^2+y^2-xy)}{2+x^2+y^2} \\mathrm{d}\\sigma$，其中\n$$D = \\{(x, y) \\mid (x-1)^2 + (y-1)^2 \\leqslant 1\\}.$$\n\n$\\boxed{\\text{🔒}}$ 考点与招法（点开看）",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1097.txt"
+  },
+  "IMG098": {
+    "text": "数学一 · 第6题 选择题 $\\times$ 错过 第1次 · 上次今天 难度 3\n\n设 $A$ 为 $3$ 阶非零矩阵, $b$ 为 $3$ 维非零列向量, $A^2 = O$, 则非齐次线性方程组 $A^T Ax = A^T b$ 线性无关的解向量的个数为 ( ).\n\nA 1\n\nB 2\n\nC 3\n\nD 4\n\n排除法：右键（手机长按）选项可以把它划掉\n提交 不会",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1098.txt"
+  },
+  "IMG099": {
+    "text": "数学一 · 第4题 $\\nearrow$ 选择题 $\\times$ 错误 第1次 · 上次今天 难度 3\n\n设 $y = f(x)$ 是微分方程 $y' - P(x)y = \\frac{1}{2}e^x - 1$ 满足 $y(0) = 1$ 的解, 其中 $P(x) = \\int_0^1 |x - t| dt$, 则有().\n\nA 在点 $x = 0$ 处 $f(x)$ 取极大值\n\nB 在点 $x = 0$ 处 $f(x)$ 取极小值\n\nC $(0, f(0))$ 为曲线 $y = f(x)$ 的拐点\n\nD 点 $x = 0$ 不是 $f(x)$ 的极值点, 点 $(0, f(0))$ 也不是曲线 $y = f(x)$ 的拐点\n\n排除法：右键（手机长按）选项可以把它划掉",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1099.txt"
+  },
+  "IMG100": {
+    "text": "数学 7数学一 2010 第22题 拼合题 [不确定] 第2次 [不确定] 难度3\n\n设二维随机变量 $(X, Y)$ 在区域 $D = \\{(x, y) \\mid 0 < x < 1, x^2 < y < \\sqrt{x}\\}$ 上服从均匀分布, 令 $U = \\begin{cases} 1, & X \\leqslant Y, \\\\ 0, & X > Y. \\end{cases}$\n\n(1) 写出 $(X, Y)$ 的概率密度;\n\n(2) 问 $U$ 与 $X$ 是否独立? 并说明理由;\n\n(3) 求 $Z = U + X$ 的分布函数 $F(z)$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1100.txt"
+  },
+  "IMG101": {
+    "text": "设随机变量 $X_1, X_2, X_3$ 相互独立, 其中 $X_1$ 与 $X_2$ 均服从标准正态分布, $X_3$ 的概率分布为 $P \\{X_3 = 0\\} = P \\{X_3 = 1\\} = \\frac{1}{2}, Y = X_3 X_1 + (1 - X_3) X_2$\n\n(1) 求二维随机变量 $(X_1, Y)$ 的分布函数, 结果用标准正态分布函数 $\\Phi(x)$ 表示;\n\n(2) 证明随机变量 $Y$ 服从标准正态分布",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1101.txt"
+  },
+  "IMG103": {
+    "text": "设 $A$ 为 $2 \\times 3$ 矩阵, 若 $|AA^T| = 2, |A^T A - 2E| = 0$, 则 $|A^T A + 2E| = (\\quad)$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1103.txt"
+  },
+  "IMG104": {
+    "text": "【7.17】 设 $\\{u_n\\}$ 是单调减少的正值数列, 则下列级数中收敛的是 ( ). (P476)\n\n批注：\n1. “单调减少的正值数列”下方有红色下划线。\n2. “收敛”下方有红色下划线。\n3. 选项 A 的公式上有一条红色斜划线。\n\nA. $\\sum_{n=1}^{\\infty} (-1)^{n-1} u_n$\nB. $\\sum_{n=1}^{\\infty} \\frac{u_n}{n}$\nC. $\\sum_{n=1}^{\\infty} \\left( 1 - \\frac{u_{n+1}}{u_n} \\right)$\nD. $\\sum_{n=1}^{\\infty} \\frac{u_n - u_{n+1}}{\\sqrt{u_n}}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1104.txt"
+  },
+  "IMG105": {
+    "text": "$\\color{blue}{\\bigcirc}$\n【7.57】 $f(x) = \\arctan \\frac{1 + x}{1 - x}$ 展开成 x 的幂级数 $\\color{blue}{(P506)}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1105.txt"
+  },
+  "IMG106": {
+    "text": "○\n【18.52】 求 $I = \\iint\\limits_{\\Sigma} \\frac{x(y - z) \\mathrm{d}y \\mathrm{d}z + y(z - x) \\mathrm{d}z \\mathrm{d}x + z(x - y) \\mathrm{d}x \\mathrm{d}y}{\\sqrt{x^2 + y^2 + z^2}}$, 其中 $\\Sigma$ 为球面 $x^2 + y^2 + z^2 = R^2(R > 0)$, 取外侧. (P607)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1106.txt"
+  },
+  "IMG107": {
+    "text": "【3.6】 设 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t, \\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s$ 都为 $n$ 维列向量，存在 $t \\times s$ 矩阵 $\\boldsymbol{Q}$，满足 $(\\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s) = (\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t)\\boldsymbol{Q}$，以下命题错误的是 ( ) <font color=\"blue\">(P104)</font>\n\nA. 若 $\\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s$ 线性无关，且 $s = t$，则 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t$ 线性无关；\n\nB. 若 $\\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s$ 线性无关，且 $\\boldsymbol{Q}$ 列满秩，则 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t$ 线性无关；\n\nC. 若 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t$ 线性无关，且 $\\boldsymbol{Q}$ 列满秩，则 $\\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s$ 线性无关；\n\nD. 若 $\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\cdots, \\boldsymbol{\\alpha}_t$ 线性无关，且 $\\boldsymbol{Q}$ 列降秩，则 $\\boldsymbol{\\beta}_1, \\boldsymbol{\\beta}_2, \\cdots, \\boldsymbol{\\beta}_s$ 线性相关。",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1107.txt"
+  },
+  "IMG108": {
+    "text": "【4.15】 设 $A = (\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3, \\boldsymbol{\\alpha}_4)$ 为 4 阶正交矩阵，矩阵 $B = (\\boldsymbol{\\alpha}_1, \\boldsymbol{\\alpha}_2, \\boldsymbol{\\alpha}_3)^T$，$\\boldsymbol{\\beta} = (1, 1, 1)^T$，则 $B\\boldsymbol{x} = \\boldsymbol{\\beta}$ 的通解为 \\_\\_\\_\\_\\_\\_ <font color=\"#337ab7\">(P165)</font>",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1108.txt"
+  },
+  "IMG109": {
+    "text": "$\\bigcirc$\n\n【例 21】 设 $f(x)$ 为定义在 $[0, +\\infty)$ 上的连续函数，且满足 $f(t) = \\iiint\\limits_{\\Omega: x^2+y^2+z^2 \\leqslant t^2} f(\\sqrt{x^2+y^2+z^2}) dv + t^3$ 求 $f(1)$。 (P630)",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1109.txt"
+  },
+  "IMG110": {
+    "text": "【[蓝色圆圈圈出2]2.37】 设二次型 $f(x_1, x_2, x_3) = a(x_1^2 + x_2^2 + x_3^2) + 2x_1x_2 + 2x_2x_3 + 2x_1x_3$ 的正、负惯性指数分别为 1,2, 则 ( ) [蓝色文字：(P69)]\n\nA. $a > 1$.\nB. $a < -2$.\nC. $-2 < a < 1$.\nD. $a = 1$ 或 $a = -2$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1110.txt"
+  },
+  "IMG161": {
+    "text": "二、填空题：11~16 小题，每小题 5 分，共 30 分。\n\n(11) $\\lim_{n \\to \\infty} \\int_{0}^{1} \\frac{\\sqrt[n]{1 + n \\arctan x^2}}{1 + x^2} dx = \\underline{\\qquad}.$\n\n[右上角印刷文字]：\n广义积分中值定理：\n若 $f(x)$ 与 $g(x)$ 在 $[a, b]$ 上连续，且 $g(x)$ 不变号，则存在 $\\xi \\in [a, b],$\n使得 $\\int_{a}^{b} f(x)g(x)dx = f(\\xi) \\int_{a}^{b} g(x)dx$\n[红色箭头从题干指向上述定理]\n\n答案 填 “$\\frac{\\pi}{4}$”.\n\n[红色手写批注]：广义积分中值定理：$\\lim_{n \\to \\infty} \\sqrt[n]{1 + n \\arctan \\xi^2} \\cdot \\int_{0}^{1} \\frac{1}{1 + x^2} dx = 1 \\times \\frac{\\pi}{4} = \\frac{\\pi}{4}$\n[蓝色手写批注]：在 $\\sqrt[n]{1 + n \\arctan \\xi^2}$ 下方标有 $1$，在 $\\int_{0}^{1} \\frac{1}{1 + x^2} dx$ 下方标有 $\\frac{\\pi}{4}$。\n\n解 $\\int_{0}^{1} \\frac{\\sqrt[n]{1 + n \\arctan x^2}}{1 + x^2} dx \\leqslant \\int_{0}^{1} \\frac{1}{1 + x^2} dx \\cdot \\sqrt[n]{1 + n \\arctan 1^2} \\leqslant \\sqrt[n]{1 + n} \\cdot \\int_{0}^{1} \\frac{1}{1 + x^2} dx = \\frac{\\pi}{4} \\sqrt[n]{1 + n},$\n\n[紫色手写批注]：答案的放缩手法：利用积分上下限进行放缩，$x=0, x=1$\n\n$\\int_{0}^{1} \\frac{\\sqrt[n]{1 + n \\arctan x^2}}{1 + x^2} dx \\geqslant \\int_{0}^{1} \\frac{1}{1 + x^2} dx = \\frac{\\pi}{4}$ [注：此行位于图片底部，部分字符被遮挡]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1161.txt"
+  },
+  "IMG162": {
+    "text": "4 已知 $f(t)$ 连续, 令 $F(x, y) = \\int_{0}^{x-y} (x - y - t) f(t) \\mathrm{d}t$, 则 ($\\color{red}{C}$)\n\n(A) $\\frac{\\partial F}{\\partial x} = \\frac{\\partial F}{\\partial y}, \\frac{\\partial^2 F}{\\partial x^2} = \\frac{\\partial^2 F}{\\partial y^2}.$\n(B) $\\frac{\\partial F}{\\partial x} = \\frac{\\partial F}{\\partial y}, \\frac{\\partial^2 F}{\\partial x^2} = -\\frac{\\partial^2 F}{\\partial y^2}.$\n(C) $\\frac{\\partial F}{\\partial x} = -\\frac{\\partial F}{\\partial y}, \\frac{\\partial^2 F}{\\partial x^2} = \\frac{\\partial^2 F}{\\partial y^2}.$\n(D) $\\frac{\\partial F}{\\partial x} = -\\frac{\\partial F}{\\partial y}, \\frac{\\partial^2 F}{\\partial x^2} = -\\frac{\\partial^2 F}{\\partial y^2}.$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1162.txt"
+  },
+  "IMG163": {
+    "text": "5 设函数 $f(u, v)$ 满足 $f\\left(x+y, \\frac{y}{x}\\right)=x^{2}-y^{2}$, 则 $\\left.\\frac{\\partial f}{\\partial u}\\right|_{\\substack{u=1 \\\\ v=1}}, \\left.\\frac{\\partial f}{\\partial v}\\right|_{\\substack{u=1 \\\\ v=1}}$ 依次是 ( $\\color{red}{D}$ )\n\n(A) $\\frac{1}{2}, 0$. $\\quad$ (B) $0, \\frac{1}{2}$. $\\quad$ (C) $-\\frac{1}{2}, 0$. $\\quad$ (D) $0, -\\frac{1}{2}$.\n\n[注：题干括号内有红色手写字母“D”；选项(C)分数上方有红色划线；选项(D)上方有红色划线。]",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1163.txt"
+  },
+  "IMG164": {
+    "text": "【例 2】设 $f(x)$ 二阶可导，$f''(x) > 0$，且 $\\lim_{x \\to 0} \\frac{f(x)}{x} = 0$，曲线 $y = f(x)$ 在点 $(x, f(x))$ 处的切线在 $x$\n\n轴上的截距为 $u(x)$. 记 $a_k = \\lim_{x \\to 0^+} \\left[ \\frac{u(x)}{x} \\right]^k$ ($k$ 为正整数)，求 $\\lim_{n \\to \\infty} \\sum_{k=1}^n a_k$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1164.txt"
+  },
+  "IMG165": {
+    "text": "【2.85】 设函数 $f(x)$ 具有 2 阶导数, $g(x) = f(0)(1 - x) + f(1)x$, 则在区间 $[0, 1]$ 上 ( ) (P185)\nA. 当 $f'(x) \\geqslant 0$ 时, $f(x) \\geqslant g(x)$.\nB. 当 $f'(x) \\geqslant 0$ 时, $f(x) \\leqslant g(x)$.\nC. 当 $f''(x) \\geqslant 0$ 时, $f(x) \\geqslant g(x)$.\nD. 当 $f''(x) \\geqslant 0$ 时, $f(x) \\leqslant g(x)$.",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_1165.txt"
+  },
+  "IMG038": {
+    "text": "例 3.3 设 $f(x)$ 在 $x=0$ 的某邻域内有定义，并且 $|f(x)| \\leqslant 1 - \\cos x$，则 $f(x)$ 在 $x=0$ 处 ( ) .\n\n(A) 极限存在但不连续\n(B) 连续但不可导\n(C) 可导且 $f'(0) = 0$\n(D) 可导且 $f'(0) \\neq 0$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2038.txt"
+  },
+  "IMG039": {
+    "text": "可分为三个层次去做题.\n\n第一层次：夹逼准则找极限.\n\n因为 $0 \\leqslant |f(x)| \\leqslant 1 - \\cos x$，且 $\\lim_{x \\to 0} (1 - \\cos x) = 0$，所以由夹逼准则知 $\\lim_{x \\to 0} |f(x)| = 0$，故 $\\lim_{x \\to 0} f(x) = 0$.\n\n第二层次：特殊点找函数值.\n\n将 $x = 0$ 代入所给不等式，有 $|f(0)| \\leqslant 1 - \\cos 0 = 0$，所以 $f(0) = 0$，故 $\\lim_{x \\to 0} f(x) = f(0)$，得 $f(x)$ 在 $x = 0$ 处连续，且\n$$|f(x) - f(0)| = |f(x) - 0| = |f(x)| \\leqslant 1 - \\cos x .$$\n\n第三层次：夹逼准则找极限，此时极限是导数的定义.\n$$0 \\leqslant \\left| \\frac{f(x) - f(0)}{x - 0} \\right| \\leqslant \\frac{1 - \\cos x}{|x|} .$$\n因为 $\\lim_{x \\to 0} \\frac{1 - \\cos x}{|x|} = \\lim_{x \\to 0} \\frac{\\frac{1}{2} x^2}{|x|} = 0$，再次使用夹逼准则，有 $\\lim_{x \\to 0} \\left| \\frac{f(x) - f(0)}{x - 0} \\right| = 0$，也即 $\\lim_{x \\to 0} \\frac{f(x) - f(0)}{x - 0} = 0$，\n\n故 $f'(0) = 0$，应选 (C).",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2039.txt"
+  },
+  "IMG045": {
+    "text": "$$y'' = \\frac{\\text{常数} \\cdot (x - x_2)}{x^{\\frac{2}{3}}} = \\frac{\\text{常数} \\cdot (x - x_2)}{(\\sqrt[3]{x})^2}$$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2045.txt"
+  },
+  "IMG073": {
+    "text": "[蓝色圆圈批注]\n$= \\lim_{x \\to +\\infty} \\mathrm{e}^{\\frac{1}{\\ln x} \\cdot \\ln \\left( \\frac{\\pi}{2} - \\arctan x \\right)}$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2073.txt"
+  },
+  "IMG074": {
+    "text": "[红色批注] 求导，也可利用隐函数公式法求导，无需执着于解出 $z=z(x,y)$ 的显式表达形式。\n\n19 设 $P$ 为椭球面 $S: x^2 + y^2 + z^2 - yz = 1$ 上的动点, 若 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直, 求点 $P$ 的轨迹 $C$, 并计算曲面积分 $I = \\iint_{\\Sigma} \\frac{(x + \\sqrt{3}) |y - 2z|}{\\sqrt{4 + y^2 + z^2 - 4yz}} \\mathrm{d}S$, 其中 $\\Sigma$ 是椭球面 $S$ 位于曲线 $C$ 上方的部分。\n\n解 设点 $P$ 的坐标为 $(x, y, z)$, 则椭球面 $S$ 在点 $P$ 处的法向量为 $(2x, 2y - z, 2z - y)$. 又 $xOy$ 面\n的法向量可取为 $(0, 0, 1)$, 故由 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直知,\n$(2x, 2y - z, 2z - y) \\cdot (0, 0, 1) = 0,$\n即有 $y = 2z$. 由于点 $P$ 在椭球面 $S$ 上, 故点 $P$ 的轨迹 $C$ 为\n$\\begin{cases} x^2 + y^2 + z^2 - yz = 1, \\\\ y = 2z, \\end{cases}$ 或者 $\\begin{cases} x^2 + \\frac{3}{4}y^2 = 1, \\\\ y = 2z. \\end{cases}$\n\n$\\Sigma$ 在 $xOy$ 面上的投影区域为 $D_{xy} = \\left\\{ (x, y) \\mid x^2 + \\frac{3}{4}y^2 \\le 1 \\right\\}$, 其面积为 $\\pi \\cdot 1 \\cdot \\frac{2}{\\sqrt{3}} = \\frac{2}{\\sqrt{3}}\\pi$.\n对方程 $x^2 + y^2 + z^2 - yz = 1$ 两边关于 $x, y$ 分别求偏导数, 得 [蓝色批注] 也可公式法: $F(x, y, z) = x^2 + y^2 + z^2 - yz - 1 = 0$\n$2x + 2z \\frac{\\partial z}{\\partial x} - y \\frac{\\partial z}{\\partial x} = 0, \\quad 2y + 2z \\frac{\\partial z}{\\partial y} - z - y \\frac{\\partial z}{\\partial y} = 0, \\quad$ [蓝色批注] $F'_x = 2x, F'_y = 2y - z, F'_z = 2z - y$",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2074.txt"
+  },
+  "IMG102": {
+    "text": "巩固题 · 基础-概率-第2章(4) 选择题 $\\color{red}{X \\text{ 错过}}$ 第3次 · 上次今天 难度 2\n\n随机试验 $E$ 有三种两两不相容的结果 $A_1, A_2, A_3$, 且三种结果发生的概率均为 $\\frac{1}{3}$. 将试验 $E$ 独立重复做2次, $X$ 表示2次试验中结果 $A_1$ 发生的次数, $Y$ 表示2次试验中结果 $A_2$ 发生的次数, 则 $X + Y$ 服从( ).\n\nA $B\\left(2, \\frac{1}{3}\\right)$\nB $B\\left(2, \\frac{2}{3}\\right)$ [彩色批注：选项框为蓝色]\nC $B\\left(4, \\frac{1}{3}\\right)$\nD $B\\left(4, \\frac{2}{3}\\right)$\n\n排除法：右键（手机长按）选项可以把它划掉",
+    "cache": ".codex-tmp/math-20261120/ocr/batch_2102.txt"
+  }
+}

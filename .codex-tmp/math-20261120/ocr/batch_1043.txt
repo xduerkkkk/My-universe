@@ -1,0 +1,26 @@
+### IMG043
+
+(1) 曲线 $y = (x-1)(x-2)^2(x-3)^3(x-4)^4$ 的拐点是 ( $C$ )
+(A) (1,0). (B) (2,0).
+(C) (3,0). (D) (4,0).
+
+例 2.27 改编自 2011 年数一真题
+求 $f(x) = (x-1)(x-2)^2(x-3)^3(x-4)^4$ 的零点、驻点、极值点、拐点个数
+
+$f(x)=0 \quad x: 1 \overbrace{\quad}^{x_1} 2 \overbrace{\quad}^{x_2} 3 \overbrace{\quad}^{x_3} 4 \quad 10$ 次多项式 $\therefore 4$ 个零点
+重数: $1 \quad 2 \quad 3 \quad 4 \quad$ 总共 $10$ 重
+
+$f'(x)=0 \quad x: x_1 \overbrace{\quad}^{\xi_1} 2 \overbrace{\quad}^{\xi_2} x_2 \overbrace{\quad}^{\xi_3} 3 \overbrace{\quad}^{\xi_4} x_3 \overbrace{\quad}^{\xi_5} 4 \quad 9$ 次多项式 $\therefore 6$ 个驻点
+重数: $1 \quad 1 \quad 1 \quad 2 \quad 1 \quad 3 \quad$ 总共 $9$ 重
+$f'(x) = (x-x_1)(x-2)(x-x_2)(x-3)^2(x-x_3)(x-4)^3 \quad$ “奇穿偶不穿”
+极值点: 邻域内 $f'(x)$ 变号 $\therefore$ 找奇数次幂
+$\therefore x = x_1, 2, x_2, x_3, 4$ 为极值点 $\therefore 5$ 个极值点
+
+图示：
+$f'(x)$
+[坐标轴上标有点：$x_1, 2, x_2, 3, x_3, 4$。曲线在 $x_1, 2, x_2, x_3, 4$ 处穿过 $x$ 轴，在 $3$ 处与 $x$ 轴相切但不穿过。]
+
+$f''(x)=0 \quad x: \xi_1 \quad \xi_2 \quad \xi_3 \quad 3 \quad \xi_4 \quad \xi_5 \quad 4 \quad 8$ 次多项式
+重数: $1 \quad 1 \quad 1 \quad 1 \quad 1 \quad 1 \quad 2 \quad$ 总共 $8$ 重
+拐点: 邻域内 $f''(x)$ 变号 $\therefore$ 找奇数次幂
+$\therefore x = \xi_1, \xi_2, \xi_3, 3, \xi_4, \xi_5$ 为拐点 $\therefore 6$ 个拐点

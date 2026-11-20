@@ -1,0 +1,7 @@
+RETRY batch 3038 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 3039 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 3038 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 3039 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 3038 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 3039 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+['failed', 'failed']

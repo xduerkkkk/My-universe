@@ -1,0 +1,4 @@
+### IMG105
+
+$\color{blue}{\bigcirc}$
+【7.57】 $f(x) = \arctan \frac{1 + x}{1 - x}$ 展开成 x 的幂级数 $\color{blue}{(P506)}$

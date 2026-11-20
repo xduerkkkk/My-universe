@@ -1,0 +1,5 @@
+### IMG109
+
+$\bigcirc$
+
+【例 21】 设 $f(x)$ 为定义在 $[0, +\infty)$ 上的连续函数，且满足 $f(t) = \iiint\limits_{\Omega: x^2+y^2+z^2 \leqslant t^2} f(\sqrt{x^2+y^2+z^2}) dv + t^3$ 求 $f(1)$。 (P630)

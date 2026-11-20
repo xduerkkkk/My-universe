@@ -1,0 +1,105 @@
+### IMG021
+
+**[例 1.12]** 设 $y = \sin x, 0 \le x \le 2\pi$, 求其所有单调区间上的反函数.
+
+**[分析]** 分单调区间, 分别讨论反函数 (用诱导公式).
+
+**[解]** 当 $0 \le x \le \frac{\pi}{2}$ 时, 对于 $y = \sin x$, 有 $x = \arcsin y, y \in [0, 1]$;
+[蓝色手写批注]：只有当 $x$ 落在 $[-\frac{\pi}{2}, \frac{\pi}{2}]$ 上时, 才有反函数 $x = \arcsin y, y \in [-1, 1]$. (箭头指向下一行)
+
+当 $\frac{\pi}{2} < x \le \frac{3\pi}{2}$ 时 (见图 1-14), 有 $-\frac{\pi}{2} < x - \pi \le \frac{\pi}{2}$, 此时 $\sin(x - \pi) = -\sin(\pi - x) = -\sin x = -y$, 于是有 $x - \pi = -\arcsin y$, 故 $x = \pi - \arcsin y, y \in [-1, 1)$;
+[蓝色手写批注]：(箭头指向 $x-\pi$) 放到主值区间中
+
+当 $\frac{3\pi}{2} < x \le 2\pi$ 时 (见图 1-14), 有 $-\frac{\pi}{2} < x - 2\pi \le 0$, 此时 $\sin(x - 2\pi) = \sin x = y$, 于是有 $x - 2\pi = \arcsin y$, 故
+$$x = 2\pi + \arcsin y, y \in (-1, 0].$$
+
+[图示文字与坐标]：
+图 1-14
+$y$ 轴, $x$ 轴, 原点 $O$
+曲线标注：$y = \sin x$
+$x$ 轴坐标点：$\frac{\pi}{2}, \pi, \frac{3\pi}{2}, 2\pi$
+
+---
+
+### IMG022
+
+例 1.74 严选题, D 选项可以巧用逆否命题 (反证法的本质也是逆否命题)
+
+设有数列 $\{x_n\}$ 与 $\{y_n\}$, 以下结论正确的是 (D)
+(A) 若 $\lim_{n \to \infty} x_n y_n = 0$, 则必有 $\lim_{n \to \infty} x_n = 0$ 或 $\lim_{n \to \infty} y_n = 0$.
+(B) 若 $\lim_{n \to \infty} x_n y_n = \infty$, 则必有 $\lim_{n \to \infty} x_n = \infty$ 或 $\lim_{n \to \infty} y_n = \infty$.
+(C) 若 $x_n y_n$ 有界, 则必有 $x_n$ 与 $y_n$ 都有界.
+(D) 若 $x_n y_n$ 无界, 则必有 $x_n$ 无界或 $y_n$ 无界.
+
+[红色手写批注]：
+排除 ABC
+$x_n = \begin{cases} n & n \text{为偶数} \\ 0 & n \text{为奇数} \end{cases} \quad y_n = \begin{cases} 0 & n \text{为偶数} \\ n & n \text{为奇数} \end{cases}$
+$x_n = \begin{cases} n & n \text{为偶数} \\ 1 & n \text{为奇数} \end{cases} \quad y_n = \begin{cases} 1 & n \text{为偶数} \\ n & n \text{为奇数} \end{cases}$
+$C: x_n = n, y_n = 0$
+
+[蓝色手写批注]：
+※ D: 逆否命题: ※ ※
+若 $x_n$ 有界且 $y_n$ 有界, 则 $x_n y_n$ 有界
+显然成立. 有界 $\times$ 有界 = 有界
+
+[紫色框内手写批注]：
+※ 一个命题一定等价于其逆否命题.
+
+---
+
+### IMG023
+
+定有上界, 所以 $S_n = \sum a_n$ 一定收敛, 所以 $a_n$ 一定趋于 0
+[红色手写批注]：※ 数列收敛 $\iff$ 数列极限存在
+
+设 $a_n > 0 (n = 1, 2, \dots), S_n = a_1 + a_2 + \dots + a_n$, 则数列 $\{S_n\}$ 有界是数列 $\{a_n\}$ 收敛的 (B)
+(A) 充分必要条件. (B) 充分非必要条件. (C) 必要非必要条件. (D) 既非充分也非必要条件.
+
+[红色手写批注]：
+$A \implies B$, 则 $B$ 是 $A$ 的必要条件.
+[蓝色手写批注]：
+$b\grave{e}i$ 被箭头指着的是必要条件
+把拼音的拼写读出来!!
+"bèi 波误被"
+"bì 波意必"
+我到现在都记得高中生物 "钠离子内流". 因为 nà 钠. nèi 内
+思维课第二章还会讲 "浮屠" 谐音 "负凸"
+$\therefore$ 二阶导为负, 则函数为凸函数
+
+[红色手写批注]：
+框选：※ 数列收敛 $\iff$ 数列极限存在
+① 若 $\{a_n\}$ 收敛, 则推不出 $\{S_n\}$ 有界. 例: $a_n = 1$
+② 若 $\{S_n\}$ 有界, 条件反射 $\implies$ 单调有界准则 $\implies$ 判断是否 $\{S_n\}$ 单调
+死皮赖脸把 $a_n$ 往 $S_n$ 上凑!!! $S_n - S_{n-1} = a_n > 0 \therefore \{S_n\} \uparrow$ 单调增加
+由单调有界准则可知, $\{S_n\}$ 收敛. 令 $\lim_{n \to \infty} S_n = k$, 则 $\lim_{n \to \infty} a_n = \lim_{n \to \infty} (S_n - S_{n-1}) = \lim_{n \to \infty} S_n - \lim_{n \to \infty} S_{n-1} = k - k = 0$
+$\therefore \{S_n\}$ 有界 $\implies \{a_n\}$ 收敛 $\therefore$ 选择 B
+
+---
+
+### IMG024
+
+(1) 证明: 方程 $x^n + x^{n-1} + \dots + x = 1 (n > 1 \text{为整数})$ 在区间 $(\frac{1}{2}, 1)$ 内有且仅有一个实根;
+
+(2) 记 (1) 中的实根为 $x_n$, 证明 $\lim_{n \to \infty} x_n$ 存在, 并求此极限
+
+[底部标签]：
+单调有界准则 (含递推数列 $x_{n+1} = f(x_n)$)
+夹逼准则与放缩
+
+---
+
+### IMG025
+
+题型 3 考察极限的定义及性质 (难点, 易错点)
+
+【例 7】(2022 数三) 已知 $a_n = \sqrt[n]{n} - \frac{(-1)^n}{n} (n = 1, 2, \dots)$, 则 $\{a_n\}$ ( )
+(A) 有最大值, 有最小值. (B) 有最大值, 没有最小值.
+(C) 没有最大值, 有最小值. (D) 没有最大值, 没有最小值.
+
+[红色手写批注]：
+$\begin{cases} a_1 = 1 + 1 = 2 \\ a_2 = \sqrt{2} - \frac{1}{2} \\ a_3 = \sqrt[3]{3} + \frac{1}{3} \\ a_n \to 1 \end{cases}$
+
+[图示文字与坐标]：
+左图：纵轴 $a_n$, 横轴 $n=1 \to \dots \to n \to +\infty$. 水平红线标为 1. 点 $a_1$ 在上方, 之后点在 1 上下波动趋向 1.
+右图：手绘曲线, 带有蓝色批注点.
+[手写文字]：咋了, 没了, 没了, $a_n \to 1$, $[1, +\infty)$

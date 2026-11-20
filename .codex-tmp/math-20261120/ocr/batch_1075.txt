@@ -1,0 +1,3 @@
+### IMG075
+
+例 1】计算 $\lim_{n \to \infty} \frac{1}{n^2} \prod_{i=1}^{2n} (n+i)^{\frac{1}{n}}$ .

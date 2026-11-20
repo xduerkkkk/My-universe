@@ -1,0 +1,7 @@
+### IMG165
+
+【2.85】 设函数 $f(x)$ 具有 2 阶导数, $g(x) = f(0)(1 - x) + f(1)x$, 则在区间 $[0, 1]$ 上 ( ) (P185)
+A. 当 $f'(x) \geqslant 0$ 时, $f(x) \geqslant g(x)$.
+B. 当 $f'(x) \geqslant 0$ 时, $f(x) \leqslant g(x)$.
+C. 当 $f''(x) \geqslant 0$ 时, $f(x) \geqslant g(x)$.
+D. 当 $f''(x) \geqslant 0$ 时, $f(x) \leqslant g(x)$.

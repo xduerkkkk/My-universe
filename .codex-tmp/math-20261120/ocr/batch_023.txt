@@ -1,0 +1,35 @@
+### IMG116
+
+已知曲线积分 $\int_L \left( yf \left( \frac{2y}{x} \right) - \frac{2xy^2}{x^2+4y^2} \right) \mathrm{d}x + \left( xf \left( \frac{2y}{x} \right) + \frac{2x^2y}{x^2+4y^2} \right) \mathrm{d}y$ 在第一象限内与路径无关，其中 $f(t)$ 具有连续导数，且 $f(1) = \frac{\pi}{4}$. (I) 求 $f(t)$; (II) 取 $L : y = x^2 - 2x + 2$ 上 $(1,1)$ 到 $(2,2)$ 的一段，计算曲线积分
+
+$I = \int_L \left( yf \left( \frac{2y}{x} \right) - \frac{2xy^2}{x^2+4y^2} \right) \mathrm{d}x + \left( xf \left( \frac{2y}{x} \right) + \frac{2x^2y}{x^2+4y^2} \right) \mathrm{d}y$
+
+---
+
+### IMG117
+
+数学一 · 第14题 $\nearrow$ 填空题 [X 自评做错] 第 1 次 · 上次今天 难度 3
+
+已知 $f'_x(x,y) + f(x,y) = xy$, 且 $f(0,y) = y$. 则 $f(x,y) = \_\_\_\_\_\_$.
+
+$\text{\textsf{\small \textbullet \hspace{0.1cm} 分部积分（含循环型与建立递推）}}$ $\text{\textsf{\small \textbullet \hspace{0.1cm} 一阶线性方程}}$ $\text{\textsf{\small \textbullet \hspace{0.1cm} 变量代换化偏微分方程（消项 / 化为常微分方程）}}$
+
+---
+
+### IMG118
+
+设曲面 $\Sigma : y = 1 - 2x^2 - 2z^2 (0 \leqslant y \leqslant 1)$, 取右侧，计算曲面积分
+
+$I = \iint_{\Sigma} (xy^2 + x) \mathrm{d}y\mathrm{d}z + (y^3 - z^2) \mathrm{d}z\mathrm{d}x + (zy^2 - x^2) \mathrm{d}x\mathrm{d}y$.
+
+---
+
+### IMG119
+
+求二元函数 $f(x,y) = (x^2 + y^2) \mathrm{e}^{-(x^2 + 2y^2)}$ 的极值.
+
+---
+
+### IMG120
+
+(14) 微分方程 $y''' - 2y'' - 3y' = \mathrm{e}^{3x}$ 满足 $y(0) = -\frac{1}{36}, y'(0) = 0, y''(0) = \frac{1}{4}$ 的特解为 \_\_\_\_\_\_.

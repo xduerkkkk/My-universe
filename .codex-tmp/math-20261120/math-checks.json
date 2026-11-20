@@ -1,0 +1,150 @@
+{
+  "status": "ok",
+  "checks": 24,
+  "tests": [
+    {
+      "name": "G65 Ux=P",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G65 Uy=Q",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G66 projection integral",
+      "actual": "19/48",
+      "expected": "19/48",
+      "ok": true
+    },
+    {
+      "name": "G67 direct line integral",
+      "actual": "1.3603495231756633",
+      "expected": "1.3603495231756633",
+      "ok": true
+    },
+    {
+      "name": "G72 direct upper-hemisphere projection",
+      "actual": "15*pi/4",
+      "expected": "15*pi/4",
+      "ok": true
+    },
+    {
+      "name": "G78 feasible paraboloid",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G78 feasible plane",
+      "actual": "1",
+      "expected": "1",
+      "ok": true
+    },
+    {
+      "name": "G78 gradient norm squared",
+      "actual": "20*sqrt(3) + 36",
+      "expected": "20*sqrt(3) + 36",
+      "ok": true
+    },
+    {
+      "name": "G82 tangent point (3, 0, 2)",
+      "actual": "21",
+      "expected": "21",
+      "ok": true
+    },
+    {
+      "name": "G82 direction orthogonality (3, 0, 2)",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G82 line point in plane (3, 0, 2)",
+      "actual": "21",
+      "expected": "21",
+      "ok": true
+    },
+    {
+      "name": "G82 tangent point (1, 2, 2)",
+      "actual": "21",
+      "expected": "21",
+      "ok": true
+    },
+    {
+      "name": "G82 direction orthogonality (1, 2, 2)",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G82 line point in plane (1, 2, 2)",
+      "actual": "21",
+      "expected": "21",
+      "ok": true
+    },
+    {
+      "name": "G88 ODE residual",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G88 initial 0",
+      "actual": "-1/36",
+      "expected": "-1/36",
+      "ok": true
+    },
+    {
+      "name": "G88 initial 1",
+      "actual": "0",
+      "expected": "0",
+      "ok": true
+    },
+    {
+      "name": "G88 initial 2",
+      "actual": "1/4",
+      "expected": "1/4",
+      "ok": true
+    },
+    {
+      "name": "G49 sine coefficient 1",
+      "actual": "3.7367062177092616",
+      "expected": "3.7367062177092607",
+      "ok": true
+    },
+    {
+      "name": "G49 sine coefficient 2",
+      "actual": "-3.141592653589793",
+      "expected": "-3.141592653589793",
+      "ok": true
+    },
+    {
+      "name": "G49 sine coefficient 3",
+      "actual": "2.000081062042442",
+      "expected": "2.0000810620424425",
+      "ok": true
+    },
+    {
+      "name": "G49 sine coefficient 4",
+      "actual": "-1.5707963267948963",
+      "expected": "-1.5707963267948966",
+      "ok": true
+    },
+    {
+      "name": "G49 sine coefficient 5",
+      "actual": "1.2362652287201539",
+      "expected": "1.2362652287201545",
+      "ok": true
+    },
+    {
+      "name": "G106 minimum radius",
+      "actual": "3*sqrt(3)/2",
+      "expected": "3*sqrt(3)/2",
+      "ok": true
+    }
+  ]
+}

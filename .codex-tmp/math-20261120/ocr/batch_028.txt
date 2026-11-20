@@ -1,0 +1,42 @@
+### IMG141
+
+【例 3】 求曲线积分 $I = \int_{L} 2yzdx + (2z - z^2)dy + (y^2 + 2xy + 3y)dz$, 其中 L 为闭曲线
+$\begin{cases} x^2 + y^2 + z^2 = 1, \\ x + y + z = 3/2, \end{cases}$ 从原点向 L 看去, L 沿顺时针方向. <font color="#336699">(P664)</font>
+
+---
+
+### IMG142
+
+【3.22】 设向量组 $\boldsymbol{\alpha}_1 = [1, 1, 1, 3]^T, \boldsymbol{\alpha}_2 = [-1, -3, 5, 1]^T, \boldsymbol{\alpha}_3 = [3, 2, -1, a + 2]^T, \boldsymbol{\alpha}_4 = [-2, -6, 10, a]^T$.
+<font color="#336699">(P119)</font>
+(1) $a$ 为何值时, 该向量组线性无关? 并在此时将<ins>向量 $\boldsymbol{\alpha}$</ins> $= [4, 1, 6, 10]^T$ 用 <ins>$\boldsymbol{\alpha}_1, \boldsymbol{\alpha}_2, \boldsymbol{\alpha}_3, \boldsymbol{\alpha}_4$ 线性表</ins>示;
+(2) $a$ 为何值时, 该向量组线性相关? 并在此时求出它的秩和一个极大线性无关组.
+
+注：(1)中“向量 $\boldsymbol{\alpha}$”和“$\boldsymbol{\alpha}_1, \boldsymbol{\alpha}_2, \boldsymbol{\alpha}_3, \boldsymbol{\alpha}_4$ 线性表”下方有红色手写下划线。
+
+---
+
+### IMG143
+
+<font color="#336699">○</font>
+【6.23】 设二次型 $f(x_1, x_2, x_3) = x_1^2 + x_2^2 + x_3^2 + 2ax_1x_2 + 2ax_1x_3 + 2ax_2x_3$ 经可逆线性变换
+$\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} = \boldsymbol{P} \begin{pmatrix} y_1 \\ y_2 \\ y_3 \end{pmatrix}$ 化为二次型 $g(y_1, y_2, y_3) = y_1^2 + y_2^2 + 4y_3^2 + 2y_1y_2$. <font color="#336699">(P241/244)</font>
+(1) 求 $a$ 的值;
+(2) 求可逆矩阵 $\boldsymbol{P}$.
+
+注：题号上方有一个蓝色圆圈批注。
+
+---
+
+### IMG144
+
+【例 12】 设 P 为椭球面 $S : x^2 + y^2 + z^2 - yz = 1$ 上的动点, 若 S 在点 P 处的切平面与 xOy 面垂直, 求点 P 的轨迹 C, 并计算曲面积分 $I = \iint\limits_{\Sigma} \frac{(x + \sqrt{3})|y - 2z|}{\sqrt{4 + y^2 + z^2 - 4yz}} dS$, 其中 $\Sigma$ 是椭球面 S 位于曲线 C 上方的部分. <font color="#336699">(P678)</font>
+
+---
+
+### IMG145
+
+<font color="#336699">○</font>
+【0.1】 若 $\boldsymbol{A} = \begin{bmatrix} 0 & 1 & 3 \\ 1 & -1 & 0 \\ -1 & 2 & 1 \end{bmatrix}$, 则 $\boldsymbol{A}^{-1} = \underline{\qquad\qquad}$. <font color="#336699">(P1)</font>
+
+注：题号上方有一个蓝色圆圈批注。

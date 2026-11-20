@@ -1,0 +1,73 @@
+### IMG051
+
+**2.11.1 曲率和曲率半径**
+
+和“成功率、胜率、及格率”等词语一样，所谓曲（qu 一声）率，指的是曲线的弯曲程度。曲率越大，弯曲程度就越大。
+
+1. 曲率的定义
+$$K = \lim_{\Delta s \to 0} \left| \frac{\Delta \alpha}{\Delta s} \right| .$$
+
+2. 曲率的计算
+(1) 若曲线由直角坐标方程 $y = y(x)$ 给出，则
+框选公式：$$K = \frac{|y''|}{(1 + y'^2)^{\frac{3}{2}}}$$
+[手写批注]：背!!
+
+(2) 若曲线由参数方程 $\begin{cases} x = x(t) \\ y = y(t) \end{cases}$ 给出，则
+$$K = \frac{|y''x' - y'x''|}{(x'^2 + y'^2)^{\frac{3}{2}}} .$$
+[手写批注]：不用背，手推即可
+
+3. 曲率圆与曲率半径
+框选公式：曲率半径 $R = \frac{1}{K} .$
+
+**例 2.93**
+曲线 $y = \ln x$ 在点 $P$ 处的曲率半径最小，则该最小半径是______。
+
+[右侧手写推导批注]：
+$\frac{dy}{dx} = \frac{y'(t)}{x'(t)}$
+$\frac{d^2y}{dx^2} = \frac{d(\frac{dy}{dx})}{dx} = \frac{d(\frac{dy}{dx})}{dt} \cdot \frac{dt}{dx}$
+$= \frac{d(\frac{y'(t)}{x'(t)})/dt}{dx/dt}$  $\frac{1}{\frac{dx}{dt}}$
+$= \frac{\frac{y''(t)x'(t) - y'(t)x''(t)}{x'^2(t)}}{x'(t)}$
+$= \frac{y''(t)x'(t) - y'(t)x''(t)}{x'^3(t)}$
+
+[右上角蓝色图示：曲线与切线/法线示意图]
+
+---
+### IMG052
+
+根据点积公式：
+$$\nabla f \cdot \mathbf{u} = |\nabla f| |\mathbf{u}| \cos \theta$$
+
+---
+### IMG053
+
+也就是方向 $\mathbf{u}$ 和梯度 $\nabla f$ 同方向时，
+$$\cos \theta = 1$$
+于是：
+$$D_{\max} f = |\nabla f|$$
+这就是“最大方向导数等于梯度模长”的原因。
+
+---
+### IMG054
+
+**例 18.7** 计算 $I = \iiint_{\Omega} | \sqrt{x^2 + y^2 + z^2} - 1 | \, dx dy dz$，其中 $\Omega: \sqrt{x^2 + y^2} \leqslant z \leqslant 1$. [手写批注]：$=\frac{1}{60}\pi R^5$ [不确定]
+
+【解】如图 18-14 所示，积分区域 $\Omega$ 被球面 $x^2 + y^2 + z^2 = 1$ 剖分成上下两部分，依次为 $\Omega_1, \Omega_2$，故
+$$I = \iiint_{\Omega_1} (\sqrt{x^2 + y^2 + z^2} - 1) \, dx dy dz + \iiint_{\Omega_2} (1 - \sqrt{x^2 + y^2 + z^2}) \, dx dy dz \triangleq I_1 + I_2 .$$
+对于 $I_1$ 和 $I_2$ 均采用球面坐标计算，有
+$$I_2 = \int_0^{2\pi} d\theta \int_0^{\frac{\pi}{4}} d\varphi \int_0^1 (1 - r) r^2 \sin \varphi \, dr$$
+$$= 2\pi \int_0^{\frac{\pi}{4}} \sin \varphi \, d\varphi \int_0^1 (1 - r) r^2 \, dr = \frac{\pi}{12} (2 - \sqrt{2}) ,$$
+
+[图 18-14 坐标与文字]：
+坐标轴：$x, y, z, O$
+区域标注：$\Omega_1, \Omega_2$
+[手写标注]：
+$z=1 \Rightarrow r = \frac{1}{\cos \varphi}$
+$\sqrt{x^2 + y^2 + z^2} - 1 = 0 \Rightarrow r = 1$
+图中虚线标注：$1$, $\sqrt{2}$ [不确定]
+
+385
+
+---
+### IMG055
+
+$$ds = \sqrt{x'^2 + y'^2} \, dt$$

@@ -1,0 +1,47 @@
+### IMG081
+
+16. 设随机变量 $X, Y, Z$ 满足 $D(X) = D(Z), D(Y) = 4D(X)$, 相关系数 $\rho_{XY} = -1, \rho_{XZ} = \frac{1}{2}$, 则 $X$ 与 $Y+Z$ 的相关系数 $\rho_{X(Y+Z)}$ 为______.
+
+### IMG082
+
+9. 设随机变量 $X_1, X_2, \cdots$ 独立同分布，其概率密度为 $f(x) = 3x^2 (0 < x < 1)$，在其他点处 $f(x) = 0$，则当 $n \to \infty$ 时，$\sum_{i=1}^n X_i / \sum_{i=1}^n X_i^2$ 依概率收敛于
+(A) $\frac{3}{4}$
+(B) $\frac{3}{5}$
+(C) $\frac{4}{5}$
+(D) $\frac{5}{4}$
+
+### IMG083
+
+已知 $f(x) = 3x^2 (0 < x < 1)$，直接算分子、分母对应的期望：
+
+1. 分子收敛于 $E(X)$:
+$$E(X) = \int_0^1 x \cdot 3x^2 dx = \int_0^1 3x^3 dx = \frac{3}{4}$$
+
+2. 分母收敛于 $E(X^2)$:
+$$E(X^2) = \int_0^1 x^2 \cdot 3x^2 dx = \int_0^1 3x^4 dx = \frac{3}{5}$$
+
+3. 相除得出答案：
+$$\frac{E(X)}{E(X^2)} = \frac{3/4}{3/5} = \frac{5}{4} \implies \text{直接选 (D)}$$
+
+### IMG084
+
+【例 20】 设锥面 $\Sigma$ 的顶点是 $A(0, 1, 1)$，准线是 $\begin{cases} x^2 + y^2 = 1, \\ z = 0, \end{cases}$ 直线 $L$ 过顶点 $A$ 和准线上任一点 $M_1(x_1, y_1, 0), \Omega$ 是 $\Sigma (0 \le z \le 1)$ 与平面 $z = 0$ 所围成的锥体. (P687)
+(1) 求 $L$ 和 $\Sigma$ 的方程；
+(2) 求 $\Omega$ 的形心坐标.
+
+### IMG085
+
+例 3.19 早年的概率论九讲。此题最终要求的是联合概率密度 $f(x, y)$，而题干条件给的是两个条件概率密度，条件概率密度乘以边缘概率密度，即可得到联合概率密度。因此此题要求出边缘概率密度 $f_X(x)$ 或 $f_Y(y)$。如何求解边缘概率密度呢？两个条件概率密度相除，得到的结果即为边缘概率密度之比，后续处理过程详见答案。此题难度较大，但每一步其实都是基本定义和基本处理手法，希望各位掌握。
+
+设二维正态随机变量 $(X, Y)$ 的概率密度为 $f(x, y)$，已知条件概率密度 $f_{X|Y}(x|y) = \sqrt{\frac{2}{3\pi}} e^{-\frac{2}{3}(x-\frac{y}{2})^2}$ 和 $f_{Y|X}(y|x) = \sqrt{\frac{2}{3\pi}} e^{-\frac{2}{3}(y-\frac{x}{2})^2}$，则 $f(x, y) = \_\_\_\_\_\_$
+
+【分析】 由于 $f_{X|Y}(x|y) = \frac{f(x, y)}{f_Y(y)}, f_{Y|X}(y|x) = \frac{f(x, y)}{f_X(x)}$，则 $\frac{f_{X|Y}(x|y)}{f_{Y|X}(y|x)} = \frac{f_X(x)}{f_Y(y)}$，从而将 $x, y$ 的函数分离。再由 $f(x, y) = f_{X|Y}(x|y) \cdot f_Y(y)$ 即可求得 $f(x, y)$。
+
+【解】 应填 $\frac{1}{\sqrt{3}\pi} e^{-\frac{2}{3}(x^2-xy+y^2)}$。
+
+由于
+$\frac{f_{X|Y}(x|y)}{f_{Y|X}(y|x)} = \frac{f_X(x)}{f_Y(y)} = e^{-\frac{2}{3} \left[ \left( x^2-xy+\frac{y^2}{4} \right) - \left( y^2-xy+\frac{x^2}{4} \right) \right]} = e^{-\frac{x^2-y^2}{2}} = \frac{e^{-\frac{x^2}{2}}}{e^{-\frac{y^2}{2}}}$，[彩色批注] 分离 $x$ 和 $y$
+
+且二维正态分布的两个边缘分布都是正态分布的形式，故可令 $f_X(x) = C e^{-\frac{x^2}{2}}, f_Y(y) = C e^{-\frac{y^2}{2}}$，$C$ 为常数。
+由 $\int_{-\infty}^{+\infty} f_X(x) dx = 1, \int_{-\infty}^{+\infty} f_Y(y) dy = 1$，得 $C = \frac{1}{\sqrt{2\pi}}$，即 $f_X(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}}, f_Y(y) = \frac{1}{\sqrt{2\pi}} e^{-\frac{y^2}{2}}$
+故 $f(x, y) = f_{X|Y}(x|y) \cdot f_Y(y) = \sqrt{\frac{2}{3\pi}} e^{-\frac{2}{3}(x-\frac{y}{2})^2} \cdot \frac{1}{\sqrt{2\pi}} e^{-\frac{y^2}{2}} = \frac{1}{\sqrt{3}\pi} e^{-\frac{2}{3}(x^2-xy+y^2)}$。

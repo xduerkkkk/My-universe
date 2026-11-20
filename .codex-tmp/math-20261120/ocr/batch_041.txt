@@ -1,0 +1,59 @@
+### IMG206
+
+例 18.16 计算 $I = \oint_L \sqrt{x^2 + y^2} \mathrm{d}s$, 其中 $L: x^2 + y^2 = -2y$.
+
+彩色批注：
+左侧有一红色斜线。
+题干中 $x^2 + y^2 = -2y$ 下方有蓝色下划线，末尾有一蓝色箭头指向右侧。
+
+---
+
+### IMG207
+
+例 18.16 计算 $I = \oint_L \sqrt{x^2 + y^2} \mathrm{d}s$, 其中 $L: x^2 + y^2 = -2y$.
+
+【解】本题不宜用直角坐标直接计算。
+将曲线方程用极坐标表示: $r = -2\sin \theta (-\pi \leqslant \theta \leqslant 0)$, 则
+$$x = r\cos \theta, y = r\sin \theta, \mathrm{d}s = \sqrt{[r(\theta)]^2 + [r'(\theta)]^2} \mathrm{d}\theta = 2\mathrm{d}\theta.$$
+故
+$$I = \int_{-\pi}^0 (-2\sin \theta) \cdot 2\mathrm{d}\theta = -4 \int_{-\pi}^0 \sin \theta \mathrm{d}\theta = 8.$$
+
+彩色批注：
+1. 左侧有一红色对勾。
+2. 题干中 $x^2 + y^2 = -2y$ 下方有蓝色下划线。
+3. 蓝色手写：$x^2 + (y+1)^2 = 1$
+4. 红色手写：在 $(-\pi \leqslant \theta \leqslant 0)$ 上方标注 $\Leftrightarrow \pi \leqslant \theta \leqslant 2\pi$，下方有红色波浪线。
+5. 蓝色手写图示：坐标系中 $x$ 轴与 $y$ 轴，圆心在 $y$ 轴负半轴的圆。
+6. 右侧蓝色手写：
+平移 (圆心为原点)
+$\begin{cases} x = \cos \theta \\ y = -1 + \sin \theta \end{cases}$ $\mathrm{d}s = \sqrt{(x'_\theta)^2 + (y'_\theta)^2} \mathrm{d}\theta = \mathrm{d}\theta$
+$I = \oint_L \sqrt{x^2 + y^2} \mathrm{d}s = \oint_L \sqrt{-2y} \mathrm{d}s$
+[此处有一划掉的公式：$\oint_L \sqrt{x^2+y^2} \mathrm{d}s$]
+$= \sqrt{2} \int_0^{2\pi} \sqrt{1 - \sin \theta} \mathrm{d}\theta$
+$= \sqrt{2} \int_0^{2\pi} \sqrt{\sin^2 \frac{\theta}{2} + \cos^2 \frac{\theta}{2} - 2\sin \frac{\theta}{2} \cos \frac{\theta}{2}} \mathrm{d}\theta$
+$= \sqrt{2} \int_0^{2\pi} |\sin \frac{\theta}{2} - \cos \frac{\theta}{2}| \mathrm{d}\theta$
+$= 2\sqrt{2} \int_0^\pi |\sin u - \cos u| \mathrm{d}u$
+$= 2\sqrt{2} [\int_0^{\frac{\pi}{4}} (\cos u - \sin u) \mathrm{d}u + \int_{\frac{\pi}{4}}^\pi (\sin u - \cos u) \mathrm{d}u]$
+7. 右侧红色手写：一个波形图示及箭头。
+
+---
+
+### IMG208
+
+【18.40】 设 $L$ 为曲线 $x^2 + y^2 = R^2$ (常数 $R > 0$) 按逆时针绕一周, $\boldsymbol{n}$ 为 $L$ 的外法线方向向量, $u(x, y)$ 具有二阶连续偏导数且 $\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = x^2 + y^2$. 求 $\oint_L \frac{\partial u}{\partial \boldsymbol{n}} \mathrm{d}s$. (P597)
+
+---
+
+### IMG209
+
+【例 14】 设直线 $l: \begin{cases} x + y + b = 0, \\ x + ay - z - 3 = 0 \end{cases}$ 在平面 $\pi$ 上, 而平面 $\pi$ 与曲面 $z = x^2 + y^2$ 相切于点 $(1, -2, 5)$, 求 $a, b$ 之值. (P681)
+
+---
+
+### IMG210
+
+【例 16】 设 $f'(u) \neq 0$, 且 $x_0^2 + y_0^2 \neq 0$, 则曲面 $z = f(\sqrt{x^2 + y^2})$ 上点 $M_0(x_0, y_0, z_0)$ 处的法线与 $z$ 轴的位置关系是 ( ) (P683)
+A. 垂直相交
+B. 不垂直相交
+C. 平行.
+D. 异面直线.

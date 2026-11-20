@@ -1,0 +1,68 @@
+### IMG111
+
+【3.42】 设二维随机变量 $(X, Y)$ 在区域 $D = \{(x, y) \mid 0 < x < 1, x^2 < y < \sqrt{x}\}$ 上服从均匀分布，令
+$$U = \begin{cases} 1, & X \leqslant Y, \\ 0, & X > Y. \end{cases}$$
+(P103)
+(1) 写出 $(X, Y)$ 的概率密度；
+(2) 问 $U$ 与 $X$ 是否相互独立？并说明理由；
+(3) 求 $Z = U + X$ 的分布函数 $F_Z(z)$.
+
+---
+### IMG112
+
+(5) 设光滑有向曲面 $S$ 的边界曲线为光滑有向闭曲线 $L$，方向符合右手法则，则 $I = \oint_L \text{grad} \sin(x + y + z) \cdot ds = \underline{\qquad\qquad}$.
+
+---
+### IMG113
+
+(1) 设曲线 $L$ 为 $x^2 + y^2 = 1$，取逆时针方向，$f(x, y) > 0$，$f(x, -y) = f(x, y)$。$L_1, L_2, L_3$ 如图示，记 $I_1 = \int_{L_1} f(x, y) dx, I_2 = \int_{L_2} f(x, y) ds, I_3 = \int_{L_3} f(x, y) dx$，则 ( )。
+
+图示内容：
+坐标系中有一单位圆，原点为 $0$。
+$x$ 轴上标注有 $1, -1$；$y$ 轴上标注有 $1, -1$。
+$L_1$ 为第一象限的圆弧，方向为逆时针。
+$L_2$ 为第二象限的圆弧，方向为逆时针。
+$L_3$ 为第三象限的圆弧，方向为逆时针。
+
+A. $I_1 > I_2 > I_3$
+B. $I_2 > I_3 > I_1$
+C. $I_3 > I_2 > I_1$
+D. $I_2 > I_1 > I_3$
+
+---
+### IMG114
+
+计算 $I = \int_L (2x + y - \cos y) dx + x \sin y dy$
+其中 $L$ 是从 $A(-\pi, 0)$ 沿曲线 $y = \cos(x + \frac{\pi}{2})$ 到 $B(\pi, 0)$ 的弧段.
+解: $y = \cos(x + \frac{\pi}{2}) = -\sin x$
+
+[红色手写批注]：
+其实熟练之后，基本就是一眼
+盯真，曲线在 $x$ 上的方向一直
+向右，而 $2x$ 在 $x$ 左半轴 $A(-\pi, 0)$
+向左，因此做负功，在 $x$
+右半轴向右，因此做正功.
+正负相抵 $\int_L 2x dx = 0$
+而同理 $\int_L y dx = 0$
+再看 $\int_L \cos y dx$
+由于 $L$ 在 $x$ 左半轴 $0 < y \leqslant 1$
+故 $\cos y > 0$ 向右做正功.
+$L$ 在 $x$ 右半轴 $-1 \leqslant y < 0$
+故 $\cos y > 0$ 向右依旧做
+正功. 故 $\int_L \cos y dx = 2 \int_{L_1} \cos y dx$
+其中 $L_1$ 为 $L$ 在第二象限的部分. 再看 $\int_L x \sin y dy$
+
+[图示内容]：
+共有三个坐标系，均绘制了曲线 $y = -\sin x$ 在 $[-\pi, \pi]$ 范围内的图形。
+坐标轴标注有 $x, y, O$。
+点标注有 $A(-\pi, 0), B(\pi, 0)$。
+曲线上的箭头表示从 $A$ 到 $B$ 的方向。
+第三个图中包含红色虚线标注 $x = -\frac{\pi}{2}$ 和 $x = \frac{\pi}{2}$，以及红色标注的“正功”、“正功”和受力分析箭头 $F_y, F_x$。
+
+---
+### IMG115
+
+设随机变量 $X$ 的概率密度为 $f_X(x) = \begin{cases} x, & 0 \leqslant x < 1, \\ 2 - x, & 1 \leqslant x \leqslant 2, \\ 0, & \text{其他}, \end{cases}$ 令
+$$Y = \begin{cases} -1, & 0 \leqslant X < 1, \\ 1, & 1 \leqslant X \leqslant 2. \end{cases}$$
+求，(I) $Z = XY$ 的概率密度 $f_Z(z)$;
+(II) $\text{cov}(X, Z)$.

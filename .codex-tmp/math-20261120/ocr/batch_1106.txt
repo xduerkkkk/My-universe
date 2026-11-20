@@ -1,0 +1,4 @@
+### IMG106
+
+○
+【18.52】 求 $I = \iint\limits_{\Sigma} \frac{x(y - z) \mathrm{d}y \mathrm{d}z + y(z - x) \mathrm{d}z \mathrm{d}x + z(x - y) \mathrm{d}x \mathrm{d}y}{\sqrt{x^2 + y^2 + z^2}}$, 其中 $\Sigma$ 为球面 $x^2 + y^2 + z^2 = R^2(R > 0)$, 取外侧. (P607)

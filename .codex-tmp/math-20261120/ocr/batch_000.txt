@@ -1,0 +1,110 @@
+### IMG001
+
+※ **要先看 $D_k$ 和前一项有关还是和前两项有关**
+
+$f_n$ 只与 $f_{n-1}$ 有关时，用第一数学归纳法
+
+(1) ① 验证 $n=1$ 时，命题 $f_n$ 正确，
+② 假设 $n=k$ 时，命题 $f_n$ 正确，
+③ 证明 $n=k+1$ 时，命题 $f_n$ 正确。
+
+$f_n$ 与 $f_{n-1}$ 和 $f_{n-2}$ 都有关时，用第二数学归纳法
+
+(2) ① 验证 $n=1$ 和 $n=2$ 时命题 $f_n$ 都正确，
+② 假设 $n < k$ 时，命题 $f_n$ 正确，
+③ 证明 $n=k$ 时，命题 $f_n$ 正确。
+
+[左侧边缘有部分文字：确。]
+
+---
+### IMG002
+
+6. 设 $\alpha_1, \alpha_2, \alpha_3$ 与 $\beta_1, \beta_2, \beta_3$ 是 $\mathbb{R}^3$ 的两个基，$(\beta_1, \beta_2, \beta_3) = (\alpha_1, \alpha_2, \alpha_3)P$. 若存在非零向量在这两个基下的坐标相同，则必有
+(A) $|P| = 1$
+(B) $\text{tr } P = 3$
+(C) $P$ 为正交矩阵
+(D) $|P - E| = 0$
+
+---
+### IMG003
+
+[顶部边缘红色文字：...在第二步结论公式 $(A+aE)(A+bE)=O$ ... [不确定] 结论]
+
+$n$ 阶矩阵 $A$ 满足 $(A+aE)(A+bE)=O (a \neq b)$，证明 $r(A+aE) + r(A+bE) = n$
+
+【注】(1) 证 [此处有一段被划掉的手写文字]，得 $(A-k_1E)(A-k_2E)=O$，于是
+$r(A-k_1E) + r(A-k_2E) \le n$.
+又 $r(A-k_1E) + r(A-k_2E) = r(k_1E-A) + r(A-k_2E) \ge r(k_1E-A+A-k_2E)$
+$= r[(k_1-k_2)E]$
+$= r(E) = n$.
+综上，$r(A-k_1E) + r(A-k_2E) = n$.
+
+(2) 设 $A$ 为 $n$ 阶方阵，则由上述结论可知
+① 若 $A^2=A$，则 $r(A) + r(A-E) = n$;
+② 若 $A^2=E$，则 $r(A+E) + r(A-E) = n$.
+
+[彩色批注：]
+- 红色下划线：$(A-k_1E)(A-k_2E)=O$
+- 红色下划线：$r(A-k_1E)$ 和 $r(k_1E-A)$
+- 红色手写公式：$r(A)+r(B) \ge r(A+B)$
+- 蓝色手写批注：$k_1 \neq k_2$，故 $k_1-k_2 \neq 0$
+- 蓝色手写公式：$A^2=A \Rightarrow A(A-E)=O$
+- 蓝色手写公式：$A^2=E \Rightarrow (A+E)(A-E)=O$
+
+---
+### IMG004
+
+设 $A, B$ 均为 $n$ 阶方阵，$AB=BA$ 的充分条件如下：
+① $A$ 和 $B$ 至少有一个是零矩阵
+② $A$ 和 $B$ 至少有一个是 $k$ 倍的单位矩阵
+③ $A$ 和 $B$ 均为对角矩阵
+④ $B=f(A)$，其中 $f(A)$ 表示 $A^k, A^{-1}, A^*$ 的线性组合的形式，如 $B=4A^3+2A^{-1}+3A^*$
+⑤ $AB=kE (k \neq 0)$
+⑥ $AB=aA+bB (ab \neq 0)$
+⑦ $A^2+aAB=bE (a \neq 0 \text{ 且 } b \neq 0)$
+
+[蓝色及红色手写推导：]
+④ $A \cdot A^k = A^{k+1} = A^k \cdot A$
+$AA^{-1} = A^{-1}A = E$
+$AA^* = A^*A = |A|E$
+$\therefore A \cdot f(A) = f(A) \cdot A$
+
+⑤ $AB=kE$
+$A \cdot (\frac{1}{k}B) = E \Rightarrow A^{-1} = \frac{1}{k}B$
+$\therefore A^{-1}A = \frac{1}{k}BA = E \Rightarrow BA = kE$
+红色框内：$\therefore AB=kE \Rightarrow BA=AB=kE$
+同理 $(\frac{1}{k}A) \cdot B = E \Rightarrow B^{-1} = \frac{1}{k}A$
+
+⑥ $AB=aA+bB \Rightarrow AB-aA-bB=0$
+$\Rightarrow (A-bE)(B-aE) = abE$
+$\Rightarrow (B-aE)(A-bE) = abE$
+$\therefore (A-bE)(B-aE) = (B-aE)(A-bE)$
+$\therefore AB-aA-bB+abE = BA-bB-aA+abE$
+$\therefore AB=BA$
+
+⑦ $A^2+aAB=bE$
+$\Rightarrow A(A+aB)=bE$
+$\Rightarrow (A+aB)A=bE$
+$\therefore A(A+aB) = (A+aB)A$
+$A^2+aAB = A^2+aBA$
+$\therefore AB=BA$
+
+---
+### IMG005
+
+(2) 若 $\lambda_1, \lambda_2, \cdots, \lambda_n$ 是 $A$ 的 $n$ 个特征值，则
+$\begin{cases} |A| = \lambda_1 \lambda_2 \cdots \lambda_n, \\ \text{tr}(A) = \lambda_1 + \lambda_2 + \cdots + \lambda_n. \end{cases}$
+
+(3) 重要结论.
+① 记住下表.
+
+| 矩阵 | $A$ | $kA$ | $A^k$ | $f(A)$ | $A^{-1}$ | $A^*$ | $P^{-1}AP \xlongequal{\text{记}} B$ | $P^{-1}f(A)P \xlongequal{\text{记}} f(B)$ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 特征值 | $\lambda$ | $k\lambda$ | $\lambda^k$ | $f(\lambda)$ | $\frac{1}{\lambda}$ | $\frac{|A|}{\lambda}$ | $\lambda$ | $f(\lambda)$ |
+| 对应的特征向量 | $\xi$ | $\xi$ | $\xi$ | $\xi$ | $\xi$ | $\xi$ | $P^{-1}\xi$ | $P^{-1}\xi$ |
+
+[蓝色手写批注：]
+- 右上角：$D_{23}$ (化归经典形式)
+- $|bE - (-aA)| = (-a)^n |\frac{b}{-a}E - A| = 0$. 则 $\lambda_0 = -\frac{b}{a}$
+- 表格中 $f(A)$ 处有虚线圈并引出箭头：如 $f(A) = A^3 + 2A^2 - A + 5E$，则 $f(\lambda) = \lambda^3 + 2\lambda^2 - \lambda + 5$.
+- 多项式形式是重点，见到它们要立即想到 $f(A) \leftrightarrow f(\lambda)$

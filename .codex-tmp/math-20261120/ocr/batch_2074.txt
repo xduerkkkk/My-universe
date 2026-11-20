@@ -1,0 +1,15 @@
+### IMG074
+
+[红色批注] 求导，也可利用隐函数公式法求导，无需执着于解出 $z=z(x,y)$ 的显式表达形式。
+
+19 设 $P$ 为椭球面 $S: x^2 + y^2 + z^2 - yz = 1$ 上的动点, 若 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直, 求点 $P$ 的轨迹 $C$, 并计算曲面积分 $I = \iint_{\Sigma} \frac{(x + \sqrt{3}) |y - 2z|}{\sqrt{4 + y^2 + z^2 - 4yz}} \mathrm{d}S$, 其中 $\Sigma$ 是椭球面 $S$ 位于曲线 $C$ 上方的部分。
+
+解 设点 $P$ 的坐标为 $(x, y, z)$, 则椭球面 $S$ 在点 $P$ 处的法向量为 $(2x, 2y - z, 2z - y)$. 又 $xOy$ 面
+的法向量可取为 $(0, 0, 1)$, 故由 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直知,
+$(2x, 2y - z, 2z - y) \cdot (0, 0, 1) = 0,$
+即有 $y = 2z$. 由于点 $P$ 在椭球面 $S$ 上, 故点 $P$ 的轨迹 $C$ 为
+$\begin{cases} x^2 + y^2 + z^2 - yz = 1, \\ y = 2z, \end{cases}$ 或者 $\begin{cases} x^2 + \frac{3}{4}y^2 = 1, \\ y = 2z. \end{cases}$
+
+$\Sigma$ 在 $xOy$ 面上的投影区域为 $D_{xy} = \left\{ (x, y) \mid x^2 + \frac{3}{4}y^2 \le 1 \right\}$, 其面积为 $\pi \cdot 1 \cdot \frac{2}{\sqrt{3}} = \frac{2}{\sqrt{3}}\pi$.
+对方程 $x^2 + y^2 + z^2 - yz = 1$ 两边关于 $x, y$ 分别求偏导数, 得 [蓝色批注] 也可公式法: $F(x, y, z) = x^2 + y^2 + z^2 - yz - 1 = 0$
+$2x + 2z \frac{\partial z}{\partial x} - y \frac{\partial z}{\partial x} = 0, \quad 2y + 2z \frac{\partial z}{\partial y} - z - y \frac{\partial z}{\partial y} = 0, \quad$ [蓝色批注] $F'_x = 2x, F'_y = 2y - z, F'_z = 2z - y$

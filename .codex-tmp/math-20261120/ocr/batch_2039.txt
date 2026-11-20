@@ -1,0 +1,18 @@
+### IMG039
+
+可分为三个层次去做题.
+
+第一层次：夹逼准则找极限.
+
+因为 $0 \leqslant |f(x)| \leqslant 1 - \cos x$，且 $\lim_{x \to 0} (1 - \cos x) = 0$，所以由夹逼准则知 $\lim_{x \to 0} |f(x)| = 0$，故 $\lim_{x \to 0} f(x) = 0$.
+
+第二层次：特殊点找函数值.
+
+将 $x = 0$ 代入所给不等式，有 $|f(0)| \leqslant 1 - \cos 0 = 0$，所以 $f(0) = 0$，故 $\lim_{x \to 0} f(x) = f(0)$，得 $f(x)$ 在 $x = 0$ 处连续，且
+$$|f(x) - f(0)| = |f(x) - 0| = |f(x)| \leqslant 1 - \cos x .$$
+
+第三层次：夹逼准则找极限，此时极限是导数的定义.
+$$0 \leqslant \left| \frac{f(x) - f(0)}{x - 0} \right| \leqslant \frac{1 - \cos x}{|x|} .$$
+因为 $\lim_{x \to 0} \frac{1 - \cos x}{|x|} = \lim_{x \to 0} \frac{\frac{1}{2} x^2}{|x|} = 0$，再次使用夹逼准则，有 $\lim_{x \to 0} \left| \frac{f(x) - f(0)}{x - 0} \right| = 0$，也即 $\lim_{x \to 0} \frac{f(x) - f(0)}{x - 0} = 0$，
+
+故 $f'(0) = 0$，应选 (C).

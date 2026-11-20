@@ -1,0 +1,19 @@
+RETRY batch 008 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 019 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 014 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 008 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 014 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 019 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 008 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 014 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 020 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 019 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 021 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 032 attempt=1 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 020 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 021 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 032 attempt=2 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 020 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 021 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+RETRY batch 032 attempt=3 RuntimeError: HTTP 404 {"error":{"code":404,"message":"Resource not found","status":"NOT_FOUND"}}
+FINISHED {'cached': 37, 'failed': 6}

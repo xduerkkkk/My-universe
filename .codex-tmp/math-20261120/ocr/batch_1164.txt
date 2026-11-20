@@ -1,0 +1,5 @@
+### IMG164
+
+【例 2】设 $f(x)$ 二阶可导，$f''(x) > 0$，且 $\lim_{x \to 0} \frac{f(x)}{x} = 0$，曲线 $y = f(x)$ 在点 $(x, f(x))$ 处的切线在 $x$
+
+轴上的截距为 $u(x)$. 记 $a_k = \lim_{x \to 0^+} \left[ \frac{u(x)}{x} \right]^k$ ($k$ 为正整数)，求 $\lim_{n \to \infty} \sum_{k=1}^n a_k$.

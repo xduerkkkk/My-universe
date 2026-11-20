@@ -1,0 +1,82 @@
+### IMG056
+
+**对比演示：以包含 $z$ 的全微分项为例**
+
+假设积分里含有项：$I_{\text{部分}} = \oint_L z^2 \mathrm{d}x + 2xz \mathrm{d}z$
+空间平面约束条件为：$x + y + z = 1 \Longrightarrow z = 1 - x - y$，其微分为 $\mathrm{d}z = -\mathrm{d}x - \mathrm{d}y$。
+
+**路线 A：一眼看穿全微分 (0.1 秒)**
+
+你一眼看出 $z^2 \mathrm{d}x + 2xz \mathrm{d}z = \mathrm{d}(xz^2)$。
+因为是闭曲线，直接写：
+$\oint_L \mathrm{d}(xz^2) \equiv 0$
+秒杀，直接不写进草稿纸。
+
+---
+
+**路线 B：你不划掉，跟着大部队硬代入消元（看它是怎么变成 0 的）**
+
+你不划掉，把 $\mathrm{d}z = -\mathrm{d}x - \mathrm{d}y$ 老老实实代入式子：
+$I_{\text{部分}} = \oint_L z^2 \mathrm{d}x + 2xz (-\mathrm{d}x - \mathrm{d}y)$
+$= \oint_{L'} \underbrace{(z^2 - 2xz)}_{P^*} \mathrm{d}x + \underbrace{(-2xz)}_{Q^*} \mathrm{d}y$
+
+现在套格林公式，求偏导相减 $\frac{\partial Q^*}{\partial x} - \frac{\partial P^*}{\partial y}$（其中 $\frac{\partial z}{\partial x} = -1, \frac{\partial z}{\partial y} = -1$）：
+
+1. **求 $\frac{\partial Q^*}{\partial x}$（用乘积求导法则）：**
+   $\frac{\partial}{\partial x}(-2xz) = -2z - 2x \cdot \frac{\partial z}{\partial x} = -2z - 2x(-1) = -2z + 2x$
+
+2. **求 $\frac{\partial P^*}{\partial y}$（对复合函数求导）：**
+   $\frac{\partial}{\partial y}(z^2 - 2xz) = 2z \cdot \frac{\partial z}{\partial y} - 2x \cdot \frac{\partial z}{\partial y} = 2z(-1) - 2x(-1) = -2z + 2x$
+
+3. **格林公式相减：**
+   $\frac{\partial Q^*}{\partial x} - \frac{\partial P^*}{\partial y} = (-2z + 2x) - (-2z + 2x) \equiv 0!$
+
+### IMG057
+
+我们定义广义极坐标：
+$\begin{cases} x = ar \cos \theta \\ y = br \sin \theta \end{cases}$
+
+* **几何本质：** 在 $x$ 轴缩放 $a$ 倍，在 $y$ 轴缩放 $b$ 倍，把扁平的椭圆强行“拉伸”还原成半径为 1 的标准正圆！
+* **代数奇迹：** 代入椭圆方程：
+  $\frac{(ar \cos \theta)^2}{a^2} + \frac{(br \sin \theta)^2}{b^2} = r^2 \cos^2 \theta + r^2 \sin^2 \theta = r^2 \leqslant 1$
+  上下限瞬间变成了全常数的矩形：$0 \leqslant r \leqslant 1, \quad 0 \leqslant \theta \leqslant 2\pi!$
+* **代价（微元面积）：** 因为两个轴分别放大了 $a$ 和 $b$ 倍，所以面积微元多了 $ab$：
+  $\mathrm{d}x\mathrm{d}y = abr \mathrm{d}r\mathrm{d}\theta$
+
+**举例（刚才那道题）：**
+区域是 $x^2 + \frac{y^2}{4} \leqslant 1 \quad (a=1, b=2)$。
+令 $\begin{cases} x = 1 \cdot r \cos \theta \\ y = 2 \cdot r \sin \theta \end{cases}$，微元直接写成 $\mathrm{d}x\mathrm{d}y = (1 \times 2 \times r) \mathrm{d}r\mathrm{d}\theta = 2r \mathrm{d}r\mathrm{d}\theta$。
+
+### IMG058
+
+斯托克斯公式到底需要记什么？只需要记一个三阶行列式：
+$\text{rot} \vec{F} = \nabla \times \vec{F} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ P & Q & R \end{vmatrix}$
+
+* **算 $\vec{i}$ 分量：** 把 $x$ 当常数，算 $\frac{\partial R}{\partial y} - \frac{\partial Q}{\partial z}$；
+* **算 $\vec{j}$ 分量：** 把 $y$ 当常数，算 $\frac{\partial P}{\partial z} - \frac{\partial R}{\partial x}$；
+* **算 $\vec{k}$ 分量：** 把 $z$ 当常数，算 $\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}$。
+
+**在整个过程中，$x, y, z$ 各自独立，没有任何开根号、没有隐函数复合求导。**
+算完这个行列式之后，第二类曲线积分就直接变成了第二类曲面积分：
+$\oint_L P \mathrm{d}x + Q \mathrm{d}y + R \mathrm{d}z = \iint_{\Sigma} \text{rot} \vec{F} \cdot \mathrm{d}\vec{S}$
+
+### IMG059
+
+(4) 两类曲面积分的关系.
+[彩色批注：$\alpha$ 缺 $x$ (蓝)，$\beta$ 缺 $y$ (蓝)，$\gamma$ 缺 $z$ (蓝)；$\mathrm{d}S \cdot \cos \alpha = \mathrm{d}y \mathrm{d}z$ (红)，$\mathrm{d}S \cdot \cos \beta = \mathrm{d}z \mathrm{d}x$ (红)，$\mathrm{d}S \cdot \cos \gamma = \mathrm{d}x \mathrm{d}y$ (红)]
+$\iint_{\Sigma} P \mathrm{d}y\mathrm{d}z + Q \mathrm{d}z\mathrm{d}x + R \mathrm{d}x\mathrm{d}y = \iint_{\Sigma} (P \cos \alpha + Q \cos \beta + R \cos \gamma) \mathrm{d}S$
+其中 $(\cos \alpha, \cos \beta, \cos \gamma)$ 为 $\Sigma$ 在点 $(x, y, z)$ 处与 $\Sigma$ 同侧的单位法向量.
+
+**此题若直接使用此公式，处理过程为：**
+
+由于 $\Sigma_2$ 的法向量 $(1, 1, 1)$ 的方向余弦 $\cos \alpha = \cos \beta = \cos \gamma = \frac{1}{\sqrt{3}}$，故 $\mathrm{d}y\mathrm{d}z = \mathrm{d}z\mathrm{d}x = \mathrm{d}x\mathrm{d}y$，
+$\iint_{\Sigma_2} x \mathrm{d}y\mathrm{d}z + (y + 1) \mathrm{d}z\mathrm{d}x + (z + 2) \mathrm{d}x\mathrm{d}y \xlongequal{z = 1 - x - y} \iint_{\Sigma_2} x \mathrm{d}y\mathrm{d}z + (y + 1) \mathrm{d}z\mathrm{d}x + (3 - x - y) \mathrm{d}x\mathrm{d}y$
+$= \iint_{\Sigma_2} 4 \mathrm{d}x\mathrm{d}y = \frac{4}{\sqrt{3}} \iint_{\Sigma_2} \mathrm{d}S = \frac{4}{\sqrt{3}} \Sigma_2 \text{ 的面积.}$
+
+### IMG060
+
+[手写红色批注]
+$D_{xy}$ [左上]
+$\iint_{\Sigma_2} \mathrm{d}S = \iint_{D_{xy}} \sqrt{1 + z_x'^2 + z_y'^2} \mathrm{d}x\mathrm{d}y = \sqrt{3} \iint_{D_{xy}} \mathrm{d}x\mathrm{d}y$
+[蓝色波浪线]
+$D_{xy}$ [右上，不完整]

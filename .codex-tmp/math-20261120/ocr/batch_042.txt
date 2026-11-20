@@ -1,0 +1,43 @@
+### IMG211
+
+【17.11】 函数 $f(x, y, z) = x^2y + z^2$ 在点 $(1, 2, 0)$ 处沿向量 $n = (1, 2, 2)$ 的方向导数为 ( ). (P547)
+
+A. 12 $\qquad$ B. 6 $\qquad$ C. 4 $\qquad$ D. 2
+
+---
+
+### IMG212
+
+【例 15】 求椭球面 $x^2 + 2y^2 + 3z^2 = 21$ 上某点 M 处的切平面 $\pi$ 的方程, 使 $\pi$ 过已知直线 $L: \frac{x - 6}{2} = \frac{y - 3}{1} = \frac{2z - 1}{-2}$. (P682)
+
+---
+
+### IMG213
+
+见例 18. 40.
+[左侧红色手写批注：一个叉号 $\times$ 和一个对勾 $\checkmark$]
+[例 18. 40] 设 $L$ 为曲线 $x^2 + y^2 = R^2$ (常数 $R > 0$) 按逆时针绕一周, $n$ 为 $L$ 的外法线方向[红色下划线]向量[红色下划线], $u(x, y)$ 具有二阶连续偏导数且 $\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = x^2 + y^2$. 求 $\oint_L \frac{\partial u}{\partial n} ds$. [右侧红色手写批注：转 $n$ 为切向量]
+
+---
+
+### IMG214
+
+向量, $u(x, y)$ 具有二阶连续偏导数且 $\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = x^2 + y^2$. 求 $\oint_L \frac{\partial u}{\partial n} ds$.
+
+【解】 如图 18-40 所示, 设 $\tau^\circ = (\cos \alpha, \sin \alpha)$ 为 $L$ 沿逆时针方向的单位切向量. 将它按顺时针方向转 $\frac{\pi}{2}$, 便得 $L$ 的外法线方向的单位向量
+$$n^\circ = (\sin \alpha, -\cos \alpha).$$
+[蓝色手写批注：$\vec{n} = (\cos(\alpha - \frac{\pi}{2}), \sin(\alpha - \frac{\pi}{2})) = (\sin \alpha, -\cos \alpha)$]
+故方向导数 $\frac{\partial u}{\partial n} = \frac{\partial u}{\partial x} \sin \alpha + \frac{\partial u}{\partial y} (-\cos \alpha)$, 于是
+[左侧蓝色手写批注：一个圆圈 $\bigcirc$]
+$$\oint_L \frac{\partial u}{\partial n} ds = \oint_L \left( \frac{\partial u}{\partial x} \sin \alpha - \frac{\partial u}{\partial y} \cos \alpha \right) ds$$
+[公式左侧有蓝色波浪下划线]
+408
+[红色手写批注：$ds \cdot \cos \alpha = dx$, $ds \cdot \sin \alpha = dy$]
+$$= \oint_L \frac{\partial u}{\partial x} dy - \frac{\partial u}{\partial y} dx \xlongequal{\text{格林公式}} \iint_D \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} \right) d\sigma$$
+$$= \iint_D (x^2 + y^2) d\sigma = \int_0^{2\pi} d\theta \int_0^R r^3 dr = \frac{\pi}{2} R^4,$$
+其中 $D = \{(x, y) \mid x^2 + y^2 \leqslant R^2\}$ 为 $L$ 所围成的有界区域.
+
+[图 18-40 标注：曲线 $L$, 向量 $\tau^\circ$, 向量 $n^\circ$, 角度 $\alpha$, 角度 $\alpha - \frac{\pi}{2}$]
+
+【注】 将向量 $\tau^\circ = (\cos \alpha, \sin \alpha)$ 顺时针转 $\frac{\pi}{2}$, 即将 $\alpha$ 改为 $\alpha - \frac{\pi}{2}$, 便得外法线方向单位向量
+$$n^\circ = \left( \cos \left( \alpha - \frac{\pi}{2} \right), \sin \left( \alpha - \frac{\pi}{2} \right) \right) = (\sin \alpha, -\cos \alpha).$$

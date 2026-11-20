@@ -1,0 +1,38 @@
+### IMG196
+
+【7.77】 (数一) 函数 $f(x) = \begin{cases} -1, -\pi < x < 0, \\ 1, 0 \leqslant x \leqslant \pi, \end{cases}$ 在 $[-\pi, \pi]$ 上展开为傅里叶级数的和函数 $S(x) = \underline{\qquad\qquad}$. (P527)
+
+---
+
+### IMG197
+
+【7.32】 判别下列级数的敛散性： (P486)
+(1) $\sum_{n=1}^{\infty} \left( \frac{4n}{5n-2} \right)^n$;
+(2) $\sum_{n=1}^{\infty} \frac{3^n + (-2)^n}{n^2}$;
+(3) $\sum_{n=2}^{\infty} \frac{n^{\ln n}}{(\ln n)^n}$.
+
+---
+
+### IMG198
+
+【7.29】 设常数 $\lambda > 0$, 且级数 $\sum_{n=1}^{\infty} a_n^2$ 收敛, 则级数 $\sum_{n=1}^{\infty} (-1)^n \frac{|a_n|}{\sqrt{n^2 + \lambda}}$ ( ) (P484)
+A. 发散.
+B. 条件收敛.
+C. 绝对收敛.
+D. 敛散性与 $\lambda$ 有关.
+
+---
+
+### IMG199
+
+【7.60】 $f(x) = \frac{1}{(x+2)^2}$ 在 $x = -1$ 处展开成幂级数 (P507)
+
+---
+
+### IMG200
+
+【7.14】 若 $\sum_{n=1}^{\infty} n u_n$ 绝对收敛, $\sum_{n=1}^{\infty} \frac{v_n}{n}$ 条件收敛, 则 ( ) (P474)
+A. $\sum_{n=1}^{\infty} u_n v_n$ 条件收敛.
+B. $\sum_{n=1}^{\infty} u_n v_n$ 绝对收敛.
+C. $\sum_{n=1}^{\infty} (u_n + v_n)$ 收敛.
+D. $\sum_{n=1}^{\infty} (u_n + v_n)$ 发散.
