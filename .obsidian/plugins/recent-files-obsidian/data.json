@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "01计算机记忆",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
+    },
+    {
+      "basename": "408 杜绝粗心",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408 杜绝粗心.md"
+    },
+    {
+      "basename": "03计组Cache缺失率-标准流程熟练训练",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组Cache缺失率-标准流程熟练训练.md"
+    },
+    {
+      "basename": "03计组Cache代码缺失率-四步流程训练",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组Cache代码缺失率-四步流程训练.md"
+    },
+    {
+      "basename": "03计组cache缺失率",
+      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md"
+    },
+    {
+      "basename": "高数薄弱专题-随机训练",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-随机训练.md"
+    },
+    {
+      "basename": "高数薄弱专题-归类",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-归类.md"
+    },
+    {
+      "basename": "Pasted image 20261109092156",
+      "path": "_attachments/image/Pasted image 20261109092156.jpeg"
+    },
+    {
+      "basename": "00数学记忆",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
+    },
+    {
+      "basename": "01数列大题",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01数列大题.md"
+    },
+    {
+      "basename": "05级数",
+      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
+    },
+    {
       "basename": "外刊词句-冲刺卡点快测",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊词句-冲刺卡点快测.md"
     },
@@ -17,16 +61,8 @@
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数1.md"
     },
     {
-      "basename": "05级数",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数.md"
-    },
-    {
       "basename": "高数变式题",
       "path": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数变式题.md"
-    },
-    {
-      "basename": "00数学记忆",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md"
     },
     {
       "basename": "线面扫盲",
@@ -101,16 +137,8 @@
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/单词句子2.md"
     },
     {
-      "basename": "03计组cache缺失率",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组cache缺失率.md"
-    },
-    {
       "basename": "错误集合",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/错误集合.md"
-    },
-    {
-      "basename": "03计组Cache缺失率-标准流程熟练训练",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组Cache缺失率-标准流程熟练训练.md"
     },
     {
       "basename": "作文表达修改记录",
@@ -131,10 +159,6 @@
     {
       "basename": "大作文模板",
       "path": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md"
-    },
-    {
-      "basename": "03计组Cache代码缺失率-四步流程训练",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/薄弱点/03计组Cache代码缺失率-四步流程训练.md"
     },
     {
       "basename": "03翻译19-23",
@@ -161,16 +185,8 @@
       "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408真题卡点总览.md"
     },
     {
-      "basename": "01计算机记忆",
-      "path": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md"
-    },
-    {
       "basename": "01级数奇偶下标",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01级数奇偶下标.md"
-    },
-    {
-      "basename": "01数列大题",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01数列大题.md"
     },
     {
       "basename": "算法分类训练-05-G图",
@@ -183,22 +199,6 @@
     {
       "basename": "01抽象级数判敛",
       "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01抽象级数判敛.md"
-    },
-    {
-      "basename": "01线面积分对称性",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01线面积分对称性.md"
-    },
-    {
-      "basename": "01微分方程技巧",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01微分方程技巧.md"
-    },
-    {
-      "basename": "条件概率期望",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/条件概率期望.md"
-    },
-    {
-      "basename": "01收敛半径",
-      "path": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01收敛半径.md"
     }
   ],
   "omittedPaths": [
