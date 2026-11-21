@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795222763296-y4dqxnaaw",
+  "providerId": "codex",
+  "title": "整理马原政经讲义为通俗故事笔记并附口诀",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795222763296,
+  "updatedAt": 1795223697218,
+  "lastResponseAt": 1795223697218,
+  "sessionId": "01a1fb9d-77ea-7c12-a7ef-ed4c4daa709c",
+  "providerState": {
+    "threadId": "01a1fb9d-77ea-7c12-a7ef-ed4c4daa709c",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\21\\rollout-2026-11-21T08-59-28-01a1fb9d-77ea-7c12-a7ef-ed4c4daa709c.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 87351,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 87296,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 87351,
+    "percentage": 7,
+    "model": "gpt-6.1-sol"
+  }
+}
