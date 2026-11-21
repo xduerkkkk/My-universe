@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "a7e6e9058dfee92a",
+            "id": "7a225584711202f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,23 +132,9 @@
               "icon": "lucide-file",
               "title": "冲刺新增好题"
             }
-          },
-          {
-            "id": "099ad554b7e429b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "马原政经-从一家面包店读懂资本"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -240,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
+                "file": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -366,12 +352,15 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "d821850bab6d9ecb",
+  "active": "7a225584711202f7",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/线代题.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
+    "_attachments/image/Pasted image 20261121141045.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
     "_attachments/image/Pasted image 20261121113213.jpeg",
     "tmp/pdfs/political-economy-20261121/verification.json",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
     "_attachments/image/Pasted image 20261121091339.jpeg",
     "tmp/pdfs/political-economy-20261121/monopoly-official.txt",
     "tmp/pdfs/political-economy-20261121/german-election.html",
@@ -385,7 +374,6 @@
     "tmp/pdfs/political-economy-20261121/source-pages-47.png",
     "_attachments/image/source-pages-41.jpeg",
     "_attachments/image/source-pages-35.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
     "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-一页纸逻辑带背.md",
     "tmp/pdfs/political-economy-20261121/pdf-text.json",
     "tmp/pdfs/political-economy-20261121/context.json",
@@ -407,7 +395,6 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01抽象级数判敛.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/05级数-20261120整理前备份.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/00排序.md",
-    "_attachments/image/Pasted image 20261120202555.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/阅读/00排序.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
