@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795177752206-mc91h9nga",
+  "providerId": "codex",
+  "title": "检查数学薄弱点整理并调整最后30天复习计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795177752207,
+  "updatedAt": 1795179036704,
+  "lastResponseAt": 1795179036704,
+  "sessionId": "01a1f8ee-a764-7010-8fdb-a40e3165b810",
+  "providerState": {
+    "threadId": "01a1f8ee-a764-7010-8fdb-a40e3165b810",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\20\\rollout-2026-11-20T20-29-17-01a1f8ee-a764-7010-8fdb-a40e3165b810.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01数列大题.md",
+  "usage": {
+    "inputTokens": 200392,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 200320,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 200392,
+    "percentage": 16,
+    "model": "gpt-6.1-sol"
+  }
+}
