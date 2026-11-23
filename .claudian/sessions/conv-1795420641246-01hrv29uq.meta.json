@@ -1,0 +1,24 @@
+{
+  "id": "conv-1795420641246-01hrv29uq",
+  "providerId": "claude",
+  "title": "Evaluate 408 mock exam quality",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795420641246,
+  "updatedAt": 1795420930195,
+  "lastResponseAt": 1795420858938,
+  "sessionId": "1415565d-851e-4c75-bc4a-11372be07825",
+  "providerState": {
+    "providerSessionId": "1415565d-851e-4c75-bc4a-11372be07825"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 9807,
+    "cacheReadInputTokens": 123168,
+    "contextWindow": 1000000,
+    "contextTokens": 132976,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

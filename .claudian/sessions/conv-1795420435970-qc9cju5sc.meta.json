@@ -1,0 +1,22 @@
+{
+  "id": "conv-1795420435970-qc9cju5sc",
+  "providerId": "claude",
+  "title": "我感觉408目前我进度已经差不多了 需要着手挑模拟卷 你觉得\"E:\\200课内\\考研\\408模考\" ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795420435970,
+  "updatedAt": 1795420636552,
+  "lastResponseAt": 1795420442767,
+  "sessionId": "70278f9a-d414-4e9c-ad5f-4f902169627d",
+  "providerState": {
+    "providerSessionId": "70278f9a-d414-4e9c-ad5f-4f902169627d"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795419528632-g29wd37b8",
+  "providerId": "codex",
+  "title": "评估408模考文件夹中四套试卷的质量与模拟价值",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795419528634,
+  "updatedAt": 1795420293841,
+  "lastResponseAt": 1795419929563,
+  "sessionId": "01a20757-df1d-7f80-ae44-5c6114e0f69b",
+  "providerState": {
+    "threadId": "01a20757-df1d-7f80-ae44-5c6114e0f69b",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\23\\rollout-2026-11-23T15-38-54-01a20757-df1d-7f80-ae44-5c6114e0f69b.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 87028,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 86912,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 87028,
+    "percentage": 7,
+    "model": "gpt-6.1-sol"
+  }
+}
