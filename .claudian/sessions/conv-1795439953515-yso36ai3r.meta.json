@@ -1,0 +1,24 @@
+{
+  "id": "conv-1795439953515-yso36ai3r",
+  "providerId": "claude",
+  "title": "Update exam prep plan with mock tests",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795439953520,
+  "updatedAt": 1795441031995,
+  "lastResponseAt": 1795441031995,
+  "sessionId": "343d39f3-0488-44ab-a2eb-0d16f46ab079",
+  "providerState": {
+    "providerSessionId": "343d39f3-0488-44ab-a2eb-0d16f46ab079"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-随机训练.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1278,
+    "cacheReadInputTokens": 112286,
+    "contextWindow": 1000000,
+    "contextTokens": 113565,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
