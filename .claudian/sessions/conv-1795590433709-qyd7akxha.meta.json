@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795590433709-qyd7akxha",
+  "providerId": "codex",
+  "title": "设计408知识汇总与每日主动回忆方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795590433710,
+  "updatedAt": 1795590762024,
+  "lastResponseAt": 1795590762024,
+  "sessionId": "01a21187-acea-7772-89ac-4ba4ecf3db3a",
+  "providerState": {
+    "threadId": "01a21187-acea-7772-89ac-4ba4ecf3db3a",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\25\\rollout-2026-11-25T15-07-19-01a21187-acea-7772-89ac-4ba4ecf3db3a.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 46331,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46208,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46331,
+    "percentage": 4,
+    "model": "gpt-6.1-sol"
+  }
+}
