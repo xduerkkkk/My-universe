@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "e3b120614de425cb",
+            "id": "10847b76e41f9eb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-一页纸逻辑带背.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小作文背诵"
+              "title": "马原-一页纸逻辑带背"
             }
           }
         ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-一页纸逻辑带背.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -352,10 +352,26 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "e3b120614de425cb",
+  "active": "10847b76e41f9eb5",
   "lastOpenFiles": [
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
+    "2.知识库/20.North_star_ZJU/203.政治/客观题-概念帽子总表.md",
+    "2.知识库/20.North_star_ZJU/203.政治/考研政治考场思维漏洞深度诊断报告.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记18-20.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记15-17.md",
+    "2.知识库/20.North_star_ZJU/203.政治/00真题笔记21-26.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/05 1931—1937 从内战走向共同抗日.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/06 1937—1945 怎样打赢抗战并走向成熟.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/07 1945—1949 从争取和平到建立新中国.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/08 1949—1956 从新民主主义走向社会主义.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/09 1956—1978 建设探索与历史转折.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/10 1978—2022 改革开放怎样一步步展开.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
+    "_attachments/image/Pasted image 20261124214541.jpeg",
+    "_attachments/image/Pasted image 20261124211818.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00技巧.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/01七选五.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-归类.md",
@@ -366,23 +382,9 @@
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
     "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/02首部对比.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/03错题复盘.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/04知识点整理.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/05应用层/01王道视频.md",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原-体系串联.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/乘除模拟.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/01笔记.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/阶码为什么要是移码.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/04计组/02数据表示/卡片/两类溢出.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
     "_attachments/image/Pasted image 20261124135125.jpeg",
     "_attachments/image/Pasted image 20261124135118.jpeg",
     "_attachments/image/Pasted image 20261124135101.jpeg",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/05 1931—1937 从内战走向共同抗日.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/06 1937—1945 怎样打赢抗战并走向成熟.md",
     "_attachments/image/Pasted image 20261123225304.jpeg",
     "_attachments/image/Pasted image 20261123223937.jpeg",
     "_attachments/image/Pasted image 20261123223929.jpeg",
@@ -398,8 +400,6 @@
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.003ed205f5fa",
     "_attachments/image/Pasted image 20261122225057.jpeg",
     "_attachments/image/Pasted image 20261122195905.jpeg",
-    "_attachments/image/Pasted image 20261122195544.jpeg",
-    "_attachments/image/Pasted image 20261122195512.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
     "未命名 3.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
