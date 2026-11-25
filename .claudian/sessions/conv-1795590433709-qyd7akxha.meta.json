@@ -4,8 +4,8 @@
   "title": "设计408知识汇总与每日主动回忆方案",
   "titleGenerationStatus": "success",
   "createdAt": 1795590433710,
-  "updatedAt": 1795590762024,
-  "lastResponseAt": 1795590762024,
+  "updatedAt": 1795595634693,
+  "lastResponseAt": 1795595634693,
   "sessionId": "01a21187-acea-7772-89ac-4ba4ecf3db3a",
   "providerState": {
     "threadId": "01a21187-acea-7772-89ac-4ba4ecf3db3a",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 46331,
+    "inputTokens": 361912,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 46208,
+    "cacheReadInputTokens": 361856,
     "contextWindow": 1216000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 46331,
-    "percentage": 4,
+    "contextTokens": 361912,
+    "percentage": 30,
     "model": "gpt-6.1-sol"
   }
 }
