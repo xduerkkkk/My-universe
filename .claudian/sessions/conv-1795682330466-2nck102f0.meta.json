@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795682330466-2nck102f0",
+  "providerId": "codex",
+  "title": "规划408冲刺期每日复习、错题与模拟卷安排",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795682330468,
+  "updatedAt": 1795685701989,
+  "lastResponseAt": 1795685701989,
+  "sessionId": "01a21701-e888-7791-a0ac-c63bbdd933c6",
+  "providerState": {
+    "threadId": "01a21701-e888-7791-a0ac-c63bbdd933c6",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\26\\rollout-2026-11-26T16-38-55-01a21701-e888-7791-a0ac-c63bbdd933c6.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+  "usage": {
+    "inputTokens": 49482,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4096,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49482,
+    "percentage": 4,
+    "model": "gpt-6.1-sol"
+  }
+}
