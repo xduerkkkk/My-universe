@@ -1,0 +1,23 @@
+{
+  "id": "conv-1795651669218-k7b0eatms",
+  "providerId": "claude",
+  "title": "Discuss whether to check exam answers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795651669219,
+  "updatedAt": 1795651925000,
+  "lastResponseAt": 1795651741293,
+  "sessionId": "2b8553db-f7b8-48fa-a60b-2b2f35224f62",
+  "providerState": {
+    "providerSessionId": "2b8553db-f7b8-48fa-a60b-2b2f35224f62"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 9611,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38442,
+    "contextWindow": 1000000,
+    "contextTokens": 48053,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

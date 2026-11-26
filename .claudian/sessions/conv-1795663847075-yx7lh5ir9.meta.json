@@ -1,0 +1,24 @@
+{
+  "id": "conv-1795663847075-yx7lh5ir9",
+  "providerId": "claude",
+  "title": "Rewrite notes in plain language",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795663847078,
+  "updatedAt": 1795664258245,
+  "lastResponseAt": 1795664258245,
+  "sessionId": "b6cfb6fa-23e6-4e68-ae18-afc7df18d2a8",
+  "providerState": {
+    "providerSessionId": "b6cfb6fa-23e6-4e68-ae18-afc7df18d2a8"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01收敛半径.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 15309,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 61234,
+    "contextWindow": 1000000,
+    "contextTokens": 76543,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}
