@@ -1,0 +1,15 @@
+{
+  "id": "conv-1795779321497-o07k9ej3k",
+  "providerId": "codex",
+  "title": "阅读2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795779321497,
+  "updatedAt": 1795779483134,
+  "lastResponseAt": 1795779354674,
+  "sessionId": "01a21cc9-e058-7091-b857-95b252574070",
+  "providerState": {
+    "threadId": "01a21cc9-e058-7091-b857-95b252574070",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\27\\rollout-2026-11-27T19-35-26-01a21cc9-e058-7091-b857-95b252574070.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  }
+}

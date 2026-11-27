@@ -1,0 +1,22 @@
+{
+  "id": "conv-1795779492366-pwktlr4pf",
+  "providerId": "claude",
+  "title": "阅读2",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1795779492366,
+  "updatedAt": 1795780364145,
+  "lastResponseAt": 1795780364145,
+  "sessionId": "02842a6f-332d-44e0-9bea-646cc4c6840b",
+  "providerState": {
+    "providerSessionId": "02842a6f-332d-44e0-9bea-646cc4c6840b"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 163247,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 163247,
+    "percentage": 16
+  }
+}

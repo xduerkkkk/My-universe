@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.734619140625
+    "width": 287.5961608886719
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
+                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -325,11 +325,12 @@
               "title": "统计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.638427734375
+    "width": 439.86920166015625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,36 +355,37 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "0f7193470de35a49",
+  "active": "73acdafc598b0671",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/大作文1.md",
+    "_attachments/image/Pasted image 20261127200402.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文表达.md",
+    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-随机训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累2.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/填血肉方法论.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/小作文1.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04完型.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/04完型.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "_attachments/image/Pasted image 20261127155753.jpeg",
     "_attachments/image/Pasted image 20261127155745.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/微分方程二阶特解.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/微分方程考虑绝对值.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/导数可导性.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/极限好题解析.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/奇偶项.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/反例库.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/线代空间.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01微分方程技巧.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/证明题基本手法.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-归类.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/07 1945—1949 从争取和平到建立新中国.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/自己梳理.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/06 1937—1945 怎样打赢抗战并走向成熟.md",
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/辩证法.md",
     "_attachments/image/Pasted image 20261126224847.jpeg",
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/唯物史观.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/10 1978—2022 改革开放怎样一步步展开.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/08 1949—1956 从新民主主义走向社会主义.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/09 1956—1978 建设探索与历史转折.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/05 1931—1937 从内战走向共同抗日.md",
-    "2.知识库/20.North_star_ZJU/203.政治/模.md",
-    "2.知识库/20.North_star_ZJU/203.政治/模拟题，习题/会议，著作，土地专题.md",
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/认识论.md",
     "_attachments/image/Pasted image 20261126204338.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01收敛半径.md.tmp.75780.8dd787236c72",
     "_attachments/image/Pasted image 20261126112446.jpeg",
@@ -391,8 +393,6 @@
     "_attachments/image/Pasted image 20261126103554.jpeg",
     "_attachments/image/Pasted image 20261126101320.jpeg",
     "_attachments/image/Pasted image 20261125224747.jpeg",
-    "_attachments/image/Pasted image 20261107133402.jpeg",
-    "_attachments/image/Pasted image 20261124214541.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.cf95125782a9",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.4ccc3591dcd7",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.d8a8ffe5d86a",

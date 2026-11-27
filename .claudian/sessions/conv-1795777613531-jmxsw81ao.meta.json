@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795777613531-jmxsw81ao",
+  "providerId": "codex",
+  "title": "探讨考研英语20天盲点诊断与针对性训练",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795777613532,
+  "updatedAt": 1795779296693,
+  "lastResponseAt": 1795777919460,
+  "sessionId": "01a21caf-d7a8-7990-b644-460d9f121c8f",
+  "providerState": {
+    "threadId": "01a21caf-d7a8-7990-b644-460d9f121c8f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\27\\rollout-2026-11-27T19-07-00-01a21caf-d7a8-7990-b644-460d9f121c8f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04完型.md",
+  "usage": {
+    "inputTokens": 58356,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55424,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58356,
+    "percentage": 5,
+    "model": "gpt-6.1-sol"
+  }
+}
