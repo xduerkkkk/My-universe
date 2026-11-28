@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795789081481-5nlff57lh",
+  "providerId": "codex",
+  "title": "制定考研英语20天分题型盲点靶向训练计划",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795789081481,
+  "updatedAt": 1795789754207,
+  "lastResponseAt": 1795789754207,
+  "sessionId": "01a21d5e-ccff-7641-93a9-ad385559b22f",
+  "providerState": {
+    "threadId": "01a21d5e-ccff-7641-93a9-ad385559b22f",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\27\\rollout-2026-11-27T22-18-06-01a21d5e-ccff-7641-93a9-ad385559b22f.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 93104,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 93056,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 93104,
+    "percentage": 8,
+    "model": "gpt-6.1-sol"
+  }
+}

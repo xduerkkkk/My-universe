@@ -134,9 +134,37 @@
               "icon": "lucide-file",
               "title": "408每日主动回忆-全量卡片"
             }
+          },
+          {
+            "id": "3a282f1a8844f569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/08 1949—1956 从新民主主义走向社会主义.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 1949—1956 从新民主主义走向社会主义"
+            }
+          },
+          {
+            "id": "f35aafc9290b1e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/自己梳理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自己梳理"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -212,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5961608886719
+    "width": 362.1807861328125
   },
   "right": {
     "id": "cd5b59e525c8c47a",
@@ -228,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
+                "file": "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/自己梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,7 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.86920166015625
+    "width": 292.1768798828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,8 +383,28 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "73acdafc598b0671",
+  "active": "3682a8a8364fef4a",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/08 1949—1956 从新民主主义走向社会主义.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/07 1945—1949 从争取和平到建立新中国.md",
+    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/自己梳理.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语盲点靶向练-首轮诊断.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05冲刺靶向-翻译埋雷练.md",
+    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
+    "2.知识库/20.North_star_ZJU/203.政治/分析题/唯物史观.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
+    "_attachments/image/Pasted image 20261127214005.jpeg",
+    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊阅读靶场-冲刺10篇.md",
+    "_attachments/image/Pasted image 20261127212124.jpeg",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊阅读靶场-冲刺10篇.md.tmp.85628.3b0135dcba9e",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/线代同解思维纠正.md",
+    "_attachments/image/Pasted image 20261127205252.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/什么叫从行列式角度切入.md",
+    "_attachments/image/Pasted image 20261127204039.jpeg",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
+    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/连续性随机变量及其概率.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/大作文1.md",
     "_attachments/image/Pasted image 20261127200402.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
@@ -369,30 +417,12 @@
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/素材积累.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文模板.md",
     "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文表达修改记录.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/训练记录/小作文1.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04完型.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/04完型.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-02-L链表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/练习题/算法分类训练-01-A数组与线性表.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/05数据结构/08算法题/03算法题模板-基础例题与讲解.md",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/01计算机记忆.md",
     "_attachments/image/Pasted image 20261127155753.jpeg",
     "_attachments/image/Pasted image 20261127155745.jpeg",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/微分方程二阶特解.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/微分方程考虑绝对值.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/导数可导性.md",
-    "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/卡片/极限好题解析.md",
     "_attachments/image/Pasted image 20261126224847.jpeg",
     "_attachments/image/Pasted image 20261126204338.jpeg",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/06卡片/01收敛半径.md.tmp.75780.8dd787236c72",
     "_attachments/image/Pasted image 20261126112446.jpeg",
-    "_attachments/image/Pasted image 20261030114715.jpeg",
-    "_attachments/image/Pasted image 20261126103554.jpeg",
-    "_attachments/image/Pasted image 20261126101320.jpeg",
-    "_attachments/image/Pasted image 20261125224747.jpeg",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.cf95125782a9",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.4ccc3591dcd7",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.d8a8ffe5d86a",
@@ -401,7 +431,6 @@
     "CLAUDIAN.md.tmp.60468.34cd6fb89832",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.66f09ed1fcda",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.d40f0891408b",
-    "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md.tmp.60468.04d849f63e1c",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/02数学做题框架/证明题/资料/中值定理与证明.canvas",
     "未命名 3.canvas",
     "2.知识库/20.North_star_ZJU/202.计算机知识/06计算机网络/00串联/数据包旅程-主线骨架.canvas",
