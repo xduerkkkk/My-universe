@@ -134,9 +134,37 @@
               "icon": "lucide-file",
               "title": "408每日主动回忆-全量卡片"
             }
+          },
+          {
+            "id": "cae7dd170ef2f2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "作文背诵训练"
+            }
+          },
+          {
+            "id": "7da6dbea7a1c2e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小作文背诵"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -228,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
+                "file": "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,15 +382,29 @@
       "hand-note-layers:用 HandLayers 标注当前文件": false
     }
   },
-  "active": "73acdafc598b0671",
+  "active": "cae7dd170ef2f2a9",
   "lastOpenFiles": [
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/小作文背诵.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/大作文计划.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/03作文/作文背诵训练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语盲点靶向练-首轮诊断.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊阅读靶场-冲刺10篇.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05冲刺靶向-翻译埋雷练.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/04完型.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊词句-冲刺卡点快测.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/02小标题.md",
+    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/03翻译11-18复盘.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/DS冷门.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/计组冷门.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/需要提防的考点/OS冷门.md",
+    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
     "0.核心/00.规划(Plan)/2.当前项目/当前冲刺规划.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/高数薄弱专题-随机训练.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/线代薄弱专题-随机训练.md",
     "2.知识库/20.North_star_ZJU/201.数学/05思维课做题记录/概率薄弱专题-随机训练.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/数学杜绝粗心.md",
     "_attachments/image/Pasted image 20261128092509.jpeg",
-    "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
     "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/10 1978—2022 改革开放怎样一步步展开.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/冲刺新增好题.md",
     "_attachments/image/Pasted image 20261128085253.jpeg",
@@ -370,25 +412,11 @@
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/思维惯性.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/计算错误.md",
     "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/00数学记忆.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/自己梳理.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/09 1956—1978 建设探索与历史转折.md",
-    "2.知识库/20.North_star_ZJU/203.政治/模拟题，习题/会议，著作，土地专题.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/08 1949—1956 从新民主主义走向社会主义.md",
-    "2.知识库/20.North_star_ZJU/203.政治/史纲十天理解复习/07 1945—1949 从争取和平到建立新中国.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/英语盲点靶向练-首轮诊断.md",
-    "2.知识库/20.North_star_ZJU/200.英语积累/01考研真题/05冲刺靶向-翻译埋雷练.md",
-    "2.知识库/20.North_star_ZJU/203.政治/知识点/马原政经-从一家面包店读懂资本.md",
-    "2.知识库/20.North_star_ZJU/203.政治/分析题/唯物史观.md",
     "_attachments/image/Pasted image 20261127214005.jpeg",
-    "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊阅读靶场-冲刺10篇.md",
     "_attachments/image/Pasted image 20261127212124.jpeg",
     "2.知识库/20.North_star_ZJU/200.英语积累/02外刊/外刊阅读靶场-冲刺10篇.md.tmp.85628.3b0135dcba9e",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/线代同解思维纠正.md",
     "_attachments/image/Pasted image 20261127205252.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/04真题阶段/05反复做/内部卡片/什么叫从行列式角度切入.md",
     "_attachments/image/Pasted image 20261127204039.jpeg",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/03多维随机变量/01视频笔记.md",
-    "2.知识库/20.North_star_ZJU/201.数学/03概率论/01随机事件及其概率/连续性随机变量及其概率.md",
     "_attachments/image/Pasted image 20261127200402.jpeg",
     "_attachments/image/Pasted image 20261127155753.jpeg",
     "_attachments/image/Pasted image 20261127155745.jpeg",
