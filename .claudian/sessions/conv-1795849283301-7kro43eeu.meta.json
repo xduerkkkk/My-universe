@@ -1,0 +1,26 @@
+{
+  "id": "conv-1795849283301-7kro43eeu",
+  "providerId": "codex",
+  "title": "在来源部分补充原文引用，方便直接查阅",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795849283301,
+  "updatedAt": 1795850363682,
+  "lastResponseAt": 1795850119255,
+  "sessionId": "01a220f5-6801-7410-9c8c-101c786b772b",
+  "providerState": {
+    "threadId": "01a220f5-6801-7410-9c8c-101c786b772b",
+    "sessionFilePath": "C:\\Users\\kkkkkk\\.codex\\sessions\\2026\\11\\28\\rollout-2026-11-28T15-01-28-01a220f5-6801-7410-9c8c-101c786b772b.jsonl",
+    "transcriptRootPath": "C:\\Users\\kkkkkk\\.codex\\sessions"
+  },
+  "currentNote": "2.知识库/20.North_star_ZJU/202.计算机知识/07真题阶段/408每日主动回忆-全量卡片.md",
+  "usage": {
+    "inputTokens": 126858,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 126720,
+    "contextWindow": 1216000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 126858,
+    "percentage": 10,
+    "model": "gpt-6.1-sol"
+  }
+}
